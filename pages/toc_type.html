@@ -1,0 +1,27 @@
+<div data-template="templates:surround" data-template-with="templates/datatable.html" data-template-at="datatable">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div data-template="app:tocTypeHeader"/>
+                    <div class="card-body containingloader">
+                        <div class="loader" id="loader"/>
+                        <table id="myTable" style="width:100%;display:none;" class="table table-striped table-condensed table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Titel</th>
+                                </tr>
+                                <tr id="filterrow">
+                                    <th>Titel</th>
+                                </tr>
+                            </thead>
+                            <tr data-template="app:toc_type"/>
+                        </table>
+                    </div>
+                </div>
+                <div data-template="app:tocModal"/>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="../resources/js/datatables.custom.js"/>
+</div>

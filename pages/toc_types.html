@@ -1,0 +1,54 @@
+<div data-template="templates:surround" data-template-with="templates/datatable.html" data-template-at="datatable">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div data-template="app:tocTypesHeader"/>
+                    <div class="card-body containingloader">
+                        <div class="loader" id="loader"/>
+                        <table id="myTable" style="width:100%;display:none;" class="table table-striped table-condensed table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Dokumente nach Eigenschaften</th>
+                                </tr>
+                                <tr id="filterrow">
+                                    <th>Typ</th>
+                                </tr>
+                            </thead>
+                            <tr data-template="app:toc_types"/>
+                        </table>
+                    </div>
+                </div>
+                <div class="modal" tabindex="-1" role="dialog" id="exampleModal">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title">Info zum Objektverzeichnis</h5>
+                            </div>
+                            <div class="modal-info-body">
+                                <p>Hier werden, nach bestimmten typologischen oder material-bezogenen Kriterien Zugänge zu den 
+                                    Objekten geschaffen. Wichtige Einschränkungen bestehen:</p>
+                                <p>Die einzelnen Zuordnungen sind nicht exklusiv,
+                                    so kann ein Brief sowohl in der Liste »Brief« auftauchen, als auch, wenn ein »Umschlag« vorhanden ist,
+                                    in den Ergebnissen von »Umschlag«.</p>
+                                <p>Andererseits wurde der Übersichtlichkeit wegen eine genauere
+                                    Typologisierung der jeweils umfänglicheren vorgezogen, das heißt: Eine »Bildpostkarte« wird nicht zusätzlich auch als
+                                    »Postkarte« angezeigt.</p>
+                                <p>Schließlich aber: Es werden für die Listen alle verzeichneten Archivzeugen berücksichtigt,
+                                    also geben »Fragment«, »Entwurf« und »Abschrift« auch Ergebnisse, selbst wenn das edierte Zeugnis diesen
+                                    Kriterien nicht entspricht, aber in einem Archiv ein ebensolcher »Entwurf« etc. vorhanden ist.</p>
+                                <p>Die Tabelle kann als PDF oder Excel
+                                    heruntergeladen bzw. in den Zwischenspeicher kopiert
+                                    werden.</p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="../resources/js/datatables.custom.js"/>
+</div>

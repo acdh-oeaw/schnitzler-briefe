@@ -517,6 +517,43 @@ declare function app:tocArchivesHeader($node as node(), $model as map(*)) {
 </div>
 };
 
+(:~
+ : returns header information about the correspondence types
+ :)
+declare function app:tocTypesHeader($node as node(), $model as map(*)) {
+
+    let $collection := request:get-parameter("collection", "")
+    let $colName := if ($collection)
+        then
+            $collection
+        else
+            "editions"
+    let $docs := count(collection(concat($config:app-root, '/data/', $colName, '/'))//tei:TEI)
+    let $infoDoc := doc($app:meta||"/"||$colName||".xml")
+    let $colLabel := $infoDoc//tei:title[1]/text()
+    let $infoUrl := "show.html?document="||$colName||".xml&amp;directory=meta"
+    let $apiUrl := "../resolver/resolve-col.xql?collection="||$colName
+    let $zipUrl := "../resolver/download-col.xql?collection="||$colName
+    return
+        <div class="card-header" style="text-align:center;">
+<h1 style="padding-right:10px;">Eigenschaften</h1>
+<a>
+<i class="fas fa-info" title="Info zu den Eigenschaften der Korrespondenstücke" data-toggle="modal" data-target="#exampleModal"/>
+</a>
+                |
+                <a href="{$apiUrl}">
+<i class="fas fa-download" title="Liste der TEI Dokumente"/>
+</a>
+                  |
+                <a href="{$zipUrl}">
+<i class="fas fa-file-archive" title="Sammlung als ZIP laden">
+</i>
+</a>
+</div>
+};
+
+
+
 
 (:~
  : returns header information about the current collection
@@ -585,7 +622,63 @@ declare function app:tocArchiveHeader($node as node(), $model as map(*)) {
 <h1 style="padding-right:10px;">{replace($archive,'_',' ')}
 </h1>
 <a>
-<i class="fas fa-info" title="Info zum Personenregister" data-toggle="modal" data-target="#exampleModal"/>
+<i class="fas fa-info" title="Info zum Archivverzeichnis" data-toggle="modal" data-target="#exampleModal"/>
+</a>
+                |
+                <a href="{$apiUrl}">
+<i class="fas fa-download" title="Liste der TEI Dokumente"/>
+</a>
+                  |
+                <a href="{$zipUrl}">
+<i class="fas fa-file-archive" title="Sammlung als ZIP laden">
+</i>
+</a>
+</div>
+};
+
+(:~
+ : returns header information about the current collection
+ :)
+declare function app:tocTypeHeader($node as node(), $model as map(*)) {
+
+    let $collection := request:get-parameter("collection", "")
+    let $type := request:get-parameter("type","")
+    let $colName := if ($collection)
+        then
+            $collection
+        else
+            "editions"
+    let $docs := count(collection(concat($config:app-root, '/data/', $colName, '/'))//tei:TEI)
+    let $infoDoc := doc($app:meta||"/"||$colName||".xml")
+    let $colLabel := $infoDoc//tei:titleStmt/tei:title[@level='a']/text()
+    let $infoUrl := "show.html?document="||$colName||".xml&amp;directory=meta"
+    let $apiUrl := "../resolver/resolve-col.xql?collection="||$colName
+    let $zipUrl := "../resolver/download-col.xql?collection="||$colName
+    
+    let $name-short := if (ends-with($type, '-')) then (substring($type, 1, string-length($type)-1)) else ($type)
+        let $name-subtype := if (tokenize($name-short,'-')[2]) then (functx:capitalize-first(tokenize($name-short,'-')[2])) else
+        (functx:capitalize-first($name-short)) 
+        let $name := if ($name-subtype='Brief') then ('Brief') else (
+        if ($name-subtype='Kartenbrief') then ('Kartenbrief') else (
+        if ($name-subtype='Karte') then ('Karte') else (
+        if ($name-subtype='Bildpostkarte') then ('Bildpostkarte') else (
+        if ($name-subtype='Briefkarte') then ('Briefkarte') else (
+        if ($name-subtype='Postkarte') then ('Postkarte') else (
+                if ($name-subtype='Telegramm') then ('Telegramm') else (
+                if ($name-subtype='Entwurf') then ('Entwurf') else (
+                        if ($name-subtype='Umschlag') then ('Umschlag') else (
+               if ($name-subtype='Hs_abschrift') then ('Handschriftliche Abschrift') else (
+                                if ($name-subtype='Ms_abschrift') then ('Maschinschriftliche Abschrift') else (
+        if ($name-subtype='Anderes') then ('Ungeordnetes') else (
+        if (contains($name-subtype, 'Widmung_')) then (concat ('Widmung am ', functx:capitalize-first(substring-after($name-subtype, 'Widmung_')))) else (
+        if ($name-subtype = 'Fotografische_vervielfaeltigung') then ('Fotografische Vervielfältigung') else (
+                        $name-subtype))))))))))))))
+        return
+        <div class="card-header" style="text-align:center;">
+<h1 style="padding-right:10px;">{$name}
+</h1>
+<a>
+<i class="fas fa-info" title="Info zum Verzeichnis der Objekttypen" data-toggle="modal" data-target="#exampleModal"/>
 </a>
                 |
                 <a href="{$apiUrl}">
@@ -739,6 +832,74 @@ declare function app:toc_archive($node as node(), $model as map(*)) {
    let $docs := collection(concat($config:app-root, '/data/editions/'))//tei:TEI[tei:teiHeader[1]/tei:fileDesc[1]/tei:sourceDesc[1]/tei:listWit[1]/tei:witness/tei:msDesc[1]/tei:msIdentifier[1]/replace(concat(tei:settlement, ', ', tei:repository), ' ', '_')=$correspondence]
    for $title in $docs
         let $title_a := $title//tei:titleStmt[1]/tei:title[@level='a']//text()
+        let $date := if ($title//tei:correspDesc/tei:correspAction[@type='sent']/tei:date/@when) then $title//tei:correspDesc/tei:correspAction[@type='sent']/tei:date/@when/string()
+        else if ($title//tei:correspDesc/tei:correspAction[@type='sent']/tei:date/@notBefore) then $title//tei:correspDesc/tei:correspAction[@type='sent']/tei:date/@notBefore/string()
+        else $title//tei:correspDesc/tei:correspAction[@type='sent']/tei:date/@notAfter/string() return
+        let $link2doc := if ($collection)
+            then
+                <a href="{app:hrefToDoc($title, $collection)}">{$title_a}</a>
+            else
+                <a href="{app:hrefToDoc($title)}">{$title_a}</a>
+        return
+        <tr>
+<td>
+<span style='display: none;'>{$date}</span>{$link2doc}</td>
+</tr>
+};
+
+(: creates a table of types derived from the documents stored in /data/editions :)
+declare function app:toc_types($node as node(), $model as map(*)) {
+    let $collection := request:get-parameter("collection", "")
+    let $docs := if ($collection)
+        then
+            collection(concat($config:app-root, '/data/', $collection, '/'))//tei:TEI
+        else
+            collection(concat($config:app-root, '/data/editions/'))//tei:TEI
+    let $list-of-persons := doc(concat($config:app-root,'/data/indices/listperson.xml'))
+    let $types := for $doc in $docs
+         let $targets := $doc//tei:teiHeader[1]/tei:fileDesc[1]/tei:sourceDesc[1]/tei:listWit[1]/tei:witness/tei:msDesc[1]/tei:physDesc[1]/tei:objectDesc[1]/tei:desc[not(starts-with(@type,'_'))]
+        for $target in $targets
+           let $sub-level := concat($target/@type,'-',$target/@subtype)
+           let $target-normalized := $sub-level
+        group by $target-normalized
+        return $target-normalized
+    for $type in $types
+            order by $type
+
+        let $name-short := if (ends-with($type, '-')) then (substring($type, 1, string-length($type)-1)) else ($type)
+        let $link-to-doc := concat('toc_type.html?collection=editions&amp;type=',$name-short)
+        let $name-subtype := if (tokenize($name-short,'-')[2]) then (functx:capitalize-first(tokenize($name-short,'-')[2])) else
+        (functx:capitalize-first($name-short)) 
+        let $name := if ($name-subtype='Brief') then ('Brief') else (
+        if ($name-subtype='Kartenbrief') then ('Kartenbrief') else (
+        if ($name-subtype='Karte') then ('Karte') else (
+        if ($name-subtype='Bildpostkarte') then ('Bildpostkarte') else (
+        if ($name-subtype='Briefkarte') then ('Briefkarte') else (
+        if ($name-subtype='Postkarte') then ('Postkarte') else (
+                if ($name-subtype='Telegramm') then ('Telegramm') else (
+                if ($name-subtype='Entwurf') then ('Entwurf') else (
+                        if ($name-subtype='Umschlag') then ('Umschlag') else (
+               if ($name-subtype='Hs_abschrift') then ('Handschriftliche Abschrift') else (
+                                if ($name-subtype='Ms_abschrift') then ('Maschinschriftliche Abschrift') else (
+        if ($name-subtype='Anderes') then ('Ungeordnetes') else (
+        if (contains($name-subtype, 'Widmung_')) then (concat ('Widmung am ', functx:capitalize-first(substring-after($name-subtype, 'Widmung_')))) else (
+        if ($name-subtype = 'Fotografische_vervielfaeltigung') then ('Fotografische Vervielfältigung') else (
+                        $name-subtype))))))))))))))
+        return
+        <tr>
+<td>
+<a href="{$link-to-doc}">{$name}</a>
+</td>
+</tr>
+};
+
+(: creates a list of types :)
+declare function app:toc_type($node as node(), $model as map(*)) {
+       let $collection := request:get-parameter("collection", "")
+       let $type := request:get-parameter("type","")
+   let $docs := collection(concat($config:app-root, '/data/editions/'))//tei:TEI[tei:teiHeader[1]/tei:fileDesc[1]/tei:sourceDesc[1]/tei:listWit[1]/tei:witness/tei:msDesc[1]/tei:physDesc[1]/tei:objectDesc[1]/tei:desc[(@subtype and concat(@type, '-', @subtype)=$type) or (not(@subtype) and @type=$type)]]
+   for $title in $docs
+        let $title_a := $title/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@level='a']/string()
         let $date := if ($title//tei:correspDesc/tei:correspAction[@type='sent']/tei:date/@when) then $title//tei:correspDesc/tei:correspAction[@type='sent']/tei:date/@when/string()
         else if ($title//tei:correspDesc/tei:correspAction[@type='sent']/tei:date/@notBefore) then $title//tei:correspDesc/tei:correspAction[@type='sent']/tei:date/@notBefore/string()
         else $title//tei:correspDesc/tei:correspAction[@type='sent']/tei:date/@notAfter/string() return
