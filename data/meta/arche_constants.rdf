@@ -282,12 +282,12 @@
     <!-- maps arche props to their values via xpath expressions; be aware the current TEI document needs to be encoded as '$item' -->
     <acdh:TeiLookUps collection="editions"> 
         <acdh:hasTitle type="literal">$item//tei:titleStmt/tei:title[@level='a']/text()</acdh:hasTitle>
-        <acdh:hasCoverageStartDate type="date">data($item//tei:correspAction[1]/tei:date/@when)</acdh:hasCoverageStartDate>
-        <acdh:hasCoverageStartDate type="date">data($item//tei:correspAction[1]/tei:notBefore/@when)</acdh:hasCoverageStartDate>
-        <acdh:hasCoverageEndDate type="date">data($item//tei:correspAction[1]/tei:date/@when)</acdh:hasCoverageEndDate>
-        <acdh:hasCoverageEndDate type="date">data($item//tei:correspAction[1]/tei:notAfter/@when)</acdh:hasCoverageEndDate>
-        <acdh:hasCreatedStartDate type="date">data($item//tei:change[1]/@when)</acdh:hasCreatedStartDate>
-        <acdh:hasCreatedEndDate type="date">data($item//tei:change[last()]/@when)</acdh:hasCreatedEndDate>
+        <acdh:hasCoverageStartDate type="date">archeutils:normalize-date(data($item//tei:correspAction[1]/tei:date/@when), true())</acdh:hasCoverageStartDate>
+        <acdh:hasCoverageStartDate type="date">archeutils:normalize-date(data($item//tei:correspAction[1]/tei:notBefore/@when), true())</acdh:hasCoverageStartDate>
+        <acdh:hasCoverageEndDate type="date">archeutils:normalize-date(data($item//tei:correspAction[1]/tei:date/@when), false())</acdh:hasCoverageEndDate>
+        <acdh:hasCoverageEndDate type="date">archeutils:normalize-date(data($item//tei:correspAction[1]/tei:notAfter/@when), false())</acdh:hasCoverageEndDate>
+        <acdh:hasCreatedStartDate type="date">archeutils:normalize-date(data($item//tei:change[1]/@when), true())</acdh:hasCreatedStartDate>
+        <acdh:hasCreatedEndDate type="date">archeutils:normalize-date(data($item//tei:change[last()]/@when), false())</acdh:hasCreatedEndDate>
         
         
 <!--        <acdh:hasCoverageStartDate type="date">data($item//correspAction[1]/date[1]/@notBefore)</acdh:hasCoverageStartDate>
