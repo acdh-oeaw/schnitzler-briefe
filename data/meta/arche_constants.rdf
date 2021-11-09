@@ -261,7 +261,7 @@
         <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/132560496"/> <!-- Ifkovits -->
         
         <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1050382196"/> <!-- Müller -->
-        <acdh:hasDepositor rdf:resource="https://orcid.org/0000-0002-5146-1371"/> <!-- Thomas Klampfl -->
+        <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1050382196"/> <!-- Thomas Klampfl -->
         <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1050382196"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
@@ -271,25 +271,37 @@
     <acdh:SpecResource collection="editions">
         <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
         <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI encoded texts -->
+        <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+    </acdh:SpecResource>
+    <acdh:SpecResource collection="indices">
+        <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
+        <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI encoded texts -->
+        <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
     </acdh:SpecResource>
     
     <!-- maps arche props to their values via xpath expressions; be aware the current TEI document needs to be encoded as '$item' -->
     <acdh:TeiLookUps collection="editions"> 
         <acdh:hasTitle type="literal">$item//tei:titleStmt/tei:title[@level='a']/text()</acdh:hasTitle>
-        <!--<acdh:hasCoverageStartDate type="date">data(if ($item//correspDesc[1[/correspAction[1]/date[1]/@when) then ($item//correspDesc[1[/correspAction[1]/date[1]/@when) else if ($item//correspDesc[1[/correspAction[1]/date[1]/@notBefore)
-            then ($item//correspDesc[1[/correspAction[1]/date[1]/@notBefore) else ($item//correspDesc[1[/correspAction[1]/date[1]/@notAfter)</acdh:hasCoverageStartDate>-->
-        <!-- <acdh:continues type="resource">$item/descendant::correspDesc[1]/correspContext[1]/ref[@type='toCollection' and @subtype="next_letter"]</acdh:continues> -->
+        <acdh:hasCoverageStartDate type="date">data($item//tei:correspAction[1]/tei:date/@when)</acdh:hasCoverageStartDate>
+        <acdh:hasCoverageStartDate type="date">data($item//tei:correspAction[1]/tei:notBefore/@when)</acdh:hasCoverageStartDate>
+        <acdh:hasCoverageEndDate type="date">data($item//tei:correspAction[1]/tei:date/@when)</acdh:hasCoverageEndDate>
+        <acdh:hasCoverageEndDate type="date">data($item//tei:correspAction[1]/tei:notAfter/@when)</acdh:hasCoverageEndDate>
+        <acdh:hasCreatedStartDate type="date">data($item//tei:change[1]/@when)</acdh:hasCreatedStartDate>
+        <acdh:hasCreatedEndDate type="date">data($item//tei:change[last()]/@when)</acdh:hasCreatedEndDate>
+        
+        
+<!--        <acdh:hasCoverageStartDate type="date">data($item//correspAction[1]/date[1]/@notBefore)</acdh:hasCoverageStartDate>
+-->        <!-- <acdh:continues type="resource">$item/descendant::correspDesc[1]/correspContext[1]/ref[@type='toCollection' and @subtype="next_letter"]</acdh:continues> -->
         <!-- <acdh:hasPid type="literal_no_lang">$item/@xml:id</acdh:hasPid> -->
-        <!-- <acdh:isPartOf type="resource">$item/@xml:base</acdh:isPartOf> -->
-        <acdh:hasDescription type="literal">normalize-space(string-join($item//tei:sourceDesc//text()))</acdh:hasDescription>
-<!--        <acdh:hasCustomXsl type="no_eval">https://tei4arche.acdh-dev.oeaw.ac.at/xsl/thun2arche.xsl</acdh:hasCustomXsl> TODO 
--->    </acdh:TeiLookUps>
+        <acdh:hasNonLinkedIdentifier type="literal_no_lang">normalize-space(string-join($item//tei:sourceDesc//tei:msIdentifier//text(), '; '))</acdh:hasNonLinkedIdentifier>
+        <acdh:hasCustomXsl type="no_eval">https://tei4arche.acdh-dev.oeaw.ac.at/xsl/schnitzler-briefe2arche.xsl</acdh:hasCustomXsl> TODO 
+    </acdh:TeiLookUps>
     
     <acdh:TeiLookUps collection="indices"> 
-        <acdh:hasTitle type="literal">$item//tei:titleStmt/tei:title[1]/text()</acdh:hasTitle>
+        <acdh:hasTitle type="literal">$item//tei:titleStmt/tei:title[@level='a']/text()</acdh:hasTitle>
         <acdh:hasPid type="literal_no_lang">$item//tei:idno[@type="handle"]/text()</acdh:hasPid>
         <acdh:isPartOf type="resource">$item/@xml:base</acdh:isPartOf>
-        <acdh:hasCustomXsl type="literal_no_lang">concat('https://tei4arche.acdh-dev.oeaw.ac.at/xsl/', substring-before(data($item/@xml:id), '.'), '.xsl')</acdh:hasCustomXsl>
+<!--        <acdh:hasCustomXsl type="literal_no_lang">concat('https://tei4arche.acdh-dev.oeaw.ac.at/xsl/', substring-before(data($item/@xml:id), '.'), '.xsl')</acdh:hasCustomXsl>-->
     </acdh:TeiLookUps>
     
     <!-- mapping  tei:person to arche:Person -->
