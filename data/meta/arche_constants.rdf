@@ -9,6 +9,16 @@
             <acdh:hasLastName xml:lang="und">Susen</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Gerd-Hermann</acdh:hasFirstName>
         </acdh:Person>
+        <acdh:Person rdf:about="https://orcid.org/0000-0002-9575-9372">
+            <acdh:hasTitle xml:lang="und">Peter Andorfer</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Andorfer</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Peter</acdh:hasFirstName>
+        </acdh:Person>
+        <acdh:Person rdf:about="https://orcid.org/0000-0001-8294-2541">
+            <acdh:hasTitle xml:lang="und">Ingo Börner</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Börner</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Ingo</acdh:hasFirstName>
+        </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/132560496">
             <acdh:hasTitle xml:lang="und">Kurt Ifkovits</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Ifkovits</acdh:hasLastName>
@@ -261,8 +271,11 @@
         
         
         <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1050382196"/> <!-- Müller -->
-        <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1050382196"/> <!-- Thomas Klampfl -->
+        <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-9575-9372"/><!-- Andorfer -->
+        <acdh:hasContributor rdf:resource="https://orcid.org/0000-0001-8294-2541"/><!-- Börner -->
+        <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1050382196"/> <!-- Thomas Klampfl -->
         <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/132560496"/><!-- Ifkovits -->
+        
         <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1050382196"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
