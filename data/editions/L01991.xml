@@ -1,222 +1,152 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01991"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Georg Brandes an Arthur Schnitzler, 18. 12. 1910</title>
-            <author ref="#10992">Brandes, Georg</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01991</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01991" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Georg Brandes an Arthur Schnitzler, 18. 12. 1910</title><author ref="#pmb10992">Brandes, Georg</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01991</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 17</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter"/>
-                           <desc n="3" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift beschriftet: »<quote>
-                                    <hi rend="latintype">Brandes</hi>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert:
-                                        »<quote>34</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASGB">
-                  <monogr>
-                     <author ref="#10992">Brandes, Georg</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Ein Briefwechsel</title>
-                     <editor>Hg. Kurt Bergel</editor>
-                     <imprint>
-                        <pubPlace>Bern</pubPlace>
-                        <publisher>Francke</publisher>
-                        <date when="1956">1956</date>
-                     </imprint>
-                     <biblScope unit="pp">98</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10992">Brandes, Georg</persName>
-               <placeName ref="#36300">Kopenhagen</placeName>
-               <date when="1910-12-18" n="01">18. 12. 1910</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10992">Brandes, Georg</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01990">Schnitzler an Adam, 3. 12. 1910</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01992">Beer-Hofmann an Schnitzler, [22. 12. 1910]</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01779">Schnitzler an Brandes, 4. 7. 1908</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02000">Schnitzler an Brandes, 19. 1. 1911</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-72E7-D</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 17</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Brandes</hi></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
+                                        »<quote>34</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASGB"><monogr><author ref="#pmb10992">Brandes, Georg</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Ein Briefwechsel</title><editor>Hg. Kurt Bergel</editor><imprint><pubPlace>Bern</pubPlace><publisher>Francke</publisher><date when="1956">1956</date></imprint><biblScope unit="pp">98</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10992">Brandes, Georg</persName><placeName ref="#pmb36300">Kopenhagen</placeName><date when="1910-12-18" n="01">18. 12. 1910</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10992">Brandes, Georg</ref><ref subtype="previous_letter" type="withinCollection" target="L01990">Schnitzler an Adam, 3. 12. 1910</ref><ref subtype="next_letter" type="withinCollection" target="L01992">Beer-Hofmann an Schnitzler, [22. 12. 1910]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01779">Schnitzler an Brandes, 4. 7. 1908</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02000">Schnitzler an Brandes, 19. 1. 1911</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2018-08-01">Angelegt</change>
-         <change who="MAM" when="2018-08-14">Durchsicht</change>
-         <change who="MAM" when="2018-02-14">Index check</change>
-         <change who="GHS" when="2019-07-24">facs aktualisiert, korrigiert, finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00063"/>
-      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00064"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00063"/>
-                  <rs ref="#36300" type="place">
-                     <hi n="1" rend="underline">Kopenhagen</hi>
-                  </rs>
-                  <lb/>
-                  <date>18. 12. 10</date>
-               </dateline>
-               <salute>Verehrter Freund</salute>
-            </opener>
-            <p>Wenn ich Sie lese, thut es mir leid, dass ich so weit von Ihnen wohne und so
-                    selten Gelegenheit habe, mit Ihnen einige Worte zu wechseln.</p>
-            <p>
-               <rs ref="#29937" type="work">
-                  <hi n="1" rend="underline">Medardus</hi>
-               </rs> habe ich sehr genau gelesen, laut vorgelesen, um es recht zu würdigen. Sie
-                    haben dort ein reiches Bild aufgerollt. Mit Ueberraschung und Freude erfuhr ich
-                    aus einer Zeitungs<anchor xml:id="K_L01991_1" type="commentary"/>notits<note xml:id="K_L01991_1h" type="commentary">dänisch: Notiz</note>, dass das Stück
-                    trotz seiner epischen Anlage erfolgreich aufgeführt worden ist. Die – im <rs ref="#11461" type="person">Goethe</rs>schen Sinn über <rs ref="#11933" type="person">Kleist</rs> – <del rend="strikethrough">
-                  <unclear>V</unclear>
-               </del> fesselnde »<anchor xml:id="K_L01991_2" type="commentary"/>Verwirrung des
-                        Gefühls<note xml:id="K_L01991_2h" type="commentary">Äußerung <rs ref="#11461" type="person">Goethe</rs>s in seinem <rs type="work" ref="#33356" subtype="implied">Tagebuch</rs>, <date>13. 7. 1807</date></note>« in
-                        <rs type="work" ref="#29937" subtype="implied">Medardus</rs> ist so recht
-                    Ihre Domäne. <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00064"/>Sehr fein ist
-                    die schwache Andeutung <del rend="strikethrough">der</del> einer geistigen
-                    Verwandtschaft zwischen <rs type="work" ref="#29937" subtype="implied">Helene</rs> und <rs type="work" ref="#29937" subtype="implied">Napoleon</rs>.</p>
-            <p>Die ganze <rs ref="#50" type="place">Wien</rs>eratmosphäre vor 100 Jahren haben
-                    Sie geben wollen. Und wenn ich nicht irre, lag es Ihnen besonders am Herzen, zu
-                    zeigen, auf welchem Hintergrund von Spiessbürgerlichkeit und lässiger
-                    Frivolität, die in <rs ref="#50" type="place">Wien</rs> zu Hause <subst>
-                  <del rend="strikethrough">sind</del>
-                  <add place="above">waren</add>
-               </subst>, und auf welchem Hintergrund von unnationalem Wesen und Gehorsam dem
-                    Eroberer gegenüber, die in <rs ref="#151" type="place">Deutschland</rs>
-                    hervortraten, der Heroismus einiger Weniger sich geltend machte. Eine
-                    nachsichtige Menschenverachtung durchdringt das Schaupiel und findet u. a. in
-                    mir ein Echo.</p>
-            <p>Ich möchte immer gerne wissen, wie es <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00064"/>Ihnen geht und wie es <rs ref="#10863" type="person">Beer-Hofmann</rs> geht, den ich (vor 16 Jahren,
-                    glaube ich) mit Ihnen kennen lernte.</p>
-            <p>Ueber mich selbst ist nichts Interessantes, wenigstens nichts besonders Gutes zu
-                    melden. Ich bin nicht krank.</p>
-            <p>Haben Sie für die Treue Dank, womit Sie bei jeder neuen Arbeit auch an mich
-                    denken.</p>
-            <closer>Ich bin Ihr unveränderlicher Freund<lb/>
-               <signed>Georg Brandes</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-01">Angelegt</change><change who="MAM" when="2018-08-14">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-07-24">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00063"/><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00064"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00063"/><rs ref="#pmb36300" type="place"><hi n="1" rend="underline">Kopenhagen</hi></rs><lb/><date>18. 12. 10</date></dateline><salute>Verehrter Freund</salute></opener><p>Wenn ich Sie lese, thut es mir leid, dass ich so weit von Ihnen wohne und so selten Gelegenheit habe, mit Ihnen einige Worte zu wechseln.</p><p><rs ref="#pmb29937" type="work"><hi n="1" rend="underline">Medardus</hi></rs> habe ich sehr genau gelesen, laut vorgelesen, um es recht zu würdigen. Sie haben dort ein reiches Bild aufgerollt. Mit Ueberraschung und Freude erfuhr ich aus einer Zeitungs<anchor xml:id="K_L01991_1" type="commentary"/>notits<note xml:id="K_L01991_1h" type="commentary">dänisch: Notiz</note>, dass das Stück trotz seiner epischen Anlage erfolgreich aufgeführt worden ist. Die – im <rs ref="#pmb11461" type="person">Goethe</rs>schen Sinn über <rs ref="#pmb11933" type="person">Kleist</rs> – <del rend="strikethrough"><unclear>V</unclear></del> fesselnde »<anchor xml:id="K_L01991_2" type="commentary"/>Verwirrung des Gefühls<note xml:id="K_L01991_2h" type="commentary">Äußerung <rs ref="#pmb11461" type="person">Goethe</rs>s in seinem <rs type="work" ref="#pmb33356" subtype="implied">Tagebuch</rs>, <date>13. 7. 1807</date></note>« in <rs type="work" ref="#pmb29937" subtype="implied">Medardus</rs> ist so recht Ihre Domäne. <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00064"/>Sehr fein ist die schwache Andeutung <del rend="strikethrough">der</del> einer geistigen Verwandtschaft zwischen <rs type="work" ref="#pmb29937" subtype="implied">Helene</rs> und <rs type="work" ref="#pmb29937" subtype="implied">Napoleon</rs>.</p><p>Die ganze <rs ref="#pmb50" type="place">Wien</rs>eratmosphäre vor 100 Jahren haben Sie geben wollen. Und wenn ich nicht irre, lag es Ihnen besonders am Herzen, zu zeigen, auf welchem Hintergrund von Spiessbürgerlichkeit und lässiger Frivolität, die in <rs ref="#pmb50" type="place">Wien</rs> zu Hause <subst><del rend="strikethrough">sind</del><add place="above">waren</add></subst>, und auf welchem Hintergrund von unnationalem Wesen und Gehorsam dem Eroberer gegenüber, die in <rs ref="#pmb151" type="place">Deutschland</rs> hervortraten, der Heroismus einiger Weniger sich geltend machte. Eine nachsichtige Menschenverachtung durchdringt das Schaupiel und findet u. a. in mir ein Echo.</p><p>Ich möchte immer gerne wissen, wie es <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00064"/>Ihnen geht und wie es <rs ref="#pmb10863" type="person">Beer-Hofmann</rs> geht, den ich (vor 16 Jahren, glaube ich) mit Ihnen kennen lernte.</p><p>Ueber mich selbst ist nichts Interessantes, wenigstens nichts besonders Gutes zu melden. Ich bin nicht krank.</p><p>Haben Sie für die Treue Dank, womit Sie bei jeder neuen Arbeit auch an mich denken.</p><closer>Ich bin Ihr unveränderlicher Freund<lb/><signed>Georg Brandes</signed></closer></div></body><back><listPerson><person xml:id="pmb10992">
+                  <tei:persName>
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:death>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514326/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13920</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11461">
+                  <tei:persName>
+                     <tei:surname>Goethe</tei:surname>
+                     <tei:forename>Johann Wolfgang von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1749-08-28">28. 8. 1749</tei:date>
+                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1832-03-22">22. 3. 1832</tei:date>
+                     <tei:placeName ref="#pmb197">Weimar</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118540238/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15499</idno>
+               </person><person xml:id="pmb11933">
+                  <tei:persName>
+                     <tei:surname>Kleist</tei:surname>
+                     <tei:forename>Heinrich von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1777-10-18">18. 10. 1777</tei:date>
+                     <tei:placeName ref="#pmb35518">Frankfurt (Oder)</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1811-11-21">21. 11. 1811</tei:date>
+                     <tei:placeName ref="#pmb11935">Wannsee</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118563076/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16900</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29937">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</tei:title>
+                  <tei:date from="1910-10-26" from-custom="1910-10-26">26. 10. 1910</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1198956/</idno>
+               </bibl><bibl xml:id="pmb33356">
+                  <tei:author ref="pmb11461" role="author">
+                     <tei:surname>Goethe</tei:surname>
+                     <tei:forename>Johann Wolfgang von</tei:forename>
+                  </tei:author>
+                  <tei:title>Tagebücher</tei:title>
+                  <tei:date from="1775-01-01" from-custom="1775" to="1832-01-01" to-custom="1832">1775–1832</tei:date>
+                  <tei:gloss type="w1356">Tagebuch</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb36300">
+                  <tei:placeName>Kopenhagen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2618425/copenhagen.html/</idno>
+                  <idno type="geonames">https://www.geonames.org/2618425/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1748/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4032399-7/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb151">
+                  <tei:placeName>Deutschland</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.5 10.5</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2921044/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q183/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

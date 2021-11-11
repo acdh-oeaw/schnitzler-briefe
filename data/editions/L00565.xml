@@ -1,226 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00565"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann,
-               17. 7. 1896</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00565</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00565" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann,
+               17. 7. 1896</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00565</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="postkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#42542">Tromsø</placeName>
-                                    <date>18. VII. 96</date>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="2">
-                                    <placeName ref="#36300">Kjobenhavn</placeName>
-                                    <date>23. 7. 96</date>
-                                    <time>50M8</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#42542">Tromsø</placeName>
-               <date when="1896-07-18" n="01">18. 7. 1896</date>
-            </correspAction>
-            <correspAction type="transmitted">
-               <placeName ref="#36300">Kopenhagen</placeName>
-               <date when="1896-07-23">23. 7. 1896</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <placeName ref="#36300">Kopenhagen</placeName>
-               <date when="1896-07-26">26. 7. 1896</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00564">Hofmannsthal an Schnitzler, 16. 7. [1896]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00566">Beer-Hofmann an Schnitzler, 22. 7. 1896</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00563">Schnitzler an Beer-Hofmann, 15. 7. 1896</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00566">Beer-Hofmann an Schnitzler, 22. 7. 1896</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6D56-8</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="postkarte"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb42542">Tromsø</placeName><date>18. VII. 96</date></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb36300">Kjobenhavn</placeName><date>23. 7. 96</date><time>50M8</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb42542">Tromsø</placeName><date when="1896-07-18" n="01">18. 7. 1896</date></correspAction><correspAction type="transmitted"><placeName ref="#pmb36300">Kopenhagen</placeName><date when="1896-07-23">23. 7. 1896</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb36300">Kopenhagen</placeName><date when="1896-07-26">26. 7. 1896</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00564">Hofmannsthal an Schnitzler, 16. 7. [1896]</ref><ref subtype="next_letter" type="withinCollection" target="L00566">Beer-Hofmann an Schnitzler, 22. 7. 1896</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00563">Schnitzler an Beer-Hofmann, 15. 7. 1896</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00566">Beer-Hofmann an Schnitzler, 22. 7. 1896</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2019-10-22">angelegt aus Faksimile</change>
-         <change who="MAM" when="2019-10-23">Durchsicht</change>
-         <change who="MAM" when="2019-10-23">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1896_AS_RBH_1_00003"/>
-      <graphic url="1896_AS_RBH_1_00004"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="1896_AS_RBH_1_00003"/>
-                  <hi rend="latintype">Dr. Richard
-                     Beer-Hofmann</hi>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#36300" type="place">
-                     <hi rend="latintype">Kopenhagen</hi>
-                  </rs>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">post rest</hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs ref="#43570" type="place">Dänemark</rs>
-                  </hi>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <p>
-               <salute>
-                  <pb facs="1896_AS_RBH_1_00004"/>Mein lieber Richard, </salute>ich
-               nehme an Sie beko<c rendition="#gemination-m"/>en dieſe Karte am <date>24.</date> Da
-               ſchreiben Sie mir <hi rend="underline" n="1">gleich</hi> nach <rs ref="#1119" type="place">
-                  <hi rend="latintype">Stockholm</hi>
-               </rs>. (<hi rend="latintype">post rest</hi> natürlich) Ich werde wahrſcheinlich
-                  <date>24.</date> <date>25.</date> <date>26.</date> in <rs ref="#36296" type="place">
-                  <hi rend="latintype">Krist.</hi>
-               </rs>
-               <space unit="chars" quantity="1"/>ſein, dann bis etwa
-                  <date>30</date> od <date>31</date>
-               <space unit="chars" quantity="1"/>
-               <rs ref="#1119" type="place">
-                  <hi rend="latintype">Stockholm</hi>
-               </rs>. Es wäre
-               wunderſchön, wenn Sie doch wenigſtens nach <rs ref="#1119" type="place">
-                  <hi rend="latintype">Stockh</hi>
-               </rs>. hinüberko<c rendition="#gemination-m"/>en <subst>
-                  <del rend="overwritten">w</del>
-                  <add place="inline">mö</add>
-               </subst>chten. Oder nach <rs ref="#40700" type="place">
-                  <hi rend="latintype">Goetheborg</hi>
-               </rs> mir entgegen. Überlegen Sie ſichs. Bitte laſſen
-               Sie mich nicht ohne Nachricht. –</p>
-            <closer>Herzlich der Ihre<lb/>
-               <signed>ArthSch</signed>
-            </closer>
-            <postscript>
-               <p>an Bord der <hi rend="latintype">Sig Jarl</hi>
-                  <space unit="chars" quantity="1"/>
-                  <date>17/7 96</date>.</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-10-22">angelegt aus Faksimile</change><change who="MAM" when="2019-10-23">Durchsicht</change><change who="MAM" when="2019-10-23">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="1896_AS_RBH_1_00003"/><graphic url="1896_AS_RBH_1_00004"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="1896_AS_RBH_1_00003"/><hi rend="latintype">Dr. Richard Beer-Hofmann</hi></addrLine><addrLine><rs ref="#pmb36300" type="place"><hi rend="latintype">Kopenhagen</hi></rs></addrLine><addrLine><hi rend="latintype">post rest</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb43570" type="place">Dänemark</rs></hi></addrLine></address></div><div type="writingSession" n="1"><p><salute><pb facs="1896_AS_RBH_1_00004"/>Mein lieber Richard, </salute>ich nehme an Sie beko<c rendition="#gemination-m"/>en die<c rendition="#langesS">s</c>e Karte am <date>24.</date> Da<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben Sie mir <hi rend="underline" n="1">gleich</hi> nach <rs ref="#pmb1119" type="place"><hi rend="latintype">Stockholm</hi></rs>. (<hi rend="latintype">post rest</hi> natürlich) Ich werde wahr<c rendition="#langesS">s</c>cheinlich <date>24.</date> <date>25.</date> <date>26.</date> in <rs ref="#pmb36296" type="place"><hi rend="latintype">Krist.</hi></rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>ein, dann bis etwa <date>30</date> od <date>31</date><space unit="chars" quantity="1"/><rs ref="#pmb1119" type="place"><hi rend="latintype">Stockholm</hi></rs>. Es wäre wunder<c rendition="#langesS">s</c>chön, wenn Sie doch wenig<c rendition="#langesS">s</c>tens nach <rs ref="#pmb1119" type="place"><hi rend="latintype">Stockh</hi></rs>. hinüberko<c rendition="#gemination-m"/>en <subst><del rend="overwritten">w</del><add place="inline">mö</add></subst>chten. Oder nach <rs ref="#pmb40700" type="place"><hi rend="latintype">Goetheborg</hi></rs> mir entgegen. Überlegen Sie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ichs. Bitte la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Sie mich nicht ohne Nachricht. –</p><closer>Herzlich der Ihre<lb/><signed>ArthSch</signed></closer><postscript><p>an Bord der <hi rend="latintype">Sig Jarl</hi><space unit="chars" quantity="1"/><date>17/7 96</date>.</p></postscript></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb42542">
+                  <tei:placeName>Tromsø</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1108">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">69.6489 18.95508</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3133895/</idno>
+               </place><place xml:id="pmb36300">
+                  <tei:placeName>Kopenhagen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2618425/copenhagen.html/</idno>
+                  <idno type="geonames">https://www.geonames.org/2618425/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1748/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4032399-7/</idno>
+               </place><place xml:id="pmb43570">
+                  <tei:placeName>Dänemark</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">56.0 10.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2623032/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q35/</idno>
+               </place><place xml:id="pmb1119">
+                  <tei:placeName>Stockholm</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">59.325 18.05</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2673730/</idno>
+               </place><place xml:id="pmb36296">
+                  <tei:placeName>Oslo</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1103">Hauptstadt</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">59.91273 10.74609</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3143244/</idno>
+               </place><place xml:id="pmb40700">
+                  <tei:placeName>Göteborg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1108">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">57.70716 11.96679</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2711537/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

@@ -1,216 +1,158 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00092"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, [4. 4. 1892?]</title>
-            <author ref="#11740">Hofmannsthal, Hugo von</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00092</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00092" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, [4. 4. 1892?]</title><author ref="#pmb11740">Hofmannsthal, Hugo von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00092</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 43</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter">Briefpapier mit aufgeprägtem Wappen</desc>
-                           <desc n="4" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift datiert: »<quote>Anf April 92</quote>« und nummeriert:
-               »<quote>24</quote>«</desc>
-                           </incident>
-                           <incident type="editorial">
-                              <desc>eine Doppelseite fehlt; diese wird nach der Abschrift zitiert</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="HvHAS">
-                  <monogr>
-                     <author ref="#11740">Hofmannsthal, Hugo von</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel</title>
-                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1964">1964</date>
-                     </imprint>
-                     <biblScope unit="pp">19–20</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1892-04-04" n="01">[4. 4. 1892?]</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00091">Bölsche an Schnitzler, [Anfang April 1892]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00093">Hofmannsthal an Schnitzler, 10. 4. 1892</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00090">Schnitzler an Hofmannsthal, 27. 3. 1892</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00093">Hofmannsthal an Schnitzler, 10. 4. 1892</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6B7D-F</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 43</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter">Briefpapier mit aufgeprägtem Wappen</desc><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift datiert: »<quote>Anf April 92</quote>« und nummeriert:
+               »<quote>24</quote>«</desc></incident><incident type="editorial"><desc>eine Doppelseite fehlt; diese wird nach der Abschrift zitiert</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">19–20</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb50">Wien</placeName><date when="1892-04-04" n="01">[4. 4. 1892?]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L00091">Bölsche an Schnitzler, [Anfang April 1892]</ref><ref subtype="next_letter" type="withinCollection" target="L00093">Hofmannsthal an Schnitzler, 10. 4. 1892</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00090">Schnitzler an Hofmannsthal, 27. 3. 1892</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00093">Hofmannsthal an Schnitzler, 10. 4. 1892</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2019-02-06">Angelegt</change>
-         <change who="MAM" when="2019-02-26">Durchsicht</change>
-         <change who="MAM" when="2019-09-26">Index check</change>
-         <change who="MAM" when="2020-03-12">Finalisiert, mit Abschrift für die fehlenden Seiten</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00051"/>
-      <graphic url="HvH_AS_Abschrift_00324"/>
-      <graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00052"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <salute rend="inline">
-                  <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00051"/>Lieber Freund.</salute>
-            </opener>
-            <p>Ich habe ausdrücklich und wiederholt gebeten, meinen Namen als Überſetzer auf den
-                        <anchor xml:id="K_L00092_1" type="commentary"/>Einladungen<note xml:id="K_L00092_1h" type="commentary">Es handelt sich um die Einladung für
-                        die Veranstaltung am <date>13. 4. 1892</date> (<rs ref="#12156" type="person">Maeterlinck</rs>s <rs ref="#30189" type="work">L’Intruse</rs>, in der Übersetzung von <rs ref="#14756" type="person">Ferry Beraton</rs>
-                   sowie eine einleitende »Conferènce« von <rs ref="#10815" type="person">Hermann Bahr</rs>), die, da vergessen worden
-                        war, eine polizeiliche Genehmigung einzuholen, kurzfristig abgesagt wurde.
-                        Sie wurde dann – durch das Verbot mit gestiegenem Publikumsinteresse – am
-                            <date>2. 5. 1892</date> abgehalten. Die Einladungskarte an <rs ref="#11666" type="person">Marie Herzfeld</rs> wurde am
-                            <date>4. 4. 1892</date> aufgegeben (<bibl>
-                     <rs ref="#11740" type="person">Hugo von Hofmannsthal</rs>: <title level="m">Briefe an Marie Herzfeld</title>. Hg. Horst Weber.
-                            Heidelberg: <publisher>Lothar Stiehm</publisher>
-                     <space unit="chars" quantity="1"/>
-                     <date>1967</date>, S. 24</bibl>.), am Vorabend fand eine Besprechung
-                        statt – was die zeitliche Einordnung ermöglichen dürfte.</note> nicht zu
-                    nennen. Man hat zwar mit Herrn <rs ref="#11491" type="person">von
-                        Goldſchmid</rs> dieſe Rückſicht gehabt, mit mir aber nicht. Ich ſtreiche
-                    auf meinen Einladungen, um weiter keine Geſchichten zu machen, das Loris einfach
-                    durch. Ich habe <pb facs="HvH_AS_Abschrift_00324"/>weder Lust für <rs ref="#14756" type="person">Beraton</rs>s <rs ref="#30189" type="work">Ueberſetzung</rs>, die ich nicht
-                    kenne, einzustehen noch hätte ich eine von mir unterzeichnete Ueberſetzung jemals
-                    von <rs ref="#14756" type="person">Beraton</rs> korrigieren lassen. Diesen
-                    groben Brief bekommen Sie, weil mir die andere<supplied>n</supplied> wurst sind, und Sie verdienen
-                    ihn auch, weil Sie bei der Besprechung (<time>½ 11</time>) wahrscheinlich
-                    ſchläfrig waren und nicht aufgelegt, Tactlosigkeiten zu verhindern.</p>
-            <p>Ich bitte
-                    Sie, zu veranlassen, dass mein Name auf den übrigen Einladungen ausgestrichen
-                    wird. Uebrigens ist der Stil der Einladungen ebenso hübsch als ihr Inhalt
-                    unzureichend – »werden zur Aufführung gelangen« iſt gerade lächerlich »werden<supplied>«</supplied>
-                    – wieso? von wem? wodurch?</p>
-            <p>Das ganze sieht aus als ob schon eine (gescheidte)
-                    Erklärung vorangegangen wäre. <rs ref="#30189" type="work">l’Intrus</rs> ist
-                    eine directe Verfälschung, das Stück heisst <rs ref="#30189" type="work">l’Intruse</rs>. <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00052"/>Seit
-                    wann ändert man Titel?</p>
-            <p>Ich weiß noch nicht, ob ich mich entſchließen werde, dieſe Wiſche auszuſchicken.
-                    Wozu haben Sie dann geſtern die Geſchichte vor mir feſtgeſetzt? Wozu ſind
-                    überhaupt Beſprechungen, wenn hinterdrein immer alles geändert wird?</p>
-            <closer>Ekelhaft!<lb/>
-               <signed>Loris.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-02-06">Angelegt</change><change who="MAM" when="2019-02-26">Durchsicht</change><change who="MAM" when="2019-09-26">Index check</change><change who="MAM" when="2020-03-12">Finalisiert, mit Abschrift für die fehlenden Seiten</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00051"/><graphic url="HvH_AS_Abschrift_00324"/><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00052"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute rend="inline"><pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00051"/>Lieber Freund.</salute></opener><p>Ich habe ausdrücklich und wiederholt gebeten, meinen Namen als Über<c rendition="#langesS">s</c>etzer auf den <anchor xml:id="K_L00092_1" type="commentary"/>Einladungen<note xml:id="K_L00092_1h" type="commentary">Es handelt sich um die Einladung für die Veranstaltung am <date>13. 4. 1892</date> (<rs ref="#pmb12156" type="person">Maeterlinck</rs>s <rs ref="#pmb30189" type="work">L’Intruse</rs>, in der Übersetzung von <rs ref="#pmb14756" type="person">Ferry Beraton</rs> sowie eine einleitende »Conferènce« von <rs ref="#pmb10815" type="person">Hermann Bahr</rs>), die, da vergessen worden war, eine polizeiliche Genehmigung einzuholen, kurzfristig abgesagt wurde. Sie wurde dann – durch das Verbot mit gestiegenem Publikumsinteresse – am <date>2. 5. 1892</date> abgehalten. Die Einladungskarte an <rs ref="#pmb11666" type="person">Marie Herzfeld</rs> wurde am <date>4. 4. 1892</date> aufgegeben (<bibl><rs ref="#pmb11740" type="person">Hugo von Hofmannsthal</rs>: <title level="m">Briefe an Marie Herzfeld</title>. Hg. Horst Weber. Heidelberg: <publisher>Lothar Stiehm</publisher><space unit="chars" quantity="1"/><date>1967</date>, S. 24</bibl>.), am Vorabend fand eine Besprechung statt – was die zeitliche Einordnung ermöglichen dürfte.</note> nicht zu nennen. Man hat zwar mit Herrn <rs ref="#pmb11491" type="person">von Gold<c rendition="#langesS">s</c>chmid</rs> die<c rendition="#langesS">s</c>e Rück<c rendition="#langesS">s</c>icht gehabt, mit mir aber nicht. Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>treiche auf meinen Einladungen, um weiter keine Ge<c rendition="#langesS">s</c>chichten zu machen, das Loris einfach durch. Ich habe <pb facs="HvH_AS_Abschrift_00324"/>weder Lust für <rs ref="#pmb14756" type="person">Beraton</rs>s <rs ref="#pmb30189" type="work">Ueber<c rendition="#langesS">s</c>etzung</rs>, die ich nicht kenne, einzustehen noch hätte ich eine von mir unterzeichnete Ueber<c rendition="#langesS">s</c>etzung jemals von <rs ref="#pmb14756" type="person">Beraton</rs> korrigieren lassen. Diesen groben Brief bekommen Sie, weil mir die andere<supplied>n</supplied> wurst sind, und Sie verdienen ihn auch, weil Sie bei der Besprechung (<time>½ 11</time>) wahrscheinlich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chläfrig waren und nicht aufgelegt, Tactlosigkeiten zu verhindern.</p><p>Ich bitte Sie, zu veranlassen, dass mein Name auf den übrigen Einladungen ausgestrichen wird. Uebrigens ist der Stil der Einladungen ebenso hübsch als ihr Inhalt unzureichend – »werden zur Aufführung gelangen« i<c rendition="#langesS">s</c>t gerade lächerlich »werden<supplied>«</supplied> – wieso? von wem? wodurch?</p><p>Das ganze sieht aus als ob schon eine (gescheidte) Erklärung vorangegangen wäre. <rs ref="#pmb30189" type="work">l’Intrus</rs> ist eine directe Verfälschung, das Stück heisst <rs ref="#pmb30189" type="work">l’Intruse</rs>. <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00052"/>Seit wann ändert man Titel?</p><p>Ich weiß noch nicht, ob ich mich ent<c rendition="#langesS">s</c>chließen werde, die<c rendition="#langesS">s</c>e Wi<c rendition="#langesS">s</c>che auszu<c rendition="#langesS">s</c>chicken. Wozu haben Sie dann ge<c rendition="#langesS">s</c>tern die Ge<c rendition="#langesS">s</c>chichte vor mir fe<c rendition="#langesS">s</c>tge<c rendition="#langesS">s</c>etzt? Wozu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind überhaupt Be<c rendition="#langesS">s</c>prechungen, wenn hinterdrein immer alles geändert wird?</p><closer>Ekelhaft!<lb/><signed>Loris.</signed></closer></div></body><back><listPerson><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12156">
+                  <tei:persName>
+                     <tei:surname>Maeterlinck</tei:surname>
+                     <tei:forename>Maurice</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-08-29">29. 8. 1862</tei:date>
+                     <tei:placeName ref="#pmb58674">Ghent</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1949-05-06">6. 5. 1949</tei:date>
+                     <tei:placeName ref="#pmb926">Nizza</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118576089/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17779</idno>
+               </person><person xml:id="pmb14756">
+                  <tei:persName>
+                     <tei:surname>Bératon</tei:surname>
+                     <tei:forename>Ferry</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1859-12-06">6. 12. 1859</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1900-02-11">11. 2. 1900</tei:date>
+                     <tei:placeName ref="#pmb462">Venedig</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="110">Maler*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13611</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb11666">
+                  <tei:persName>
+                     <tei:surname>Herzfeld</tei:surname>
+                     <tei:forename>Marie</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1855-03-20">20. 3. 1855</tei:date>
+                     <tei:placeName ref="#pmb35513">Kőszeg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1940-09-22">22. 9. 1940</tei:date>
+                     <tei:placeName ref="#pmb58532">Mining</tei:placeName>
+                  </tei:death>
+                  <occupation code="91">Schriftsteller*in</occupation>
+                  <occupation code="138">Übersetzer*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119543559/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16158</idno>
+               </person><person xml:id="pmb11491">
+                  <tei:persName>
+                     <tei:surname>Goldschmidt</tei:surname>
+                     <tei:forename>Adalbert von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1848-05-05">5. 5. 1848</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1906-12-21">21. 12. 1906</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="129">Komponist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116755741/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15541</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30189">
+                  <tei:author ref="pmb12156" role="author">
+                     <tei:surname>Maeterlinck</tei:surname>
+                     <tei:forename>Maurice</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Eindringling</tei:title>
+                  <tei:date from="1891-01-01" from-custom="1891">1891</tei:date>
+                  <tei:gloss type="w1097">Drama</tei:gloss>
+                  <tei:note>6293</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

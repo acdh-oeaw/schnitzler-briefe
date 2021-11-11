@@ -1,188 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01876"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Gerty von Hofmannsthal an Olga Schnitzler, 15. 9. 1909</title>
-            <author ref="#2292">Hofmannsthal, Gerty von</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01876</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01876" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Gerty von Hofmannsthal an Olga Schnitzler, 15. 9. 1909</title><author ref="#pmb2292">Hofmannsthal, Gerty von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01876</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 43</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter"/>
-                           <desc n="3" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift beschriftet: »<quote>
-                                    <hi rend="latintype">Hofma<c rendition="#gemination-n"/>sthal</hi>
-                                 </quote>« und datiert: »<quote>
-                                    <date>Sept 909</date>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert:
-                                                »<quote>308</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2292">Hofmannsthal, Gerty von</persName>
-               <placeName ref="#415">Bad Aussee</placeName>
-               <date when="1909-09-15" n="03">15. 9. 1909</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2173">Schnitzler, Olga</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal Hugo von</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01875">Burckhard an Schnitzler, 15. 9. 1909</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01877">Hofmannsthal an Schnitzler, 19. 9. [1909]</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01871">Hofmannsthal an Schnitzler, 13. [9.] 1909</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01877">Hofmannsthal an Schnitzler, 19. 9. [1909]</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                            Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7274-F</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 43</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Hofma<c rendition="#gemination-n"/>sthal</hi></quote>« und datiert: »<quote><date>Sept 909</date></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
+                                                »<quote>308</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2292">Hofmannsthal, Gerty von</persName><placeName ref="#pmb415">Bad Aussee</placeName><date when="1909-09-15" n="03">15. 9. 1909</date></correspAction><correspAction type="received"><persName ref="#pmb2173">Schnitzler, Olga</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L01875">Burckhard an Schnitzler, 15. 9. 1909</ref><ref subtype="next_letter" type="withinCollection" target="L01877">Hofmannsthal an Schnitzler, 19. 9. [1909]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01871">Hofmannsthal an Schnitzler, 13. [9.] 1909</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01877">Hofmannsthal an Schnitzler, 19. 9. [1909]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2020-04-16">Angelegt</change>
-         <change who="MAM" when="2020-04-16">Index check</change>
-         <change who="GHS" when="2020-05-16">Durchsicht</change>
-         <change who="MAM" when="2020-06-30">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00043-D-000-00005"/>
-      <graphic url="MS-SCHNITZLER-B-00043-D-000-00006"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="MS-SCHNITZLER-B-00043-D-000-00005"/>
-                  <anchor xml:id="K_L01876_1" type="commentary"/>
-                  <date>Mittwoch</date>
-                  <note xml:id="K_L01876_1h" type="commentary">Die Datierung erfolgt auf den
-                            ersten Mittwoch nach der Geburt von <rs type="person" ref="#2238">Lili
-                                Schnitzler</rs>.</note>
-               </dateline>
-            </opener>
-            <p>
-               <salute>Liebe Olga, </salute>wir freuen uns ja riesig! Wie schön, dass <rs type="person" subtype="implied" ref="#2238">es</rs> auch ein Mäderl ist;
-                    ist’s ein schwarzes oder blondes? Ich darf gar nicht anfangen zu fragen sonst
-                    werd ich gar nicht fertig. Ich lebe in Gedanken alle Stunden und Tag mit und
-                    kann mir vorstellen wie <pb facs="MS-SCHNITZLER-B-00043-D-000-00006"/>glücklich
-                    und zufrieden Sie sein werden, wenn alles gut vorübergegangen ist. Da kommen
-                    dann so ruhige Tage, in denen man sich nur dafür interessiert ob das Kind
-                    trinkt, ob es schläft etc. nicht wahr?</p>
-            <p>Und dem <rs type="person" ref="#2121">Arthur</rs> sagen Sie auch alle Liebe von
-                    uns <pb facs="MS-SCHNITZLER-B-00043-D-000-00006"/>und wie sehr wir uns über
-                    seine kleine <rs type="person" ref="#2238" subtype="implied">Tochter</rs>
-                    freuen!</p>
-            <p>Wie leid thut’s mir, dass ich nicht so nah von Ihnen bin um Sie zu sehen und
-                    Ihnen hie und da ein bissl Gesellschaft leisten kann!</p>
-            <closer>Also Adieu liebe Olga<lb/>Von Herzen Ihre <signed>Gerty</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-04-16">Angelegt</change><change who="MAM" when="2020-04-16">Index check</change><change who="GHS" when="2020-05-16">Durchsicht</change><change who="MAM" when="2020-06-30">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-D-000-00005"/><graphic url="MS-SCHNITZLER-B-00043-D-000-00006"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-D-000-00005"/><anchor xml:id="K_L01876_1" type="commentary"/><date>Mittwoch</date><note xml:id="K_L01876_1h" type="commentary">Die Datierung erfolgt auf den ersten Mittwoch nach der Geburt von <rs type="person" ref="#pmb2238">Lili Schnitzler</rs>.</note></dateline></opener><p><salute>Liebe Olga, </salute>wir freuen uns ja riesig! Wie schön, dass <rs type="person" subtype="implied" ref="#pmb2238">es</rs> auch ein Mäderl ist; ist’s ein schwarzes oder blondes? Ich darf gar nicht anfangen zu fragen sonst werd ich gar nicht fertig. Ich lebe in Gedanken alle Stunden und Tag mit und kann mir vorstellen wie <pb facs="MS-SCHNITZLER-B-00043-D-000-00006"/>glücklich und zufrieden Sie sein werden, wenn alles gut vorübergegangen ist. Da kommen dann so ruhige Tage, in denen man sich nur dafür interessiert ob das Kind trinkt, ob es schläft etc. nicht wahr?</p><p>Und dem <rs type="person" ref="#pmb2121">Arthur</rs> sagen Sie auch alle Liebe von uns <pb facs="MS-SCHNITZLER-B-00043-D-000-00006"/>und wie sehr wir uns über seine kleine <rs type="person" ref="#pmb2238" subtype="implied">Tochter</rs> freuen!</p><p>Wie leid thut’s mir, dass ich nicht so nah von Ihnen bin um Sie zu sehen und Ihnen hie und da ein bissl Gesellschaft leisten kann!</p><closer>Also Adieu liebe Olga<lb/>Von Herzen Ihre <signed>Gerty</signed></closer></div></body><back><listPerson><person xml:id="pmb2292">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Gertrude von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1880-03-16">16. 3. 1880</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1959-11-09">9. 11. 1959</tei:date>
+                     <tei:placeName ref="#pmb46885">Paddington</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/116952199/</idno>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb2238">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Lili</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1909-09-13">13. 9. 1909</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1928-07-26">26. 7. 1928</tei:date>
+                     <tei:placeName ref="#pmb462">Venedig</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/131362089/</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb415">
+                  <tei:placeName>Bad Aussee</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q251065/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

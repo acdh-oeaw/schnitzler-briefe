@@ -1,212 +1,169 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02016"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Georg Brandes an Arthur Schnitzler, 11. 4. 1911</title>
-            <author ref="#10992">Brandes, Georg</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02016</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02016" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Georg Brandes an Arthur Schnitzler, 11. 4. 1911</title><author ref="#pmb10992">Brandes, Georg</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02016</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 17</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="postkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#36300">Kjøbenhavn</placeName>
-                                    <date>11. 4. 11.</date>
-                                    <time>10–11¾E</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>35</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASGB">
-                  <monogr>
-                     <author ref="#10992">Brandes, Georg</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Ein Briefwechsel</title>
-                     <editor>Hg. Kurt Bergel</editor>
-                     <imprint>
-                        <pubPlace>Bern</pubPlace>
-                        <publisher>Francke</publisher>
-                        <date when="1956">1956</date>
-                     </imprint>
-                     <biblScope unit="pp">101</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10992">Brandes, Georg</persName>
-               <placeName ref="#36300">Kopenhagen</placeName>
-               <date when="1911-04-11" n="01">11. 4. 1911</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#36456">Menton</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10992">Brandes, Georg</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02015">Schnitzler an Hofmannsthal, 27. 3. 1911</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02017">Ehrenstein an Schnitzler, 27. 4. 1911</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02000">Schnitzler an Brandes, 19. 1. 1911</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02018">Schnitzler an Brandes, 29. 4. 1911</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7300-0</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 17</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="postkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb36300">Kjøbenhavn</placeName><date>11. 4. 11.</date><time>10–11¾E</time></stamp></desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>35</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASGB"><monogr><author ref="#pmb10992">Brandes, Georg</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Ein Briefwechsel</title><editor>Hg. Kurt Bergel</editor><imprint><pubPlace>Bern</pubPlace><publisher>Francke</publisher><date when="1956">1956</date></imprint><biblScope unit="pp">101</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10992">Brandes, Georg</persName><placeName ref="#pmb36300">Kopenhagen</placeName><date when="1911-04-11" n="01">11. 4. 1911</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb36456">Menton</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10992">Brandes, Georg</ref><ref subtype="previous_letter" type="withinCollection" target="L02015">Schnitzler an Hofmannsthal, 27. 3. 1911</ref><ref subtype="next_letter" type="withinCollection" target="L02017">Ehrenstein an Schnitzler, 27. 4. 1911</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02000">Schnitzler an Brandes, 19. 1. 1911</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02018">Schnitzler an Brandes, 29. 4. 1911</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2018-08-01">Angelegt</change>
-         <change who="MAM" when="2018-08-14">Durchsicht</change>
-         <change who="MAM" when="2018-02-14">Index check</change>
-         <change who="GHS" when="2019-07-24">facs aktualisiert, korrigiert, finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00065"/>
-      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00066"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00065"/>Herrn Dr. Arthur
-                        Schnitzler</addrLine>
-               <addrLine>
-                  <rs ref="#150" type="place">Sternwartestrasse 71</rs>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#68" type="place">Wien XVIII</rs>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00066"/>
-                  <rs ref="#36300" type="place">Kopenhagen</rs> (<hi n="1" rend="underline">nicht</hi>
-                  <space unit="chars" quantity="1"/>
-                  <rs ref="#1111" type="place">Havnegade</rs>)</dateline>
-               <salute>Verehrter Herr und Freund.</salute>
-            </opener>
-            <p>Heute schickte ich Ihnen eine <rs type="work" ref="#33360" subtype="implied">Bagatelle</rs> die ich über Ihr hier aufgeführtes <rs type="work" ref="#30215" subtype="implied">Ballet</rs> geschrieben habe und legte eine
-                        <anchor xml:id="K_L02016_1" type="commentary"/>andere Bagatelle<note xml:id="K_L02016_1h" type="commentary">nicht ermittelt</note> anbei. In
-                    deutscher Sprache habe ich sonst Nichts. In <rs ref="#151" type="place">Deutschland</rs> habe ich nicht einmal mehr einen Verleger. Ich gab in
-                    diesen Tagen eine <rs type="work" ref="#33358" subtype="implied">Broschüre</rs>
-                    heraus, aber Sie lesen ja leider nicht <rs ref="#43570" type="place">Dänisch</rs>.</p>
-            <p>Ihr grosser Brief machte mir Freude. Wie schön dass es Ihnen endlich gut geht.
-                    Nur die Schwerhörigkeit gefällt mir gar nicht. Es ist lumpig von den höheren
-                    Mächten, mit Solchem sich schadlos zu halten.</p>
-            <p>Mir geht es nicht eben strahlend, aber ich bin nicht krank. Adresse von jetzt bis
-                    weiter <rs ref="#1095" type="place">Hotel Lutetia</rs>, <rs ref="#1094" type="place">Boulevard Raspail, Paris</rs>.</p>
-            <p>Ich drücke Ihre Hand in alter Freundschaft.</p>
-            <closer>Ihr ergebener<lb/>
-               <signed>Georg Brandes</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-01">Angelegt</change><change who="MAM" when="2018-08-14">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-07-24">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00065"/><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00066"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00065"/>Herrn Dr. Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb150" type="place">Sternwartestrasse 71</rs></addrLine><addrLine><rs ref="#pmb68" type="place">Wien XVIII</rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00066"/><rs ref="#pmb36300" type="place">Kopenhagen</rs> (<hi n="1" rend="underline">nicht</hi><space unit="chars" quantity="1"/><rs ref="#pmb1111" type="place">Havnegade</rs>)</dateline><salute>Verehrter Herr und Freund.</salute></opener><p>Heute schickte ich Ihnen eine <rs type="work" ref="#pmb33360" subtype="implied">Bagatelle</rs> die ich über Ihr hier aufgeführtes <rs type="work" ref="#pmb30215" subtype="implied">Ballet</rs> geschrieben habe und legte eine <anchor xml:id="K_L02016_1" type="commentary"/>andere Bagatelle<note xml:id="K_L02016_1h" type="commentary">nicht ermittelt</note> anbei. In deutscher Sprache habe ich sonst Nichts. In <rs ref="#pmb151" type="place">Deutschland</rs> habe ich nicht einmal mehr einen Verleger. Ich gab in diesen Tagen eine <rs type="work" ref="#pmb33358" subtype="implied">Broschüre</rs> heraus, aber Sie lesen ja leider nicht <rs ref="#pmb43570" type="place">Dänisch</rs>.</p><p>Ihr grosser Brief machte mir Freude. Wie schön dass es Ihnen endlich gut geht. Nur die Schwerhörigkeit gefällt mir gar nicht. Es ist lumpig von den höheren Mächten, mit Solchem sich schadlos zu halten.</p><p>Mir geht es nicht eben strahlend, aber ich bin nicht krank. Adresse von jetzt bis weiter <rs ref="#pmb1095" type="place">Hotel Lutetia</rs>, <rs ref="#pmb1094" type="place">Boulevard Raspail, Paris</rs>.</p><p>Ich drücke Ihre Hand in alter Freundschaft.</p><closer>Ihr ergebener<lb/><signed>Georg Brandes</signed></closer></div></body><back><listPerson><person xml:id="pmb10992">
+                  <tei:persName>
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:death>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514326/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13920</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb33360">
+                  <tei:author ref="pmb10992" role="author">
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:author>
+                  <tei:title>Det kgl. Teater [Der Schleier der Pierrette]</tei:title>
+                  <tei:date from="1911-03-20" from-custom="20.03.1911">20. 3. 1911</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>3366</tei:note>
+               </bibl><bibl xml:id="pmb30215">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb11165" role="composer">
+                     <tei:surname>Dohnányi</tei:surname>
+                     <tei:forename>Ernst von</tei:forename>
+                     <tei:term>[Vertonung]</tei:term>
+                  </tei:author>
+                  <tei:title>Der Schleier der Pierrette</tei:title>
+                  <tei:date from="1910-01-22" from-custom="1910-01-22">22. 1. 1910</tei:date>
+                  <tei:gloss type="w1068">Tanzpantomime</tei:gloss>
+                  <tei:note>2522</tei:note>
+                  <tei:note>2523</tei:note>
+               </bibl><bibl xml:id="pmb33358">
+                  <tei:author ref="pmb10992" role="author">
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:author>
+                  <tei:title>Før og nu. To tragiske Skaebner</tei:title>
+                  <tei:date from="1911-01-01" from-custom="1911">1911</tei:date>
+                  <tei:gloss type="w1055">Text</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb36300">
+                  <tei:placeName>Kopenhagen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2618425/copenhagen.html/</idno>
+                  <idno type="geonames">https://www.geonames.org/2618425/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1748/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4032399-7/</idno>
+               </place><place xml:id="pmb36456">
+                  <tei:placeName>Menton</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1123">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">43.77649 7.50435</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2994497/</idno>
+               </place><place xml:id="pmb150">
+                  <tei:placeName>Sternwartestraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb68">
+                  <tei:placeName>XVIII., Währing</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2762091/</idno>
+               </place><place xml:id="pmb1111">
+                  <tei:placeName>Havnegade</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.67887 12.59262</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb151">
+                  <tei:placeName>Deutschland</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.5 10.5</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2921044/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q183/</idno>
+               </place><place xml:id="pmb43570">
+                  <tei:placeName>Dänemark</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">56.0 10.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2623032/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q35/</idno>
+               </place><place xml:id="pmb1095">
+                  <tei:placeName>Hôtel Lutetia</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.851111 2.326667</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb1094">
+                  <tei:placeName>Boulevard Raspail</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.84534 2.32872</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q2921917/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

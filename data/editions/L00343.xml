@@ -1,277 +1,297 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00343"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 2. 7. 1894</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Martin Anton Müller</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00343</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00343" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 2. 7. 1894</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Martin Anton Müller</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00343</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="2" type="_blaetter"/>
-                           <desc n="7" type="_seiten"/>
-                           <desc type="umschlag"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#59">Wien 9/3</placeName>
-                                    <date when="1894-07-02">2. 7. 94</date>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="2">
-                                    <placeName ref="#213">Ischl</placeName>
-                                    <date when="1894-07-03">3. 7. 94</date>
-                                    <time>7 F</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASBH">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <author ref="#10863">Beer-Hofmann, Richard</author>
-                     <title level="m">Briefwechsel 1891–1931</title>
-                     <editor>Hg. Konstanze Fliedl</editor>
-                     <imprint>
-                        <pubPlace>Wien, Zürich</pubPlace>
-                        <publisher>Europaverlag</publisher>
-                        <date when="1992">1992</date>
-                     </imprint>
-                     <biblScope unit="pp">56–57</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente
-                                (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1894-07-02" n="01">2. 7. 1894</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <placeName ref="#213">Bad Ischl</placeName>
-               <date when="1894-07-03">3. 7. 94</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00342">Beer-Hofmann an Schnitzler, 30. 6. 1894</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00344">Burckhard an Schnitzler, 2. 7. 1894</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00342">Beer-Hofmann an Schnitzler, 30. 6. 1894</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00347">Beer-Hofmann an Schnitzler, 5. 7. 1894</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6C78-3</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="2" type="_blaetter"/><desc n="7" type="_seiten"/><desc type="umschlag"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb59">Wien 9/3</placeName><date when="1894-07-02">2. 7. 94</date></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb213">Ischl</placeName><date when="1894-07-03">3. 7. 94</date><time>7 F</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">56–57</biblScope></monogr></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente
+                                (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1894-07-02" n="01">2. 7. 1894</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb213">Bad Ischl</placeName><date when="1894-07-03">3. 7. 94</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00342">Beer-Hofmann an Schnitzler, 30. 6. 1894</ref><ref subtype="next_letter" type="withinCollection" target="L00344">Burckhard an Schnitzler, 2. 7. 1894</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00342">Beer-Hofmann an Schnitzler, 30. 6. 1894</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00347">Beer-Hofmann an Schnitzler, 5. 7. 1894</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2016-04-05">Angelegt</change>
-         <change who="KI MAM" when="2016-08-18">Absätze über Bahr kollationiert am
-                Original</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="MAM" when="2019-10-08">Index check</change>
-         <change who="GHS" when="2019-10-10">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1894_AS_RBH_2_00026"/>
-      <graphic url="1894_AS_RBH_2_00027"/>
-      <graphic url="1894_AS_RBH_2_00028"/>
-      <graphic url="1894_AS_RBH_2_00029"/>
-      <graphic url="1894_AS_RBH_2_00030"/>
-      <graphic url="1894_AS_RBH_2_00031"/>
-      <graphic url="1894_AS_RBH_2_00032"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="1894_AS_RBH_2_00031"/>Herrn <hi rend="latintype">Dr. Rich.
-                            Beer-Hofmann</hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs ref="#213" type="place">Ischl</rs>
-                  </hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs ref="#766" type="place">Egelmoos 22.</rs>
-                  </hi>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <salute>
-                  <pb facs="1894_AS_RBH_2_00026"/>Lieber Richard,</salute>
-            </opener>
-            <p>das <hi rend="latintype">Cachenez</hi> hoffentlich nach Wunſch besorgt. <rs ref="#39535" type="org">
-                  <hi rend="latintype">Stoll</hi>
-               </rs>
-               <space unit="chars" quantity="1"/>ſchickt’s noch
-                    heute, ni<c rendition="#gemination-m"/>t es auf Verlangen auch wieder zurück;
-                    ich finde es ſehr ſchön, was keine Suggeſtion ſein ſoll. –</p>
-            <p>
-               <pb facs="1894_AS_RBH_2_00027"/>Gratulation ſchicken Sie in die <rs ref="#397" type="place">Frankgaſſe</rs>, und, <hi rend="underline" n="1">wenn
-                        Sie die <rs type="person" ref="#24423" subtype="implied">Braut</rs> kennen</hi>, auch auf
-                    den <rs ref="#41038" type="place">Lobkowitzplatz</rs>. –</p>
-            <p>Ich dürfte <date>13.</date>, <date>14.</date>, <date>15.</date> nach <rs ref="#213" type="place">Iſchl</rs> ko<c rendition="#gemination-m"/>en, bleibe
-                    bis <date>20.</date> und denke da<c rendition="#gemination-n"/> mit Ihnen u
-                        <rs ref="#10815" type="person">
-                  <hi rend="latintype">Bahr</hi>
-               </rs>, der uns abholt, nach <hi rend="latintype">
-                  <rs ref="#30" type="place">Salzburg</rs>
-               </hi> zu fahren, <pb facs="1894_AS_RBH_2_00027"/>wohin auch <rs ref="#11740" type="person">Hugo</rs> von der <hi rend="latintype">
-                  <rs ref="#573" type="place">Fusch</rs>
-               </hi> aus ko<c rendition="#gemination-m"/>en wird. Ich denke, ſo iſt’s gut?
-                    –</p>
-            <p>
-               <rs ref="#11740" type="person">Hugo</rs> war Freitag früh auf der Durchreiſe von
-                    der <rs ref="#76" type="place">Saleſianergaſſe</rs> nach <rs ref="#69" type="place">Döbling</rs> bei mir. –</p>
-            <p>Was macht der <rs ref="#31535" type="work">Götterliebling</rs>? – Ich bin nicht
-                        un<pb facs="1894_AS_RBH_2_00028"/>fleißig. <rs ref="#24566" type="person">Paul
-                        Schulz</rs> und die <rs ref="#19106 #19096" type="person">Kapper’s</rs> laſſen Sie nur alle wie ſie ſind – wenn wir alle
-                    Menſchen ändern könnten wie wir wollen, ſo würden ſie uns – ſchrecklich zuwider
-                    werden. (Denken Sie nicht drüber nach; es iſt ausſichtslos. Der obige Satz ist
-                    nemlich <pb facs="1894_AS_RBH_2_00029"/>in mannigfacher Weiſe zu beenden.)</p>
-            <p>Neulich waren <rs ref="#2450" type="person">
-                  <hi rend="latintype">Fels</hi>
-               </rs>
-                    und <rs ref="#19610" type="person">
-                  <hi rend="latintype">Korff</hi>
-               </rs> auf
-                    einmal bei mir. –</p>
-            <p>Ich zerbreche mir den Kopf, warum Sie mir geſchrieben haben; ob wegen <rs ref="#19106" type="person">Kapper</rs> oder wegen <rs ref="#24566" type="person">Schulz</rs> oder wegen meines <rs type="person" ref="#12698" subtype="implied">Bruders</rs>? – Einen Augenblick hatte ich nemlich den ſchändlichen Ver<pb facs="1894_AS_RBH_2_00030"/>dacht, dß – das ſchwarze, ſchwere, weiche, matte
-                    Cachenez – Ihres Briefes »erste Schuld und Urſach« wäre. (Ko<c rendition="#gemination-m"/>t nirgends vor. Wenn man ſich ſchämt, macht man
-                    Anführungszeichen.)</p>
-            <p>Leben Sie wohl. Ich freue <pb facs="1894_AS_RBH_2_00030"/>mich nicht aufs
-                    Siegeln, obwohl ich mehr Grund dazu habe wie Sie. –</p>
-            <closer>Schreiben Sie mir bald wieder. Herzlichen Gruß<lb/>Ihr<lb/>
-               <signed>Arthur</signed>
-            </closer>
-            <p>
-               <date>2. Juli 94</date>. <hi rend="latintype">
-                  <rs ref="#50" type="place">Wien</rs>
-               </hi>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2016-04-05">Angelegt</change><change who="KI MAM" when="2016-08-18">Absätze über Bahr kollationiert am
+                Original</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-10-08">Index check</change><change who="GHS" when="2019-10-10">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="1894_AS_RBH_2_00026"/><graphic url="1894_AS_RBH_2_00027"/><graphic url="1894_AS_RBH_2_00028"/><graphic url="1894_AS_RBH_2_00029"/><graphic url="1894_AS_RBH_2_00030"/><graphic url="1894_AS_RBH_2_00031"/><graphic url="1894_AS_RBH_2_00032"/></facsimile><text type="letter"><body><div type="address"><address><addrLine><pb facs="1894_AS_RBH_2_00031"/>Herrn <hi rend="latintype">Dr. Rich. Beer-Hofmann</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb213" type="place">Ischl</rs></hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb766" type="place">Egelmoos 22.</rs></hi></addrLine></address></div><div type="writingSession" n="1"><opener><salute><pb facs="1894_AS_RBH_2_00026"/>Lieber Richard,</salute></opener><p>das <hi rend="latintype">Cachenez</hi> hoffentlich nach Wun<c rendition="#langesS">s</c>ch besorgt. <rs ref="#pmb39535" type="org"><hi rend="latintype">Stoll</hi></rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>chickt’s noch heute, ni<c rendition="#gemination-m"/>t es auf Verlangen auch wieder zurück; ich finde es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön, was keine Sugge<c rendition="#langesS">s</c>tion<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll. –</p><p><pb facs="1894_AS_RBH_2_00027"/>Gratulation<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicken Sie in die <rs ref="#pmb397" type="place">Frankga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e</rs>, und, <hi rend="underline" n="1">wenn Sie die <rs type="person" ref="#pmb24423" subtype="implied">Braut</rs> kennen</hi>, auch auf den <rs ref="#pmb41038" type="place">Lobkowitzplatz</rs>. –</p><p>Ich dürfte <date>13.</date>, <date>14.</date>, <date>15.</date> nach <rs ref="#pmb213" type="place">I<c rendition="#langesS">s</c>chl</rs> ko<c rendition="#gemination-m"/>en, bleibe bis <date>20.</date> und denke da<c rendition="#gemination-n"/> mit Ihnen u <rs ref="#pmb10815" type="person"><hi rend="latintype">Bahr</hi></rs>, der uns abholt, nach <hi rend="latintype"><rs ref="#pmb30" type="place">Salzburg</rs></hi> zu fahren, <pb facs="1894_AS_RBH_2_00027"/>wohin auch <rs ref="#pmb11740" type="person">Hugo</rs> von der <hi rend="latintype"><rs ref="#pmb573" type="place">Fusch</rs></hi> aus ko<c rendition="#gemination-m"/>en wird. Ich denke,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o i<c rendition="#langesS">s</c>t’s gut? –</p><p><rs ref="#pmb11740" type="person">Hugo</rs> war Freitag früh auf der Durchrei<c rendition="#langesS">s</c>e von der <rs ref="#pmb76" type="place">Sale<c rendition="#langesS">s</c>ianerga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e</rs> nach <rs ref="#pmb69" type="place">Döbling</rs> bei mir. –</p><p>Was macht der <rs ref="#pmb31535" type="work">Götterliebling</rs>? – Ich bin nicht un<pb facs="1894_AS_RBH_2_00028"/>fleißig. <rs ref="#pmb24566" type="person">Paul Schulz</rs> und die <rs ref="#pmb19106 #pmb19096" type="person">Kapper’s</rs> la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Sie nur alle wie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind – wenn wir alle Men<c rendition="#langesS">s</c>chen ändern könnten wie wir wollen,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o würden<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie uns –<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chrecklich zuwider werden. (Denken Sie nicht drüber nach; es i<c rendition="#langesS">s</c>t aus<c rendition="#langesS">s</c>ichtslos. Der obige Satz ist nemlich <pb facs="1894_AS_RBH_2_00029"/>in mannigfacher Wei<c rendition="#langesS">s</c>e zu beenden.)</p><p>Neulich waren <rs ref="#pmb2450" type="person"><hi rend="latintype">Fels</hi></rs> und <rs ref="#pmb19610" type="person"><hi rend="latintype">Korff</hi></rs> auf einmal bei mir. –</p><p>Ich zerbreche mir den Kopf, warum Sie mir ge<c rendition="#langesS">s</c>chrieben haben; ob wegen <rs ref="#pmb19106" type="person">Kapper</rs> oder wegen <rs ref="#pmb24566" type="person">Schulz</rs> oder wegen meines <rs type="person" ref="#pmb12698" subtype="implied">Bruders</rs>? – Einen Augenblick hatte ich nemlich den<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chändlichen Ver<pb facs="1894_AS_RBH_2_00030"/>dacht, dß – das<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chwarze,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chwere, weiche, matte Cachenez – Ihres Briefes »erste Schuld und Ur<c rendition="#langesS">s</c>ach« wäre. (Ko<c rendition="#gemination-m"/>t nirgends vor. Wenn man<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chämt, macht man Anführungszeichen.)</p><p>Leben Sie wohl. Ich freue <pb facs="1894_AS_RBH_2_00030"/>mich nicht aufs Siegeln, obwohl ich mehr Grund dazu habe wie Sie. –</p><closer>Schreiben Sie mir bald wieder. Herzlichen Gruß<lb/>Ihr<lb/><signed>Arthur</signed></closer><p><date>2. Juli 94</date>. <hi rend="latintype"><rs ref="#pmb50" type="place">Wien</rs></hi></p></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb24423">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Helene</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1871-07-16">16. 7. 1871</tei:date>
+                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1941-09-01">September 1941</tei:date>
+                     <tei:placeName ref="#pmb12376">Atlantischer Ozean</tei:placeName>
+                  </tei:death>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19823</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb24566">
+                  <tei:persName>
+                     <tei:surname>Schulz</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1860-07-01">1. 7. 1860</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1919-01-31">31. 1. 1919</tei:date>
+                     <tei:placeName ref="#pmb39531">Kreuzlingen</tei:placeName>
+                  </tei:death>
+                  <occupation code="113">Ministerialbeamter/in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19936</idno>
+               </person><person xml:id="pmb19106">
+                  <tei:persName>
+                     <tei:surname>Kapper</tei:surname>
+                     <tei:forename>Friedrich</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-04-21">21. 4. 1861</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-07-22">22. 7. 1939</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="288">Arzt/Ärztin</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16709</idno>
+               </person><person xml:id="pmb19096">
+                  <tei:persName>
+                     <tei:surname>Kapper</tei:surname>
+                     <tei:forename>Adele</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1870-01-25">25. 1. 1870</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1941-01-01">1941</tei:date>
+                     <tei:placeName ref="#pmb4549">Vernichtungslager Maly Trostinez</tei:placeName>
+                  </tei:death>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16706</idno>
+               </person><person xml:id="pmb2450">
+                  <tei:persName>
+                     <tei:surname>Fels</tei:surname>
+                     <tei:forename>Friedrich M.</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1864-07-01">1864</tei:date>
+                     <tei:placeName ref="#pmb41882">Bad Dürkheim</tei:placeName>
+                  </tei:birth>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127899537/</idno>
+               </person><person xml:id="pmb19610">
+                  <tei:persName>
+                     <tei:surname>Korff</tei:surname>
+                     <tei:forename>Heinrich von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1868-06-05">5. 6. 1868</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1938-08-18">18. 8. 1938</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17047</idno>
+               </person><person xml:id="pmb12698">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Julius</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1865-07-13">13. 7. 1865</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-06-29">29. 6. 1939</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="364">Chirurg*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848693/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19827</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb31535">
+                  <tei:author ref="pmb10863" role="author">
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Tod Georgs</tei:title>
+                  <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+                  <tei:note>2793</tei:note>
+                  <tei:note>6192</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb59">
+                  <tei:placeName>IX., Alsergrund</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb213">
+                  <tei:placeName>Bad Ischl</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782052/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb766">
+                  <tei:placeName>Eglmoosgasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.713083 13.61758</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb397">
+                  <tei:placeName>Frankgasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb41038">
+                  <tei:placeName>Lobkowitzplatz</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i21">Platz</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.20527497243 16.368342501178</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb30">
+                  <tei:placeName>Salzburg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.80067 13.04532</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2766818/</idno>
+               </place><place xml:id="pmb573">
+                  <tei:placeName>Bad Fusch</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.2003 12.85589</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2779089/</idno>
+               </place><place xml:id="pmb76">
+                  <tei:placeName>Salesianergasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.199226239476 16.380633449365</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb69">
+                  <tei:placeName>XIX., Döbling</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.25 16.33306</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2780893/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb39535">
+                  <tei:orgName>Stoll &amp; Uhlig</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1332">Schneiderei</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb51">
+                     <tei:placeName>I., Innere Stadt</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

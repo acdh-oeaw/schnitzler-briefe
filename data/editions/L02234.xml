@@ -1,206 +1,157 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xml:id="L02234"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 24. 7. [1916]</title>
-            <author ref="#11740">Hofmannsthal, Hugo von</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02234</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L02234" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 24. 7. [1916]</title><author ref="#pmb11740">Hofmannsthal, Hugo von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02234</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 43</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="briefkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift Jahreszahl und Ort ergänzt: »<quote>
-                                    <date>1916</date>
-                                    <space unit="chars" quantity="1"/>
-                                    <hi rend="latintype">
-                                       <rs ref="#34401" type="place">Altaussee</rs>
-                                    </hi>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von <rs type="person" ref="#22728">Frieda Pollak</rs> (?) mit dem Buchstaben »<quote>A</quote>« (Abgeschrieben/Abschrift) gekennzeichnet</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>
-                                    <del rend="strikethrough">346</del>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>355</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="HvHAS">
-                  <monogr>
-                     <author ref="#11740">Hofmannsthal, Hugo von</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel</title>
-                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1964">1964</date>
-                     </imprint>
-                     <biblScope unit="pp">278</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
-               <placeName ref="#415">Bad Aussee</placeName>
-               <date when="1916-07-24" n="01">24. 7. [1916]</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#34401">Altaussee</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02233">Beer-Hofmann an Schnitzler, 19. 7. 1916</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02235">Schnitzler an Beer-Hofmann, 30. 7. 1916</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02225">Hofmannsthal, Hofmannsthal an Schnitzler, Schnitzler, 5. 5. [1916?]</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02238">Schnitzler an Hofmannsthal, 22. 8. 1916</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-73DA-B</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 43</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift Jahreszahl und Ort ergänzt: »<quote><date>1916</date><space unit="chars" quantity="1"/><hi rend="latintype"><rs ref="#pmb34401" type="place">Altaussee</rs></hi></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von <rs type="person" ref="#pmb22728">Frieda Pollak</rs> (?) mit dem Buchstaben »<quote>A</quote>« (Abgeschrieben/Abschrift) gekennzeichnet</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote><del rend="strikethrough">346</del></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>355</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">278</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb415">Bad Aussee</placeName><date when="1916-07-24" n="01">24. 7. [1916]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb34401">Altaussee</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L02233">Beer-Hofmann an Schnitzler, 19. 7. 1916</ref><ref subtype="next_letter" type="withinCollection" target="L02235">Schnitzler an Beer-Hofmann, 30. 7. 1916</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02225">Hofmannsthal, Hofmannsthal an Schnitzler, Schnitzler, 5. 5. [1916?]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02238">Schnitzler an Hofmannsthal, 22. 8. 1916</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change>
-         <change who="GHS" when="2020-05-08">Durchsicht</change>
-         <change who="MAM" when="2020-08-31">Index check</change>
-         <change who="MAM" when="2020-08-31">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00107"/>
-      <graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00108"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00107"/>
-                  <date>24 VII.</date>
-               </dateline>
-               <salute>mein lieber Arthur</salute>
-            </opener>
-            <p>ich freue mich zu denken daſs Sie <rs ref="#2173" type="person">Olga</rs> u. die <rs type="person" ref="#12692 #2238" subtype="implied">Kinder</rs> hier in der Nähe
-               ſind und, wie ich denke, zufrieden.<space unit="chars" quantity="3"/>Ich hoffe daſs
-               ich eine Zeitlang hier bleiben u. vielleicht etwas für mich arbeiten kann – es iſt
-               freilich immer ungewiſs.<space unit="chars" quantity="3"/>Die <rs type="person" ref="#12692 #2238" subtype="implied">Kinder</rs>
-               <space unit="chars" quantity="1"/>ſagen mir, Sie hätten <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00108"/>geſagt,
-               Ihre Arbeitszeit wäre nachmittag bis gegen 6<hi rend="superscript">h</hi>.<space unit="chars" quantity="3"/>So würde ich gerne morgen etwas nach <time>6<hi rend="superscript">h</hi>
-               </time> zu Ihnen ko<c rendition="#gemination-m"/>en, <rs ref="#2292" type="person">Gerty</rs> auch (außer <rs ref="#2173" type="person">Olga</rs> läſst anderes
-                  ſagen)<space unit="chars" quantity="3"/>Man könnte dann vielleicht zuſa<c rendition="#gemination-m"/>en herumgehen u zuſa<c rendition="#gemination-m"/>en
-               beim <rs ref="#106" type="place">
-                  <hi rend="latintype">Seewirth</hi>
-               </rs> nachtmahlen. Wenn es paſst bedarf es keiner Antwort.</p>
-            <closer>Der Ihre, herzlich<lb/>
-               <signed>Hugo.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-05-08">Durchsicht</change><change who="MAM" when="2020-08-31">Index check</change><change who="MAM" when="2020-08-31">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00107"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00108"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00107"/><date>24 VII.</date></dateline><salute>mein lieber Arthur</salute></opener><p>ich freue mich zu denken da<c rendition="#langesS">s</c>s Sie <rs ref="#pmb2173" type="person">Olga</rs> u. die <rs type="person" ref="#pmb12692 #pmb2238" subtype="implied">Kinder</rs> hier in der Nähe<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind und, wie ich denke, zufrieden.<space unit="chars" quantity="3"/>Ich hoffe da<c rendition="#langesS">s</c>s ich eine Zeitlang hier bleiben u. vielleicht etwas für mich arbeiten kann – es i<c rendition="#langesS">s</c>t freilich immer ungewi<c rendition="#langesS">s</c>s.<space unit="chars" quantity="3"/>Die <rs type="person" ref="#pmb12692 #pmb2238" subtype="implied">Kinder</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>agen mir, Sie hätten <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00108"/>ge<c rendition="#langesS">s</c>agt, Ihre Arbeitszeit wäre nachmittag bis gegen 6<hi rend="superscript">h</hi>.<space unit="chars" quantity="3"/>So würde ich gerne morgen etwas nach <time>6<hi rend="superscript">h</hi></time> zu Ihnen ko<c rendition="#gemination-m"/>en, <rs ref="#pmb2292" type="person">Gerty</rs> auch (außer <rs ref="#pmb2173" type="person">Olga</rs> lä<c rendition="#langesS">s</c>st anderes<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen)<space unit="chars" quantity="3"/>Man könnte dann vielleicht zu<c rendition="#langesS">s</c>a<c rendition="#gemination-m"/>en herumgehen u zu<c rendition="#langesS">s</c>a<c rendition="#gemination-m"/>en beim <rs ref="#pmb106" type="place"><hi rend="latintype">Seewirth</hi></rs> nachtmahlen. Wenn es pa<c rendition="#langesS">s</c>st bedarf es keiner Antwort.</p><closer>Der Ihre, herzlich<lb/><signed>Hugo.</signed></closer></div></body><back><listPerson><person xml:id="pmb22728">
+                  <tei:persName>
+                     <tei:surname>Pollak</tei:surname>
+                     <tei:forename>Frieda</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1881-12-08">8. 12. 1881</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1937-07-13">13. 7. 1937</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="367">Sekretärin</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18881</idno>
+               </person><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb12692">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Heinrich</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1902-08-09">9. 8. 1902</tei:date>
+                     <tei:placeName ref="#pmb75">Hinterbrühl</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1982-07-12">12. 7. 1982</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848510/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19822</idno>
+               </person><person xml:id="pmb2238">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Lili</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1909-09-13">13. 9. 1909</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1928-07-26">26. 7. 1928</tei:date>
+                     <tei:placeName ref="#pmb462">Venedig</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/131362089/</idno>
+               </person><person xml:id="pmb2292">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Gertrude von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1880-03-16">16. 3. 1880</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1959-11-09">9. 11. 1959</tei:date>
+                     <tei:placeName ref="#pmb46885">Paddington</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/116952199/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb34401">
+                  <tei:placeName>Altaussee</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1124">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.6698 13.78453</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/7872434/</idno>
+               </place><place xml:id="pmb415">
+                  <tei:placeName>Bad Aussee</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q251065/</idno>
+               </place><place xml:id="pmb106">
+                  <tei:placeName>Seewirt</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i22">Lokal</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.6417 13.77189</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg/></back></text></TEI>

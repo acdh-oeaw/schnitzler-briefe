@@ -1,277 +1,538 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00674"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Hugo von Hofmannsthal, 6. 5. 1897</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00674</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00674" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hugo von Hofmannsthal, 6. 5. 1897</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00674</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Frankfurt am Main</settlement>
-                        <repository>Freies Deutsches Hochstift</repository>
-                        <idno>Hs-30885,13</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="2" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="8" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>von Schnitzler mutmaßlich bei der Durchsicht der Korrespondenz
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6DC3-C</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Frankfurt am Main</settlement><repository>Freies Deutsches Hochstift</repository><idno>Hs-30885,13</idno></msIdentifier><physDesc><objectDesc><desc n="2" type="_blaetter"/><desc type="brief"/><desc n="8" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="archival"><desc>von Schnitzler mutmaßlich bei der Durchsicht der Korrespondenz
                                     <date>1929</date> auf dem ersten und zweiten Blatt mit Bleistift
-                                 datiert: »<quote>
-                                    <date when="1897-05-06">6/5 97</date>
-                                 </quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="HvHAS">
-                  <monogr>
-                     <author ref="#11740">Hofmannsthal, Hugo von</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel</title>
-                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1964">1964</date>
-                     </imprint>
-                     <biblScope unit="pp">84–85</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#182">Paris</placeName>
-               <date when="1897-05-06" n="01">6. 5. 1897</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00673">Hofmannsthal
-                  an Schnitzler, 2. 5. [1897]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00675">Beer-Hofmann an
-                  Schnitzler, 12. 5. 1897</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L00673"
-                  >Hofmannsthal an Schnitzler, 2. 5. [1897]</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00677">Hofmannsthal
-                  an Schnitzler, 17. 5. [1897]</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                                 datiert: »<quote><date when="1897-05-06">6/5 97</date></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">84–85</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb182">Paris</placeName><date when="1897-05-06" n="01">6. 5. 1897</date></correspAction><correspAction type="received"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L00673">Hofmannsthal
+                  an Schnitzler, 2. 5. [1897]</ref><ref subtype="next_letter" type="withinCollection" target="L00675">Beer-Hofmann an
+                  Schnitzler, 12. 5. 1897</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00673">Hofmannsthal an Schnitzler, 2. 5. [1897]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00677">Hofmannsthal
+                  an Schnitzler, 17. 5. [1897]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2019-04-26">Angelegt</change>
-         <change who="MAM" when="2019-04-26">Durchsicht</change>
-         <change who="MAM" when="2019-07-11">Index check</change>
-         <change who="GHS" when="2019-11-01">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="Hs-30885,13a_001"/>
-      <graphic url="Hs-30885,13a_002"/>
-      <graphic url="Hs-30885,13b_001"/>
-      <graphic url="Hs-30885,13b_002"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <p>
-               <salute>
-                  <pb facs="Hs-30885,13a_001"/>Mein lieber Hugo, </salute>
-               <rs ref="#11324" type="person">Fiſcher</rs> hat den Satz von <rs ref="#34096"
-                  type="work">Mimi</rs> auf meinen Wunſch bereits ablegen laſſen, und ſo iſt die
-               letzte Gefahr geſchwunden. Ich hoffe, Sie haben meinen vorigen, zweiten Brief, in dem
-               ich Ihnen auf Ihr diesbezügliches Erſuchen geantwortet, erhalten? – Iſt es ruhig
-               geworden im Hauſe <rs ref="#28299 #20548" type="person">Loeb</rs>? – Wie geht es der
-               geſchädigten <rs type="person" ref="#12435" subtype="implied">Verfaſſerin</rs> der
-                  <rs type="work" ref="#34096" subtype="implied">Scenen aus einem
-               Mädchenleben</rs>?</p>
-            <p>– Die <rs ref="#15313" type="person">Delna</rs> hab ich ſchon gehört; gerade am Abend
-               bevor Ihr Brief kam, als <rs type="work" ref="#34253" subtype="implied">Orpheus</rs>.
-               Sie hat eine <pb facs="Hs-30885,13a_002"/>mächtige, nicht immer edle Stimme; eine
-               beſondre Höhe der Darſtellung und des Geſangs erreicht ſie am Schluſs; da bin ich
-               tief ergriffen geweſen – bis dahin hatt’ ich die <rs ref="#4249" type="person"
-                  >Papier</rs> nicht vergeſſen können. –</p>
-            <p>Jetzt eben ko<c rendition="#gemination-m"/>e ich von einer <hi rend="latintype"
-                  >Matinée</hi> im <rs ref="#554" type="place">
-                  <hi rend="latintype">Français</hi>
-               </rs>, wo man den <rs ref="#34332" type="work">
-                  <hi rend="latintype">Misanthropen</hi>
-               </rs> gegeben hat. Um hier der abſoluten Größe inne zu werden, muſs man ſich doch
-               erſt hiſtoriſch montieren, was weder bei <rs ref="#2693" type="person">
-                  <hi rend="latintype">Sophokles</hi>
-               </rs> noch bei <rs ref="#2412" type="person">
-                  <hi rend="latintype">Shakespeare</hi>
-               </rs> notwendig iſt. Erſt im letzten Akt, <pb facs="Hs-30885,13a_002"/>wo nicht mehr
-                  <hi rend="latintype">
-                  <hi rend="underline" n="1">le</hi> misanthrope</hi>, ſondern <hi rend="latintype">
-                  <hi rend="underline" n="1">un</hi> misanthrope</hi> vor einem ſteht, ſpürt man was
-               ewig menſchliches. Es liegt wohl daran, daſs alles, was in dieſem <rs type="work"
-                  ref="#34332" subtype="implied">Stück</rs> vorgeht, einfach die Anſicht des Helden
-               beſtätigt; er erfährt nichts neues, denn ſchon im erſten Auftritt weiſs er, was die
-               Menſchen für ein Geſindel ſind. Erſt ſein Entſchluſs, in die Einſamkeit ſich
-               zurückzuziehen, bewegt uns; wahrſcheinlich weil wir wiſſen, daſs ſeine ganze
-               Menſchenfeindſchaft nichts <pb facs="Hs-30885,13a_001"/>iſt als Sehnſucht nach guten
-               Menſchen, die er jetzt ein für alle Mal ſelbſt zu etwas unerfüllbarem macht; denn er
-               wird niemanden mehr kennen lernen. –</p>
-            <p>Tröſten Sie ſich wegen des gemiſchten Hausbrotes: Wochenlang hab ich ein weißes
-               trocknes gegeſſen (<rs ref="#34334" type="work">wer nie ſein Brod mit Thränen
-                  aſs</rs>– !); und auch jetzt nehm ich meine Mahlzeiten in einer <rs ref="#166"
-                  type="place">ſtockfranzöſiſchen</rs> Familie ein, wo keine heimatlichen <pb
-                  facs="Hs-30885,13b_001"/>Gulyasdüfte aufſteigen. Sie ahnen nicht, wie viel »ganz
-               andres« ich eſſe. Die hieſige Einteilung 12 Uhr Dejeuner, 7 Diner, 9 Theater, behagt
-               mir außerordentlich.</p>
-            <p>Schöne Radpartien? Z. B. fahren Sie von der <rs ref="#24686" type="person">Tini</rs>
-               aus über <rs ref="#939" type="place">Heiligenkreuz</rs> – <rs ref="#44715"
-                  type="place">Alland</rs> – <rs ref="#47414" type="place">
-                  <hi rend="underline" n="1">Neuhaus</hi>
-               </rs> (bei <rs ref="#34350" type="place">Nöſtach</rs>) – <rs ref="#40112"
-                  type="place">Pottenſtein</rs> – <rs ref="#992" type="place">Vöslau</rs>. Oder: <rs
-                  ref="#456" type="place">Rohrerhütte</rs> – <rs ref="#34354" type="place"
-                  >Königſtetten</rs> (ſehr bergig, ſchieben!) – <rs ref="#41239" type="place"
-                  >Tulln</rs>, dann an der <geogName type="river">Donau</geogName> zurück nach <rs
-                  ref="#44392" type="place">Kloſterneuburg</rs>. – Sehr hübſch auch die kleine Tour
-                  <rs ref="#41239" type="place">Tulln</rs> – <rs ref="#54769" type="place"
-                  >Stockerau</rs>. <pb facs="Hs-30885,13b_002"/>Oder: <rs ref="#54767" type="place"
-                  >Rekawinkel</rs> – <rs ref="#271" type="place">Hütteldorf</rs> (Weſtbahnſtrecke.)
-               Od: <rs ref="#587" type="place">Wiener Neuſtadt</rs> – <rs ref="#483" type="place"
-                  >Reichenau</rs>. – Ich freue mich ſehr, we<c rendition="#gemination-n"/> wir
-                  zuſa<c rendition="#gemination-m"/>en fahren werden.</p>
-            <p>Wie lang bleiben Sie de<c rendition="#gemination-n"/> in <rs ref="#50" type="place"
-                  >Wien</rs>? Und wie wird heuer der Sommer werden? Ich möchte ſo gern zum Arbeiten
-                  ko<c rendition="#gemination-m"/>en; hier ſpiele ich höchſtens mit Plänen; aber
-               möglicherweiſe iſt <subst>
-                  <del rend="strikethrough">mehr</del>
-                  <add place="above">mir</add>
-               </subst> durch ein merkwürdiges <anchor xml:id="K_L00674_1" type="commentary"
-               />Zuſammenfließen zweier Pläne<note xml:id="K_L00674_1h" type="commentary">Am <ref
-                     target="1897-04-30" subtype="date-only" type="schnitzlerDiary"/> überlegte <rs
-                     ref="#2121" type="person">Schnitzler</rs>, die Stoffe »Die Entrüsteten« und
-                  »Rettung« zusammenzufügen. Ersteres handelte vom Zusammenleben ohne zu heiraten
-                  (in Anlehnung an sein Leben mit <rs ref="#2378" type="person">Marie
-                  Reinhard</rs>), sodass der zweite in Beziehung mit <rs ref="#24033" type="person"
-                     >Hermine Benedict</rs> steht. Aus dem Projekt, das in diesem Stadium noch als
-                  Stück gedacht war, entwickelte sich im nächsten Jahrzehnt der Roman <rs
-                     ref="#29923" type="work">Der Weg ins Freie</rs>.</note>, worunter einer der mit
-               der <rs ref="#24033" type="person">Minni</rs>, etwas gutes <pb
-                  facs="Hs-30885,13b_002"/>eingefallen. –</p>
-            <p>Den <rs ref="#31535" type="work">Götterliebling</rs> hoff ich ganz fertig
-               anzutreffen. Bei dem <rs type="work" ref="#30474" subtype="implied">Stück</rs> von
-                  <rs ref="#11701" type="person">Hirſchf.</rs> zweifle ich gar nicht daran. – Iſt
-               bei <rs ref="#13970 #13973" type="person">Ben.</rs> nach mir gefragt worden? –</p>
-            <p>
-               <rs ref="#11485" type="person">Paul Goldma<c rendition="#gemination-n"/>
-               </rs> hat unglaublich viel zu thun, u. we<c rendition="#gemination-n"/> ich ihn nicht
-               gerade auf ſeinen Excurſionen zwiſchen Bureau u. Telegraphenamt begleite, wie z. B.
-               geſtern, wo das Brandunglück im <rs ref="#29248" type="org">
-                  <hi rend="latintype">Bazar de la Charité</hi>
-               </rs> den Zeitungen ſo <pb facs="Hs-30885,13a_001"/>viel zu thun gab, hab ich
-               eigentlich wenig von ihm. Aber ſein Weſen macht mir ſehr viel Freude; und er gehört
-               zu den wenigen, an denen ich mich erhole, von denen aus mir der Weg zu mir ſelbſt am
-               freieſten und klarſten daliegt.</p>
-            <closer>Herzlich der Ihre<lb/>
-               <signed>Arth</signed>
-            </closer>
-            <postscript>
-               <dateline>
-                  <rs ref="#182" type="place">Paris</rs>
-                  <space unit="chars" quantity="1"/>
-                  <date>6. 5. 97</date>.</dateline>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-04-26">Angelegt</change><change who="MAM" when="2019-04-26">Durchsicht</change><change who="MAM" when="2019-07-11">Index check</change><change who="GHS" when="2019-11-01">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="Hs-30885,13a_001"/><graphic url="Hs-30885,13a_002"/><graphic url="Hs-30885,13b_001"/><graphic url="Hs-30885,13b_002"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><salute><pb facs="Hs-30885,13a_001"/>Mein lieber Hugo, </salute><rs ref="#pmb11324" type="person">Fi<c rendition="#langesS">s</c>cher</rs> hat den Satz von <rs ref="#pmb34096" type="work">Mimi</rs> auf meinen Wun<c rendition="#langesS">s</c>ch bereits ablegen la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en, und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o i<c rendition="#langesS">s</c>t die letzte Gefahr ge<c rendition="#langesS">s</c>chwunden. Ich hoffe, Sie haben meinen vorigen, zweiten Brief, in dem ich Ihnen auf Ihr diesbezügliches Er<c rendition="#langesS">s</c>uchen geantwortet, erhalten? – I<c rendition="#langesS">s</c>t es ruhig geworden im Hau<c rendition="#langesS">s</c>e <rs ref="#pmb28299 #pmb20548" type="person">Loeb</rs>? – Wie geht es der ge<c rendition="#langesS">s</c>chädigten <rs type="person" ref="#pmb12435" subtype="implied">Verfa<c rendition="#langesS">s</c><c rendition="#langesS">s</c>erin</rs> der <rs type="work" ref="#pmb34096" subtype="implied">Scenen aus einem Mädchenleben</rs>?</p><p>– Die <rs ref="#pmb15313" type="person">Delna</rs> hab ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon gehört; gerade am Abend bevor Ihr Brief kam, als <rs type="work" ref="#pmb34253" subtype="implied">Orpheus</rs>. Sie hat eine <pb facs="Hs-30885,13a_002"/>mächtige, nicht immer edle Stimme; eine be<c rendition="#langesS">s</c>ondre Höhe der Dar<c rendition="#langesS">s</c>tellung und des Ge<c rendition="#langesS">s</c>angs erreicht<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie am Schlu<c rendition="#langesS">s</c>s; da bin ich tief ergriffen gewe<c rendition="#langesS">s</c>en – bis dahin hatt’ ich die <rs ref="#pmb4249" type="person">Papier</rs> nicht verge<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en können. –</p><p>Jetzt eben ko<c rendition="#gemination-m"/>e ich von einer <hi rend="latintype">Matinée</hi> im <rs ref="#pmb554" type="place"><hi rend="latintype">Français</hi></rs>, wo man den <rs ref="#pmb34332" type="work"><hi rend="latintype">Misanthropen</hi></rs> gegeben hat. Um hier der ab<c rendition="#langesS">s</c>oluten Größe inne zu werden, mu<c rendition="#langesS">s</c>s man<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich doch er<c rendition="#langesS">s</c>t hi<c rendition="#langesS">s</c>tori<c rendition="#langesS">s</c>ch montieren, was weder bei <rs ref="#pmb2693" type="person"><hi rend="latintype">Sophokles</hi></rs> noch bei <rs ref="#pmb2412" type="person"><hi rend="latintype">Shakespeare</hi></rs> notwendig i<c rendition="#langesS">s</c>t. Er<c rendition="#langesS">s</c>t im letzten Akt, <pb facs="Hs-30885,13a_002"/>wo nicht mehr <hi rend="latintype"><hi rend="underline" n="1">le</hi> misanthrope</hi>,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ondern <hi rend="latintype"><hi rend="underline" n="1">un</hi> misanthrope</hi> vor einem<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>teht,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>pürt man was ewig men<c rendition="#langesS">s</c>chliches. Es liegt wohl daran, da<c rendition="#langesS">s</c>s alles, was in die<c rendition="#langesS">s</c>em <rs type="work" ref="#pmb34332" subtype="implied">Stück</rs> vorgeht, einfach die An<c rendition="#langesS">s</c>icht des Helden be<c rendition="#langesS">s</c>tätigt; er erfährt nichts neues, denn<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon im er<c rendition="#langesS">s</c>ten Auftritt wei<c rendition="#langesS">s</c>s er, was die Men<c rendition="#langesS">s</c>chen für ein Ge<c rendition="#langesS">s</c>indel<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind. Er<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein Ent<c rendition="#langesS">s</c>chlu<c rendition="#langesS">s</c>s, in die Ein<c rendition="#langesS">s</c>amkeit<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich zurückzuziehen, bewegt uns; wahr<c rendition="#langesS">s</c>cheinlich weil wir wi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en, da<c rendition="#langesS">s</c>s<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eine ganze Men<c rendition="#langesS">s</c>chenfeind<c rendition="#langesS">s</c>chaft nichts <pb facs="Hs-30885,13a_001"/>i<c rendition="#langesS">s</c>t als Sehn<c rendition="#langesS">s</c>ucht nach guten Men<c rendition="#langesS">s</c>chen, die er jetzt ein für alle Mal<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t zu etwas unerfüllbarem macht; denn er wird niemanden mehr kennen lernen. –</p><p>Trö<c rendition="#langesS">s</c>ten Sie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich wegen des gemi<c rendition="#langesS">s</c>chten Hausbrotes: Wochenlang hab ich ein weißes trocknes gege<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en (<rs ref="#pmb34334" type="work">wer nie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein Brod mit Thränen a<c rendition="#langesS">s</c>s</rs>– !); und auch jetzt nehm ich meine Mahlzeiten in einer <rs ref="#pmb166" type="place"><c rendition="#langesS">s</c>tockfranzö<c rendition="#langesS">s</c>i<c rendition="#langesS">s</c>chen</rs> Familie ein, wo keine heimatlichen <pb facs="Hs-30885,13b_001"/>Gulyasdüfte auf<c rendition="#langesS">s</c>teigen. Sie ahnen nicht, wie viel »ganz andres« ich e<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e. Die hie<c rendition="#langesS">s</c>ige Einteilung 12 Uhr Dejeuner, 7 Diner, 9 Theater, behagt mir außerordentlich.</p><p>Schöne Radpartien? Z. B. fahren Sie von der <rs ref="#pmb24686" type="person">Tini</rs> aus über <rs ref="#pmb939" type="place">Heiligenkreuz</rs> – <rs ref="#pmb44715" type="place">Alland</rs> – <rs ref="#pmb47414" type="place"><hi rend="underline" n="1">Neuhaus</hi></rs> (bei <rs ref="#pmb34350" type="place">Nö<c rendition="#langesS">s</c>tach</rs>) – <rs ref="#pmb40112" type="place">Potten<c rendition="#langesS">s</c>tein</rs> – <rs ref="#pmb992" type="place">Vöslau</rs>. Oder: <rs ref="#pmb456" type="place">Rohrerhütte</rs> – <rs ref="#pmb34354" type="place">König<c rendition="#langesS">s</c>tetten</rs> (<c rendition="#langesS">s</c>ehr bergig,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chieben!) – <rs ref="#pmb41239" type="place">Tulln</rs>, dann an der <geogName type="river">Donau</geogName> zurück nach <rs ref="#pmb44392" type="place">Klo<c rendition="#langesS">s</c>terneuburg</rs>. – Sehr hüb<c rendition="#langesS">s</c>ch auch die kleine Tour <rs ref="#pmb41239" type="place">Tulln</rs> – <rs ref="#pmb54769" type="place">Stockerau</rs>. <pb facs="Hs-30885,13b_002"/>Oder: <rs ref="#pmb54767" type="place">Rekawinkel</rs> – <rs ref="#pmb271" type="place">Hütteldorf</rs> (We<c rendition="#langesS">s</c>tbahn<c rendition="#langesS">s</c>trecke.) Od: <rs ref="#pmb587" type="place">Wiener Neu<c rendition="#langesS">s</c>tadt</rs> – <rs ref="#pmb483" type="place">Reichenau</rs>. – Ich freue mich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr, we<c rendition="#gemination-n"/> wir zu<c rendition="#langesS">s</c>a<c rendition="#gemination-m"/>en fahren werden.</p><p>Wie lang bleiben Sie de<c rendition="#gemination-n"/> in <rs ref="#pmb50" type="place">Wien</rs>? Und wie wird heuer der Sommer werden? Ich möchte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o gern zum Arbeiten ko<c rendition="#gemination-m"/>en; hier<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>piele ich höch<c rendition="#langesS">s</c>tens mit Plänen; aber möglicherwei<c rendition="#langesS">s</c>e i<c rendition="#langesS">s</c>t <subst><del rend="strikethrough">mehr</del><add place="above">mir</add></subst> durch ein merkwürdiges <anchor xml:id="K_L00674_1" type="commentary"/>Zu<c rendition="#langesS">s</c>ammenfließen zweier Pläne<note xml:id="K_L00674_1h" type="commentary">Am <ref target="1897-04-30" subtype="date-only" type="schnitzlerDiary"/> überlegte <rs ref="#pmb2121" type="person">Schnitzler</rs>, die Stoffe »Die Entrüsteten« und »Rettung« zusammenzufügen. Ersteres handelte vom Zusammenleben ohne zu heiraten (in Anlehnung an sein Leben mit <rs ref="#pmb2378" type="person">Marie Reinhard</rs>), sodass der zweite in Beziehung mit <rs ref="#pmb24033" type="person">Hermine Benedict</rs> steht. Aus dem Projekt, das in diesem Stadium noch als Stück gedacht war, entwickelte sich im nächsten Jahrzehnt der Roman <rs ref="#pmb29923" type="work">Der Weg ins Freie</rs>.</note>, worunter einer der mit der <rs ref="#pmb24033" type="person">Minni</rs>, etwas gutes <pb facs="Hs-30885,13b_002"/>eingefallen. –</p><p>Den <rs ref="#pmb31535" type="work">Götterliebling</rs> hoff ich ganz fertig anzutreffen. Bei dem <rs type="work" ref="#pmb30474" subtype="implied">Stück</rs> von <rs ref="#pmb11701" type="person">Hir<c rendition="#langesS">s</c>chf.</rs> zweifle ich gar nicht daran. – I<c rendition="#langesS">s</c>t bei <rs ref="#pmb13970 #pmb13973" type="person">Ben.</rs> nach mir gefragt worden? –</p><p><rs ref="#pmb11485" type="person">Paul Goldma<c rendition="#gemination-n"/></rs> hat unglaublich viel zu thun, u. we<c rendition="#gemination-n"/> ich ihn nicht gerade auf<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>einen Excur<c rendition="#langesS">s</c>ionen zwi<c rendition="#langesS">s</c>chen Bureau u. Telegraphenamt begleite, wie z. B. ge<c rendition="#langesS">s</c>tern, wo das Brandunglück im <rs ref="#pmb29248" type="org"><hi rend="latintype">Bazar de la Charité</hi></rs> den Zeitungen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o <pb facs="Hs-30885,13a_001"/>viel zu thun gab, hab ich eigentlich wenig von ihm. Aber<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein We<c rendition="#langesS">s</c>en macht mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr viel Freude; und er gehört zu den wenigen, an denen ich mich erhole, von denen aus mir der Weg zu mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t am freie<c rendition="#langesS">s</c>ten und klar<c rendition="#langesS">s</c>ten daliegt.</p><closer>Herzlich der Ihre<lb/><signed>Arth</signed></closer><postscript><dateline><rs ref="#pmb182" type="place">Paris</rs><space unit="chars" quantity="1"/><date>6. 5. 97</date>.</dateline></postscript></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb11324">
+                  <tei:persName>
+                     <tei:surname>Fischer</tei:surname>
+                     <tei:forename>Samuel</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1859-12-24">24. 12. 1859</tei:date>
+                     <tei:placeName ref="#pmb55962">Liptovský Mikuláš</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-10-15">15. 10. 1934</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="144">Verleger*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118691406/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15009</idno>
+               </person><person xml:id="pmb28299">
+                  <tei:persName>
+                     <tei:surname>Loeb</tei:surname>
+                     <tei:forename>Regina</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1850-01-01">1850</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1918-02-05">5. 2. 1918</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+               </person><person xml:id="pmb20548">
+                  <tei:persName>
+                     <tei:surname>Loeb</tei:surname>
+                     <tei:forename>Louis</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1842-06-29">29. 6. 1842</tei:date>
+                     <tei:placeName ref="#pmb20549">Mattersdorf</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1921-06-06">6. 6. 1921</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="254">Bankier*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17610</idno>
+               </person><person xml:id="pmb12435">
+                  <tei:persName>
+                     <tei:surname>Pollaczek</tei:surname>
+                     <tei:forename>Clara Katharina</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-01-15">15. 1. 1875</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1951-07-22">22. 7. 1951</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="91">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/13950916X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18863</idno>
+               </person><person xml:id="pmb15313">
+                  <tei:persName>
+                     <tei:surname>Delna</tei:surname>
+                     <tei:forename>Marie</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-04-03">3. 4. 1875</tei:date>
+                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1932-07-23">23. 7. 1932</tei:date>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14405</idno>
+               </person><person xml:id="pmb4249">
+                  <tei:persName>
+                     <tei:surname>Papier</tei:surname>
+                     <tei:forename>Rosa</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1858-09-18">18. 9. 1858</tei:date>
+                     <tei:placeName ref="#pmb662">Baden bei Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1932-02-09">9. 2. 1932</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="301">Gesangspädagoge/in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116067144/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18659</idno>
+               </person><person xml:id="pmb2693">
+                  <tei:persName>
+                     <tei:surname>Sophokles</tei:surname>
+                     <tei:forename/>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="0001-01-01">497/496? v. u. Z.</tei:date>
+                     <tei:placeName ref="#pmb53840">Kolonos</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date>406/405 v. u. Z.</tei:date>
+                     <tei:placeName ref="#pmb505">Athen</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118615688/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20215</idno>
+               </person><person xml:id="pmb2412">
+                  <tei:persName>
+                     <tei:surname>Shakespeare</tei:surname>
+                     <tei:forename>William</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1564-04-23">23.4.1564?</tei:date>
+                     <tei:placeName ref="#pmb49870">Stratford-upon-Avon</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1616-05-03">3. 5. 1616</tei:date>
+                     <tei:placeName ref="#pmb49870">Stratford-upon-Avon</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118613723/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20078</idno>
+               </person><person xml:id="pmb24686">
+                  <tei:persName>
+                     <tei:surname>Schönberger</tei:surname>
+                     <tei:forename>Christine</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-11-17">17. 11. 1875</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1971-02-03">3. 2. 1971</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="751">Gastwirtin</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19843</idno>
+               </person><person xml:id="pmb2378">
+                  <tei:persName>
+                     <tei:surname>Reinhard</tei:surname>
+                     <tei:forename>Marie</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1871-03-13">13. 3. 1871</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1899-03-18">18. 3. 1899</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="148">Gesangspädagoge/in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/123368790/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19150</idno>
+               </person><person xml:id="pmb24033">
+                  <tei:persName>
+                     <tei:surname>Schaffgotsch</tei:surname>
+                     <tei:forename>Hermine von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1871-11-25">25. 11. 1871</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1928-11-25">25. 11. 1928</tei:date>
+                     <tei:placeName ref="#pmb24030">Purgstall</tei:placeName>
+                  </tei:death>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19611</idno>
+               </person><person xml:id="pmb11701">
+                  <tei:persName>
+                     <tei:surname>Hirschfeld</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1873-02-11">11. 2. 1873</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1942-01-17">17. 1. 1942</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/101708122/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16222</idno>
+               </person><person xml:id="pmb13970">
+                  <tei:persName>
+                     <tei:surname>Benedict</tei:surname>
+                     <tei:forename>Marianne</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1848-01-01">1. 1. 1848</tei:date>
+                     <tei:placeName ref="#pmb39615">Bratislava</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1930-05-12">12. 5. 1930</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13581</idno>
+               </person><person xml:id="pmb13973">
+                  <tei:persName>
+                     <tei:surname>Benedict</tei:surname>
+                     <tei:forename>Markus</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1834-09-17">17. 9. 1834</tei:date>
+                     <tei:placeName ref="#pmb40412">Mikulov</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1909-02-26">26. 2. 1909</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="152">Industrielle/r</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13582</idno>
+               </person><person xml:id="pmb11485">
+                  <tei:persName>
+                     <tei:surname>Goldmann</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1865-01-31">31. 1. 1865</tei:date>
+                     <tei:placeName ref="#pmb677">Breslau</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-09-25">25. 9. 1935</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116755105/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15529</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb34096">
+                  <tei:author ref="pmb12435" role="author">
+                     <tei:surname>Pollaczek</tei:surname>
+                     <tei:forename>Clara Katharina</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb11740" role="contributor">
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                     <tei:term>[Beitrag]</tei:term>
+                  </tei:author>
+                  <tei:title>Mimi</tei:title>
+                  <tei:date when="1897-04-01" when-custom="1.4.1897">1. 4. 1897</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>2193</tei:note>
+               </bibl><bibl xml:id="pmb34253">
+                  <tei:title>Orpheus und Eurydike</tei:title>
+                  <tei:date from="1762-10-05" from-custom="5.10.1762">5. 10. 1762</tei:date>
+                  <tei:gloss type="w1059">Oper</tei:gloss>
+               </bibl><bibl xml:id="pmb34332">
+                  <tei:author ref="pmb3272" role="author">
+                     <tei:surname>Molière</tei:surname>
+                     <tei:forename>Jean-Baptiste</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Menschenfeind</tei:title>
+                  <tei:date from="1666-06-04" from-custom="4.6.1666">4. 6. 1666</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb34334">
+                  <tei:author ref="pmb11461" role="author">
+                     <tei:surname>Goethe</tei:surname>
+                     <tei:forename>Johann Wolfgang von</tei:forename>
+                  </tei:author>
+                  <tei:title>Wer nie sein Brod mit Thränen as</tei:title>
+                  <tei:date from="1795-01-01" from-custom="1795" to="1796-01-01" to-custom="1796">1795–1796</tei:date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
+               </bibl><bibl xml:id="pmb29923">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Weg ins Freie. Roman</tei:title>
+                  <tei:date from="1908-01-01" from-custom="1.1.1908" to="1908-06-01" to-custom="1.6.1908">1. 1. 1908–1. 6. 1908</tei:date>
+                  <tei:gloss type="w1060">Roman</tei:gloss>
+                  <tei:note>2849</tei:note>
+                  <tei:note>8047</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q700479/</idno>
+               </bibl><bibl xml:id="pmb31535">
+                  <tei:author ref="pmb10863" role="author">
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Tod Georgs</tei:title>
+                  <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+                  <tei:note>2793</tei:note>
+                  <tei:note>6192</tei:note>
+               </bibl><bibl xml:id="pmb30474">
+                  <tei:author ref="pmb11701" role="author">
+                     <tei:surname>Hirschfeld</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:author>
+                  <tei:title>Agnes Jordan. Schauspiel in fünf Akten</tei:title>
+                  <tei:date from="1897-01-01" from-custom="1897">1897</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb182">
+                  <tei:placeName>Paris</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.85341 2.3488</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2988507/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4044660-8/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb554">
+                  <tei:placeName>Comédie française</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1680-07-01" from-custom="1680-07-01">1. 7. 1680</tei:date>
+                     <tei:gloss ana="i4">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.863611 2.335833</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q836007/</idno>
+               </place><place xml:id="pmb166">
+                  <tei:placeName>Frankreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">46.0 2.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3017382/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q142/</idno>
+               </place><place xml:id="pmb939">
+                  <tei:placeName>Heiligenkreuz</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.04261 16.15292</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/7871707/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q665159/</idno>
+               </place><place xml:id="pmb44715">
+                  <tei:placeName>Alland</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1410">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.05829 16.07901</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782802/</idno>
+               </place><place xml:id="pmb47414">
+                  <tei:placeName>Neuhaus</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.99521 16.04588</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2770778/</idno>
+               </place><place xml:id="pmb34350">
+                  <tei:placeName>Nöstach</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1123">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.02702 16.02339</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2770422/</idno>
+               </place><place xml:id="pmb40112">
+                  <tei:placeName>Pottenstein</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1128">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.9582 16.0948</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2768468/</idno>
+               </place><place xml:id="pmb992">
+                  <tei:placeName>Bad Vöslau</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.96533 16.21359</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782043/</idno>
+                  <idno type="geonames">https://www.geonames.org/7871703/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q798800/</idno>
+               </place><place xml:id="pmb456">
+                  <tei:placeName>Rohrerhütte</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i17">Gastgewerbegebäude</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.24616 16.26269</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb34354">
+                  <tei:placeName>Königstetten</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1128">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.30198 16.14492</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2773736/</idno>
+               </place><place xml:id="pmb41239">
+                  <tei:placeName>Tulln an der Donau</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1124">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.33327 16.06409</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/7871918/</idno>
+               </place><place xml:id="pmb44392">
+                  <tei:placeName>Weidling</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.291 16.30865</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761741/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q484858/</idno>
+               </place><place xml:id="pmb54769">
+                  <tei:placeName>Stockerau</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1410">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.38333 16.21667</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2764279/</idno>
+               </place><place xml:id="pmb54767">
+                  <tei:placeName>Rekawinkel</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.17936 16.02433</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2767581/</idno>
+               </place><place xml:id="pmb271">
+                  <tei:placeName>Hütteldorf</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i40">eingemeindeter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.201667 16.258056</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb587">
+                  <tei:placeName>Wiener Neustadt</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.8 16.25</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761349/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q131612/</idno>
+               </place><place xml:id="pmb483">
+                  <tei:placeName>Reichenau an der Rax</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.7 15.83333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2767775/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q665243/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29248">
+                  <tei:orgName>Bazar de la Charité</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i989">Wohltätigkeitsveranstaltung</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb182">
+                     <tei:placeName>Paris</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.85341 2.3488</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

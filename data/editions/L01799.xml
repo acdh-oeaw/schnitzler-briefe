@@ -1,295 +1,303 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01799"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Hermann Bodmer und andere an Arthur Schnitzler, 9. 11. 1908</title>
-            <author ref="#29122">Probst, E.</author>
-            <author ref="#29123">Probst, R.</author>
-            <author ref="#29120">Staehelin-Baechtold, Josef</author>
-            <author ref="#29126">Huber, R. W.</author>
-            <author ref="#28344">Staehelin-Baechtold, Gertrud</author>
-            <author ref="#11913">Kesser, Hermann</author>
-            <author ref="#29124">Bodmer, Mathilde</author>
-            <author ref="#5489">Bodmer, Hermann</author>
-            <author ref="#5490">Bodman, Emanuel von</author>
-            <author ref="#5495">Sartoris, Spyridon</author>
-            <author ref="#29121">Sartoris, M.</author>
-            <author ref="#10977">Bodmer, Hans</author>
-            <author ref="#10815">Bahr, Hermann</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01799</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01799" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hermann Bodmer und andere an Arthur Schnitzler, 9. 11. 1908</title><author ref="#pmb29122">Probst, E.</author><author ref="#pmb29123">Probst, R.</author><author ref="#pmb29120">Staehelin-Baechtold, Josef</author><author ref="#pmb29126">Huber, R. W.</author><author ref="#pmb28344">Staehelin-Baechtold, Gertrud</author><author ref="#pmb11913">Kesser, Hermann</author><author ref="#pmb29124">Bodmer, Mathilde</author><author ref="#pmb5489">Bodmer, Hermann</author><author ref="#pmb5490">Bodman, Emanuel von</author><author ref="#pmb5495">Sartoris, Spyridon</author><author ref="#pmb29121">Sartoris, M.</author><author ref="#pmb10977">Bodmer, Hans</author><author ref="#pmb10815">Bahr, Hermann</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01799</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Marbach am Neckar</settlement>
-                        <repository>Deutsches Literaturarchiv</repository>
-                        <idno>A:Schnitzler, HS.NZ85.1.2568</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="bildpostkarte"/>
-                        </objectDesc>
-                        <handDesc hands="13">
-                           <handNote medium="bleistift" corresp="#29122" style="nicht_anzuwenden"/>
-                           <handNote medium="bleistift" corresp="#29123" style="nicht_anzuwenden"> </handNote>
-                           <handNote medium="bleistift" corresp="#29120" style="nicht_anzuwenden"> </handNote>
-                           <handNote medium="bleistift" corresp="#29126" style="nicht_anzuwenden"> </handNote>
-                           <handNote medium="bleistift" corresp="#28344" style="nicht_anzuwenden"> </handNote>
-                           <handNote medium="bleistift" corresp="#11913" style="nicht_anzuwenden"> </handNote>
-                           <handNote medium="bleistift" corresp="#29124" style="nicht_anzuwenden"> </handNote>
-                           <handNote medium="bleistift" corresp="#5489" style="lateinische-kurrent"/>
-                           <handNote medium="bleistift" corresp="#5490" style="nicht_anzuwenden"> </handNote>
-                           <handNote medium="bleistift" corresp="#5495" style="nicht_anzuwenden"> </handNote>
-                           <handNote medium="bleistift" corresp="#29121" style="nicht_anzuwenden"> </handNote>
-                           <handNote medium="bleistift" corresp="#10977" style="lateinische-kurrent"/>
-                           <handNote medium="bleistift" corresp="#10815" style="deutsche-kurrent"
-                           > </handNote>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#1142">Zürich 12 Neumünster</placeName>
-                                    <date>10. XI. 08</date>
-                                    <time>2</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#29122">Probst, E.</persName>
-               <persName ref="#29123">Probst, R.</persName>
-               <persName ref="#29120">Staehelin-Baechtold, Josef</persName>
-               <persName ref="#29126">Huber, R. W.</persName>
-               <persName ref="#28344">Staehelin-Baechtold, Gertrud</persName>
-               <persName ref="#11913">Kesser, Hermann</persName>
-               <persName ref="#29124">Bodmer, Mathilde</persName>
-               <persName ref="#5489">Bodmer, Hermann</persName>
-               <persName ref="#5490">Bodman, Emanuel von</persName>
-               <persName ref="#5495">Sartoris, Spyridon</persName>
-               <persName ref="#29121">Sartoris, W.</persName>
-               <persName ref="#10977">Bodmer, Hans</persName>
-               <persName ref="#10815">Bahr, Hermann</persName>
-               <placeName ref="#484">Zürich</placeName>
-               <date when="1908-11-09" n="02">9. 11. 1908</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1908-11-10 ">10. X<unclear>I</unclear>. 08</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01798">Schnitzler an
-                  Ehrenstein, 9. 11. 1908</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01800">Bahr an
-                  Schnitzler, 10. 11. 1908</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L01780"
-                  >Schnitzler, Schnitzler an Bahr, 6. 7. 1908</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01800">Bahr an
-                  Schnitzler, 10. 11. 1908</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7227-6</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, HS.NZ85.1.2568</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc hands="13"><handNote medium="bleistift" corresp="#pmb29122" style="nicht_anzuwenden"/><handNote medium="bleistift" corresp="#pmb29123" style="nicht_anzuwenden"/><handNote medium="bleistift" corresp="#pmb29120" style="nicht_anzuwenden"/><handNote medium="bleistift" corresp="#pmb29126" style="nicht_anzuwenden"/><handNote medium="bleistift" corresp="#pmb28344" style="nicht_anzuwenden"/><handNote medium="bleistift" corresp="#pmb11913" style="nicht_anzuwenden"/><handNote medium="bleistift" corresp="#pmb29124" style="nicht_anzuwenden"/><handNote medium="bleistift" corresp="#pmb5489" style="lateinische-kurrent"/><handNote medium="bleistift" corresp="#pmb5490" style="nicht_anzuwenden"/><handNote medium="bleistift" corresp="#pmb5495" style="nicht_anzuwenden"/><handNote medium="bleistift" corresp="#pmb29121" style="nicht_anzuwenden"/><handNote medium="bleistift" corresp="#pmb10977" style="lateinische-kurrent"/><handNote medium="bleistift" corresp="#pmb10815" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb1142">Zürich 12 Neumünster</placeName><date>10. XI. 08</date><time>2</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb29122">Probst, E.</persName><persName ref="#pmb29123">Probst, R.</persName><persName ref="#pmb29120">Staehelin-Baechtold, Josef</persName><persName ref="#pmb29126">Huber, R. W.</persName><persName ref="#pmb28344">Staehelin-Baechtold, Gertrud</persName><persName ref="#pmb11913">Kesser, Hermann</persName><persName ref="#pmb29124">Bodmer, Mathilde</persName><persName ref="#pmb5489">Bodmer, Hermann</persName><persName ref="#pmb5490">Bodman, Emanuel von</persName><persName ref="#pmb5495">Sartoris, Spyridon</persName><persName ref="#pmb29121">Sartoris, W.</persName><persName ref="#pmb10977">Bodmer, Hans</persName><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb484">Zürich</placeName><date when="1908-11-09" n="02">9. 11. 1908</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1908-11-10 ">10. X<unclear>I</unclear>. 08</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01798">Schnitzler an
+                  Ehrenstein, 9. 11. 1908</ref><ref subtype="next_letter" type="withinCollection" target="L01800">Bahr an
+                  Schnitzler, 10. 11. 1908</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01780">Schnitzler, Schnitzler an Bahr, 6. 7. 1908</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01800">Bahr an
+                  Schnitzler, 10. 11. 1908</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2018-09-10">Angelegt</change>
-         <change who="MAM" when="2018-02-14">Index check</change>
-         <change who="GHS" when="2020-03-26">kurz durchgesehen</change>
-         <change who="MAM" when="2020-04-21">Durchsicht</change>
-         <change who="MAM" when="2020-11-02">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS1985.1.2568_0001"/>
-      <graphic url="HS1985.1.2568_0002"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="HS1985.1.2568_0001"/>D<hi rend="superscript">r</hi> Artur
-                  Schnitzler</addrLine>
-               <addrLine>
-                  <rs ref="#68" type="place">Wien XVIII</rs>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#133" type="place">Spöttelgasse 7</rs>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="center">
-                  <pb facs="HS1985.1.2568_0002"/>
-                  <hi rend="pre-print">
-                     <rs ref="#1133" type="place">Zürich – Rotes Schloss</rs> und <rs ref="#1134"
-                        type="place">Tonhalle</rs>
-                  </hi>
-               </p>
-            </opener>
-            <lg type="poem">
-               <l>
-                  <pb facs="HS1985.1.2568_0001"/>
-                  <handShift scribe="#5489"/>Von Bahr vernahmen das Dilemma</l>
-               <l>Wir eben zwischen <rs type="work" ref="#29833" subtype="implied">Franz</rs> u <rs
-                     ref="#29833" type="work" subtype="implied">Emma</rs>
-               </l>
-               <l>Ja es ist bitter, wenn die »<rs ref="#29833" type="work">Toten schweigen</rs>«</l>
-               <l>Doch jetzt, in frohem, lust’gem »<rs type="work" ref="#29855" subtype="implied"
-                     >Reigen</rs>« </l>
-               <l>Von guter Speis’ u Trank ganz voll</l>
-               <l>Gedenken wir des »<rs ref="#29935" type="work">Anatol</rs>«</l>
-               <l>Und wünschen sehnlich ihn herbei</l>
-               <l>Das gäb’ ne nette »<rs ref="#29917" type="work">Liebelei</rs>«</l>
-               <l>Und mit dem »<rs ref="#29843" type="work">grünen Kakadu</rs>«</l>
-               <l>Wär’n wir gar balde Du und Du!!</l>
-            </lg>
-         </div>
-         <div type="writingSession" n="2">
-            <p>
-               <handShift scribe="#10815"/>
-               <anchor xml:id="T_L01799_1" type="textConst"/>Herzlich <signed>Hermann</signed>
-               <note xml:id="T_L01799_1h" type="textConst">in der oberen linken Ecke, verkehrt zum
-                  Text</note>
-            </p>
-         </div>
-         <div type="writingSession" n="3">
-            <p>
-               <pb facs="HS1985.1.2568_0002"/>
-               <handShift scribe="#10977"/>Vom Schnitzler-Abend, den uns Herma<c
-                  rendition="#gemination-n"/> Bahr bot, senden wir Ihnen herzliche Grüsse:</p>
-            <p>
-               <signed>Hans Bodmer</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#29122"/>EProbst</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#29123"/>R. Probst</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#29120"/>Sepp Staehelin</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#29126"/>R. W. Huber.</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#28344"/>Gertrud Staehelin-Baechtold.</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#11913"/>Hermann Kesser</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#29124"/>Mathilde Bodmer</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#5489"/>Hermann Bodmer</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#5490"/>Emanuel von Bodman</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#5495"/>Spyridon Sartoris</signed>
-            </p>
-            <p>
-               <signed>
-                  <handShift scribe="#29121"/>M. Sartoris.</signed>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-09-10">Angelegt</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2020-03-26">kurz durchgesehen</change><change who="MAM" when="2020-04-21">Durchsicht</change><change who="MAM" when="2020-11-02">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="HS1985.1.2568_0001"/><graphic url="HS1985.1.2568_0002"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="HS1985.1.2568_0001"/>D<hi rend="superscript">r</hi> Artur Schnitzler</addrLine><addrLine><rs ref="#pmb68" type="place">Wien XVIII</rs></addrLine><addrLine><rs ref="#pmb133" type="place">Spöttelgasse 7</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="HS1985.1.2568_0002"/><hi rend="pre-print"><rs ref="#pmb1133" type="place">Zürich – Rotes Schloss</rs> und <rs ref="#pmb1134" type="place">Tonhalle</rs></hi></p></opener><lg type="poem"><l><pb facs="HS1985.1.2568_0001"/><handShift scribe="#pmb5489"/>Von Bahr vernahmen das Dilemma</l><l>Wir eben zwischen <rs type="work" ref="#pmb29833" subtype="implied">Franz</rs> u <rs ref="#pmb29833" type="work" subtype="implied">Emma</rs></l><l>Ja es ist bitter, wenn die »<rs ref="#pmb29833" type="work">Toten schweigen</rs>«</l><l>Doch jetzt, in frohem, lust’gem »<rs type="work" ref="#pmb29855" subtype="implied">Reigen</rs>« </l><l>Von guter Speis’ u Trank ganz voll</l><l>Gedenken wir des »<rs ref="#pmb29935" type="work">Anatol</rs>«</l><l>Und wünschen sehnlich ihn herbei</l><l>Das gäb’ ne nette »<rs ref="#pmb29917" type="work">Liebelei</rs>«</l><l>Und mit dem »<rs ref="#pmb29843" type="work">grünen Kakadu</rs>«</l><l>Wär’n wir gar balde Du und Du!!</l></lg></div><div type="writingSession" n="2"><p><handShift scribe="#pmb10815"/><anchor xml:id="T_L01799_1" type="textConst"/>Herzlich <signed>Hermann</signed><note xml:id="T_L01799_1h" type="textConst">in der oberen linken Ecke, verkehrt zum Text</note></p></div><div type="writingSession" n="3"><p><pb facs="HS1985.1.2568_0002"/><handShift scribe="#pmb10977"/>Vom Schnitzler-Abend, den uns Herma<c rendition="#gemination-n"/> Bahr bot, senden wir Ihnen herzliche Grüsse:</p><p><signed>Hans Bodmer</signed></p><p><signed><handShift scribe="#pmb29122"/>EProbst</signed></p><p><signed><handShift scribe="#pmb29123"/>R. Probst</signed></p><p><signed><handShift scribe="#pmb29120"/>Sepp Staehelin</signed></p><p><signed><handShift scribe="#pmb29126"/>R. W. Huber.</signed></p><p><signed><handShift scribe="#pmb28344"/>Gertrud Staehelin-Baechtold.</signed></p><p><signed><handShift scribe="#pmb11913"/>Hermann Kesser</signed></p><p><signed><handShift scribe="#pmb29124"/>Mathilde Bodmer</signed></p><p><signed><handShift scribe="#pmb5489"/>Hermann Bodmer</signed></p><p><signed><handShift scribe="#pmb5490"/>Emanuel von Bodman</signed></p><p><signed><handShift scribe="#pmb5495"/>Spyridon Sartoris</signed></p><p><signed><handShift scribe="#pmb29121"/>M. Sartoris.</signed></p></div></body><back><listPerson><person xml:id="pmb29122">
+                  <tei:persName>
+                     <tei:surname>Probst</tei:surname>
+                     <tei:forename>E.</tei:forename>
+                  </tei:persName>
+               </person><person xml:id="pmb29123">
+                  <tei:persName>
+                     <tei:surname>Probst</tei:surname>
+                     <tei:forename>R.</tei:forename>
+                  </tei:persName>
+               </person><person xml:id="pmb29120">
+                  <tei:persName>
+                     <tei:surname>Staehelin-Baechtold</tei:surname>
+                     <tei:forename>Sepp</tei:forename>
+                  </tei:persName>
+               </person><person xml:id="pmb29126">
+                  <tei:persName>
+                     <tei:surname>Huber</tei:surname>
+                     <tei:forename>R. W.</tei:forename>
+                  </tei:persName>
+               </person><person xml:id="pmb28344">
+                  <tei:persName>
+                     <tei:surname>Staehelin-Baechtold</tei:surname>
+                     <tei:forename>Gertrud</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-01-01">1874</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1971-11-23">23. 11. 1971</tei:date>
+                  </tei:death>
+               </person><person xml:id="pmb11913">
+                  <tei:persName>
+                     <tei:surname>Kesser</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1880-08-04">4. 8. 1880</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1952-04-05">5. 4. 1952</tei:date>
+                     <tei:placeName ref="#pmb854">Basel</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116017899/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16825</idno>
+               </person><person xml:id="pmb29124">
+                  <tei:persName>
+                     <tei:surname>Bodmer</tei:surname>
+                     <tei:forename>Mathilde</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-09-13">13. 9. 1866</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1926-02-17">17. 2. 1926</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+               </person><person xml:id="pmb5489">
+                  <tei:persName>
+                     <tei:surname>Bodmer</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1876-01-01">1876</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1940-01-01">1940</tei:date>
+                  </tei:death>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116216352/</idno>
+               </person><person xml:id="pmb5490">
+                  <tei:persName>
+                     <tei:surname>Bodman</tei:surname>
+                     <tei:forename>Emanuel von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-01-23">23. 1. 1874</tei:date>
+                     <tei:placeName ref="#pmb58779">Friedrichshafen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1946-05-21">21. 5. 1946</tei:date>
+                     <tei:placeName ref="#pmb58781">Gottlieben</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118660497/</idno>
+               </person><person xml:id="pmb5495">
+                  <tei:persName>
+                     <tei:surname>Sartoris</tei:surname>
+                     <tei:forename>Spyridon Demetrius</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1873-03-14">14. 3. 1873</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1946-02-24">24. 2. 1946</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <occupation code="361">Künstler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/14221079X/</idno>
+               </person><person xml:id="pmb29121">
+                  <tei:persName>
+                     <tei:surname>Sartoris</tei:surname>
+                     <tei:forename>M.</tei:forename>
+                  </tei:persName>
+               </person><person xml:id="pmb10977">
+                  <tei:persName>
+                     <tei:surname>Bodmer</tei:surname>
+                     <tei:forename>Hans</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-09-15">15. 9. 1863</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1948-09-18">18. 9. 1948</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <occupation code="159">Veranstaltungsorganisator</occupation>
+                  <occupation code="239">Germanist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116216328/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13824</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29833">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Toten schweigen</tei:title>
+                  <tei:date from="1897-10-01" from-custom="01.10.1897">1. 10. 1897</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+                  <tei:note>2836</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1216835/</idno>
+               </bibl><bibl xml:id="pmb29855">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Reigen. Zehn Dialoge</tei:title>
+                  <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>11660</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/ "Q1414190"/</idno>
+               </bibl><bibl xml:id="pmb29935">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb28645" role="illustrator">
+                     <tei:surname>Coschell</tei:surname>
+                     <tei:forename>Moritz</tei:forename>
+                     <tei:term>[Illustrationen]</tei:term>
+                  </tei:author>
+                  <tei:author ref="pmb5369" role="translator">
+                     <tei:surname>Granville-Barker</tei:surname>
+                     <tei:forename>Harley</tei:forename>
+                     <tei:term>[Übersetzung]</tei:term>
+                  </tei:author>
+                  <tei:title>Anatol</tei:title>
+                  <tei:date when="1892-10-29" when-custom="1892-10-29">29. 10. 1892</tei:date>
+                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q487409/</idno>
+               </bibl><bibl xml:id="pmb29917">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Liebelei. Schauspiel in drei Akten</tei:title>
+                  <tei:date from="1895-10-09" from-custom="9.10.1895">9. 10. 1895</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1823758/</idno>
+               </bibl><bibl xml:id="pmb29843">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der grüne Kakadu. Groteske in einem Akt</tei:title>
+                  <tei:date when="1899-03-01" when-custom="1.3.1899">1. 3. 1899</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>2840</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q2675124/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb1142">
+                  <tei:placeName>Neumünster</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.36096 8.5587</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1980945/</idno>
+               </place><place xml:id="pmb484">
+                  <tei:placeName>Zürich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.37174 8.54226</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2657896/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q72/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb68">
+                  <tei:placeName>XVIII., Währing</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2762091/</idno>
+               </place><place xml:id="pmb133">
+                  <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb1133">
+                  <tei:placeName>Rotes Schloss</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1891-07-02" from-custom="1891-07-02">2. 7. 1891</tei:date>
+                     <tei:gloss ana="i41">Schloss</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.3649 8.53709</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb1134">
+                  <tei:placeName>Kongresshaus Zürich</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1895-07-02" from-custom="1895-07-02">2. 7. 1895</tei:date>
+                     <tei:gloss ana="i45">Konzertsaal</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.36572 8.53788</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg/></back></text></TEI>

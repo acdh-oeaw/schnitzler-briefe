@@ -1,238 +1,193 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02378"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Stefan Großmann an Arthur Schnitzler, 26. 4. 1922</title>
-            <author ref="#11527">Großmann, Stefan</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Martin Anton Müller</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02378</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02378" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Stefan Großmann an Arthur Schnitzler, 26. 4. 1922</title><author ref="#pmb11527">Großmann, Stefan</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Martin Anton Müller</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02378</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 34</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="2" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent">
-                              <p>Einfügung von »<quote>Doktor</quote>«,
-                           Schlussformel und Unterschrift</p>
-                           </handNote>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Schreibmaschine</p>
-                        </typeDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift beschriftet: »<quote>
-                                    <hi rend="latintype">Großman</hi>
-                                 </quote>« und »<quote>b. sein</quote>«</desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit rotem Buntstift vier Unterstreichungen</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand
-                           nummeriert: »<quote>16</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11527">Großmann, Stefan</persName>
-               <placeName ref="#168">Berlin</placeName>
-               <date when="1922-04-26" n="01">26. 4. 1922</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11527">Großmann, Stefan</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02377">Schnitzler an Hauptmann, 17. 3. 1922</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02379">Schnitzler an Beer-Hofmann, 4. 5. 1922</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02363">Schnitzler an Großmann, 17. 2. 1921</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02449">Großmann an Schnitzler, 21. 9. 1925</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-746A-9</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 34</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"><p>Einfügung von »<quote>Doktor</quote>«,
+                           Schlussformel und Unterschrift</p></handNote></handDesc><typeDesc><p>Schreibmaschine</p></typeDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Großman</hi></quote>« und »<quote>b. sein</quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift vier Unterstreichungen</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand
+                           nummeriert: »<quote>16</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11527">Großmann, Stefan</persName><placeName ref="#pmb168">Berlin</placeName><date when="1922-04-26" n="01">26. 4. 1922</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11527">Großmann, Stefan</ref><ref subtype="previous_letter" type="withinCollection" target="L02377">Schnitzler an Hauptmann, 17. 3. 1922</ref><ref subtype="next_letter" type="withinCollection" target="L02379">Schnitzler an Beer-Hofmann, 4. 5. 1922</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02363">Schnitzler an Großmann, 17. 2. 1921</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02449">Großmann an Schnitzler, 21. 9. 1925</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2020-06-14">Angelegt</change>
-         <change who="MAM" when="2020-08-06">Durchsicht</change>
-         <change who="MAM" when="2020-08-06">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00034-00037"/>
-      <graphic url="MS-SCHNITZLER-B-00034-00038"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="center">
-                  <pb facs="MS-SCHNITZLER-B-00034-00037"/>
-                  <hi rend="pre-print">
-                     <rs ref="#37544" type="org">Das Tage-Buch</rs>
-                  </hi>
-               </p>
-               <p rend="center">
-                  <hi rend="pre-print">Erscheint jeden Sonnabend ⋅ Herausgeber: Stefan Großmann</hi>
-               </p>
-               <p rend="center">
-                  <hi rend="pre-print">
-                     <rs type="org" ref="#29756">Ernst Rowohlt Verlag</rs> ⋅ <rs ref="#168" type="place">Berlin W 35</rs>
-                  </hi>
-               </p>
-               <p rend="center">
-                  <hi rend="pre-print">
-                     <rs type="place" ref="#362">POTSDAMER STRASSE 123<hi rend="superscript">B</hi>
-                        ⋅ AN DER POTSDAMER BRÜCKE</rs>
-                  </hi>
-               </p>
-               <p rend="center">
-                  <hi rend="pre-print">TELEGRAMM-ADRESSE: <rs ref="#37544" type="org">TAGEBUCH
-                        BERLIN</rs> ⋅ FERNSPRECHER: <rs type="org" ref="#47285">AMT LÜTZOW</rs>
-                     Nr. 4931</hi>
-               </p>
-               <p rend="center">
-                  <hi rend="pre-print">SPRECHSTUNDE DER REDAKTION: 12–1 UHR</hi>
-               </p>
-               <p>Gr/Sch</p>
-               <dateline rend="center">
-                  <date>26. April 1922</date>
-               </dateline>
-               <p>
-                  <hi rend="pre-print">
-                     <hi rend="italics">REDAKTION</hi>
-                  </hi>
-               </p>
-               <p>Herrn</p>
-               <p rend="inline">Dr. Arthur <hi rend="spaced_out">Schnitzler</hi>
-               </p>
-               <p rend="inline">
-                  <rs type="place" ref="#50">
-                     <hi rend="spaced_out">Wien</hi>
-                  </rs>
-               </p>
-               <salute rend="center">Verehrter Herr <add place="above">Doktor</add>
-                  Schnitzler!</salute>
-            </opener>
-            <p>Sie wissen vielleicht, dass ich mich in <rs type="place" ref="#50">Wien</rs> nie so
-               sehr als <rs ref="#41240" type="place">Österreich</rs>er gefühlt habe, wie ich es in
-                  <rs type="place" ref="#151">Norddeutschland</rs> tue. Das hat mein ganzes
-               Verhältnis zur Heimat wesentlich geändert. Deshalb glaube ich keine Fehlbitte zu tun,
-               wenn ich Ihnen mitteile, dass wir <date>Mitte Mai</date> ein <anchor xml:id="K_L02378_1" type="commentary"/>Heft<note xml:id="K_L02378_1h" type="commentary">Die Nummer 20 des <rs type="work" ref="#46493">Tage-Buch</rs>s vom <date>20. 5. 1922</date>
-                  enthält zwar mehrere Beiträge, die sich mit <rs ref="#41240" type="place">Österreich</rs> beschäftigen, aber nur einen kleinen Gruss zum
-                  60. Geburtstag <rs type="person" ref="#2121">Schnitzler</rs>s (<bibl>[O.V. =
-                     Großmann?]: <rs type="work" ref="#47287">Von der kleinen Liebe</rs>, Jg. 3, H. 20, S. 766–767</bibl>).</note> des »<rs ref="#37544" type="org">Tage-Buch</rs>«
-               herausgeben wollen, das ein <rs ref="#41240" type="place">österreich</rs>isches Heft,
-               ein Schnitzlerheft werden soll. Ich habe auch heute dieserhalb an <rs ref="#2167" type="person">Felix Salten</rs> geschrieben, und ich wäre Ihnen zu Dank
-               verpflichtet, wenn Sie mir dafür eine Ihrer ungedruckten Arbeiten, seien es nur
-               Aphorismen oder eine andere ungerecht verschollene Arbeit aus früheren Zeiten,
-               überlassen wollten. Ich sende Ihnen die letzten Nummern des »<rs ref="#37544" type="org">Tage-Buch</rs>«, aus denen Sie ersehen wollen, dass die Zeitschrift die
-               besten deutschen Autoren zu ihren Mitarbeitern hat, sodass sie sich sehen lassen
-               kann.</p>
-            <p>
-               <pb facs="MS-SCHNITZLER-B-00034-00038"/>Da die Zeit drängt, bitte ich Sie um eine
-               möglichst rasche Antwort und bin</p>
-            <closer>mit herzlichsten Grüssen<lb/>Ihr<lb/>
-               <handShift/>dankbarer<lb/>
-               <signed>Stefan Großmann</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-06-14">Angelegt</change><change who="MAM" when="2020-08-06">Durchsicht</change><change who="MAM" when="2020-08-06">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00034-00037"/><graphic url="MS-SCHNITZLER-B-00034-00038"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-00034-00037"/><hi rend="pre-print"><rs ref="#pmb37544" type="org">Das Tage-Buch</rs></hi></p><p rend="center"><hi rend="pre-print">Erscheint jeden Sonnabend ⋅ Herausgeber: Stefan Großmann</hi></p><p rend="center"><hi rend="pre-print"><rs type="org" ref="#pmb29756">Ernst Rowohlt Verlag</rs> ⋅ <rs ref="#pmb168" type="place">Berlin W 35</rs></hi></p><p rend="center"><hi rend="pre-print"><rs type="place" ref="#pmb362">POTSDAMER STRASSE 123<hi rend="superscript">B</hi> ⋅ AN DER POTSDAMER BRÜCKE</rs></hi></p><p rend="center"><hi rend="pre-print">TELEGRAMM-ADRESSE: <rs ref="#pmb37544" type="org">TAGEBUCH BERLIN</rs> ⋅ FERNSPRECHER: <rs type="org" ref="#pmb47285">AMT LÜTZOW</rs> Nr. 4931</hi></p><p rend="center"><hi rend="pre-print">SPRECHSTUNDE DER REDAKTION: 12–1 UHR</hi></p><p>Gr/Sch</p><dateline rend="center"><date>26. April 1922</date></dateline><p><hi rend="pre-print"><hi rend="italics">REDAKTION</hi></hi></p><p>Herrn</p><p rend="inline">Dr. Arthur <hi rend="spaced_out">Schnitzler</hi></p><p rend="inline"><rs type="place" ref="#pmb50"><hi rend="spaced_out">Wien</hi></rs></p><salute rend="center">Verehrter Herr <add place="above">Doktor</add> Schnitzler!</salute></opener><p>Sie wissen vielleicht, dass ich mich in <rs type="place" ref="#pmb50">Wien</rs> nie so sehr als <rs ref="#pmb41240" type="place">Österreich</rs>er gefühlt habe, wie ich es in <rs type="place" ref="#pmb151">Norddeutschland</rs> tue. Das hat mein ganzes Verhältnis zur Heimat wesentlich geändert. Deshalb glaube ich keine Fehlbitte zu tun, wenn ich Ihnen mitteile, dass wir <date>Mitte Mai</date> ein <anchor xml:id="K_L02378_1" type="commentary"/>Heft<note xml:id="K_L02378_1h" type="commentary">Die Nummer 20 des <rs type="work" ref="#pmb46493">Tage-Buch</rs>s vom <date>20. 5. 1922</date> enthält zwar mehrere Beiträge, die sich mit <rs ref="#pmb41240" type="place">Österreich</rs> beschäftigen, aber nur einen kleinen Gruss zum 60. Geburtstag <rs type="person" ref="#pmb2121">Schnitzler</rs>s (<bibl>[O.V. = Großmann?]: <rs type="work" ref="#pmb47287">Von der kleinen Liebe</rs>, Jg. 3, H. 20, S. 766–767</bibl>).</note> des »<rs ref="#pmb37544" type="org">Tage-Buch</rs>« herausgeben wollen, das ein <rs ref="#pmb41240" type="place">österreich</rs>isches Heft, ein Schnitzlerheft werden soll. Ich habe auch heute dieserhalb an <rs ref="#pmb2167" type="person">Felix Salten</rs> geschrieben, und ich wäre Ihnen zu Dank verpflichtet, wenn Sie mir dafür eine Ihrer ungedruckten Arbeiten, seien es nur Aphorismen oder eine andere ungerecht verschollene Arbeit aus früheren Zeiten, überlassen wollten. Ich sende Ihnen die letzten Nummern des »<rs ref="#pmb37544" type="org">Tage-Buch</rs>«, aus denen Sie ersehen wollen, dass die Zeitschrift die besten deutschen Autoren zu ihren Mitarbeitern hat, sodass sie sich sehen lassen kann.</p><p><pb facs="MS-SCHNITZLER-B-00034-00038"/>Da die Zeit drängt, bitte ich Sie um eine möglichst rasche Antwort und bin</p><closer>mit herzlichsten Grüssen<lb/>Ihr<lb/><handShift/>dankbarer<lb/><signed>Stefan Großmann</signed></closer></div></body><back><listPerson><person xml:id="pmb11527">
+                  <tei:persName>
+                     <tei:surname>Großmann</tei:surname>
+                     <tei:forename>Stefan</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-05-19">19. 5. 1875</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-01-03">3. 1. 1935</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118542664/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15691</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2167">
+                  <tei:persName>
+                     <tei:surname>Salten</tei:surname>
+                     <tei:forename>Felix</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1869-09-06">6. 9. 1869</tei:date>
+                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-10-08">8. 10. 1945</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb46493">
+                  <tei:author ref="pmb11527" role="editor">
+                     <tei:surname>Großmann</tei:surname>
+                     <tei:forename>Stefan</tei:forename>
+                     <tei:term>[Herausgeber*in]</tei:term>
+                  </tei:author>
+                  <tei:title>Das Tage-Buch</tei:title>
+                  <tei:date from="1920-01-01" from-custom="1920-01-01" to="1933-01-01" to-custom="1933-01-01">1. 1. 1920–1. 1. 1933</tei:date>
+                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
+                  <tei:note>7799</tei:note>
+                  <tei:note>7800</tei:note>
+               </bibl><bibl xml:id="pmb47287">
+                  <tei:author ref="pmb11527" role="author">
+                     <tei:surname>Großmann</tei:surname>
+                     <tei:forename>Stefan</tei:forename>
+                  </tei:author>
+                  <tei:title>Von der kleinen Liebe</tei:title>
+                  <tei:date from="1922-05-20" from-custom="1922-05-20">20. 5. 1922</tei:date>
+                  <tei:gloss type="w1392">Glosse</tei:gloss>
+                  <tei:note>8173</tei:note>
+                  <tei:note>8174</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb362">
+                  <tei:placeName>Potsdamerstraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.5064 13.36869</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb41240">
+                  <tei:placeName>Österreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb151">
+                  <tei:placeName>Deutschland</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.5 10.5</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2921044/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q183/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb37544">
+                  <tei:orgName>Das Tage-Buch</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1920-01-01" from-custom="1920" to="1933-01-01" to-custom="1933">1920–1933</tei:date>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb46598">
+                     <tei:placeName>Beuthstrasse</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.50983 13.40181</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb362">
+                     <tei:placeName>Potsdamerstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.5064 13.36869</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb29756">
+                  <tei:orgName>Ernst Rowohlt Verlag</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb864">
+                     <tei:placeName>Leipzig</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">51.33962 12.37129</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb47285">
+                  <tei:orgName>Fernsprechamt Lietzow</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1537">Fernsprechamt</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb9925">
+                     <tei:placeName>Charlottenburg</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.516667 13.3</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

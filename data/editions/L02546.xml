@@ -1,301 +1,369 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02546"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Hermann Bahr, 5. 9. 1931</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L02546</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02546" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, 5. 9. 1931</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L02546</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Theatermuseum</repository>
-                        <idno>HS AM 23400 Ba</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="1" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="lateinische-kurrent">
-                              <p>Unterschrift und Grußformel</p>
-                           </handNote>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Schreibmaschine</p>
-                        </typeDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit rotem Buntstift ergänzt: »<quote>Unmittelbar vor Fahrt nach
-                                       <rs ref="#487" type="place">Garmisch</rs>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand beschriftet:
-                                    »<quote>erledigt</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-               <witness n="2">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Marbach am Neckar</settlement>
-                        <repository>Deutsches Literaturarchiv</repository>
-                        <idno>A:Schnitzler, 85.1.294/8</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="1" type="_seiten"/>
-                           <desc type="reproduktion" subtype="durchschlag"/>
-                        </objectDesc>
-                        <typeDesc>
-                           <p>Schreibmaschine</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="DASB">
-                  <analytic>
-                     <title level="a">5. 9. 1931</title>
-                  </analytic>
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
-                     <editor>Edited, annotated, and with an introduction, by Donald G.
-                        Daviau</editor>
-                     <imprint>
-                        <pubPlace>Chapel Hill</pubPlace>
-                        <publisher>The University of North Carolina Press</publisher>
-                        <date when="1978">1978</date>
-                     </imprint>
-                     <biblScope unit="pp">118</biblScope>
-                  </monogr>
-                  <series>
-                     <title level="s">University of North Carolina studies in the Germanic languages
-                        and literatures</title>
-                     <biblScope unit="nr">89</biblScope>
-                  </series>
-               </biblStruct>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">598–599</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1931-09-05" n="01">5. 9. 1931</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10815">Bahr, Hermann</persName>
-               <placeName ref="#45258">[München]</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02545">Hofmannsthal
-                  an Schnitzler, 12. 8. 1931</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02547">Bahr an
-                  Schnitzler, 7. 9. 1931</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L02534">Bahr an
-                  Schnitzler, 20. 3. 1930</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02547">Bahr an
-                  Schnitzler, 7. 9. 1931</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7512-A</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 23400 Ba</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="1" type="_seiten"/></objectDesc><handDesc><handNote medium="bleistift" style="lateinische-kurrent"><p>Unterschrift und Grußformel</p></handNote></handDesc><typeDesc><p>Schreibmaschine</p></typeDesc><additions><incident type="receiver"><desc>mit rotem Buntstift ergänzt: »<quote>Unmittelbar vor Fahrt nach
+                                       <rs ref="#pmb487" type="place">Garmisch</rs></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand beschriftet:
+                                    »<quote>erledigt</quote>«</desc></incident></additions></physDesc></msDesc></witness><witness n="2"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, 85.1.294/8</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="1" type="_seiten"/><desc type="reproduktion" subtype="durchschlag"/></objectDesc><typeDesc><p>Schreibmaschine</p></typeDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="DASB"><analytic><title level="a">5. 9. 1931</title></analytic><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title><editor>Edited, annotated, and with an introduction, by Donald G.
+                        Daviau</editor><imprint><pubPlace>Chapel Hill</pubPlace><publisher>The University of North Carolina Press</publisher><date when="1978">1978</date></imprint><biblScope unit="pp">118</biblScope></monogr><series><title level="s">University of North Carolina studies in the Germanic languages
+                        and literatures</title><biblScope unit="nr">89</biblScope></series></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">598–599</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1931-09-05" n="01">5. 9. 1931</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb45258">[München]</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L02545">Hofmannsthal
+                  an Schnitzler, 12. 8. 1931</ref><ref subtype="next_letter" type="withinCollection" target="L02547">Bahr an
+                  Schnitzler, 7. 9. 1931</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02534">Bahr an
+                  Schnitzler, 20. 3. 1930</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02547">Bahr an
+                  Schnitzler, 7. 9. 1931</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-10-01">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-11">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-         <change who="GHS" when="2020-03-27">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS_AM23400Ba"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <seg rend="left">
-                     <pb facs="https://www.theatermuseum.at/de/object/c735707efc/"/>
-                     <hi rend="pre-print">D<hi rend="superscript">r</hi> Arthur Schnitzler</hi>
-                  </seg>
-                  <seg rend="right">
-                     <date>5. 9. 1931</date>.</seg>
-               </p>
-               <p>
-                  <hi rend="pre-print">
-                     <rs ref="#150" type="place">Wien. XVIII. Sternwartestrasse 71</rs>.</hi>
-               </p>
-               <salute>Lieber Hermann.</salute>
-            </opener>
-            <p>Ich lese, dass Dein »<rs ref="#29933" type="work">Konzert</rs>« jetzt als <anchor
-                  xml:id="K_L02546_1" type="commentary"/>
-               <rs type="work" ref="#30055" subtype="implied">Tonfilm</rs> erscheint<note
-                  xml:id="K_L02546_1h" type="commentary">Die Verfilmung durch <rs ref="#12271"
-                     type="person">Leo Mittler</rs> lief bereits seit <date when="1931-08-28"
-                     >28. 8. 1931</date> in den <rs ref="#50" type="place">Wien</rs>er
-               Kinos.</note>, nachdem es vorher, so weit ich mich erinnere, auch schon als <rs
-                  type="work" ref="#32330" subtype="implied">
-                  <anchor xml:id="K_L02546_2" type="commentary"/>stummer Film<note
-                     xml:id="K_L02546_2h" type="commentary">
-                     <rs ref="#32330" type="work">The Concert</rs> (<date when="1921">1921</date>), Regie <rs ref="#4609"
-                        type="person">Victor Schertzinger</rs>, von
-                     demselben neuerlich unter dem Titel <rs ref="#32600" type="work">Fashions in
-                        Love</rs> (<date>1929</date>) als Tonfilm realisiert.</note>
-               </rs> zu sehen war. Ich möchte nun gern wissen – falls es Dir nicht unbequem ist mir
-               darauf zu antworten – ob, resp. welche Ansprüche die seinerzeitigen Verfertiger des
-               stummen Films an Dich gestellt haben. Ich erlebe es in jedem einzelnen Fall, so mit
-                  »<anchor xml:id="K_L02546_3" type="commentary"/>
-               <rs ref="#29917" type="work">Liebelei</rs>
-               <note xml:id="K_L02546_3h" type="commentary">Erstmals verfilmt <date>1914</date> (<rs
-                     ref="#32800" type="work">Elskovsleg</rs>, Regie <rs ref="#28938" type="person"
-                     >Holger-Madsen</rs> und <rs ref="#5042" type="person">August Blom</rs>). Ab
-                     <date>1921</date> Verhandlungen über eine Neuverfilmung, <bibl>vgl. <rs
-                        ref="#2121" type="person">Arthur Schnitzler</rs>: <title level="m"
-                        >Filmarbeiten. Drehbücher, Entwürfe, Skizzen</title>. Hg. Achim Aurnhammer,
-                     Hans Peter Buohler, Philipp Gresser, Julia Ilgner, Carolin Maikler, Lea
-                     Marquart. Würzburg: <publisher>Ergon</publisher>
-                     <space unit="chars" quantity="1"/>
-                     <date>2015</date>, S. 101–103</bibl>. Neuerliche <rs type="work" ref="#32806"
-                     subtype="implied">Verfilmung</rs>
-                  <space unit="chars" quantity="1"/>
-                  <date>1927</date> (Regie <rs ref="#28356" type="person">Jakob</rs> und <rs
-                     ref="#11334" type="person">Luise Fleck</rs>).</note>«, »<anchor
-                  xml:id="K_L02546_4" type="commentary"/>
-               <rs ref="#29935" type="work">Anatol</rs>
-               <note xml:id="K_L02546_4h" type="commentary">
-                  <rs ref="#32808" type="work">The Affairs of Anatol</rs> (<date>1921</date>), Regie
-                     <rs ref="#5045" type="person">Cecil B. DeMille</rs>. Zu dem Plan einer
-                  neuerlichen Verfilmung, die nicht realisiert wurde, gibt es Hinweise in <rs
-                     type="person" ref="#2121">Schnitzler</rs>s <rs type="work" ref="#33243"
-                     >Tagebuch</rs> zwischen <ref target="1930-11-03" subtype="date-only"
-                     type="schnitzlerDiary"/> und <ref target="1931-05-04" subtype="date-only"
-                     type="schnitzlerDiary"/>.</note>«, »<anchor xml:id="K_L02546_5"
-                  type="commentary"/>
-               <rs ref="#29941" type="work">Fräulein Else</rs>
-               <note xml:id="K_L02546_5h" type="commentary">
-                  <bibl>
-                     <rs ref="#30711" type="work">Fräulein Else</rs> (<date>1929</date>), Regie <rs
-                        ref="#11131" type="person">Paul Czinner</rs>
-                  </bibl></note>«, dass sich die seinerzeitigen Verfertiger der stummen Fassung
-               freundlich-erpresserisch gebärden, in welcher Haltung die Leute durch allerlei
-               Gesetze, Auffassungen, Bestimmungen – auch insoweit sie nicht vorhanden sind – mehr
-               oder weniger unterstützt werden.</p>
-            <p>Wolltest Du mir bei dieser Gelegenheit auch sonst ein Wort über Dich und Dein
-               Befinden sagen, so wird es mich herzlich freuen.</p>
-            <closer>
-               <handShift/>Mit vielen Grüßen und der Bitte mich deiner verehrten <rs type="person"
-                  ref="#10818" subtype="implied">Gattin</rs> zu empfehlen<lb/>Dein<lb/>
-               <signed>Arth</signed>
-            </closer>
-            <postscript>
-               <p>
-                  <handShift medium="typewriter"/> Herrn Hermann Bahr,<lb/>
-                  <rs ref="#45258" type="place">München</rs>.</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-11">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-03-27">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23400Ba"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="https://www.theatermuseum.at/de/object/c735707efc/"/><hi rend="pre-print">D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></seg><seg rend="right"><date>5. 9. 1931</date>.</seg></p><p><hi rend="pre-print"><rs ref="#pmb150" type="place">Wien. XVIII. Sternwartestrasse 71</rs>.</hi></p><salute>Lieber Hermann.</salute></opener><p>Ich lese, dass Dein »<rs ref="#pmb29933" type="work">Konzert</rs>« jetzt als <anchor xml:id="K_L02546_1" type="commentary"/><rs type="work" ref="#pmb30055" subtype="implied">Tonfilm</rs> erscheint<note xml:id="K_L02546_1h" type="commentary">Die Verfilmung durch <rs ref="#pmb12271" type="person">Leo Mittler</rs> lief bereits seit <date when="1931-08-28">28. 8. 1931</date> in den <rs ref="#pmb50" type="place">Wien</rs>er Kinos.</note>, nachdem es vorher, so weit ich mich erinnere, auch schon als <rs type="work" ref="#pmb32330" subtype="implied"><anchor xml:id="K_L02546_2" type="commentary"/>stummer Film<note xml:id="K_L02546_2h" type="commentary"><rs ref="#pmb32330" type="work">The Concert</rs> (<date when="1921">1921</date>), Regie <rs ref="#pmb4609" type="person">Victor Schertzinger</rs>, von demselben neuerlich unter dem Titel <rs ref="#pmb32600" type="work">Fashions in Love</rs> (<date>1929</date>) als Tonfilm realisiert.</note></rs> zu sehen war. Ich möchte nun gern wissen – falls es Dir nicht unbequem ist mir darauf zu antworten – ob, resp. welche Ansprüche die seinerzeitigen Verfertiger des stummen Films an Dich gestellt haben. Ich erlebe es in jedem einzelnen Fall, so mit »<anchor xml:id="K_L02546_3" type="commentary"/><rs ref="#pmb29917" type="work">Liebelei</rs><note xml:id="K_L02546_3h" type="commentary">Erstmals verfilmt <date>1914</date> (<rs ref="#pmb32800" type="work">Elskovsleg</rs>, Regie <rs ref="#pmb28938" type="person">Holger-Madsen</rs> und <rs ref="#pmb5042" type="person">August Blom</rs>). Ab <date>1921</date> Verhandlungen über eine Neuverfilmung, <bibl>vgl. <rs ref="#pmb2121" type="person">Arthur Schnitzler</rs>: <title level="m">Filmarbeiten. Drehbücher, Entwürfe, Skizzen</title>. Hg. Achim Aurnhammer, Hans Peter Buohler, Philipp Gresser, Julia Ilgner, Carolin Maikler, Lea Marquart. Würzburg: <publisher>Ergon</publisher><space unit="chars" quantity="1"/><date>2015</date>, S. 101–103</bibl>. Neuerliche <rs type="work" ref="#pmb32806" subtype="implied">Verfilmung</rs><space unit="chars" quantity="1"/><date>1927</date> (Regie <rs ref="#pmb28356" type="person">Jakob</rs> und <rs ref="#pmb11334" type="person">Luise Fleck</rs>).</note>«, »<anchor xml:id="K_L02546_4" type="commentary"/><rs ref="#pmb29935" type="work">Anatol</rs><note xml:id="K_L02546_4h" type="commentary"><rs ref="#pmb32808" type="work">The Affairs of Anatol</rs> (<date>1921</date>), Regie <rs ref="#pmb5045" type="person">Cecil B. DeMille</rs>. Zu dem Plan einer neuerlichen Verfilmung, die nicht realisiert wurde, gibt es Hinweise in <rs type="person" ref="#pmb2121">Schnitzler</rs>s <rs type="work" ref="#pmb33243">Tagebuch</rs> zwischen <ref target="1930-11-03" subtype="date-only" type="schnitzlerDiary"/> und <ref target="1931-05-04" subtype="date-only" type="schnitzlerDiary"/>.</note>«, »<anchor xml:id="K_L02546_5" type="commentary"/><rs ref="#pmb29941" type="work">Fräulein Else</rs><note xml:id="K_L02546_5h" type="commentary"><bibl><rs ref="#pmb30711" type="work">Fräulein Else</rs> (<date>1929</date>), Regie <rs ref="#pmb11131" type="person">Paul Czinner</rs></bibl></note>«, dass sich die seinerzeitigen Verfertiger der stummen Fassung freundlich-erpresserisch gebärden, in welcher Haltung die Leute durch allerlei Gesetze, Auffassungen, Bestimmungen – auch insoweit sie nicht vorhanden sind – mehr oder weniger unterstützt werden.</p><p>Wolltest Du mir bei dieser Gelegenheit auch sonst ein Wort über Dich und Dein Befinden sagen, so wird es mich herzlich freuen.</p><closer><handShift/>Mit vielen Grüßen und der Bitte mich deiner verehrten <rs type="person" ref="#pmb10818" subtype="implied">Gattin</rs> zu empfehlen<lb/>Dein<lb/><signed>Arth</signed></closer><postscript><p><handShift medium="typewriter"/> Herrn Hermann Bahr,<lb/><rs ref="#pmb45258" type="place">München</rs>.</p></postscript></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb12271">
+                  <tei:persName>
+                     <tei:surname>Mittler</tei:surname>
+                     <tei:forename>Leo</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1893-12-18">18. 12. 1893</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1958-05-16">16. 5. 1958</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <occupation code="401">Theater- und Filmregisseur*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117065129/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18193</idno>
+               </person><person xml:id="pmb4609">
+                  <tei:persName>
+                     <tei:surname>Schertzinger</tei:surname>
+                     <tei:forename>Victor</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1888-01-01">1888</tei:date>
+                     <tei:placeName ref="#pmb56011">Mahanoy City</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1941-01-01">1941</tei:date>
+                     <tei:placeName ref="#pmb38174">Hollywood</tei:placeName>
+                  </tei:death>
+                  <occupation code="133">Filmregisseur*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/134587618/</idno>
+               </person><person xml:id="pmb28938">
+                  <tei:persName>
+                     <tei:surname>Holger-Madsen</tei:surname>
+                     <tei:forename/>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1878-04-11">11. 4. 1878</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1943-11-30">30. 11. 1943</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:death>
+                  <occupation code="133">Filmregisseur*in</occupation>
+                  <occupation code="396">Filmschauspieler*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17778</idno>
+               </person><person xml:id="pmb5042">
+                  <tei:persName>
+                     <tei:surname>Blom</tei:surname>
+                     <tei:forename>August</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1869-12-26">26. 12. 1869</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1947-01-10">10. 1. 1947</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:death>
+                  <occupation code="133">Filmregisseur*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/173729762/</idno>
+               </person><person xml:id="pmb28356">
+                  <tei:persName>
+                     <tei:surname>Fleck</tei:surname>
+                     <tei:forename>Jacob Julius</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1881-11-18">18. 11. 1881</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1953-09-19">19. 9. 1953</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="133">Filmregisseur*in</occupation>
+               </person><person xml:id="pmb11334">
+                  <tei:persName>
+                     <tei:surname>Fleck</tei:surname>
+                     <tei:forename>Luise</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1873-08-01">1. 8. 1873</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1950-03-15">15. 3. 1950</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="500">Filmregisseur*in</occupation>
+                  <occupation code="501">Filmproduzentin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1011893967/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15027</idno>
+               </person><person xml:id="pmb5045">
+                  <tei:persName>
+                     <tei:surname>DeMille</tei:surname>
+                     <tei:forename>Cecil B.</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1881-08-12">12. 8. 1881</tei:date>
+                     <tei:placeName ref="#pmb55098">Ashfield</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1959-01-21">21. 1. 1959</tei:date>
+                     <tei:placeName ref="#pmb38174">Hollywood</tei:placeName>
+                  </tei:death>
+                  <occupation code="133">Filmregisseur*in</occupation>
+                  <occupation code="346">Filmproduzent</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119244012/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14407</idno>
+               </person><person xml:id="pmb11131">
+                  <tei:persName>
+                     <tei:surname>Czinner</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1890-05-30">30. 5. 1890</tei:date>
+                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1972-06-22">22. 6. 1972</tei:date>
+                     <tei:placeName ref="#pmb224">London</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="133">Filmregisseur*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116787651/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14335</idno>
+               </person><person xml:id="pmb10818">
+                  <tei:persName>
+                     <tei:surname>Bahr-Mildenburg</tei:surname>
+                     <tei:forename>Anna</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1872-11-29">29. 11. 1872</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1947-01-27">27. 1. 1947</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118646370/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13376</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29933">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Das Konzert. Lustspiel in drei Akten</tei:title>
+                  <tei:date from="1909-01-01" from-custom="1909">1909</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb30055">
+                  <tei:author ref="pmb12271" role="author">
+                     <tei:surname>Mittler</tei:surname>
+                     <tei:forename>Leo</tei:forename>
+                  </tei:author>
+                  <tei:title>Das Konzert</tei:title>
+                  <tei:date from="1931-01-01" from-custom="1931">1931</tei:date>
+                  <tei:gloss type="w1066">Film</tei:gloss>
+               </bibl><bibl xml:id="pmb32330">
+                  <tei:author ref="pmb4609" role="author">
+                     <tei:surname>Schertzinger</tei:surname>
+                     <tei:forename>Victor</tei:forename>
+                  </tei:author>
+                  <tei:title>The Concert</tei:title>
+                  <tei:date from="1921-01-01" from-custom="1921">1921</tei:date>
+                  <tei:gloss type="w1066">Film</tei:gloss>
+               </bibl><bibl xml:id="pmb32600">
+                  <tei:author ref="pmb4609" role="author">
+                     <tei:surname>Schertzinger</tei:surname>
+                     <tei:forename>Victor</tei:forename>
+                  </tei:author>
+                  <tei:title>Fashions in Love</tei:title>
+                  <tei:date from="1929-01-01" from-custom="1929">1929</tei:date>
+                  <tei:gloss type="w1066">Film</tei:gloss>
+               </bibl><bibl xml:id="pmb29917">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Liebelei. Schauspiel in drei Akten</tei:title>
+                  <tei:date from="1895-10-09" from-custom="9.10.1895">9. 10. 1895</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1823758/</idno>
+               </bibl><bibl xml:id="pmb32800">
+                  <tei:author ref="pmb28938" role="author">
+                     <tei:surname>Holger-Madsen</tei:surname>
+                     <tei:forename/>
+                  </tei:author>
+                  <tei:author ref="pmb5042" role="author">
+                     <tei:surname>Blom</tei:surname>
+                     <tei:forename>August</tei:forename>
+                  </tei:author>
+                  <tei:title>Elskovsleg</tei:title>
+                  <tei:date from="1914-01-01" from-custom="1914">1914</tei:date>
+                  <tei:gloss type="w1066">Film</tei:gloss>
+                  <tei:note>2759</tei:note>
+                  <tei:note>2760</tei:note>
+               </bibl><bibl xml:id="pmb32806">
+                  <tei:author ref="pmb28356" role="author">
+                     <tei:surname>Fleck</tei:surname>
+                     <tei:forename>Jacob Julius</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb11334" role="author">
+                     <tei:surname>Fleck</tei:surname>
+                     <tei:forename>Luise</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb7902" role="contributor">
+                     <tei:surname>Holt</tei:surname>
+                     <tei:forename>Evelyn</tei:forename>
+                  </tei:author>
+                  <tei:title>Liebelei (Film, 1927)</tei:title>
+                  <tei:date from="1927-01-01" from-custom="1927">1927</tei:date>
+                  <tei:gloss type="w1066">Film</tei:gloss>
+                  <tei:note>2610</tei:note>
+                  <tei:note>2611</tei:note>
+               </bibl><bibl xml:id="pmb29935">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb28645" role="illustrator">
+                     <tei:surname>Coschell</tei:surname>
+                     <tei:forename>Moritz</tei:forename>
+                     <tei:term>[Illustrationen]</tei:term>
+                  </tei:author>
+                  <tei:author ref="pmb5369" role="translator">
+                     <tei:surname>Granville-Barker</tei:surname>
+                     <tei:forename>Harley</tei:forename>
+                     <tei:term>[Übersetzung]</tei:term>
+                  </tei:author>
+                  <tei:title>Anatol</tei:title>
+                  <tei:date when="1892-10-29" when-custom="1892-10-29">29. 10. 1892</tei:date>
+                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q487409/</idno>
+               </bibl><bibl xml:id="pmb32808">
+                  <tei:author ref="pmb5045" role="author">
+                     <tei:surname>DeMille</tei:surname>
+                     <tei:forename>Cecil B.</tei:forename>
+                  </tei:author>
+                  <tei:title>The Affairs of Anatol</tei:title>
+                  <tei:date from="1921-01-01" from-custom="1921">1921</tei:date>
+                  <tei:gloss type="w1066">Film</tei:gloss>
+               </bibl><bibl xml:id="pmb33243">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Tagebuch</tei:title>
+                  <tei:date from="1981-01-01" from-custom="1981" to="2000-01-01" to-custom="2000">1981–2000</tei:date>
+                  <tei:gloss type="w1356">Tagebuch</tei:gloss>
+                  <tei:note>6297</tei:note>
+               </bibl><bibl xml:id="pmb29941">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Fräulein Else</tei:title>
+                  <tei:date from="1924-10-01" from-custom="01.10.1924">1. 10. 1924</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+                  <tei:note>2852</tei:note>
+                  <tei:note>7704</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1471310/</idno>
+               </bibl><bibl xml:id="pmb30711">
+                  <tei:author ref="pmb11131" role="author">
+                     <tei:surname>Czinner</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:author>
+                  <tei:title>Fräulein Else (Film)</tei:title>
+                  <tei:date from="1929-01-01" from-custom="1929">1929</tei:date>
+                  <tei:gloss type="w1066">Film</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb487">
+                  <tei:placeName>Hotel Riessersee</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.47996 11.08115</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb45258">
+                  <tei:placeName>München</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2867714/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4127793-4/</idno>
+               </place><place xml:id="pmb150">
+                  <tei:placeName>Sternwartestraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg/></back></text></TEI>

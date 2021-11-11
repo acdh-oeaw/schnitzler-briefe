@@ -1,256 +1,200 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00380"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 9. 10. 1894</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Martin Anton Müller</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00380</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00380" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 9. 10. 1894</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Martin Anton Müller</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00380</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="postkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#59">Wien 9/3</placeName>
-                                    <date when="1894-10-09">9. 10. 94</date>
-                                    <time>5–6 N</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="2">
-                                    <placeName ref="#445">Roma</placeName>
-                                    <date when="1894-11-10">11 10 <supplied>94</supplied>
-                                    </date>
-                                    <time>8 M</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente
-                                (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1894-10-09" n="01">9. 10. 1894</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <placeName ref="#445">Rom</placeName>
-               <date when="1894-11-10">11 10 [94]
-                    </date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00379">Fels an Schnitzler, 7. 10. 1894</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00381">Beer-Hofmann an Schnitzler, 12. 10. 1894</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00378">Beer-Hofmann an Schnitzler, 7. 10. 1894</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00381">Beer-Hofmann an Schnitzler, 12. 10. 1894</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6C9D-9</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="postkarte"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb59">Wien 9/3</placeName><date when="1894-10-09">9. 10. 94</date><time>5–6 N</time></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb445">Roma</placeName><date when="1894-11-10">11 10 <supplied>94</supplied></date><time>8 M</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente
+                                (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1894-10-09" n="01">9. 10. 1894</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb445">Rom</placeName><date when="1894-11-10">11 10 [94]
+                    </date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00379">Fels an Schnitzler, 7. 10. 1894</ref><ref subtype="next_letter" type="withinCollection" target="L00381">Beer-Hofmann an Schnitzler, 12. 10. 1894</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00378">Beer-Hofmann an Schnitzler, 7. 10. 1894</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00381">Beer-Hofmann an Schnitzler, 12. 10. 1894</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2016-08-18">Angelegt</change>
-         <change who="KI MAM" when="2016-08-18">Kollationiert am Original</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="GHS" when="2019-10-11">finalisiert</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1894_AS_RBH_3_00030"/>
-      <graphic url="1894_AS_RBH_3_00031"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="1894_AS_RBH_3_00030"/>
-                  <hi rend="latintype">
-                     <rs ref="#40306" type="place">Italien</rs>
-                  </hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">Dr. Rich Beer-Hofmann</hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs ref="#445" type="place">Rom</rs>
-                  </hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs ref="#769" type="place">Hotel Quirinal</rs>
-                  </hi>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <pb facs="1894_AS_RBH_3_00031"/>
-                  <rs ref="#50" type="place">
-                     <unclear>Wien</unclear>
-                  </rs>
-               </p>
-               <dateline rend="right">
-                  <date>Dienstag, 9. 10. 94</date>.</dateline>
-            </opener>
-            <p>
-               <salute>Lieber Richard, </salute>bitte theilen Sie mir mit, ob Sie meinen Brief
-                        <rs ref="#445" type="place">Rom</rs>
-               <space unit="chars" quantity="1"/>
-               <hi rend="latintype">a post. ferm</hi> der »Lieber Bekannter« anfing, nicht
-                    erhalten haben. Und die 2 Karten nach <rs ref="#44205" type="place">Pallanza</rs>? –</p>
-            <p>
-               <rs ref="#10815" type="person">
-                  <hi rend="latintype">Bahr</hi>
-               </rs>: <rs ref="#770" type="place">Wien, VIII <hi rend="latintype">Lammgasse</hi> 3</rs>. Er hat ſich ſehr über Ihr Telegr.
-                    gefreut. Erſte <rs type="org" ref="#29209" subtype="implied">Nu<c rendition="#gemination-m"/>er</rs> wohlgelungen. <hi rend="latintype">
-                  <anchor xml:id="K_L00380_1" type="commentary"/>
-                  <rs type="work" ref="#31363" subtype="implied">
-                     <rs ref="#2713" type="person">Helferich</rs>
-                  </rs>
-                  <note xml:id="K_L00380_1h" type="commentary">
-                     <bibl>
-                        <rs ref="#2713" type="person">Hermann Helferich</rs>: <rs ref="#31363" type="work">»Schöne Frauen«</rs>. In: <rs ref="#36340" type="work">Die Zeit</rs>, Bd. 1, Nr. 1,
-                                    <date>6. 10. 1894</date>, S. 7–8</bibl>.</note>
-               </hi> famos; <anchor xml:id="K_L00380_2" type="commentary"/>
-               <rs ref="#10815" type="person">
-                  <hi rend="latintype">Bahr</hi>
-               </rs>’s Sachen<note xml:id="K_L00380_2h" type="commentary">
-                  <rs type="person" ref="#10815">Bahr</rs> hat, unter verschiedenen Namen und Kürzeln,
-                        zwei Aufsätze, zwei Buch- und drei Theaterbesprechungen im ersten
-                        Heft.</note>, beſonders <anchor xml:id="K_L00380_3" type="commentary"/>
-               <rs ref="#32209" type="work">Burgtheater</rs>
-               <note xml:id="K_L00380_3h" type="commentary">
-                  <bibl>
-                     <rs ref="#10815" type="person">Hermann Bahr</rs>: <rs ref="#32209" type="work">Burgtheater</rs>. In: <rs ref="#36340" type="work">Die Zeit</rs>, Bd. 1, Nr. 1, <date>6. 10. 1894</date>,
-                            S. 9–10</bibl>.</note> vorzüglich. –</p>
-            <p>
-               <rs ref="#30397" type="work">Schmetterlingsſchlacht</rs> noch nicht geſehen,
-                    will Freitag gehen. – Schreiben Sie mehr, wann ko<c rendition="#gemination-m"/>en Sie?</p>
-            <closer>Herzlichen Gruſs<space unit="chars" quantity="3"/>Ihr
-                        <signed>Arthur</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2016-08-18">Angelegt</change><change who="KI MAM" when="2016-08-18">Kollationiert am Original</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2019-10-11">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="1894_AS_RBH_3_00030"/><graphic url="1894_AS_RBH_3_00031"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="1894_AS_RBH_3_00030"/><hi rend="latintype"><rs ref="#pmb40306" type="place">Italien</rs></hi></addrLine><addrLine><hi rend="latintype">Dr. Rich Beer-Hofmann</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb445" type="place">Rom</rs></hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb769" type="place">Hotel Quirinal</rs></hi></addrLine></address></div><div type="writingSession" n="1"><opener><p><pb facs="1894_AS_RBH_3_00031"/><rs ref="#pmb50" type="place"><unclear>Wien</unclear></rs></p><dateline rend="right"><date>Dienstag, 9. 10. 94</date>.</dateline></opener><p><salute>Lieber Richard, </salute>bitte theilen Sie mir mit, ob Sie meinen Brief <rs ref="#pmb445" type="place">Rom</rs><space unit="chars" quantity="1"/><hi rend="latintype">a post. ferm</hi> der »Lieber Bekannter« anfing, nicht erhalten haben. Und die 2 Karten nach <rs ref="#pmb44205" type="place">Pallanza</rs>? –</p><p><rs ref="#pmb10815" type="person"><hi rend="latintype">Bahr</hi></rs>: <rs ref="#pmb770" type="place">Wien, VIII <hi rend="latintype">Lammgasse</hi> 3</rs>. Er hat<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr über Ihr Telegr. gefreut. Er<c rendition="#langesS">s</c>te <rs type="org" ref="#pmb29209" subtype="implied">Nu<c rendition="#gemination-m"/>er</rs> wohlgelungen. <hi rend="latintype"><anchor xml:id="K_L00380_1" type="commentary"/><rs type="work" ref="#pmb31363" subtype="implied"><rs ref="#pmb2713" type="person">Helferich</rs></rs><note xml:id="K_L00380_1h" type="commentary"><bibl><rs ref="#pmb2713" type="person">Hermann Helferich</rs>: <rs ref="#pmb31363" type="work">»Schöne Frauen«</rs>. In: <rs ref="#pmb36340" type="work">Die Zeit</rs>, Bd. 1, Nr. 1, <date>6. 10. 1894</date>, S. 7–8</bibl>.</note></hi> famos; <anchor xml:id="K_L00380_2" type="commentary"/><rs ref="#pmb10815" type="person"><hi rend="latintype">Bahr</hi></rs>’s Sachen<note xml:id="K_L00380_2h" type="commentary"><rs type="person" ref="#pmb10815">Bahr</rs> hat, unter verschiedenen Namen und Kürzeln, zwei Aufsätze, zwei Buch- und drei Theaterbesprechungen im ersten Heft.</note>, be<c rendition="#langesS">s</c>onders <anchor xml:id="K_L00380_3" type="commentary"/><rs ref="#pmb32209" type="work">Burgtheater</rs><note xml:id="K_L00380_3h" type="commentary"><bibl><rs ref="#pmb10815" type="person">Hermann Bahr</rs>: <rs ref="#pmb32209" type="work">Burgtheater</rs>. In: <rs ref="#pmb36340" type="work">Die Zeit</rs>, Bd. 1, Nr. 1, <date>6. 10. 1894</date>, S. 9–10</bibl>.</note> vorzüglich. –</p><p><rs ref="#pmb30397" type="work">Schmetterlings<c rendition="#langesS">s</c>chlacht</rs> noch nicht ge<c rendition="#langesS">s</c>ehen, will Freitag gehen. – Schreiben Sie mehr, wann ko<c rendition="#gemination-m"/>en Sie?</p><closer>Herzlichen Gru<c rendition="#langesS">s</c>s<space unit="chars" quantity="3"/>Ihr <signed>Arthur</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2713">
+                  <tei:persName>
+                     <tei:surname>Heilbut</tei:surname>
+                     <tei:forename>Emil</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-04-02">2. 4. 1861</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1921-02-16">16. 2. 1921</tei:date>
+                     <tei:placeName ref="#pmb40482">Montreux</tei:placeName>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="188">Kunstschriftsteller*in</occupation>
+                  <occupation code="189">Sammler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116651407/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16036</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb31363">
+                  <tei:author ref="pmb2713" role="author">
+                     <tei:surname>Heilbut</tei:surname>
+                     <tei:forename>Emil</tei:forename>
+                  </tei:author>
+                  <tei:title>»Schöne Frauen«</tei:title>
+                  <tei:date from="1894-10-06" from-custom="06.10.1894">6. 10. 1894</tei:date>
+                  <tei:gloss type="w1055">Text</tei:gloss>
+               </bibl><bibl xml:id="pmb36340">
+                  <tei:title>Die Zeit. Wiener Wochenschrift</tei:title>
+                  <tei:date from="1894-01-01" from-custom="1894" to="1904-01-01" to-custom="1904">1894–1904</tei:date>
+                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
+               </bibl><bibl xml:id="pmb32209">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Burgtheater [Das fünfte Jahr]</tei:title>
+                  <tei:date from="1894-10-06" from-custom="06.10.1894">6. 10. 1894</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>3121</tei:note>
+               </bibl><bibl xml:id="pmb30397">
+                  <tei:author ref="pmb12899" role="author">
+                     <tei:surname>Sudermann</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Schmetterlingsschlacht</tei:title>
+                  <tei:date from="1894-01-01" from-custom="1894">1894</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb59">
+                  <tei:placeName>IX., Alsergrund</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb445">
+                  <tei:placeName>Rom</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">41.89193 12.51133</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3169070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q220/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb40306">
+                  <tei:placeName>Italien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">42.83333 12.83333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3175395/</idno>
+               </place><place xml:id="pmb769">
+                  <tei:placeName>Hotel Quirinale</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">41.90163 12.49484</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb44205">
+                  <tei:placeName>Pallanza</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">45.92298 8.55045</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3171593/</idno>
+               </place><place xml:id="pmb770">
+                  <tei:placeName>Lammgasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.212672693101 16.351984656963</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb29209">
+                  <tei:orgName>Die Zeit. Wiener Wochenschrift</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb296">
+                     <tei:placeName>Günthergasse</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.216599877109 16.358330000258</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

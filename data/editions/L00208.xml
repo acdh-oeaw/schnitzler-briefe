@@ -1,239 +1,245 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00208"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 3. 5. 1893</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00208</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00208" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 3. 5. 1893</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00208</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="anderes">gedruckte Todesanzeige</desc>
-                           <desc type="umschlag">Umschlag mit Trauerrand</desc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent">
-                              <p>Umschlag</p>
-                           </handNote>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druck: »<quote>
-                                 <rs ref="#41364" type="org">M. <hi rend="capitals">Engel</hi>
-                                    <space unit="chars" quantity="1"/>
-                                    <c rendition="#kaufmannsund"/>
-                                    <space unit="chars" quantity="1"/>
-                                    <hi rend="capitals">Söhne</hi>
-                                 </rs>
-                                 <space unit="chars" quantity="1"/>
-                                 <rs ref="#95" type="place">
-                                    <hi rend="capitals">Wien, 1.,
-                                       Lichtenfelsgasse 9</hi>
-                                 </rs>
-                              </quote>«</p>
-                        </typeDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#50">Wien 1/1</placeName>
-                                    <date>3. 5. 93</date>
-                                    <time>3–4 N</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1893-05-03" n="01">3. 5. 1893</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00207">Altenberg an Schnitzler, [2.? 5. 1893]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00209">Suttner an Schnitzler, 3. 5. 1893</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00205">Schnitzler an Beer-Hofmann, 30. 4. 1893</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00211">Schnitzler an Beer-Hofmann, [zwischen 5. 5. 1893 und
-                  2. 5. 1894]</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6BF1-A</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="anderes">gedruckte Todesanzeige</desc><desc type="umschlag">Umschlag mit Trauerrand</desc></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"><p>Umschlag</p></handNote></handDesc><typeDesc><p>Druck: »<quote><rs ref="#pmb41364" type="org">M. <hi rend="capitals">Engel</hi><space unit="chars" quantity="1"/><c rendition="#kaufmannsund"/><space unit="chars" quantity="1"/><hi rend="capitals">Söhne</hi></rs><space unit="chars" quantity="1"/><rs ref="#pmb95" type="place"><hi rend="capitals">Wien, 1.,
+                                       Lichtenfelsgasse 9</hi></rs></quote>«</p></typeDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb50">Wien 1/1</placeName><date>3. 5. 93</date><time>3–4 N</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1893-05-03" n="01">3. 5. 1893</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00207">Altenberg an Schnitzler, [2.? 5. 1893]</ref><ref subtype="next_letter" type="withinCollection" target="L00209">Suttner an Schnitzler, 3. 5. 1893</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00205">Schnitzler an Beer-Hofmann, 30. 4. 1893</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00211">Schnitzler an Beer-Hofmann, [zwischen 5. 5. 1893 und
+                  2. 5. 1894]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2019-09-27">angelegt</change>
-         <change who="MAM" when="2019-09-27">Index check</change>
-         <change who="GHS" when="2019-09-27">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1893_AS_RBH_1_00002"/>
-      <graphic url="1893_AS_RBH_1_00008"/>
-      <graphic url="1893_AS_RBH_1_00009"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="1893_AS_RBH_1_00008"/>Herrn <hi rend="latintype">Dr. Rich.
-                     Beer-Hofmann</hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs type="place" ref="#50">Wien</rs>
-                  </hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs ref="#338" type="place">I Wollzeile 15</rs>
-                  </hi>.</addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <p>
-               <pb facs="1893_AS_RBH_1_00002"/>Tieferschüttert geben die Unterzeichneten hiemit im
-               eigenen und im Namen der Familie Nachricht von dem Hinscheiden ihres innigstgeliebten
-               Gatten, resp. Vaters, Bruders und Schwiegervaters, des Herrn</p>
-            <p rend="center">Dr. <rs ref="#12695" type="person">Johann Schnitzler</rs>
-            </p>
-            <p rend="center">k. k. Regierungsrath, k. k. a. o. Universitäts-Professor, Direktor der
-                  <rs ref="#41367" type="org">allgemeinen Poliklinik</rs>, Commandeur des <rs ref="#43570" type="place">dän.</rs>
-               <space unit="chars" quantity="1"/>
-               <rs ref="#41395" type="org">Danebrog-Orden</rs>s etc. etc.</p>
-            <p>welcher nach kurzem Leiden am <date>2. Mai 1893</date>, <time>Nachmittags ½ 2
-                  Uhr</time>, im 59. Lebensjahre verschieden ist.</p>
-            <p>Die irdische Hülle des theuren Verblichenen wird <date>Donnerstag, den 4. Mai</date>,
-                  <time>½ 10 Uhr Vormittags</time> vom Trauerhause <rs ref="#274" type="place">I.,
-                  Burgring 1</rs>, auf den <rs ref="#41376" type="place">Central-Friedhof (israel.
-                  Abtheilung)</rs> überführt und dort zur ewigen Ruhe bestattet.</p>
-            <p rend="inline">
-               <rs ref="#50" type="place">
-                  <hi rend="spaced_out">Wien</hi>
-               </rs>, <date>3. Mai 1893</date>.</p>
-            <p rend="center">
-               <rs ref="#12701" type="person">Louise Schnitzler</rs>
-               <lb/>geb. <rs ref="#12701" type="person">Markbreiter</rs>
-               <lb/>als Gattin.</p>
-            <p>
-               <seg rend="left">Dr. Arthur Schnitzler</seg>
-               <seg rend="right">
-                  <rs ref="#41373" type="person">Johanna Willheim</rs>
-               </seg>
-            </p>
-            <p>
-               <seg rend="left">Dr. <rs ref="#12698" type="person">Julius Schnitzler</rs>
-               </seg>
-               <seg rend="right">geb. Schnitzler</seg>
-            </p>
-            <p>
-               <seg rend="left">
-                  <rs ref="#2461" type="person">Gisela Hajek</rs>
-               </seg>
-               <seg rend="right">als Schwester.</seg>
-            </p>
-            <p>
-               <seg rend="left">als Kinder.</seg>
-               <seg rend="right">Dr. <rs ref="#2284" type="person">Marcus Hajek</rs>
-               </seg>
-            </p>
-            <p rend="right">als Schwiegersohn</p>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-09-27">angelegt</change><change who="MAM" when="2019-09-27">Index check</change><change who="GHS" when="2019-09-27">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="1893_AS_RBH_1_00002"/><graphic url="1893_AS_RBH_1_00008"/><graphic url="1893_AS_RBH_1_00009"/></facsimile><text type="letter"><body><div type="address"><address><addrLine><pb facs="1893_AS_RBH_1_00008"/>Herrn <hi rend="latintype">Dr. Rich. Beer-Hofmann</hi></addrLine><addrLine><hi rend="latintype"><rs type="place" ref="#pmb50">Wien</rs></hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb338" type="place">I Wollzeile 15</rs></hi>.</addrLine></address></div><div type="writingSession" n="1"><p><pb facs="1893_AS_RBH_1_00002"/>Tieferschüttert geben die Unterzeichneten hiemit im eigenen und im Namen der Familie Nachricht von dem Hinscheiden ihres innigstgeliebten Gatten, resp. Vaters, Bruders und Schwiegervaters, des Herrn</p><p rend="center">Dr. <rs ref="#pmb12695" type="person">Johann Schnitzler</rs></p><p rend="center">k. k. Regierungsrath, k. k. a. o. Universitäts-Professor, Direktor der <rs ref="#pmb41367" type="org">allgemeinen Poliklinik</rs>, Commandeur des <rs ref="#pmb43570" type="place">dän.</rs><space unit="chars" quantity="1"/><rs ref="#pmb41395" type="org">Danebrog-Orden</rs>s etc. etc.</p><p>welcher nach kurzem Leiden am <date>2. Mai 1893</date>, <time>Nachmittags ½ 2 Uhr</time>, im 59. Lebensjahre verschieden ist.</p><p>Die irdische Hülle des theuren Verblichenen wird <date>Donnerstag, den 4. Mai</date>, <time>½ 10 Uhr Vormittags</time> vom Trauerhause <rs ref="#pmb274" type="place">I., Burgring 1</rs>, auf den <rs ref="#pmb41376" type="place">Central-Friedhof (israel. Abtheilung)</rs> überführt und dort zur ewigen Ruhe bestattet.</p><p rend="inline"><rs ref="#pmb50" type="place"><hi rend="spaced_out">Wien</hi></rs>, <date>3. Mai 1893</date>.</p><p rend="center"><rs ref="#pmb12701" type="person">Louise Schnitzler</rs><lb/>geb. <rs ref="#pmb12701" type="person">Markbreiter</rs><lb/>als Gattin.</p><p><seg rend="left">Dr. Arthur Schnitzler</seg><seg rend="right"><rs ref="#pmb41373" type="person">Johanna Willheim</rs></seg></p><p><seg rend="left">Dr. <rs ref="#pmb12698" type="person">Julius Schnitzler</rs></seg><seg rend="right">geb. Schnitzler</seg></p><p><seg rend="left"><rs ref="#pmb2461" type="person">Gisela Hajek</rs></seg><seg rend="right">als Schwester.</seg></p><p><seg rend="left">als Kinder.</seg><seg rend="right">Dr. <rs ref="#pmb2284" type="person">Marcus Hajek</rs></seg></p><p rend="right">als Schwiegersohn</p></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb12695">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Johann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1835-04-10">10. 4. 1835</tei:date>
+                     <tei:placeName ref="#pmb45549">Nagykanizsa</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1893-05-02">2. 5. 1893</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="132">Laryngologe/in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848669/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19824</idno>
+               </person><person xml:id="pmb12701">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Louise</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1840-07-08">8. 7. 1840</tei:date>
+                     <tei:placeName ref="#pmb35513">Kőszeg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1911-09-09">9. 9. 1911</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/1141930552/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19831</idno>
+               </person><person xml:id="pmb41373">
+                  <tei:persName>
+                     <tei:surname>Willheim</tei:surname>
+                     <tei:forename>Johanna</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1840-01-01">1840/1841</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1925-07-02">1925</tei:date>
+                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
+                  </tei:death>
+               </person><person xml:id="pmb12698">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Julius</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1865-07-13">13. 7. 1865</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-06-29">29. 6. 1939</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="364">Chirurg*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848693/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19827</idno>
+               </person><person xml:id="pmb2461">
+                  <tei:persName>
+                     <tei:surname>Hajek</tei:surname>
+                     <tei:forename>Gisela</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1867-12-20">20. 12. 1867</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1953-02-03">3. 2. 1953</tei:date>
+                     <tei:placeName ref="#pmb893">Cambridge</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/1011705532/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15854</idno>
+               </person><person xml:id="pmb2284">
+                  <tei:persName>
+                     <tei:surname>Hajek</tei:surname>
+                     <tei:forename>Markus</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-11-25">25. 11. 1861</tei:date>
+                     <tei:placeName ref="#pmb46727">Vršac</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1941-04-04">4. 4. 1941</tei:date>
+                     <tei:placeName ref="#pmb224">London</tei:placeName>
+                  </tei:death>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <occupation code="132">Laryngologe/in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/143163604/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15855</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb95">
+                  <tei:placeName>Lichtenfelsgasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.210037490674 16.357104381105</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb338">
+                  <tei:placeName>Wollzeile</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.20852 16.37592</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb43570">
+                  <tei:placeName>Dänemark</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">56.0 10.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2623032/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q35/</idno>
+               </place><place xml:id="pmb274">
+                  <tei:placeName>Burgring</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.204946202715 16.362166500158</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb41376">
+                  <tei:placeName>Wiener Zentralfriedhof</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1874-01-01" from-custom="1874-01-01">1. 1. 1874</tei:date>
+                     <tei:gloss ana="i51">Friedhof</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.149444 16.441111</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb41364">
+                  <tei:orgName>M. Engel und Söhne</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1036">Druckerei</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb95">
+                     <tei:placeName>Lichtenfelsgasse</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.210037490674 16.357104381105</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb41367">
+                  <tei:orgName>Allgemeine Poliklinik</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1872-01-01" from-custom="1872" to="1998-01-01" to-custom="1998">1872–1998</tei:date>
+                     <tei:gloss ana="i1375">Krankenhaus</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb41">
+                     <tei:placeName>Allgemeine Poliklinik</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.216139 16.349167</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb59">
+                     <tei:placeName>IX., Alsergrund</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb41395">
+                  <tei:orgName>Dannebrogorden</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i980">Orden</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb43570">
+                     <tei:placeName>Dänemark</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">56.0 10.0</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

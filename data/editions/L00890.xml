@@ -1,196 +1,279 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00890"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Hermann Bahr, Antwort auf eine Umfrage,
-               15. 2. 1899</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Ifkovits, Kurt</name>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00890</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00890" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, Antwort auf eine Umfrage,
+               15. 2. 1899</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Ifkovits, Kurt</name><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00890</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listBibl>
-               <biblStruct>
-                  <analytic>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="a">[Das Erscheinen der Autoren]</title>
-                  </analytic>
-                  <monogr>
-                     <title level="j" ref="#36340">Die Zeit</title>
-                     <imprint>
-                        <date when="1899-02-18" n="1">18. 2. 1899</date>
-                     </imprint>
-                     <biblScope unit="vol">18</biblScope>
-                     <biblScope unit="nr">229</biblScope>
-                     <biblScope unit="pp">104–106, hier: S. 105</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">167–168</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-DE">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1899-02-15" n="01">15. 2. 1899</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10815">Bahr, Hermann</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00889">Hofmannsthal
-                  an Schnitzler, 13. 2. 1899</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00891">Hofmannsthal an
-                  Schnitzler, [17. 2. 1899]</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L00888">Bahr an
-                  Schnitzler, 10. 2. 1899</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00896">Schnitzler an
-                  Bahr, [2. – 6.?] 3. 1899</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6E9B-9</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listBibl><biblStruct><analytic><author ref="#pmb2121">Schnitzler, Arthur</author><title level="a">[Das Erscheinen der Autoren]</title></analytic><monogr><title level="j" ref="#pmb36340">Die Zeit</title><imprint><date when="1899-02-18" n="1">18. 2. 1899</date></imprint><biblScope unit="vol">18</biblScope><biblScope unit="nr">229</biblScope><biblScope unit="pp">104–106, hier: S. 105</biblScope></monogr></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">167–168</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-DE">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1899-02-15" n="01">15. 2. 1899</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L00889">Hofmannsthal
+                  an Schnitzler, 13. 2. 1899</ref><ref subtype="next_letter" type="withinCollection" target="L00891">Hofmannsthal an
+                  Schnitzler, [17. 2. 1899]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00888">Bahr an
+                  Schnitzler, 10. 2. 1899</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00896">Schnitzler an
+                  Bahr, [2. – 6.?] 3. 1899</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change when="2016-03-04" who="MAM">Angelegt</change>
-         <change who="MAM" when="2020-01-02">Überführt aus Bahr/Schnitzler</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-         <change who="GHS" when="2020-07-20">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb/>
-                  <rs type="place" ref="#50">Wien</rs>, <date when="1899-02-15">15. Februar
-                     1899</date>. </dateline>
-               <p rend="center">
-                  <hi rend="spaced_out">Lieber Bahr!</hi>
-               </p>
-            </opener>
-            <p>
-               <anchor xml:id="K_L00890_1" type="commentary"/>Ob ein gerufener Autor erſcheinen
-                  ſoll<note xml:id="K_L00890_1h" type="commentary">Der Brief erschien zusammen mit
-                  weiteren Antworten nach folgender wohl von <rs type="person" ref="#10815"
-                     >Bahr</rs> verfasster Einleitung: »<quote>Zu dem Aufsatze ›<rs type="work"
-                        ref="#31343">Premièren</rs>‹ in Nr. 228 der ›<rs type="work" ref="#36340"
-                        >Zeit</rs>‹, welcher anregte, dass sich die Autoren bei ihren Premièren
-                     nicht mehr dem Publicum zeigen sollen, sind uns folgende Zuschriften
-                     zugekommen:</quote>« Die anderen Antworten, durchwegs in Form eines an Bahr
-                  gerichteten Briefes: <rs type="person" ref="#2161">Emerich von Bukovics</rs>, <rs
-                     type="person" ref="#2164">Ernst Gettke</rs>, <rs type="person" ref="#2157">Leo
-                     Ebermann</rs>, <rs type="person" ref="#13082">Carl Karlweis</rs>, <rs
-                     type="person" ref="#2334">Philipp Langmann</rs>, <rs type="person" ref="#2337"
-                     >Victor Léon</rs>, <rs type="person" ref="#14328">Oskar Blumenthal</rs>, <rs
-                     type="person" ref="#13118">Ernst von Wildenbruch</rs> und <rs type="person"
-                     ref="#11605">Otto Erich Hartleben</rs>; die Antwort von <rs type="person"
-                     ref="#2344">Max Grube</rs> in Gestalt eines Gedichts. Auf eine <rs type="work"
-                     ref="#29979" subtype="implied">Reaktion</rs>
-                  <space unit="chars" quantity="1"/>
-                  <rs type="person" ref="#11673">Theodor Herzls</rs> in der <rs type="work"
-                     ref="#36374">Neuen Freien Presse</rs> vom <date>12. 2. 1899</date>
-                     (<bibl>Nr. 12384, S. 8</bibl>) wird hingewiesen.</note> oder nicht? Nichts iſt
-               gleichgiltiger für das innere Schickſal der Première; nichts gleichgiltiger für das
-               fernere Schickſal des betreffenden Stückes. Jeder Autor möge es daher in jedem Falle
-               halten, wie es ihm beliebt. In Geſchmacks- und Stimmungsfragen gibt es keine
-               Solidarität.</p>
-            <closer>Herzlichen Gruß. <anchor xml:id="K_L00890_2" type="commentary"/>Dein<note
-                  xml:id="K_L00890_2h" type="commentary">Drei weitere Antworten geben
-                  Duzbrüderschaft mit Bahr zu erkennen: <rs type="person" ref="#2161">Bukovics</rs>,
-                     <rs type="person" ref="#2157">Ebermann</rs> und <rs type="person" ref="#13082"
-                     >Karlweis</rs>.</note> ergebener<lb/>
-               <signed>
-                  <hi rend="bold">Arthur Schnitzler</hi>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change when="2016-03-04" who="MAM">Angelegt</change><change who="MAM" when="2020-01-02">Überführt aus Bahr/Schnitzler</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-07-20">finalisiert</change></revisionDesc></teiHeader><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb/><rs type="place" ref="#pmb50">Wien</rs>, <date when="1899-02-15">15. Februar 1899</date>. </dateline><p rend="center"><hi rend="spaced_out">Lieber Bahr!</hi></p></opener><p><anchor xml:id="K_L00890_1" type="commentary"/>Ob ein gerufener Autor er<c rendition="#langesS">s</c>cheinen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll<note xml:id="K_L00890_1h" type="commentary">Der Brief erschien zusammen mit weiteren Antworten nach folgender wohl von <rs type="person" ref="#pmb10815">Bahr</rs> verfasster Einleitung: »<quote>Zu dem Aufsatze ›<rs type="work" ref="#pmb31343">Premièren</rs>‹ in Nr. 228 der ›<rs type="work" ref="#pmb36340">Zeit</rs>‹, welcher anregte, dass sich die Autoren bei ihren Premièren nicht mehr dem Publicum zeigen sollen, sind uns folgende Zuschriften zugekommen:</quote>« Die anderen Antworten, durchwegs in Form eines an Bahr gerichteten Briefes: <rs type="person" ref="#pmb2161">Emerich von Bukovics</rs>, <rs type="person" ref="#pmb2164">Ernst Gettke</rs>, <rs type="person" ref="#pmb2157">Leo Ebermann</rs>, <rs type="person" ref="#pmb13082">Carl Karlweis</rs>, <rs type="person" ref="#pmb2334">Philipp Langmann</rs>, <rs type="person" ref="#pmb2337">Victor Léon</rs>, <rs type="person" ref="#pmb14328">Oskar Blumenthal</rs>, <rs type="person" ref="#pmb13118">Ernst von Wildenbruch</rs> und <rs type="person" ref="#pmb11605">Otto Erich Hartleben</rs>; die Antwort von <rs type="person" ref="#pmb2344">Max Grube</rs> in Gestalt eines Gedichts. Auf eine <rs type="work" ref="#pmb29979" subtype="implied">Reaktion</rs><space unit="chars" quantity="1"/><rs type="person" ref="#pmb11673">Theodor Herzls</rs> in der <rs type="work" ref="#pmb36374">Neuen Freien Presse</rs> vom <date>12. 2. 1899</date> (<bibl>Nr. 12384, S. 8</bibl>) wird hingewiesen.</note> oder nicht? Nichts i<c rendition="#langesS">s</c>t gleichgiltiger für das innere Schick<c rendition="#langesS">s</c>al der Première; nichts gleichgiltiger für das fernere Schick<c rendition="#langesS">s</c>al des betreffenden Stückes. Jeder Autor möge es daher in jedem Falle halten, wie es ihm beliebt. In Ge<c rendition="#langesS">s</c>chmacks- und Stimmungsfragen gibt es keine Solidarität.</p><closer>Herzlichen Gruß. <anchor xml:id="K_L00890_2" type="commentary"/>Dein<note xml:id="K_L00890_2h" type="commentary">Drei weitere Antworten geben Duzbrüderschaft mit Bahr zu erkennen: <rs type="person" ref="#pmb2161">Bukovics</rs>, <rs type="person" ref="#pmb2157">Ebermann</rs> und <rs type="person" ref="#pmb13082">Karlweis</rs>.</note> ergebener<lb/><signed><hi rend="bold">Arthur Schnitzler</hi>.</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2161">
+                  <tei:persName>
+                     <tei:surname>Bukovics</tei:surname>
+                     <tei:forename>Emerich von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1844-02-28">28. 2. 1844</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1905-07-04">4. 7. 1905</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11715380X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14056</idno>
+               </person><person xml:id="pmb2164">
+                  <tei:persName>
+                     <tei:surname>Gettke</tei:surname>
+                     <tei:forename>Ernst</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1841-10-08">8. 10. 1841</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1912-12-04">4. 12. 1912</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116601159/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15410</idno>
+               </person><person xml:id="pmb2157">
+                  <tei:persName>
+                     <tei:surname>Ebermann</tei:surname>
+                     <tei:forename>Leo</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-16">16. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb53790">Draganovka</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1914-10-09">9. 10. 1914</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="102">Rechtswissenschaftler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/14398179X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14597</idno>
+               </person><person xml:id="pmb13082">
+                  <tei:persName>
+                     <tei:surname>Karlweis</tei:surname>
+                     <tei:forename>Carl</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1850-11-23">23. 11. 1850</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1901-10-27">27. 10. 1901</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117302996/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16730</idno>
+               </person><person xml:id="pmb2334">
+                  <tei:persName>
+                     <tei:surname>Langmann</tei:surname>
+                     <tei:forename>Philipp</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-02-05">5. 2. 1862</tei:date>
+                     <tei:placeName ref="#pmb833">Brünn</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-05-22">22. 5. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/36113567X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17314</idno>
+               </person><person xml:id="pmb2337">
+                  <tei:persName>
+                     <tei:surname>Léon</tei:surname>
+                     <tei:forename>Victor</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1858-01-04">4. 1. 1858</tei:date>
+                     <tei:placeName ref="#pmb45111">Senica</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1940-02-23">23. 2. 1940</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115460608/</idno>
+               </person><person xml:id="pmb14328">
+                  <tei:persName>
+                     <tei:surname>Blumenthal</tei:surname>
+                     <tei:forename>Oskar</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1852-03-13">13. 3. 1852</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1917-04-24">24. 4. 1917</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118659111/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13808</idno>
+               </person><person xml:id="pmb13118">
+                  <tei:persName>
+                     <tei:surname>Wildenbruch</tei:surname>
+                     <tei:forename>Ernst von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1845-02-03">3. 2. 1845</tei:date>
+                     <tei:placeName ref="#pmb46759">Beirut</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1909-01-15">15. 1. 1909</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118771760/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21326</idno>
+               </person><person xml:id="pmb11605">
+                  <tei:persName>
+                     <tei:surname>Hartleben</tei:surname>
+                     <tei:forename>Otto Erich</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1864-06-03">3. 6. 1864</tei:date>
+                     <tei:placeName ref="#pmb11606">Clausthal-Zellerfeld</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1905-02-11">11. 2. 1905</tei:date>
+                     <tei:placeName ref="#pmb39611">Salò</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118546198/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15941</idno>
+               </person><person xml:id="pmb2344">
+                  <tei:persName>
+                     <tei:surname>Grube</tei:surname>
+                     <tei:forename>Max</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1854-03-25">25. 3. 1854</tei:date>
+                     <tei:placeName ref="#pmb46646">Tartu</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-12-25">25. 12. 1934</tei:date>
+                     <tei:placeName ref="#pmb35576">Meiningen</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116879483/</idno>
+               </person><person xml:id="pmb11673">
+                  <tei:persName>
+                     <tei:surname>Herzl</tei:surname>
+                     <tei:forename>Theodor</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1860-05-02">2. 5. 1860</tei:date>
+                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1904-07-03">3. 7. 1904</tei:date>
+                     <tei:placeName ref="#pmb470">Edlach</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118550241/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16165</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb31343">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Premièren. (Zur Première des Lustspiels »Unser Käthchen« von Theodor Herzl im Deutschen Volkstheater am 4. Februar 1898)</tei:title>
+                  <tei:date from="1899-02-11" from-custom="11.02.1899">11. 2. 1899</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>3015</tei:note>
+               </bibl><bibl xml:id="pmb36340">
+                  <tei:title>Die Zeit. Wiener Wochenschrift</tei:title>
+                  <tei:date from="1894-01-01" from-custom="1894" to="1904-01-01" to-custom="1904">1894–1904</tei:date>
+                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
+               </bibl><bibl xml:id="pmb29979">
+                  <tei:author ref="pmb11673" role="author">
+                     <tei:surname>Herzl</tei:surname>
+                     <tei:forename>Theodor</tei:forename>
+                  </tei:author>
+                  <tei:title>»Unser Käthchen« [Brief an Hermann Bahr]</tei:title>
+                  <tei:date from="1899-02-12" from-custom="12.02.1899">12. 2. 1899</tei:date>
+                  <tei:gloss type="w1095">Leserbrief</tei:gloss>
+                  <tei:note>2858</tei:note>
+               </bibl><bibl xml:id="pmb36374">
+                  <tei:title>Neue Freie Presse</tei:title>
+                  <tei:date from="1864-01-01" from-custom="1864" to="1939-01-01" to-custom="1939">1864–1939</tei:date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <tei:note>3479</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

@@ -1,256 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02314"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Robert Adam an Arthur Schnitzler, 2. 12. 1918</title>
-            <author ref="#12438">Adam, Robert</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02314</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02314" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Robert Adam an Arthur Schnitzler, 2. 12. 1918</title><author ref="#pmb12438">Adam, Robert</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02314</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 1</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="3" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift beschriftet: »<quote>
-                                    <hi rend="latintype">Adam</hi>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit rotem Buntstift zwei Unterstreichungen</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>von unbekannter Hand nummeriert: »<quote>10</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-               <witness n="2">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. ser. 52.263</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="entwurf"/>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter"/>
-                           <desc n="4" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="additional-information">
-                              <desc>Entwurf des Briefes, datiert auf den <date>1. 12. 1918</date>
-                                 und mit leichten sprachlichen Variationen</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-               <witness n="3">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod.ser. 52.269, 225 verso</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="reproduktion" subtype="ms_abschrift"/>
-                           <desc type="brief"/>
-                        </objectDesc>
-                        <typeDesc>
-                           <p>Schreibmaschine</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#12438">Adam, Robert</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1918-12-02" n="01">2. 12. 1918</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#12438">Adam, Robert</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02313">Hofmannsthal
-                  an Schnitzler, [Anfang Dezember 1918]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02315">Adam an
-                  Schnitzler, 8. 12. 1918</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L02311">Adam an
-                  Schnitzler, 15. 11. 1918</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02315">Adam an
-                  Schnitzler, 8. 12. 1918</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-742A-1</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 1</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Adam</hi></quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift zwei Unterstreichungen</desc></incident><incident type="archival"><desc>von unbekannter Hand nummeriert: »<quote>10</quote>«</desc></incident></additions></physDesc></msDesc></witness><witness n="2"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Österreichische Nationalbibliothek</repository><idno>Cod. ser. 52.263</idno></msIdentifier><physDesc><objectDesc><desc type="entwurf"/><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="additional-information"><desc>Entwurf des Briefes, datiert auf den <date>1. 12. 1918</date>
+                                 und mit leichten sprachlichen Variationen</desc></incident></additions></physDesc></msDesc></witness><witness n="3"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Österreichische Nationalbibliothek</repository><idno>Cod.ser. 52.269, 225 verso</idno></msIdentifier><physDesc><objectDesc><desc type="reproduktion" subtype="ms_abschrift"/><desc type="brief"/></objectDesc><typeDesc><p>Schreibmaschine</p></typeDesc></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb12438">Adam, Robert</persName><placeName ref="#pmb50">Wien</placeName><date when="1918-12-02" n="01">2. 12. 1918</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb12438">Adam, Robert</ref><ref subtype="previous_letter" type="withinCollection" target="L02313">Hofmannsthal
+                  an Schnitzler, [Anfang Dezember 1918]</ref><ref subtype="next_letter" type="withinCollection" target="L02315">Adam an
+                  Schnitzler, 8. 12. 1918</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02311">Adam an
+                  Schnitzler, 15. 11. 1918</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02315">Adam an
+                  Schnitzler, 8. 12. 1918</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2018-11-25">Angelegt</change>
-         <change who="MAM" when="2019-01-03">Durchsicht</change>
-         <change who="MAM" when="2019-01-03">Index check</change>
-         <change who="GHS" when="2020-03-26">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00001-000-00033"/>
-      <graphic url="MS-SCHNITZLER-B-00001-000-00034"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="MS-SCHNITZLER-B-00001-000-00033"/>
-                  <rs ref="#50" type="place">Wien</rs>, am <date>2. Dezember 1918</date>
-               </dateline>
-               <salute rend="center">Hochverehrter Herr Doktor!</salute>
-            </opener>
-            <p>Verzeihen Sie es meiner bangen Ungeduld, daß ich, obwohl nicht viel mehr als zwei
-               Wochen verſtrichen ſind, ſeit ich dem <rs ref="#20" type="place">Deutſchen
-                  Volkstheater</rs> meine zwei <rs type="work" ref="#33604 #33606" subtype="implied"
-                  >Stücke</rs> überreichte, bei Ihnen anfrage, ob Ihnen von dem Schickſal, das ihrer
-               harrt, ſchon etwas bekannt geworden iſt? Ich bin ohne jede Nachricht und weiß nicht
-               recht, ob ich wieder im <rs type="place" ref="#20" subtype="implied">Theater</rs>
-               vorſprechen ſoll und an wen ich mich am beſten wenden ſollte; ich beſorge, mir durch
-               Zudringlichkeit und Zurſchautragen von Ungeduld Chancen, die ich etwa hätte, zu
-               verderben, anderſeits aber wieder, ſtilles Zuwarten möchte auch nicht das <pb
-                  facs="MS-SCHNITZLER-B-00001-000-00034"/>richtige Vorgehen ſein. Könnten Sie mir,
-               bitte, hierin einen Rat geben?</p>
-            <p>Mir hilft jetzt über viele Unannehmlichkeiten der <rs ref="#41240" type="place"
-                  >deutſchöſterreichiſchen</rs> Epoche – Amtsarbeit, Verkühlung, Fett- und
-               Fleiſchhunger, kühle Zimmer – die Lektüre eines wundervollen Buches hinweg, das ich
-               neulich in der <rs ref="#29587" type="org">Bibliothek der Juſtizbeamten</rs>
-               aufſtöberte und das mir bis jetzt vollkommen unbekannt war (obwohl es in den
-                     <date>80<hi rend="superscript">er</hi> Jahren</date> einiges Aufſehen erregt
-               haben muß). Es heißt: »<rs ref="#33626" type="work">Briefe eines Unbekannten</rs>«
-               und wurde von dem Grafen <rs ref="#5807" type="person">Rudolf <hi rend="latintype"
-                     >Hoyos</hi>
-               </rs> bei <rs ref="#29595" type="org">Gerold</rs> in <rs ref="#50" type="place"
-                  >Wien</rs> herausgegeben, <date>1887</date> in zweiter Auflage. Der Briefſchreiber
-               war ein Herr <rs ref="#5803" type="person">von <hi rend="latintype">Villers</hi>
-               </rs>, penſionierter <rs ref="#209" type="place">ſächſiſcher</rs> Legationsrat, ein
-               Mann von höchſter Kultur. Wie konnte es kommen, daß ich von dieſem Buch nie etwas las
-               oder hörte? Es gehört, will mich dünken, nicht nur zu den vornehmſten, ſondern zu den
-               geiſtvollſten und liebenswürdigſten Büchern der deutſchen <pb
-                  facs="MS-SCHNITZLER-B-00001-000-00034"/>Literatur. Ich muß mich zurückhalten,
-               Ihnen nicht Stücke auszuſchreiben, um Ihnen davon – falls Sie dieſe Briefe nicht
-               ohnehin kennen ſollten – Proben zu geben; aber vielleicht kennen Sie, was ich
-               entdeckt oder wiederentdeckt zu haben glaubte, ohnehin und meine Begeiſterung ſcheint
-               Ihnen zwar nicht lächerlich – denn ich glaube kaum, daß ein für Literatur
-               Empfänglicher dieſen Briefen gegenüber kalt bleiben könnte –, aber doch unnütz. –</p>
-            <p>Zu ſchriftſtelleriſcher Betätigung komme ich jetzt gar nicht; mir iſt, als müßte ich
-               alle mir nach viereinhalb Kriegsjahren verbliebene Energie dazu aufbrauchen, nicht
-               allzuſehr zu frieren, und als bliebe für’s Denken keine mehr übrig.</p>
-            <closer>Mit den ergebenſten Grüßen<lb/>Ihr<lb/>
-               <signed>D<hi rend="superscript">r</hi>RAdam</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
-<!-- Der Brief vom 1.&#160;12., der im Adam-Nachlass ist, lautet:
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-11-25">Angelegt</change><change who="MAM" when="2019-01-03">Durchsicht</change><change who="MAM" when="2019-01-03">Index check</change><change who="GHS" when="2020-03-26">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00001-000-00033"/><graphic url="MS-SCHNITZLER-B-00001-000-00034"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00001-000-00033"/><rs ref="#pmb50" type="place">Wien</rs>, am <date>2. Dezember 1918</date></dateline><salute rend="center">Hochverehrter Herr Doktor!</salute></opener><p>Verzeihen Sie es meiner bangen Ungeduld, daß ich, obwohl nicht viel mehr als zwei Wochen ver<c rendition="#langesS">s</c>trichen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eit ich dem <rs ref="#pmb20" type="place">Deut<c rendition="#langesS">s</c>chen Volkstheater</rs> meine zwei <rs type="work" ref="#pmb33604 #pmb33606" subtype="implied">Stücke</rs> überreichte, bei Ihnen anfrage, ob Ihnen von dem Schick<c rendition="#langesS">s</c>al, das ihrer harrt,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon etwas bekannt geworden i<c rendition="#langesS">s</c>t? Ich bin ohne jede Nachricht und weiß nicht recht, ob ich wieder im <rs type="place" ref="#pmb20" subtype="implied">Theater</rs> vor<c rendition="#langesS">s</c>prechen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll und an wen ich mich am be<c rendition="#langesS">s</c>ten wenden<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ollte; ich be<c rendition="#langesS">s</c>orge, mir durch Zudringlichkeit und Zur<c rendition="#langesS">s</c>chautragen von Ungeduld Chancen, die ich etwa hätte, zu verderben, ander<c rendition="#langesS">s</c>eits aber wieder,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tilles Zuwarten möchte auch nicht das <pb facs="MS-SCHNITZLER-B-00001-000-00034"/>richtige Vorgehen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein. Könnten Sie mir, bitte, hierin einen Rat geben?</p><p>Mir hilft jetzt über viele Unannehmlichkeiten der <rs ref="#pmb41240" type="place">deut<c rendition="#langesS">s</c>chö<c rendition="#langesS">s</c>terreichi<c rendition="#langesS">s</c>chen</rs> Epoche – Amtsarbeit, Verkühlung, Fett- und Flei<c rendition="#langesS">s</c>chhunger, kühle Zimmer – die Lektüre eines wundervollen Buches hinweg, das ich neulich in der <rs ref="#pmb29587" type="org">Bibliothek der Ju<c rendition="#langesS">s</c>tizbeamten</rs> auf<c rendition="#langesS">s</c>töberte und das mir bis jetzt vollkommen unbekannt war (obwohl es in den <date>80<hi rend="superscript">er</hi> Jahren</date> einiges Auf<c rendition="#langesS">s</c>ehen erregt haben muß). Es heißt: »<rs ref="#pmb33626" type="work">Briefe eines Unbekannten</rs>« und wurde von dem Grafen <rs ref="#pmb5807" type="person">Rudolf <hi rend="latintype">Hoyos</hi></rs> bei <rs ref="#pmb29595" type="org">Gerold</rs> in <rs ref="#pmb50" type="place">Wien</rs> herausgegeben, <date>1887</date> in zweiter Auflage. Der Brief<c rendition="#langesS">s</c>chreiber war ein Herr <rs ref="#pmb5803" type="person">von <hi rend="latintype">Villers</hi></rs>, pen<c rendition="#langesS">s</c>ionierter <rs ref="#pmb209" type="place"><c rendition="#langesS">s</c>äch<c rendition="#langesS">s</c>i<c rendition="#langesS">s</c>cher</rs> Legationsrat, ein Mann von höch<c rendition="#langesS">s</c>ter Kultur. Wie konnte es kommen, daß ich von die<c rendition="#langesS">s</c>em Buch nie etwas las oder hörte? Es gehört, will mich dünken, nicht nur zu den vornehm<c rendition="#langesS">s</c>ten,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ondern zu den gei<c rendition="#langesS">s</c>tvoll<c rendition="#langesS">s</c>ten und liebenswürdig<c rendition="#langesS">s</c>ten Büchern der deut<c rendition="#langesS">s</c>chen <pb facs="MS-SCHNITZLER-B-00001-000-00034"/>Literatur. Ich muß mich zurückhalten, Ihnen nicht Stücke auszu<c rendition="#langesS">s</c>chreiben, um Ihnen davon – falls Sie die<c rendition="#langesS">s</c>e Briefe nicht ohnehin kennen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ollten – Proben zu geben; aber vielleicht kennen Sie, was ich entdeckt oder wiederentdeckt zu haben glaubte, ohnehin und meine Begei<c rendition="#langesS">s</c>terung<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>cheint Ihnen zwar nicht lächerlich – denn ich glaube kaum, daß ein für Literatur Empfänglicher die<c rendition="#langesS">s</c>en Briefen gegenüber kalt bleiben könnte –, aber doch unnütz. –</p><p>Zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chrift<c rendition="#langesS">s</c>telleri<c rendition="#langesS">s</c>cher Betätigung komme ich jetzt gar nicht; mir i<c rendition="#langesS">s</c>t, als müßte ich alle mir nach viereinhalb Kriegsjahren verbliebene Energie dazu aufbrauchen, nicht allzu<c rendition="#langesS">s</c>ehr zu frieren, und als bliebe für’s Denken keine mehr übrig.</p><closer>Mit den ergeben<c rendition="#langesS">s</c>ten Grüßen<lb/>Ihr<lb/><signed>D<hi rend="superscript">r</hi>RAdam</signed></closer></div></body><back><listPerson><person xml:id="pmb12438">
+                  <tei:persName>
+                     <tei:surname>Adam</tei:surname>
+                     <tei:forename>Robert</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1877-04-20">20. 4. 1877</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1961-10-16">16. 10. 1961</tei:date>
+                     <tei:placeName ref="#pmb662">Baden bei Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="160">Richter*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1020823992/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18893</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb5807">
+                  <tei:persName>
+                     <tei:surname>Hoyos</tei:surname>
+                     <tei:forename>Rudolf von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1821-11-09">9. 11. 1821</tei:date>
+                     <tei:placeName ref="#pmb55281">Horn</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1896-11-08">8. 11. 1896</tei:date>
+                     <tei:placeName ref="#pmb60180">Bolków</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117028711/</idno>
+               </person><person xml:id="pmb5803">
+                  <tei:persName>
+                     <tei:surname>Villers</tei:surname>
+                     <tei:forename>Alexander von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1812-04-12">12. 4. 1812</tei:date>
+                     <tei:placeName ref="#pmb869">Moskau</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1880-02-16">16. 2. 1880</tei:date>
+                     <tei:placeName ref="#pmb55279">Neulengbach</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="267">Diplomat*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118627023/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb33604">
+                  <tei:author ref="pmb12438" role="author">
+                     <tei:surname>Adam</tei:surname>
+                     <tei:forename>Robert</tei:forename>
+                  </tei:author>
+                  <tei:title>Yppl</tei:title>
+                  <tei:gloss type="w1212">Unveröffentlichtes dramatisches Werk</tei:gloss>
+               </bibl><bibl xml:id="pmb33606">
+                  <tei:author ref="pmb12438" role="author">
+                     <tei:surname>Adam</tei:surname>
+                     <tei:forename>Robert</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Fremde</tei:title>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb33626">
+                  <tei:author ref="pmb5803" role="author">
+                     <tei:surname>Villers</tei:surname>
+                     <tei:forename>Alexander von</tei:forename>
+                  </tei:author>
+                  <tei:title>Briefe eines Unbekannten</tei:title>
+                  <tei:date from="1881-01-01" from-custom="1881">1881</tei:date>
+                  <tei:gloss type="w1130">Briefausgabe</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb20">
+                  <tei:placeName>Volkstheater</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i4">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.205142 16.3566</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb41240">
+                  <tei:placeName>Österreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb209">
+                  <tei:placeName>Sachsen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i13">Teil eines Landes</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.0 13.25</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2842566/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1202/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29587">
+                  <tei:orgName>Privatbibliothek der Wiener Justizbeamten</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i974">Verein</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb29595">
+                  <tei:orgName>Carl Gerold’s Sohn</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1775-01-01" from-custom="1775">1775</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI><!-- Der Brief vom 1.&#160;12., der im Adam-Nachlass ist, lautet:
 <text type="letter">
         <body>
             <div type="writingSession" n="1">

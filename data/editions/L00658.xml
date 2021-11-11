@@ -1,281 +1,270 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00658"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Hermann Bahr, 23. 3. 1897</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L00658</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00658" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, 23. 3. 1897</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L00658</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Theatermuseum</repository>
-                        <idno>HS AM 23329 Ba</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter"/>
-                           <desc n="4" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>Lochung</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="DASB">
-                  <analytic>
-                     <title level="a">23. 3. 1897</title>
-                  </analytic>
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
-                     <editor>Edited, annotated, and with an introduction, by Donald G.
-                        Daviau</editor>
-                     <imprint>
-                        <pubPlace>Chapel Hill</pubPlace>
-                        <publisher>The University of North Carolina Press</publisher>
-                        <date when="1978">1978</date>
-                     </imprint>
-                     <biblScope unit="pp">60–61</biblScope>
-                  </monogr>
-                  <series>
-                     <title level="s">University of North Carolina studies in the Germanic languages
-                        and literatures</title>
-                     <biblScope unit="nr">89</biblScope>
-                  </series>
-               </biblStruct>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">139–140</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1897-03-23" n="01">23. 3. 1897</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10815">Bahr, Hermann</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00657">Hofmannsthal
-                  an Schnitzler, [22. 3. 1897]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00659">Bahr an
-                  Schnitzler, 23. 3. 1897</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L00656">Bahr an
-                  Schnitzler, 22. 3. 1897</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00659">Bahr an
-                  Schnitzler, 23. 3. 1897</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6DB3-E</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 23329 Ba</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="archival"><desc>Lochung</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="DASB"><analytic><title level="a">23. 3. 1897</title></analytic><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title><editor>Edited, annotated, and with an introduction, by Donald G.
+                        Daviau</editor><imprint><pubPlace>Chapel Hill</pubPlace><publisher>The University of North Carolina Press</publisher><date when="1978">1978</date></imprint><biblScope unit="pp">60–61</biblScope></monogr><series><title level="s">University of North Carolina studies in the Germanic languages
+                        and literatures</title><biblScope unit="nr">89</biblScope></series></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">139–140</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1897-03-23" n="01">23. 3. 1897</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L00657">Hofmannsthal
+                  an Schnitzler, [22. 3. 1897]</ref><ref subtype="next_letter" type="withinCollection" target="L00659">Bahr an
+                  Schnitzler, 23. 3. 1897</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00656">Bahr an
+                  Schnitzler, 22. 3. 1897</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00659">Bahr an
+                  Schnitzler, 23. 3. 1897</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-10-01">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-02">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="GHS" when="2019-12-24">finalisiert</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS_AM23329Ba"/>
-      <graphic url="HS_AM23329Ba_2"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <p>
-               <pb facs="https://www.theatermuseum.at/de/object/e8a8edff03/"/>
-               <salute>Lieber Hermann, </salute>wie ka<c rendition="#gemination-n"/> ich dir den
-               Titel ſagen, wenn ich noch nicht weiſs was ich leſe? Das zu entſcheiden ko<c
-                  rendition="#gemination-m"/>en wir ja morgen zuſa<c rendition="#gemination-m"/>en.
-               Wahrſcheinlich eine <anchor xml:id="K_L00658_1" type="commentary"/>
-               <rs type="work" ref="#29831" subtype="implied">Novellette</rs>
-               <note xml:id="K_L00658_1h" type="commentary">
-                  <rs ref="#29831" type="work">Der Ehrentag</rs> (Erstdruck in: <bibl>
-                     <rs ref="#29376" type="org">Die Romanwelt</rs>, Jg. 5 (<date>1897/1898</date>),
-                     H. 16, <date>[15.] 1. 1898</date>, S. 507–516</bibl>).</note>, die ich
-               vorgeſtern zu Ende geſchrieben, <pb
-                  facs="https://www.theatermuseum.at/de/object/e8a8edff03/"/>vielleicht <anchor
-                  xml:id="K_L00658_2" type="commentary"/>
-               <rs type="work" ref="#29833" subtype="implied">eine, die morgen fertig wird</rs>
-               <note xml:id="K_L00658_2h" type="commentary">
-                  <rs ref="#29833" type="work">Die Toten schweigen</rs> (<bibl>Erstdruck in: <rs
-                        ref="#41521" type="work">Cosmopolis</rs>, Jg. 2, Bd. 8, Nr. 22,
-                        <date>1. 10. 1897</date>, S. 193–211</bibl>).</note> – am Ende was ganz
-               anderes. Es iſt nemlich zu bedenken dſs du, <rs ref="#11701" type="person"
-                  >Hirſchfeld</rs> und ich Novelletten leſen, (<rs ref="#11740" type="person"
-                  >Hugo</rs> wirkt nicht mit) – daſs alſo das Progra<c rendition="#gemination-m"/>
-               von einer beiſpielloſen Langwei<pb
-                  facs="https://www.theatermuseum.at/de/object/e8a8edff03/"/>ligkeit ſein wird.
-               Meine Hoffnung iſt, dſs uns morgen Abend doch noch was geſcheidtes einfällt. – <rs
-                  ref="#11701" type="person">Hirſchfelds</rs> Geſchichte heißt: »<anchor
-                  xml:id="K_L00658_3" type="commentary"/>
-               <rs ref="#29835" type="work">Bei beiden</rs>
-               <note xml:id="K_L00658_3h" type="commentary">
-                  <bibl>Erstdruck in: <rs ref="#36152" type="work">Neue deutsche Rundschau</rs>,
-                     Jg. 5, H. 10, <date>1. 10. 1894</date>, S. 919–927</bibl>, <bibl>Erstausgabe in
-                        <rs ref="#30061" type="work">Dämon Kleist. Novellen</rs>. Berlin: <rs
-                        ref="#29639" type="org">S. Fischer</rs>
-                     <space unit="chars" quantity="1"/>
-                     <date>1895</date>, S. 152–179</bibl>.</note>.« Von mir ka<c
-                  rendition="#gemination-n"/>ſt du ſagen, daſs ich eine ungedruckte Novellette
-               vorleſen werde. We<c rendition="#gemination-n"/> das Programm Freitag gedruckt wird,
-               iſt Zeit genug, meiner Ansicht nach. Sterben <pb
-                  facs="https://www.theatermuseum.at/de/object/e8a8edff03/"/>ſterb’ <damage
-                  agent="hole">
-                  <supplied>ich</supplied>
-               </damage>, aber hetzen l<damage agent="hole">
-                  <supplied>a</supplied>
-               </damage>ſs ich mich nicht.</p>
-            <closer>Herzlich dein <signed>Arthur</signed>
-            </closer>
-            <postscript>
-               <dateline>
-                  <date>23. 3. 97.</date>
-               </dateline>
-               <p>Der <anchor xml:id="K_L00658_4" type="commentary"/>Donnerſtag Notiz<note
-                     xml:id="K_L00658_4h" type="commentary">nicht nachgewiesen</note> wäre
-                  jedenfalls mehr Geſchmack zu wünſchen als <anchor xml:id="K_L00658_5"
-                     type="commentary"/>
-                  <rs type="work" ref="#31385" subtype="implied">die von Sonntag</rs>
-                  <note xml:id="K_L00658_5h" type="commentary">
-                     <bibl>
-                        <rs ref="#31385" type="work"/>Etwa in: <rs ref="#29351" type="org">Neue
-                           Freie Presse</rs>, <date>21. 3. 1897</date>, S. 9</bibl>: »<quote>– Am
-                        Sonntag den <date>28. d.</date>, Abends, findet im <rs ref="#4" type="place"
-                           >Bösendorfer-Saale</rs> eine Vorlesung statt, die von vier der
-                        bekanntesten Vertreter jungdeutscher Literatur zu wohlthätigem Zwecke
-                        veranstaltet wird. Am Vorlesertische werden erscheinen als Interpreten ihrer
-                        eigenen Werke: <rs ref="#10815" type="person">Hermann <hi rend="spaced_out"
-                              >Bahr</hi>
-                        </rs>, der erst jüngst anläßlich der Aufführung seines ›<rs ref="#29829"
-                           type="work">Tschaperl</rs>‹ so vielbesprochene Führer Jung-<rs ref="#50"
-                           type="place">Wien</rs>s; <rs ref="#2121" type="person">Arthur <hi
-                              rend="spaced_out">Schnitzler</hi>
-                        </rs>, der Verfasser der ›<rs ref="#29917" type="work">Liebelei</rs>‹; <rs
-                           ref="#11740" type="person">Hugo <hi rend="spaced_out">v.
-                              Hoffmannsthal</hi>
-                        </rs> (<rs ref="#11740" type="person">Loris</rs>), ein interessantes Talent
-                        des modernen <rs ref="#41240" type="place">Oesterreich</rs>, und <rs
-                           ref="#11701" type="person">Georg <hi rend="spaced_out">Hirschfeld</hi>
-                        </rs>, dessen ›<rs ref="#31737" type="work">Mütter</rs>‹ vor Kurzem am <rs
-                           ref="#20" type="place">Deutschen Volkstheater</rs> einen
-                        Sensations-Erfolg errangen. Bürgen schon die Namen der Vorleser für den
-                        interessanten Verlauf des Abends, so noch mehr der Umstand, daß die vier
-                        Herren fast durchwegs neue oder mindestens für <rs ref="#50" type="place"
-                           >Wien</rs> neue Dichtungen zum Vortrage bringen werden. Der Kartenverkauf
-                        für diesen originellen literarischen Abend findet bei <rs ref="#4"
-                           type="place">Bösendorfer</rs>
-                        <space unit="chars" quantity="1"/>statt.</quote>«</note> verrieth. Wir ſind
-                  ja nicht Mitglieder des Vereins »<rs ref="#29213" type="org">Gemütliche
-                     Harmonie</rs>«, daſs man uns durch <anchor xml:id="K_L00658_6"
-                     type="commentary"/>
-                  <hi rend="latintype">Epitheta</hi>
-                  <note xml:id="K_L00658_6h" type="commentary">schmückende Beiworte</note> erklären
-                  muſs.</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-02">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2019-12-24">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23329Ba"/><graphic url="HS_AM23329Ba_2"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="https://www.theatermuseum.at/de/object/e8a8edff03/"/><salute>Lieber Hermann, </salute>wie ka<c rendition="#gemination-n"/> ich dir den Titel<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen, wenn ich noch nicht wei<c rendition="#langesS">s</c>s was ich le<c rendition="#langesS">s</c>e? Das zu ent<c rendition="#langesS">s</c>cheiden ko<c rendition="#gemination-m"/>en wir ja morgen zu<c rendition="#langesS">s</c>a<c rendition="#gemination-m"/>en. Wahr<c rendition="#langesS">s</c>cheinlich eine <anchor xml:id="K_L00658_1" type="commentary"/><rs type="work" ref="#pmb29831" subtype="implied">Novellette</rs><note xml:id="K_L00658_1h" type="commentary"><rs ref="#pmb29831" type="work">Der Ehrentag</rs> (Erstdruck in: <bibl><rs ref="#pmb29376" type="org">Die Romanwelt</rs>, Jg. 5 (<date>1897/1898</date>), H. 16, <date>[15.] 1. 1898</date>, S. 507–516</bibl>).</note>, die ich vorge<c rendition="#langesS">s</c>tern zu Ende ge<c rendition="#langesS">s</c>chrieben, <pb facs="https://www.theatermuseum.at/de/object/e8a8edff03/"/>vielleicht <anchor xml:id="K_L00658_2" type="commentary"/><rs type="work" ref="#pmb29833" subtype="implied">eine, die morgen fertig wird</rs><note xml:id="K_L00658_2h" type="commentary"><rs ref="#pmb29833" type="work">Die Toten schweigen</rs> (<bibl>Erstdruck in: <rs ref="#pmb41521" type="work">Cosmopolis</rs>, Jg. 2, Bd. 8, Nr. 22, <date>1. 10. 1897</date>, S. 193–211</bibl>).</note> – am Ende was ganz anderes. Es i<c rendition="#langesS">s</c>t nemlich zu bedenken d<c rendition="#langesS">s</c>s du, <rs ref="#pmb11701" type="person">Hir<c rendition="#langesS">s</c>chfeld</rs> und ich Novelletten le<c rendition="#langesS">s</c>en, (<rs ref="#pmb11740" type="person">Hugo</rs> wirkt nicht mit) – da<c rendition="#langesS">s</c>s al<c rendition="#langesS">s</c>o das Progra<c rendition="#gemination-m"/> von einer bei<c rendition="#langesS">s</c>piello<c rendition="#langesS">s</c>en Langwei<pb facs="https://www.theatermuseum.at/de/object/e8a8edff03/"/>ligkeit<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein wird. Meine Hoffnung i<c rendition="#langesS">s</c>t, d<c rendition="#langesS">s</c>s uns morgen Abend doch noch was ge<c rendition="#langesS">s</c>cheidtes einfällt. – <rs ref="#pmb11701" type="person">Hir<c rendition="#langesS">s</c>chfelds</rs> Ge<c rendition="#langesS">s</c>chichte heißt: »<anchor xml:id="K_L00658_3" type="commentary"/><rs ref="#pmb29835" type="work">Bei beiden</rs><note xml:id="K_L00658_3h" type="commentary"><bibl>Erstdruck in: <rs ref="#pmb36152" type="work">Neue deutsche Rundschau</rs>, Jg. 5, H. 10, <date>1. 10. 1894</date>, S. 919–927</bibl>, <bibl>Erstausgabe in <rs ref="#pmb30061" type="work">Dämon Kleist. Novellen</rs>. Berlin: <rs ref="#pmb29639" type="org">S. Fischer</rs><space unit="chars" quantity="1"/><date>1895</date>, S. 152–179</bibl>.</note>.« Von mir ka<c rendition="#gemination-n"/><c rendition="#langesS">s</c>t du<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen, da<c rendition="#langesS">s</c>s ich eine ungedruckte Novellette vorle<c rendition="#langesS">s</c>en werde. We<c rendition="#gemination-n"/> das Programm Freitag gedruckt wird, i<c rendition="#langesS">s</c>t Zeit genug, meiner Ansicht nach. Sterben <pb facs="https://www.theatermuseum.at/de/object/e8a8edff03/"/><c rendition="#langesS">s</c>terb’ <damage agent="hole"><supplied>ich</supplied></damage>, aber hetzen l<damage agent="hole"><supplied>a</supplied></damage><c rendition="#langesS">s</c>s ich mich nicht.</p><closer>Herzlich dein <signed>Arthur</signed></closer><postscript><dateline><date>23. 3. 97.</date></dateline><p>Der <anchor xml:id="K_L00658_4" type="commentary"/>Donner<c rendition="#langesS">s</c>tag Notiz<note xml:id="K_L00658_4h" type="commentary">nicht nachgewiesen</note> wäre jedenfalls mehr Ge<c rendition="#langesS">s</c>chmack zu wün<c rendition="#langesS">s</c>chen als <anchor xml:id="K_L00658_5" type="commentary"/><rs type="work" ref="#pmb31385" subtype="implied">die von Sonntag</rs><note xml:id="K_L00658_5h" type="commentary"><bibl><rs ref="#pmb31385" type="work"/>Etwa in: <rs ref="#pmb29351" type="org">Neue Freie Presse</rs>, <date>21. 3. 1897</date>, S. 9</bibl>: »<quote>– Am Sonntag den <date>28. d.</date>, Abends, findet im <rs ref="#pmb4" type="place">Bösendorfer-Saale</rs> eine Vorlesung statt, die von vier der bekanntesten Vertreter jungdeutscher Literatur zu wohlthätigem Zwecke veranstaltet wird. Am Vorlesertische werden erscheinen als Interpreten ihrer eigenen Werke: <rs ref="#pmb10815" type="person">Hermann <hi rend="spaced_out">Bahr</hi></rs>, der erst jüngst anläßlich der Aufführung seines ›<rs ref="#pmb29829" type="work">Tschaperl</rs>‹ so vielbesprochene Führer Jung-<rs ref="#pmb50" type="place">Wien</rs>s; <rs ref="#pmb2121" type="person">Arthur <hi rend="spaced_out">Schnitzler</hi></rs>, der Verfasser der ›<rs ref="#pmb29917" type="work">Liebelei</rs>‹; <rs ref="#pmb11740" type="person">Hugo <hi rend="spaced_out">v. Hoffmannsthal</hi></rs> (<rs ref="#pmb11740" type="person">Loris</rs>), ein interessantes Talent des modernen <rs ref="#pmb41240" type="place">Oesterreich</rs>, und <rs ref="#pmb11701" type="person">Georg <hi rend="spaced_out">Hirschfeld</hi></rs>, dessen ›<rs ref="#pmb31737" type="work">Mütter</rs>‹ vor Kurzem am <rs ref="#pmb20" type="place">Deutschen Volkstheater</rs> einen Sensations-Erfolg errangen. Bürgen schon die Namen der Vorleser für den interessanten Verlauf des Abends, so noch mehr der Umstand, daß die vier Herren fast durchwegs neue oder mindestens für <rs ref="#pmb50" type="place">Wien</rs> neue Dichtungen zum Vortrage bringen werden. Der Kartenverkauf für diesen originellen literarischen Abend findet bei <rs ref="#pmb4" type="place">Bösendorfer</rs><space unit="chars" quantity="1"/>statt.</quote>«</note> verrieth. Wir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind ja nicht Mitglieder des Vereins »<rs ref="#pmb29213" type="org">Gemütliche Harmonie</rs>«, da<c rendition="#langesS">s</c>s man uns durch <anchor xml:id="K_L00658_6" type="commentary"/><hi rend="latintype">Epitheta</hi><note xml:id="K_L00658_6h" type="commentary">schmückende Beiworte</note> erklären mu<c rendition="#langesS">s</c>s.</p></postscript></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb11701">
+                  <tei:persName>
+                     <tei:surname>Hirschfeld</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1873-02-11">11. 2. 1873</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1942-01-17">17. 1. 1942</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/101708122/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16222</idno>
+               </person><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29831">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Ehrentag</tei:title>
+                  <tei:date from="1898-01-15" from-custom="15.01.1898">15. 1. 1898</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+                  <tei:note>2835</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1193069/</idno>
+               </bibl><bibl xml:id="pmb29833">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Toten schweigen</tei:title>
+                  <tei:date from="1897-10-01" from-custom="01.10.1897">1. 10. 1897</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+                  <tei:note>2836</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1216835/</idno>
+               </bibl><bibl xml:id="pmb41521">
+                  <tei:title>Cosmopolis</tei:title>
+                  <tei:date from="1896-01-01" from-custom="1896" to="1898-01-01" to-custom="1898">1896–1898</tei:date>
+                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
+               </bibl><bibl xml:id="pmb29835">
+                  <tei:author ref="pmb11701" role="author">
+                     <tei:surname>Hirschfeld</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:author>
+                  <tei:title>Bei Beiden</tei:title>
+                  <tei:date from="1894-01-01" from-custom="1894">1894</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+                  <tei:note>2837</tei:note>
+               </bibl><bibl xml:id="pmb36152">
+                  <tei:author ref="pmb10928" role="editor">
+                     <tei:surname>Bierbaum</tei:surname>
+                     <tei:forename>Otto Julius</tei:forename>
+                     <tei:term>[Herausgeber*in]</tei:term>
+                  </tei:author>
+                  <tei:author ref="pmb2914" role="editor">
+                     <tei:surname>Bie</tei:surname>
+                     <tei:forename>Oskar</tei:forename>
+                     <tei:term>[Herausgeber*in]</tei:term>
+                  </tei:author>
+                  <tei:title>Neue Deutsche Rundschau</tei:title>
+                  <tei:date from="1894-01-01" from-custom="1894-01-01" to="1903-12-31" to-custom="1903-12-31">1. 1. 1894–31. 12. 1903</tei:date>
+                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
+               </bibl><bibl xml:id="pmb30061">
+                  <tei:author ref="pmb11701" role="author">
+                     <tei:surname>Hirschfeld</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:author>
+                  <tei:title>Dämon Kleist</tei:title>
+                  <tei:date from="1895-01-01" from-custom="1895">1895</tei:date>
+                  <tei:gloss type="w1098">Novellensammlung</tei:gloss>
+               </bibl><bibl xml:id="pmb31385">
+                  <tei:title>[Ankündigung der Vorlesung]</tei:title>
+                  <tei:date from="1897-03-21" from-custom="21.03.1897">21. 3. 1897</tei:date>
+                  <tei:gloss type="w1352">Notiz</tei:gloss>
+                  <tei:note>3027</tei:note>
+               </bibl><bibl xml:id="pmb29829">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Das Tschaperl</tei:title>
+                  <tei:date from="1896-01-01" from-custom="1896">1896</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb29917">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Liebelei. Schauspiel in drei Akten</tei:title>
+                  <tei:date from="1895-10-09" from-custom="9.10.1895">9. 10. 1895</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1823758/</idno>
+               </bibl><bibl xml:id="pmb31737">
+                  <tei:author ref="pmb11701" role="author">
+                     <tei:surname>Hirschfeld</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Mütter. Schauspiel in vier Acten</tei:title>
+                  <tei:date from="1896-01-01" from-custom="1896">1896</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb4">
+                  <tei:placeName>Bösendorfer-Saal</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1872-07-01" from-custom="1872-07-01" to="1913-07-02" to-custom="1913-07-02">1872–1913</tei:date>
+                     <tei:gloss ana="i5">Veranstaltungsgebäude</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.209167 16.366111</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb41240">
+                  <tei:placeName>Österreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb20">
+                  <tei:placeName>Volkstheater</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i4">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.205142 16.3566</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb29376">
+                  <tei:orgName>Romanwelt</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb29639">
+                  <tei:orgName>S. Fischer Verlag</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1886-01-01" from-custom="1886">1886</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb146">
+                     <tei:placeName>Frankfurt am Main</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb659">
+                     <tei:placeName>Bülowstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.49737 13.36385</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb29351">
+                  <tei:orgName>Neue Freie Presse</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1864-09-01" from-custom="1864-09-01" to="1939-02-01" to-custom="1939-02-01">1. 9. 1864–1. 2. 1939</tei:date>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb29213">
+                  <tei:orgName>Gemütliche Harmonie</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i978">Wohltätigkeitsverein</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

@@ -1,220 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xml:id="L01509"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler und Hugo von Hofmannsthal an Gerty von Hofmannsthal,
-               15. 3. 1905</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <author ref="#11740">Hofmannsthal, Hugo von</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01509</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L01509" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler und Hugo von Hofmannsthal an Gerty von Hofmannsthal,
+               15. 3. 1905</title><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb11740">Hofmannsthal, Hugo von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01509</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Frankfurt am Main</settlement>
-                        <repository>Freies Deutsches Hochstift</repository>
-                        <idno>Hs-30997,159</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="bildpostkarte"/>
-                        </objectDesc>
-                        <handDesc hands="2">
-                           <handNote medium="bleistift" corresp="#2121" style="deutsche-kurrent"/>
-                           <handNote medium="bleistift" corresp="#11740" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#44246">Gravos<supplied>a</supplied>
-                                    </placeName>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="2">
-                                    <placeName ref="#173">Rodaun</placeName>
-                                    <date>
-                                       <unclear>17. 3. 05</unclear>
-                                    </date>
-                                    <time>4–6N</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
-               <placeName ref="#682">Dubrovnik</placeName>
-               <date when="1905-03-15" n="01">15. 3. 1905</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2292">Hofmannsthal, Gerty von</persName>
-               <placeName ref="#173">Rodaun</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal Hugo von</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01508">Hofmannsthal an Schnitzler, 14. 3. 1905</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01510">Schnitzler an Beer-Hofmann, 23. 3. 1905</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01508">Hofmannsthal an Schnitzler, 14. 3. 1905</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01512">Hofmannsthal an Schnitzler, 19. 4. 1905</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7105-D</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Frankfurt am Main</settlement><repository>Freies Deutsches Hochstift</repository><idno>Hs-30997,159</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc hands="2"><handNote medium="bleistift" corresp="#pmb2121" style="deutsche-kurrent"/><handNote medium="bleistift" corresp="#pmb11740" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb44246">Gravos<supplied>a</supplied></placeName></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb173">Rodaun</placeName><date><unclear>17. 3. 05</unclear></date><time>4–6N</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb682">Dubrovnik</placeName><date when="1905-03-15" n="01">15. 3. 1905</date></correspAction><correspAction type="received"><persName ref="#pmb2292">Hofmannsthal, Gerty von</persName><placeName ref="#pmb173">Rodaun</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L01508">Hofmannsthal an Schnitzler, 14. 3. 1905</ref><ref subtype="next_letter" type="withinCollection" target="L01510">Schnitzler an Beer-Hofmann, 23. 3. 1905</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01508">Hofmannsthal an Schnitzler, 14. 3. 1905</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01512">Hofmannsthal an Schnitzler, 19. 4. 1905</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2020-04-14">Angelegt</change>
-         <change who="MAM" when="2020-04-14">Durchsicht</change>
-         <change who="MAM" when="2020-04-14">Index check</change>
-         <change who="MAM" when="2020-04-22">Durchsicht</change>
-         <change who="GHS" when="2021-07-10">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="Hs-31346,1_001"/>
-      <graphic url="Hs-31346,1_002"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="Hs-31346,1_002"/>
-                  <hi rend="latintype">Frau Gerty v Hofma<c rendition="#gemination-n"/>sthal</hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs type="place" ref="#173">Rodaun b/Wien</rs>
-                  </hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs type="place" ref="#1006">Badgasse 5</rs>.</hi>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="center">
-                  <hi rend="pre-print">
-                     <pb facs="Hs-31346,1_001"/>Am Bord des Doppelschrauben-Dampfers »<hi rend="capitals">Meteor</hi>«</hi>
-               </p>
-               <p rend="center">
-                  <hi rend="pre-print">
-                     <rs type="place" ref="#506">Hamburg</rs>–<rs type="place" ref="#175">Amerika</rs> Linie</hi>
-               </p>
-               <dateline>
-                  <pb facs="Hs-31346,1_001"/>
-                  <rs type="place" ref="#682">
-                     <hi rend="latintype">Ragusa</hi>
-                  </rs>
-                  <space unit="chars" quantity="1"/>
-                  <date>15. 3. 905</date>
-               </dateline>
-            </opener>
-            <p>Herzliche Grüße.</p>
-            <closer>
-               <signed>A. S.</signed>
-            </closer>
-         </div>
-         <div type="writingSession" n="2">
-            <p>
-               <handShift scribe="#11740"/>
-               <hi rend="latintype">Hier ist gutes Essen.</hi>
-            </p>
-            <closer>
-               <signed>Hugo.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-04-14">Angelegt</change><change who="MAM" when="2020-04-14">Durchsicht</change><change who="MAM" when="2020-04-14">Index check</change><change who="MAM" when="2020-04-22">Durchsicht</change><change who="GHS" when="2021-07-10">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="Hs-31346,1_001"/><graphic url="Hs-31346,1_002"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="Hs-31346,1_002"/><hi rend="latintype">Frau Gerty v Hofma<c rendition="#gemination-n"/>sthal</hi></addrLine><addrLine><hi rend="latintype"><rs type="place" ref="#pmb173">Rodaun b/Wien</rs></hi></addrLine><addrLine><hi rend="latintype"><rs type="place" ref="#pmb1006">Badgasse 5</rs>.</hi></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="Hs-31346,1_001"/>Am Bord des Doppelschrauben-Dampfers »<hi rend="capitals">Meteor</hi>«</hi></p><p rend="center"><hi rend="pre-print"><rs type="place" ref="#pmb506">Hamburg</rs>–<rs type="place" ref="#pmb175">Amerika</rs> Linie</hi></p><dateline><pb facs="Hs-31346,1_001"/><rs type="place" ref="#pmb682"><hi rend="latintype">Ragusa</hi></rs><space unit="chars" quantity="1"/><date>15. 3. 905</date></dateline></opener><p>Herzliche Grüße.</p><closer><signed>A. S.</signed></closer></div><div type="writingSession" n="2"><p><handShift scribe="#pmb11740"/><hi rend="latintype">Hier ist gutes Essen.</hi></p><closer><signed>Hugo.</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2292">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Gertrude von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1880-03-16">16. 3. 1880</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1959-11-09">9. 11. 1959</tei:date>
+                     <tei:placeName ref="#pmb46885">Paddington</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/116952199/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb44246">
+                  <tei:placeName>Rijeka</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">45.32673 14.44241</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3191648/</idno>
+               </place><place xml:id="pmb173">
+                  <tei:placeName>Rodaun</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2767332/</idno>
+               </place><place xml:id="pmb682">
+                  <tei:placeName>Dubrovnik</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">42.64807 18.09216</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3201047/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1722/</idno>
+               </place><place xml:id="pmb1006">
+                  <tei:placeName>Badgasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.130176324727 16.278871077438</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb506">
+                  <tei:placeName>Hamburg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">53.57532 10.01534</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2911298/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1055/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4023118-5/</idno>
+               </place><place xml:id="pmb175">
+                  <tei:placeName>Amerika</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">32.530833 -117.02</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/6255149/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

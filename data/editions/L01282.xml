@@ -1,246 +1,240 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01282"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Hermann Bahr an Arthur Schnitzler, [29. 3. 1903?]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L01282</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01282" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hermann Bahr an Arthur Schnitzler, [29. 3. 1903?]</title><author ref="#pmb10815">Bahr, Hermann</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L01282</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 5b</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="4" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Datum »<quote>
-                                    <date>Ende März 903</date>
-                                 </quote>« versehen</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert:
-                              »<quote>96</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">256</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10815">Bahr, Hermann</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1903-03-29" n="01">[29.  3. 1903?]</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01281">Schnitzler an Bahr, 28. 3. 1903</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01283">Bahr an Schnitzler, [30. 3. 1903]</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01281">Schnitzler an Bahr, 28. 3. 1903</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01283">Bahr an Schnitzler, [30. 3. 1903]</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7022-D</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 5b</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Datum »<quote><date>Ende März 903</date></quote>« versehen</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
+                              »<quote>96</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">256</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName><date when="1903-03-29" n="01">[29.  3. 1903?]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01281">Schnitzler an Bahr, 28. 3. 1903</ref><ref subtype="next_letter" type="withinCollection" target="L01283">Bahr an Schnitzler, [30. 3. 1903]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01281">Schnitzler an Bahr, 28. 3. 1903</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01283">Bahr an Schnitzler, [30. 3. 1903]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-12-10">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-29">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="GHS" when="2020-01-13">finalisiert</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-B-00005-B-000-00166"/>
-      <graphic url="MS-B-00005-B-000-00167"/>
-      <graphic url="MS-B-00005-B-000-00168"/>
-      <graphic url="MS-B-00005-B-000-00169"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <salute rend="center">
-                  <pb facs="MS-B-00005-B-000-00166"/>Lieber Arthur,</salute>
-            </opener>
-            <p>ſsehr gern und mit großer Freude ſchreibe ich über den »<rs ref="#29855" type="work">Reigen</rs>« und natürlich ſo bald als nur irgend möglich. Wann, das
-               weiß ich freilich nicht und bitte Dich, damit nicht irgend eine Verſtimmung
-               herauswächſt, folgendes zu bedenken. Ich muß dieſe Woche ſechs Mal ins Theater gehen
-               und ſoll drei Feuilletons ſchreiben, »<anchor xml:id="K_L01282_1" type="commentary"/>
-               <rs ref="#30107" type="work">Die <rs ref="#11201" type="person">Duse</rs>
-               </rs>
-               <note xml:id="K_L01282_1h" type="commentary">
-                  <bibl>
-                     <rs ref="#10815" type="person">Hermann Bahr</rs>: <rs ref="#30107" type="work">Die Duse. (Als Gast im Carl-Theater vom <date>31. März</date>
-                        bis <date>8. April 1903</date>)</rs>. In: <rs ref="#41321" type="work">Neues Wiener Tagblatt</rs>, Jg. 37, Nr. 89,
-                        <date>31. 3. 1903</date>, S. 1–2</bibl>.</note>«, »<anchor xml:id="K_L01282_2" type="commentary"/>
-               <rs ref="#30109" type="work">
-                  <rs ref="#30591" type="work">l’altro pericolo</rs>
-               </rs>
-               <note xml:id="K_L01282_2h" type="commentary">
-                  <bibl>
-                     <rs ref="#10815" type="person">Hermann Bahr</rs>: <rs ref="#30109" type="work">L’autre danger. (Komödie in vier Akten von Maurice Donnay. Zur
-                        morgigen Aufführung im Carl-Theater durch die Truppe der Duse)</rs>. In: <rs ref="#41321" type="work">Neues Wiener Tagblatt</rs>, Jg. 37,
-                     Nr. 94, <date>4. 4. 1903</date>, S. 1–3</bibl>.</note>«,
-                  »<anchor xml:id="K_L01282_3" type="commentary"/>
-               <rs type="work" ref="#30111" subtype="implied">
-                  <rs ref="#30593" type="work">Braut von Meſſina</rs>
-               </rs>
-               <note xml:id="K_L01282_3h" type="commentary">
-                  <bibl>
-                     <rs ref="#10815" type="person">Hermann Bahr</rs>: <rs ref="#30111" type="work">Theater und Kunst. Burgtheater [Die Braut von Messina]</rs>. In:
-                     <rs type="work" ref="#41552">Österreichische Volks-Zeitung</rs>, Jg. 49,
-                     Nr. 96, <date>7. 4. 1903</date>, S. 4</bibl>.</note>«, u.
-               eigentlich auch noch eins über die »<anchor xml:id="K_L01282_4" type="commentary"/>
-               <rs type="work" ref="#30113" subtype="implied">Seceſſion</rs>
-               <note xml:id="K_L01282_4h" type="commentary">
-                  <bibl>
-                     <rs ref="#10815" type="person">Hermann Bahr</rs>: <rs ref="#30113" type="work">Sezession. (Siebzehnte Ausstellung der Vereinigung bildender
-                        Künstler Österreichs)</rs>. In: <rs ref="#41552" type="work">Österreichische Volks-Zeitung</rs>, Jg. 49, Nr. 96,
-                        <date>7. 4. 1903</date>, S. 1</bibl>.</note>«. Du haſt aber
-               keine Ahnung, wie mich der Theaterbeſuch jetzt aufregt u. wie unſinnig mich die
-               geringſte Arbeit <pb facs="MS-B-00005-B-000-00167"/>anſtrengt. Geſtern habe ich
-               außerdem wieder einen Anfall jener Herzbeklemmungen bekommen, diesmal auch noch mit
-               ſolchem Schwindel verbunden, daß ich den Nachmittag nur auf dem Sopha ausgeſtreckt,
-               die Augen feſt geschloſſen, beide Hände auf die Schläfen gedrückt zubringen konnte,
-               immer mit dem Gefühl, es iſt ja doch alles aus und ich werde niemals mehr geſund.
-               Unter dieſen Bedingungen arbeite ich jetzt und darf daher eigentlich gar nichts
-               verſprechen, weil ich mich bei jedem Feuilleton wundere, wenn es ſchließlich doch
-               fertig geworden iſt.</p>
-            <p>Ferner mußt Du auch wiſſen, daß die Redacteure des <pb facs="MS-B-00005-B-000-00168"/>
-               <rs ref="#29414" type="org">Neuen Wiener Tagblatt</rs> (<rs ref="#2202" type="person">Wilhelm Singer</rs> und den braven Herrn <rs ref="#2947" type="person">Epſtein</rs> ausgenommen) einen Bund bilden, deſſen
-               einzige Sorge es zu ſein ſcheint, auszuſinnen, was etwa geeignet wäre, mich zu
-               ärgern, und dies mit der Behendigkeit von Affen ſogleich ins Blatt zu ſetzen. Daß
-               gegen Dich noch nicht eine ungeheuerliche Gemeinheit verübt worden iſt, wundert mich
-               ſchon lange. Geht ſie vielleicht gelegentlich des »<rs ref="#29855" type="work">Reigens</rs>« los, ſo vergiß nicht, daß ſie, zwar an Dir executiert, aber Dir gar
-               nicht zugedacht iſt.</p>
-            <p>Bitte, ſchicke mir gleich ein Exemplar des »<rs ref="#29855" type="work">Reigens</rs>«. Meines iſt nemlich confisciert <pb facs="MS-B-00005-B-000-00169"/>worden, von der Cenſur. Das heißt: Der Herr Hofrath <rs ref="#2196" type="person">Jettel</rs> hat es ſich bei mir ausleihen laſſen und ich habe es
-               niemals mehr zurückbekommen.</p>
-            <p>Das Incohärente dieſes Briefes mußt Du meinem Zuſtand vergeben. Wie ich nur Zeit
-               habe, fahre ich zunächſt zu <rs ref="#12698" type="person">Julius</rs>, der einmal
-               doch mein Herz ordentlich unterſuchen muß.</p>
-            <p>
-               <anchor xml:id="K_L01282_5" type="commentary"/>Freitag<note xml:id="K_L01282_5h" type="commentary">der verpasste Besuch vom <date>27. 3.</date>
-               </note> war mir rieſig leid, ich war bei der Steuerbehörde, die mich auch noch
-                  <anchor xml:id="K_L01282_6" type="commentary"/>ſekiert<note xml:id="K_L01282_6h" type="commentary">österreichisch sekkieren: ärgern, belästigen</note>.</p>
-            <closer>Herzlichſt<lb/>Dein<lb/>
-               <signed>Hermann</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
-<!-- Vor dem nächsten Brief Bahrs (?) vom Montag, 30. März und nach dem Brief vom 29. -->
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-12-10">Kollationiert</change><change who="KI MAM" when="2017-05-29">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-01-13">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-B-00005-B-000-00166"/><graphic url="MS-B-00005-B-000-00167"/><graphic url="MS-B-00005-B-000-00168"/><graphic url="MS-B-00005-B-000-00169"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute rend="center"><pb facs="MS-B-00005-B-000-00166"/>Lieber Arthur,</salute></opener><p><c rendition="#langesS">s</c>sehr gern und mit großer Freude<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreibe ich über den »<rs ref="#pmb29855" type="work">Reigen</rs>« und natürlich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o bald als nur irgend möglich. Wann, das weiß ich freilich nicht und bitte Dich, damit nicht irgend eine Ver<c rendition="#langesS">s</c>timmung herauswäch<c rendition="#langesS">s</c>t, folgendes zu bedenken. Ich muß die<c rendition="#langesS">s</c>e Woche<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>echs Mal ins Theater gehen und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll drei Feuilletons<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben, »<anchor xml:id="K_L01282_1" type="commentary"/><rs ref="#pmb30107" type="work">Die <rs ref="#pmb11201" type="person">Duse</rs></rs><note xml:id="K_L01282_1h" type="commentary"><bibl><rs ref="#pmb10815" type="person">Hermann Bahr</rs>: <rs ref="#pmb30107" type="work">Die Duse. (Als Gast im Carl-Theater vom <date>31. März</date> bis <date>8. April 1903</date>)</rs>. In: <rs ref="#pmb41321" type="work">Neues Wiener Tagblatt</rs>, Jg. 37, Nr. 89, <date>31. 3. 1903</date>, S. 1–2</bibl>.</note>«, »<anchor xml:id="K_L01282_2" type="commentary"/><rs ref="#pmb30109" type="work"><rs ref="#pmb30591" type="work">l’altro pericolo</rs></rs><note xml:id="K_L01282_2h" type="commentary"><bibl><rs ref="#pmb10815" type="person">Hermann Bahr</rs>: <rs ref="#pmb30109" type="work">L’autre danger. (Komödie in vier Akten von Maurice Donnay. Zur morgigen Aufführung im Carl-Theater durch die Truppe der Duse)</rs>. In: <rs ref="#pmb41321" type="work">Neues Wiener Tagblatt</rs>, Jg. 37, Nr. 94, <date>4. 4. 1903</date>, S. 1–3</bibl>.</note>«, »<anchor xml:id="K_L01282_3" type="commentary"/><rs type="work" ref="#pmb30111" subtype="implied"><rs ref="#pmb30593" type="work">Braut von Me<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ina</rs></rs><note xml:id="K_L01282_3h" type="commentary"><bibl><rs ref="#pmb10815" type="person">Hermann Bahr</rs>: <rs ref="#pmb30111" type="work">Theater und Kunst. Burgtheater [Die Braut von Messina]</rs>. In: <rs type="work" ref="#pmb41552">Österreichische Volks-Zeitung</rs>, Jg. 49, Nr. 96, <date>7. 4. 1903</date>, S. 4</bibl>.</note>«, u. eigentlich auch noch eins über die »<anchor xml:id="K_L01282_4" type="commentary"/><rs type="work" ref="#pmb30113" subtype="implied">Sece<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ion</rs><note xml:id="K_L01282_4h" type="commentary"><bibl><rs ref="#pmb10815" type="person">Hermann Bahr</rs>: <rs ref="#pmb30113" type="work">Sezession. (Siebzehnte Ausstellung der Vereinigung bildender Künstler Österreichs)</rs>. In: <rs ref="#pmb41552" type="work">Österreichische Volks-Zeitung</rs>, Jg. 49, Nr. 96, <date>7. 4. 1903</date>, S. 1</bibl>.</note>«. Du ha<c rendition="#langesS">s</c>t aber keine Ahnung, wie mich der Theaterbe<c rendition="#langesS">s</c>uch jetzt aufregt u. wie un<c rendition="#langesS">s</c>innig mich die gering<c rendition="#langesS">s</c>te Arbeit <pb facs="MS-B-00005-B-000-00167"/>an<c rendition="#langesS">s</c>trengt. Ge<c rendition="#langesS">s</c>tern habe ich außerdem wieder einen Anfall jener Herzbeklemmungen bekommen, diesmal auch noch mit<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olchem Schwindel verbunden, daß ich den Nachmittag nur auf dem Sopha ausge<c rendition="#langesS">s</c>treckt, die Augen fe<c rendition="#langesS">s</c>t geschlo<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en, beide Hände auf die Schläfen gedrückt zubringen konnte, immer mit dem Gefühl, es i<c rendition="#langesS">s</c>t ja doch alles aus und ich werde niemals mehr ge<c rendition="#langesS">s</c>und. Unter die<c rendition="#langesS">s</c>en Bedingungen arbeite ich jetzt und darf daher eigentlich gar nichts ver<c rendition="#langesS">s</c>prechen, weil ich mich bei jedem Feuilleton wundere, wenn es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chließlich doch fertig geworden i<c rendition="#langesS">s</c>t.</p><p>Ferner mußt Du auch wi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en, daß die Redacteure des <pb facs="MS-B-00005-B-000-00168"/><rs ref="#pmb29414" type="org">Neuen Wiener Tagblatt</rs> (<rs ref="#pmb2202" type="person">Wilhelm Singer</rs> und den braven Herrn <rs ref="#pmb2947" type="person">Ep<c rendition="#langesS">s</c>tein</rs> ausgenommen) einen Bund bilden, de<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en einzige Sorge es zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>cheint, auszu<c rendition="#langesS">s</c>innen, was etwa geeignet wäre, mich zu ärgern, und dies mit der Behendigkeit von Affen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ogleich ins Blatt zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>etzen. Daß gegen Dich noch nicht eine ungeheuerliche Gemeinheit verübt worden i<c rendition="#langesS">s</c>t, wundert mich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon lange. Geht<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie vielleicht gelegentlich des »<rs ref="#pmb29855" type="work">Reigens</rs>« los,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o vergiß nicht, daß<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie, zwar an Dir executiert, aber Dir gar nicht zugedacht i<c rendition="#langesS">s</c>t.</p><p>Bitte,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicke mir gleich ein Exemplar des »<rs ref="#pmb29855" type="work">Reigens</rs>«. Meines i<c rendition="#langesS">s</c>t nemlich confisciert <pb facs="MS-B-00005-B-000-00169"/>worden, von der Cen<c rendition="#langesS">s</c>ur. Das heißt: Der Herr Hofrath <rs ref="#pmb2196" type="person">Jettel</rs> hat es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich bei mir ausleihen la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en und ich habe es niemals mehr zurückbekommen.</p><p>Das Incohärente die<c rendition="#langesS">s</c>es Briefes mußt Du meinem Zu<c rendition="#langesS">s</c>tand vergeben. Wie ich nur Zeit habe, fahre ich zunäch<c rendition="#langesS">s</c>t zu <rs ref="#pmb12698" type="person">Julius</rs>, der einmal doch mein Herz ordentlich unter<c rendition="#langesS">s</c>uchen muß.</p><p><anchor xml:id="K_L01282_5" type="commentary"/>Freitag<note xml:id="K_L01282_5h" type="commentary">der verpasste Besuch vom <date>27. 3.</date></note> war mir rie<c rendition="#langesS">s</c>ig leid, ich war bei der Steuerbehörde, die mich auch noch <anchor xml:id="K_L01282_6" type="commentary"/><c rendition="#langesS">s</c>ekiert<note xml:id="K_L01282_6h" type="commentary">österreichisch sekkieren: ärgern, belästigen</note>.</p><closer>Herzlich<c rendition="#langesS">s</c>t<lb/>Dein<lb/><signed>Hermann</signed></closer></div></body><back><listPerson><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11201">
+                  <tei:persName>
+                     <tei:surname>Duse</tei:surname>
+                     <tei:forename>Eleonora</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1858-10-03">3. 10. 1858</tei:date>
+                     <tei:placeName ref="#pmb58890">Vigevano</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1924-04-21">21. 4. 1924</tei:date>
+                     <tei:placeName ref="#pmb56126">Pittsburgh</tei:placeName>
+                  </tei:death>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118681354/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14574</idno>
+               </person><person xml:id="pmb2202">
+                  <tei:persName>
+                     <tei:surname>Singer</tei:surname>
+                     <tei:forename>Wilhelm</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1847-11-26">26. 11. 1847</tei:date>
+                     <tei:placeName ref="#pmb53794">Bzenec</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1917-10-10">10. 10. 1917</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="117">Chefredakteur*in</occupation>
+                  <occupation code="118">Zeitungsherausgeber</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117402834/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20141</idno>
+               </person><person xml:id="pmb2947">
+                  <tei:persName>
+                     <tei:surname>Epstein</tei:surname>
+                     <tei:forename>Moritz</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1844-01-01">1844</tei:date>
+                     <tei:placeName ref="#pmb51354">Třebíč</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1915-01-01">1915</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/143990055/</idno>
+               </person><person xml:id="pmb2196">
+                  <tei:persName>
+                     <tei:surname>Jettel-Ettenach</tei:surname>
+                     <tei:forename>Emil von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1846-04-08">8. 4. 1846</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1925-04-25">25. 4. 1925</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="102">Rechtswissenschaftler*in</occupation>
+                  <occupation code="113">Ministerialbeamter/in</occupation>
+                  <occupation code="114">Zensor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1012834638/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16551</idno>
+               </person><person xml:id="pmb12698">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Julius</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1865-07-13">13. 7. 1865</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-06-29">29. 6. 1939</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="364">Chirurg*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848693/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19827</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29855">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Reigen. Zehn Dialoge</tei:title>
+                  <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>11660</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/ "Q1414190"/</idno>
+               </bibl><bibl xml:id="pmb30107">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Duse. (Als Gast im Carl-Theater vom 31. März bis 8. April 1903)</tei:title>
+                  <tei:date from="1903-03-31" from-custom="31.03.1903">31. 3. 1903</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>2887</tei:note>
+               </bibl><bibl xml:id="pmb41321">
+                  <tei:title>Neues Wiener Tagblatt</tei:title>
+                  <tei:date from="1867-01-01" from-custom="1867" to="1945-01-01" to-custom="1945">1867–1945</tei:date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <tei:note>5749</tei:note>
+                  <tei:note>5750</tei:note>
+                  <tei:note>12929</tei:note>
+               </bibl><bibl xml:id="pmb30109">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>L’autre danger</tei:title>
+                  <tei:date from="1903-04-04" from-custom="04.04.1903">4. 4. 1903</tei:date>
+                  <tei:gloss type="w1154">Aufsatz</tei:gloss>
+                  <tei:note>2888</tei:note>
+               </bibl><bibl xml:id="pmb30591">
+                  <tei:author ref="pmb11168" role="author">
+                     <tei:surname>Donnay</tei:surname>
+                     <tei:forename>Maurice</tei:forename>
+                  </tei:author>
+                  <tei:title>L’autre danger</tei:title>
+                  <tei:date from="1902-01-01" from-custom="1902">1902</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb30111">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Theater und Kunst. (Burgtheater) [Die Braut von Messina]</tei:title>
+                  <tei:date from="1903-04-07" from-custom="07.04.1903">7. 4. 1903</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>2889</tei:note>
+               </bibl><bibl xml:id="pmb30593">
+                  <tei:author ref="pmb12654" role="author">
+                     <tei:surname>Schiller</tei:surname>
+                     <tei:forename>Friedrich von</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Braut von Messina</tei:title>
+                  <tei:date from="1803-01-01" from-custom="1803">1803</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb41552">
+                  <tei:title>Österreichische Volks-Zeitung</tei:title>
+                  <tei:date from="1888-01-01" from-custom="1888" to="1918-11-13" to-custom="13.11.1918">1888–13. 11. 1918</tei:date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+               </bibl><bibl xml:id="pmb30113">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Sezession. (Siebzehnte Ausstellung der Vereinigung bildender Künstler Österreichs)</tei:title>
+                  <tei:date from="1903-04-07" from-custom="07.04.1903">7. 4. 1903</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>2890</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29414">
+                  <tei:orgName>Neues Wiener Tagblatt</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1867-01-01" from-custom="1867" to="1945-01-01" to-custom="1945">1867–1945</tei:date>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb683">
+                     <tei:placeName>Steyrerhof</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.21117 16.37606</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI><!-- Vor dem nächsten Brief Bahrs (?) vom Montag, 30. März und nach dem Brief vom 29. -->

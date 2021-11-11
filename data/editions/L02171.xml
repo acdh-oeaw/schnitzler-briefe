@@ -1,173 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02171"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Bertha von Suttner,
-                    31. 3. 1914</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02171</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02171" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Bertha von Suttner,
+                    31. 3. 1914</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02171</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>CH</country>
-                        <settlement>Genf</settlement>
-                        <repository>United Nations Archives</repository>
-                        <idno>BvS/27/352-1/5</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="briefkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1914-03-31" n="01">31. 3. 1914</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#12906">Suttner, Bertha von</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#12906">Suttner, Bertha von</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02170">Suttner an Schnitzler, Schnitzler, 30. 3. 1914</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02172">Beer-Hofmann an Schnitzler, 1. 4. 1914</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02170">Suttner an Schnitzler, Schnitzler, 30. 3. 1914</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02179">Suttner an Schnitzler, Schnitzler, 14. 5. 1914</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-739B-2</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>CH</country><settlement>Genf</settlement><repository>United Nations Archives</repository><idno>BvS/27/352-1/5</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1914-03-31" n="01">31. 3. 1914</date></correspAction><correspAction type="received"><persName ref="#pmb12906">Suttner, Bertha von</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb12906">Suttner, Bertha von</ref><ref subtype="previous_letter" type="withinCollection" target="L02170">Suttner an Schnitzler, Schnitzler, 30. 3. 1914</ref><ref subtype="next_letter" type="withinCollection" target="L02172">Beer-Hofmann an Schnitzler, 1. 4. 1914</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02170">Suttner an Schnitzler, Schnitzler, 30. 3. 1914</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02179">Suttner an Schnitzler, Schnitzler, 14. 5. 1914</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2020-10-06">Angelegt</change>
-         <change who="MAM" when="2020-10-19">Index check</change>
-         <change who="GHS" when="2020-10-20">Durchsicht</change>
-         <change who="GHS" when="2020-10-22">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="D13230-0"/>
-      <graphic url="D13230-1"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <seg rend="left">
-                     <pb facs="D13230-0"/>
-                     <hi rend="pre-print">Dr. Arthur Schnitzler</hi>
-                  </seg>
-                  <seg rend="right">
-                     <date>31. 3. 914</date>
-                  </seg>
-               </p>
-               <p>
-                  <hi rend="pre-print">
-                     <rs type="place" ref="#150">Wien XVIII. Sternwartestrasse 71</rs>
-                  </hi>
-               </p>
-            </opener>
-            <p>
-               <salute>verehrte Frau Baronin, </salute>da Sie es uns gütigſt geſtatten, wählen
-                    wir den Freitag, und werden zwiſchen <time>5</time> u <time>½ 6</time> mit
-                    beſonderm Vergnügen erſcheinen. Bis dahin bitte meiner <pb facs="D13230-1"/>
-               <rs type="person" ref="#2173" subtype="implied">Frau</rs> u meine ergebenſten
-                    Grüße entgegenzunehmen.</p>
-            <closer>In wahrer Verehrung<lb/>
-               <signed>Arthur Schnitzler</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-10-06">Angelegt</change><change who="MAM" when="2020-10-19">Index check</change><change who="GHS" when="2020-10-20">Durchsicht</change><change who="GHS" when="2020-10-22">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="D13230-0"/><graphic url="D13230-1"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="D13230-0"/><hi rend="pre-print">Dr. Arthur Schnitzler</hi></seg><seg rend="right"><date>31. 3. 914</date></seg></p><p><hi rend="pre-print"><rs type="place" ref="#pmb150">Wien XVIII. Sternwartestrasse 71</rs></hi></p></opener><p><salute>verehrte Frau Baronin, </salute>da Sie es uns gütig<c rendition="#langesS">s</c>t ge<c rendition="#langesS">s</c>tatten, wählen wir den Freitag, und werden zwi<c rendition="#langesS">s</c>chen <time>5</time> u <time>½ 6</time> mit be<c rendition="#langesS">s</c>onderm Vergnügen er<c rendition="#langesS">s</c>cheinen. Bis dahin bitte meiner <pb facs="D13230-1"/><rs type="person" ref="#pmb2173" subtype="implied">Frau</rs> u meine ergeben<c rendition="#langesS">s</c>ten Grüße entgegenzunehmen.</p><closer>In wahrer Verehrung<lb/><signed>Arthur Schnitzler</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12906">
+                  <tei:persName>
+                     <tei:surname>Suttner</tei:surname>
+                     <tei:forename>Bertha von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1843-06-09">9. 6. 1843</tei:date>
+                     <tei:placeName ref="#pmb652">Prag</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1914-06-21">21. 6. 1914</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="91">Schriftsteller*in</occupation>
+                  <occupation code="521">Pazifistin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118620126/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20583</idno>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb150">
+                  <tei:placeName>Sternwartestraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg/></back></text></TEI>

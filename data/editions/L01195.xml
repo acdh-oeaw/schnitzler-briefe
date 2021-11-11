@@ -1,325 +1,354 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01195"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Hermann Bahr, 3. 1. 1902</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L01195</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01195" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, 3. 1. 1902</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L01195</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Theatermuseum</repository>
-                        <idno>HS AM 23348 Ba</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="2" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="7" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>Lochung</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="DASB">
-                  <analytic>
-                     <title level="a">3. 1. 1902</title>
-                  </analytic>
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
-                     <editor>Edited, annotated, and with an introduction, by Donald G.
-                        Daviau</editor>
-                     <imprint>
-                        <pubPlace>Chapel Hill</pubPlace>
-                        <publisher>The University of North Carolina Press</publisher>
-                        <date when="1978">1978</date>
-                     </imprint>
-                     <biblScope unit="pp">73–74</biblScope>
-                  </monogr>
-                  <series>
-                     <title level="s">University of North Carolina studies in the Germanic languages
-                        and literatures</title>
-                     <biblScope unit="nr">89</biblScope>
-                  </series>
-               </biblStruct>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">222–223</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#168">Berlin</placeName>
-               <date when="1902-01-03" n="01">3. 1. 1902</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10815">Bahr, Hermann</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01194">Dehmel an
-                  Schnitzler, 1. 1. 1902</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01196">Schnitzler an
-                  Hofmannsthal, [7.?] 1. 1902</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L01192">Bahr an
-                  Schnitzler, 30. 12. 1901</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01197">Bahr an
-                  Schnitzler, 9. 1. 1902</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6FCC-1</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 23348 Ba</idno></msIdentifier><physDesc><objectDesc><desc n="2" type="_blaetter"/><desc type="brief"/><desc n="7" type="_seiten"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="archival"><desc>Lochung</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="DASB"><analytic><title level="a">3. 1. 1902</title></analytic><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title><editor>Edited, annotated, and with an introduction, by Donald G.
+                        Daviau</editor><imprint><pubPlace>Chapel Hill</pubPlace><publisher>The University of North Carolina Press</publisher><date when="1978">1978</date></imprint><biblScope unit="pp">73–74</biblScope></monogr><series><title level="s">University of North Carolina studies in the Germanic languages
+                        and literatures</title><biblScope unit="nr">89</biblScope></series></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">222–223</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb168">Berlin</placeName><date when="1902-01-03" n="01">3. 1. 1902</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01194">Dehmel an
+                  Schnitzler, 1. 1. 1902</ref><ref subtype="next_letter" type="withinCollection" target="L01196">Schnitzler an
+                  Hofmannsthal, [7.?] 1. 1902</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01192">Bahr an
+                  Schnitzler, 30. 12. 1901</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01197">Bahr an
+                  Schnitzler, 9. 1. 1902</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-10-01">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-08">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="GHS" when="2020-01-09">finalisiert</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS_AM23348Ba_1"/>
-      <graphic url="HS_AM23348Ba_1_R"/>
-      <graphic url="HS_AM23348Ba_2"/>
-      <graphic url="HS_AM23348Ba_2_R"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>
-                  <date>3. 1. 902</date>
-                  <lb/>
-                  <rs ref="#168" type="place">
-                     <hi rend="latintype">Berlin</hi>
-                  </rs>
-               </dateline>
-            </opener>
-            <p>
-               <salute>lieber Hermann, </salute>ich habe <rs ref="#10986" type="person">Brahm</rs>
-               geſprochen, er äußerte ſich anerkennend über den <rs ref="#29881" type="work"
-                  >Krampus</rs>, findet nur, daſs gerade das <rs ref="#3" type="place">Deutſche
-                  Theater</rs> nicht der rechte Boden für das Stück sei. Ich glaube alſo nicht, daſs
-               er zu der Aufführg nach <rs ref="#506" type="place">Hamburg</rs> fahren wird, hielte
-               es aber doch für ganz gut, we<c rendition="#gemination-n"/> du ihn unverbindlich mit
-               ein paar <pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>Worten dazu
-               einladen möchteſt. Gegen deine Bemerkung über den literar. Stempel, den doch erſt das
-                  <rs ref="#3" type="place">Deutſche Theater</rs> verleihe (die ihm mitzutheilen ich
-               mich wohl für befugt halten durfte?) ſchien er nicht unempfindlich zu ſein, und ich
-               zweifle nicht daran, daſs er deine nächſten Stücke ohne vorgefaſſte Meinung leſen
-               wird. Ich bin übrigens mor<pb
-                  facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>gen Nachmittag bei ihm
-               und habe ſicher Gelegenheit, nochmals in deinem Sinne zu reden. Er gehört doch, bei
-               allen Begrenztheiten und Eigenſinnigkeiten zu den weitaus verſtändigſten
-               Theatermenſchen <add place="above">(vielleicht auch Menſchen ſchlichtweg –)</add>,
-               die es gibt, und iſt derjenige, mit dem man am gradlinigſten und verläßlichſten
-               verkehren kann. Man darf von ihm ſagen, daſs <pb
-                  facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>er nie lügt. Du
-               sollteſt dich einmal perſönlich mit ihm ausſprechen. We<c rendition="#gemination-n"/>
-               er nicht nach <rs ref="#506" type="place">Hamburg</rs> ko<c rendition="#gemination-m"
-               />t, vielleicht beſuchst du ihn auf der Hin- oder Rückfahrt? – </p>
-            <p>
-               <anchor xml:id="K_L01195_1" type="commentary"/>Dieſer Tage<note xml:id="K_L01195_1h"
-                  type="commentary">
-                  <ref type="schnitzlerDiary" target="1902-01-01" subtype="cf"/></note>
-               <space unit="chars" quantity="1"/>ſprach ich <hi rend="latintype">
-                  <rs ref="#11581" type="person">Harden</rs>
-               </hi>
-               <damage agent="hole">
-                  <supplied>,</supplied>
-               </damage> der jetzt ſehr gegen den kleinen <rs ref="#11988" type="person">Kraus</rs>
-                  eingeno<c rendition="#gemination-m"/>en iſt und findet, daſs ein ſolches <rs
-                  type="work" ref="#41244" subtype="implied">Blatt</rs> in <rs ref="#168"
-                  type="place">Berlin</rs>
-               <space unit="chars" quantity="1"/>ſich nicht halten kö<c rendition="#gemination-n"
-               />te. <pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>Anläßlich der
-                  <anchor xml:id="K_L01195_2" type="commentary"/>
-               <rs type="work" ref="#29969" subtype="implied">Krausiſchen Kritik</rs> über die <hi
-                  rend="latintype">
-                  <rs ref="#29967" type="work">veine</rs>
-               </hi>
-               <note xml:id="K_L01195_2h" type="commentary">
-                  <rs ref="#11988" type="person">Kraus</rs>
-                  <space unit="chars" quantity="1"/>schreibt in der <rs ref="#41244" type="work"
-                     >Fackel</rs> (<rs type="work" ref="#29969"
-                     subtype="implied">
-                     <bibl>Bd. 10, H. 82, Anfang October, S.&#160;19</bibl>
-                  </rs>): »<quote>Herr <rs ref="#10815" type="person">Bahr</rs>, der wiederum das
-                     Referat über das <rs ref="#20" type="place">Deutsche Volkstheater</rs>
-                     übernommen hat, berichtet, dass in dem neuen <rs type="work" ref="#29967"
-                        subtype="implied">Stücke</rs> von <rs ref="#2408" type="person">Capus</rs>
-                     ein ›mit zwei Strichen wunderbar gezeichneter‹ Journalist vorkomme, der sich
-                     nicht verkauft, weil ›ihm das nie so viel tragen kann wie seine
-                     Unbestechlichkeit‹. Man versichert mir – ich kann die Mittheilung leider nicht
-                     überprüfen –, dass diese Stelle, die Herr <rs ref="#10815" type="person"
-                        >Bahr</rs> mit so munterem Behagen citiert, nachträglich in die Uebersetzung
-                     der <rs ref="#166" type="place">französischen</rs> Comödie hineingeflickt
-                     worden sei und dass Herr <rs ref="#10815" type="person">Bahr</rs>
-                     <space unit="chars" quantity="1"/>sich selbst citiere.</quote>« <rs
-                     ref="#10815" type="person">Bahrs</rs> Besprechung, in der sich das Zitat
-                  findet: <bibl>
-                     <rs ref="#32468" type="work">Das Glück. (La veine. Komödie in vier Aufzügen von
-                           <rs ref="#2408" type="person">Alfred Capus</rs>. Deutsch von <rs
-                           ref="#13163" type="person">Theodor Wolff</rs>. Zum erstenmal aufgeführt
-                        im <rs ref="#20" type="place">Deutschen Volkstheater</rs> am <date>28.
-                           September 1901</date>)</rs>. In: <rs ref="#41321" type="work">Neues
-                        Wiener Tagblatt</rs>, Jg. 35, Nr. 267, <date>29. 9. 1901</date>,
-                     S. 2–4</bibl>.</note>, in der <rs ref="#11988" type="person">Kr.</rs> von einer
-               angeblich extra von dir <add place="inline">(?)</add> gegen ihn hineingedichteten
-               Stelle erzählte, hat er ihm (<hi rend="latintype">
-                  <rs ref="#11581" type="person">Harden</rs>
-               </hi> dem <rs ref="#11988" type="person">Kraus</rs>) eine Karte geſchrieben, er müſſe
-               gelegentlich diesen Irrthum richtigſtellen, da die betreffende Stelle ſich <anchor
-                  xml:id="K_L01195_3" type="commentary"/>im Original<note xml:id="K_L01195_3h"
-                  type="commentary">»<quote>Car pourquoi se vendrait-il? Ça ne lui rapporterait
-                     jamais autant que d’être incorruptible.</quote>« <bibl>
-                     <rs ref="#2408" type="person">Alfred Capus</rs>: <rs ref="#29967" type="work"
-                        >La veine. Comédie en quatre actes</rs>. Paris: <publisher>Éditions de la
-                        Revue Blanche</publisher>
-                     <space unit="chars" quantity="1"/>
-                     <supplied>1901?</supplied>, S. 149 (III, 9)</bibl>.</note> fände; – <rs
-                  ref="#11988" type="person">Kraus</rs>
-               <space unit="chars" quantity="1"/>ſoll es auch zugeſagt <del rend="erased">
-                  <unclear>haben</unclear>, aber</del> bisher nicht <pb
-                  facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>gethan haben. – </p>
-            <p>Heute war Generalprobe der <rs ref="#29863" type="work">Lebendigen Stunden</rs>. Sie
-               fiel günſtig – für abergläubiſch<damage agent="hole">
-                  <supplied>e</supplied>
-               </damage> Gemüther zu günſtig <subst>
-                  <del rend="overwritten">
-                     <unclear>ohne</unclear>
-                  </del>
-                  <add place="inline">aus</add>
-               </subst>. –</p>
-            <p>Ganz entzückt bin ich von <rs ref="#10844" type="person">
-                  <hi rend="latintype">Bassermann</hi>
-               </rs>. <anchor xml:id="K_L01195_4" type="commentary"/>Neulich ſah ich ihn als <hi
-                  rend="latintype">
-                  <rs type="work" ref="#29971" subtype="implied">H<add place="inline">j</add>a<subst>
-                        <del rend="overwritten">
-                           <unclear>jm</unclear>
-                        </del>
-                        <add place="inline">lm</add>
-                     </subst>ar</rs>
-               </hi>, <rs ref="#2193" type="person">
-                  <hi rend="latintype">Sauer</hi>
-               </rs> als <rs type="work" ref="#29971" subtype="implied">
-                  <hi rend="latintype">Gregers Werle</hi>
-               </rs>
-               <note xml:id="K_L01195_4h" type="commentary">Am <date>30. 12. 1901</date> spielte er
-                  in <rs ref="#11798" type="person">Ibsens</rs>
-                  <space unit="chars" quantity="1"/>
-                  <rs ref="#29971" type="work">Wildente</rs>.</note>; ich habe ſelten ſo ſtarke
-               ſchauſpieleriſche Eindrücke erlebt. Die <rs ref="#12977" type="person">Trieſch</rs>
-               <space unit="chars" quantity="1"/>
-               <pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>kann überraſchend
-               viel. –</p>
-            <p>– Ich ſeh dich hoffentlich bald wieder. Herzlichen Gruſs. Dein </p>
-            <closer>
-               <signed>Arth Sch</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-08">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-01-09">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23348Ba_1"/><graphic url="HS_AM23348Ba_1_R"/><graphic url="HS_AM23348Ba_2"/><graphic url="HS_AM23348Ba_2_R"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/><date>3. 1. 902</date><lb/><rs ref="#pmb168" type="place"><hi rend="latintype">Berlin</hi></rs></dateline></opener><p><salute>lieber Hermann, </salute>ich habe <rs ref="#pmb10986" type="person">Brahm</rs> ge<c rendition="#langesS">s</c>prochen, er äußerte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich anerkennend über den <rs ref="#pmb29881" type="work">Krampus</rs>, findet nur, da<c rendition="#langesS">s</c>s gerade das <rs ref="#pmb3" type="place">Deut<c rendition="#langesS">s</c>che Theater</rs> nicht der rechte Boden für das Stück sei. Ich glaube al<c rendition="#langesS">s</c>o nicht, da<c rendition="#langesS">s</c>s er zu der Aufführg nach <rs ref="#pmb506" type="place">Hamburg</rs> fahren wird, hielte es aber doch für ganz gut, we<c rendition="#gemination-n"/> du ihn unverbindlich mit ein paar <pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>Worten dazu einladen möchte<c rendition="#langesS">s</c>t. Gegen deine Bemerkung über den literar. Stempel, den doch er<c rendition="#langesS">s</c>t das <rs ref="#pmb3" type="place">Deut<c rendition="#langesS">s</c>che Theater</rs> verleihe (die ihm mitzutheilen ich mich wohl für befugt halten durfte?)<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chien er nicht unempfindlich zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, und ich zweifle nicht daran, da<c rendition="#langesS">s</c>s er deine näch<c rendition="#langesS">s</c>ten Stücke ohne vorgefa<c rendition="#langesS">s</c><c rendition="#langesS">s</c>te Meinung le<c rendition="#langesS">s</c>en wird. Ich bin übrigens mor<pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>gen Nachmittag bei ihm und habe<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>icher Gelegenheit, nochmals in deinem Sinne zu reden. Er gehört doch, bei allen Begrenztheiten und Eigen<c rendition="#langesS">s</c>innigkeiten zu den weitaus ver<c rendition="#langesS">s</c>tändig<c rendition="#langesS">s</c>ten Theatermen<c rendition="#langesS">s</c>chen <add place="above">(vielleicht auch Men<c rendition="#langesS">s</c>chen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chlichtweg –)</add>, die es gibt, und i<c rendition="#langesS">s</c>t derjenige, mit dem man am gradlinig<c rendition="#langesS">s</c>ten und verläßlich<c rendition="#langesS">s</c>ten verkehren kann. Man darf von ihm<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen, da<c rendition="#langesS">s</c>s <pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>er nie lügt. Du sollte<c rendition="#langesS">s</c>t dich einmal per<c rendition="#langesS">s</c>önlich mit ihm aus<c rendition="#langesS">s</c>prechen. We<c rendition="#gemination-n"/> er nicht nach <rs ref="#pmb506" type="place">Hamburg</rs> ko<c rendition="#gemination-m"/>t, vielleicht be<c rendition="#langesS">s</c>uchst du ihn auf der Hin- oder Rückfahrt? – </p><p><anchor xml:id="K_L01195_1" type="commentary"/>Die<c rendition="#langesS">s</c>er Tage<note xml:id="K_L01195_1h" type="commentary"><ref type="schnitzlerDiary" target="1902-01-01" subtype="cf"/></note><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>prach ich <hi rend="latintype"><rs ref="#pmb11581" type="person">Harden</rs></hi><damage agent="hole"><supplied>,</supplied></damage> der jetzt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr gegen den kleinen <rs ref="#pmb11988" type="person">Kraus</rs> eingeno<c rendition="#gemination-m"/>en i<c rendition="#langesS">s</c>t und findet, da<c rendition="#langesS">s</c>s ein<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olches <rs type="work" ref="#pmb41244" subtype="implied">Blatt</rs> in <rs ref="#pmb168" type="place">Berlin</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>ich nicht halten kö<c rendition="#gemination-n"/>te. <pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>Anläßlich der <anchor xml:id="K_L01195_2" type="commentary"/><rs type="work" ref="#pmb29969" subtype="implied">Krausi<c rendition="#langesS">s</c>chen Kritik</rs> über die <hi rend="latintype"><rs ref="#pmb29967" type="work">veine</rs></hi><note xml:id="K_L01195_2h" type="commentary"><rs ref="#pmb11988" type="person">Kraus</rs><space unit="chars" quantity="1"/>schreibt in der <rs ref="#pmb41244" type="work">Fackel</rs> (<rs type="work" ref="#pmb29969" subtype="implied"><bibl>Bd. 10, H. 82, Anfang October, S. 19</bibl></rs>): »<quote>Herr <rs ref="#pmb10815" type="person">Bahr</rs>, der wiederum das Referat über das <rs ref="#pmb20" type="place">Deutsche Volkstheater</rs> übernommen hat, berichtet, dass in dem neuen <rs type="work" ref="#pmb29967" subtype="implied">Stücke</rs> von <rs ref="#pmb2408" type="person">Capus</rs> ein ›mit zwei Strichen wunderbar gezeichneter‹ Journalist vorkomme, der sich nicht verkauft, weil ›ihm das nie so viel tragen kann wie seine Unbestechlichkeit‹. Man versichert mir – ich kann die Mittheilung leider nicht überprüfen –, dass diese Stelle, die Herr <rs ref="#pmb10815" type="person">Bahr</rs> mit so munterem Behagen citiert, nachträglich in die Uebersetzung der <rs ref="#pmb166" type="place">französischen</rs> Comödie hineingeflickt worden sei und dass Herr <rs ref="#pmb10815" type="person">Bahr</rs><space unit="chars" quantity="1"/>sich selbst citiere.</quote>« <rs ref="#pmb10815" type="person">Bahrs</rs> Besprechung, in der sich das Zitat findet: <bibl><rs ref="#pmb32468" type="work">Das Glück. (La veine. Komödie in vier Aufzügen von <rs ref="#pmb2408" type="person">Alfred Capus</rs>. Deutsch von <rs ref="#pmb13163" type="person">Theodor Wolff</rs>. Zum erstenmal aufgeführt im <rs ref="#pmb20" type="place">Deutschen Volkstheater</rs> am <date>28. September 1901</date>)</rs>. In: <rs ref="#pmb41321" type="work">Neues Wiener Tagblatt</rs>, Jg. 35, Nr. 267, <date>29. 9. 1901</date>, S. 2–4</bibl>.</note>, in der <rs ref="#pmb11988" type="person">Kr.</rs> von einer angeblich extra von dir <add place="inline">(?)</add> gegen ihn hineingedichteten Stelle erzählte, hat er ihm (<hi rend="latintype"><rs ref="#pmb11581" type="person">Harden</rs></hi> dem <rs ref="#pmb11988" type="person">Kraus</rs>) eine Karte ge<c rendition="#langesS">s</c>chrieben, er mü<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e gelegentlich diesen Irrthum richtig<c rendition="#langesS">s</c>tellen, da die betreffende Stelle<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich <anchor xml:id="K_L01195_3" type="commentary"/>im Original<note xml:id="K_L01195_3h" type="commentary">»<quote>Car pourquoi se vendrait-il? Ça ne lui rapporterait jamais autant que d’être incorruptible.</quote>« <bibl><rs ref="#pmb2408" type="person">Alfred Capus</rs>: <rs ref="#pmb29967" type="work">La veine. Comédie en quatre actes</rs>. Paris: <publisher>Éditions de la Revue Blanche</publisher><space unit="chars" quantity="1"/><supplied>1901?</supplied>, S. 149 (III, 9)</bibl>.</note> fände; – <rs ref="#pmb11988" type="person">Kraus</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>oll es auch zuge<c rendition="#langesS">s</c>agt <del rend="erased"><unclear>haben</unclear>, aber</del> bisher nicht <pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>gethan haben. – </p><p>Heute war Generalprobe der <rs ref="#pmb29863" type="work">Lebendigen Stunden</rs>. Sie fiel gün<c rendition="#langesS">s</c>tig – für abergläubi<c rendition="#langesS">s</c>ch<damage agent="hole"><supplied>e</supplied></damage> Gemüther zu gün<c rendition="#langesS">s</c>tig <subst><del rend="overwritten"><unclear>ohne</unclear></del><add place="inline">aus</add></subst>. –</p><p>Ganz entzückt bin ich von <rs ref="#pmb10844" type="person"><hi rend="latintype">Bassermann</hi></rs>. <anchor xml:id="K_L01195_4" type="commentary"/>Neulich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ah ich ihn als <hi rend="latintype"><rs type="work" ref="#pmb29971" subtype="implied">H<add place="inline">j</add>a<subst><del rend="overwritten"><unclear>jm</unclear></del><add place="inline">lm</add></subst>ar</rs></hi>, <rs ref="#pmb2193" type="person"><hi rend="latintype">Sauer</hi></rs> als <rs type="work" ref="#pmb29971" subtype="implied"><hi rend="latintype">Gregers Werle</hi></rs><note xml:id="K_L01195_4h" type="commentary">Am <date>30. 12. 1901</date> spielte er in <rs ref="#pmb11798" type="person">Ibsens</rs><space unit="chars" quantity="1"/><rs ref="#pmb29971" type="work">Wildente</rs>.</note>; ich habe<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elten<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tarke<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chau<c rendition="#langesS">s</c>pieleri<c rendition="#langesS">s</c>che Eindrücke erlebt. Die <rs ref="#pmb12977" type="person">Trie<c rendition="#langesS">s</c>ch</rs><space unit="chars" quantity="1"/><pb facs="https://www.theatermuseum.at/de/object/2e28e76ec7/"/>kann überra<c rendition="#langesS">s</c>chend viel. –</p><p>– Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eh dich hoffentlich bald wieder. Herzlichen Gru<c rendition="#langesS">s</c>s. Dein </p><closer><signed>Arth Sch</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb10986">
+                  <tei:persName>
+                     <tei:surname>Brahm</tei:surname>
+                     <tei:forename>Otto</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1856-02-05">5. 2. 1856</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1912-11-28">28. 11. 1912</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514245/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13913</idno>
+               </person><person xml:id="pmb11581">
+                  <tei:persName>
+                     <tei:surname>Harden</tei:surname>
+                     <tei:forename>Maximilian</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-10-20">20. 10. 1861</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-10-30">30. 10. 1927</tei:date>
+                     <tei:placeName ref="#pmb11583">Montana-Vermala</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="237">Publizist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118545892/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15919</idno>
+               </person><person xml:id="pmb11988">
+                  <tei:persName>
+                     <tei:surname>Kraus</tei:surname>
+                     <tei:forename>Karl</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-04-28">28. 4. 1874</tei:date>
+                     <tei:placeName ref="#pmb41660">Jičín</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1936-06-12">12. 6. 1936</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="237">Publizist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118566288/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+               </person><person xml:id="pmb2408">
+                  <tei:persName>
+                     <tei:surname>Capus</tei:surname>
+                     <tei:forename>Alfred</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1858-11-25">25. 11. 1858</tei:date>
+                     <tei:placeName ref="#pmb49868">Aix-en-Provence</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1922-11-01">1. 11. 1922</tei:date>
+                     <tei:placeName ref="#pmb36749">Neuilly-sur-Seine</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118668293/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14132</idno>
+               </person><person xml:id="pmb13163">
+                  <tei:persName>
+                     <tei:surname>Wolff</tei:surname>
+                     <tei:forename>Theodor</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1868-08-02">2. 8. 1868</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1943-09-23">23. 9. 1943</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118634844/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21450</idno>
+               </person><person xml:id="pmb10844">
+                  <tei:persName>
+                     <tei:surname>Bassermann</tei:surname>
+                     <tei:forename>Albert</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1867-09-07">7. 9. 1867</tei:date>
+                     <tei:placeName ref="#pmb881">Mannheim</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1952-05-15">15. 5. 1952</tei:date>
+                     <tei:placeName ref="#pmb10846">[Flugreise New York–Zürich]</tei:placeName>
+                  </tei:death>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118653407/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13457</idno>
+               </person><person xml:id="pmb2193">
+                  <tei:persName>
+                     <tei:surname>Sauer</tei:surname>
+                     <tei:forename>Oskar</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1856-12-05">5. 12. 1856</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1918-04-03">3. 4. 1918</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118794663/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19590</idno>
+               </person><person xml:id="pmb11798">
+                  <tei:persName>
+                     <tei:surname>Ibsen</tei:surname>
+                     <tei:forename>Henrik</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1828-03-20">20. 3. 1828</tei:date>
+                     <tei:placeName ref="#pmb11799">Skien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1906-05-23">23. 5. 1906</tei:date>
+                     <tei:placeName ref="#pmb36296">Oslo</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118555286/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16432</idno>
+               </person><person xml:id="pmb12977">
+                  <tei:persName>
+                     <tei:surname>Triesch</tei:surname>
+                     <tei:forename>Irene</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1877-04-13">13. 4. 1877</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1964-11-24">24. 11. 1964</tei:date>
+                     <tei:placeName ref="#pmb854">Basel</tei:placeName>
+                  </tei:death>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117418366/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20811</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29881">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Krampus</tei:title>
+                  <tei:date from="1901-01-01" from-custom="1901">1901</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb41244">
+                  <tei:author ref="pmb11988" role="editor">
+                     <tei:surname>Kraus</tei:surname>
+                     <tei:forename>Karl</tei:forename>
+                     <tei:term>[Herausgeber*in]</tei:term>
+                  </tei:author>
+                  <tei:author ref="pmb10364" role="contributor">
+                     <tei:surname>Viertel</tei:surname>
+                     <tei:forename>Berthold</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb11230" role="contributor">
+                     <tei:surname>Ehrenstein</tei:surname>
+                     <tei:forename>Albert</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb12438" role="contributor">
+                     <tei:surname>Adam</tei:surname>
+                     <tei:forename>Robert</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb10574" role="contributor">
+                     <tei:surname>Wittels</tei:surname>
+                     <tei:forename>Fritz</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Fackel</tei:title>
+                  <tei:date from="1899-01-01" from-custom="1899" to="1936-01-01" to-custom="1936">1899–1936</tei:date>
+                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
+                  <tei:note>5704</tei:note>
+                  <tei:note>5705</tei:note>
+               </bibl><bibl xml:id="pmb29969">
+                  <tei:author ref="pmb11988" role="author">
+                     <tei:surname>Kraus</tei:surname>
+                     <tei:forename>Karl</tei:forename>
+                  </tei:author>
+                  <tei:title>[Wie mich Herr Bahr beneidet]</tei:title>
+                  <tei:date when="1901-10-01" when-custom="01.10.1901">1. 10. 1901</tei:date>
+                  <tei:gloss type="w1392">Glosse</tei:gloss>
+                  <tei:note>2857</tei:note>
+                  <tei:note>12063</tei:note>
+               </bibl><bibl xml:id="pmb29967">
+                  <tei:author ref="pmb2408" role="author">
+                     <tei:surname>Capus</tei:surname>
+                     <tei:forename>Alfred</tei:forename>
+                  </tei:author>
+                  <tei:title>Das Glück</tei:title>
+                  <tei:date from="1901-01-01" from-custom="1901">1901</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb32468">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Das Glück. (La veine. Komödie in vier Aufzügen von Alfred Capus. Deutsch von Theodor Wolff. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 28. September 1901)</tei:title>
+                  <tei:date from="1901-09-29" from-custom="29.09.1901">29. 9. 1901</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>3162</tei:note>
+               </bibl><bibl xml:id="pmb41321">
+                  <tei:title>Neues Wiener Tagblatt</tei:title>
+                  <tei:date from="1867-01-01" from-custom="1867" to="1945-01-01" to-custom="1945">1867–1945</tei:date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <tei:note>5749</tei:note>
+                  <tei:note>5750</tei:note>
+                  <tei:note>12929</tei:note>
+               </bibl><bibl xml:id="pmb29863">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Lebendige Stunden. Vier Einakter</tei:title>
+                  <tei:date from="1901-12-23" from-custom="1901-12-23">23. 12. 1901</tei:date>
+                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
+                  <tei:note>6097</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q30337144/</idno>
+               </bibl><bibl xml:id="pmb29971">
+                  <tei:author ref="pmb11798" role="author">
+                     <tei:surname>Ibsen</tei:surname>
+                     <tei:forename>Henrik</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Wildente</tei:title>
+                  <tei:date from="1884-01-01" from-custom="1884">1884</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb3">
+                  <tei:placeName>Deutsches Theater Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i4">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.524444 13.382222</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q703955/</idno>
+               </place><place xml:id="pmb506">
+                  <tei:placeName>Hamburg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">53.57532 10.01534</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2911298/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1055/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4023118-5/</idno>
+               </place><place xml:id="pmb20">
+                  <tei:placeName>Volkstheater</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i4">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.205142 16.3566</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb166">
+                  <tei:placeName>Frankreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">46.0 2.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3017382/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q142/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

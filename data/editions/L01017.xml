@@ -1,258 +1,256 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01017"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 2. 3. 1900</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01017</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01017" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 2. 3. 1900</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01017</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="3" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="10" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="deutsche-kurrent"/>
-                        </handDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASB1">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefe 1875–1912</title>
-                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1981">1981</date>
-                     </imprint>
-                     <biblScope unit="pp">380–382</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct corresp="ASBH">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <author ref="#10863">Beer-Hofmann, Richard</author>
-                     <title level="m">Briefwechsel 1891–1931</title>
-                     <editor>Hg. Konstanze Fliedl</editor>
-                     <imprint>
-                        <pubPlace>Wien, Zürich</pubPlace>
-                        <publisher>Europaverlag</publisher>
-                        <date when="1992">1992</date>
-                     </imprint>
-                     <biblScope unit="pp">144–145</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#483">Reichenau an der Rax</placeName>
-               <date when="1900-03-02" n="01">2. 3. 1900</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <placeName ref="#263">Florenz</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01016">Beer-Hofmann an Schnitzler, 22. 2. 1900</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01018">Beer-Hofmann an Schnitzler, 5. 3. 1900</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01016">Beer-Hofmann an Schnitzler, 22. 2. 1900</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01018">Beer-Hofmann an Schnitzler, 5. 3. 1900</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6F1A-A</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc n="3" type="_blaetter"/><desc type="brief"/><desc n="10" type="_seiten"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASB1"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefe 1875–1912</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1981">1981</date></imprint><biblScope unit="pp">380–382</biblScope></monogr></biblStruct><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">144–145</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb483">Reichenau an der Rax</placeName><date when="1900-03-02" n="01">2. 3. 1900</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb263">Florenz</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01016">Beer-Hofmann an Schnitzler, 22. 2. 1900</ref><ref subtype="next_letter" type="withinCollection" target="L01018">Beer-Hofmann an Schnitzler, 5. 3. 1900</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01016">Beer-Hofmann an Schnitzler, 22. 2. 1900</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01018">Beer-Hofmann an Schnitzler, 5. 3. 1900</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change>
-         <change who="MAM" when="2020-05-24">Index check</change>
-         <change who="GHS" when="2020-06-23">Durchsicht</change>
-         <change who="MAM" when="2020-10-02">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1900_AS_RBH_1_00054"/>
-      <graphic url="1900_AS_RBH_1_00055"/>
-      <graphic url="1900_AS_RBH_1_00056"/>
-      <graphic url="1900_AS_RBH_1_00057"/>
-      <graphic url="1900_AS_RBH_1_00058"/>
-      <graphic url="1900_AS_RBH_1_00059"/>
-      <graphic url="1900_AS_RBH_1_00060"/>
-      <graphic url="1900_AS_RBH_1_00061"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="1900_AS_RBH_1_00054"/>
-                  <rs ref="#714" type="place">
-                     <hi rend="latintype">Edlacher Hof</hi>
-                  </rs>,</dateline>
-               <dateline rend="right">
-                  <date when="1900-03-02">2. März 1900</date>.</dateline>
-            </opener>
-            <p>
-               <salute>mein lieber Richard, </salute>vorgeſtern Abend bin ich hier angeko<c rendition="#gemination-m"/>en, ich wollte dem Frühling entgegenfahren – und ſeit
-               geſtern ſchneit und friert es. I<c rendition="#gemination-m"/>erhin iſt es in den
-               Mittagſtunden ſchön. Heut ſowohl als geſtern bin ich nahezu 6 Stunden ſpazieren
-               gegangen. Weniger lang <pb facs="1900_AS_RBH_1_00055"/>ſchrieb ich an der <rs type="work" ref="#30486" subtype="implied">Novelle</rs>, für die ich keinen Namen
-               habe.</p>
-            <p>
-               <rs type="work" ref="#31535" subtype="implied">Ihre</rs> hab’ ich in 2 Etappen
-               geleſen, die erſten 2 Capitel in der Eiſenbahn, die letzten 2 geſtern Abend auf
-               meinem Zimmer (3. außer 4. im Bett) Also glauben Sie mir: es iſt ein
-               wundervolles <rs type="work" ref="#31535" subtype="implied">Buch</rs>. Man hat
-               allerdings das Gefühl, als wenn die aneinandergereihten Edelſteine nicht auf einer
-               Schnur, <pb facs="1900_AS_RBH_1_00055"/>ſondern auf einem Zwirnsfaden – oder gar nur
-               in der Luft aneinandergereiht wären – aber man muſs nicht alles als Kette um den Hals
-               tragen können. Im vierten <rs type="work" ref="#31535" subtype="implied">Kapitel</rs>
-               <space unit="chars" quantity="1"/>ſteckt übrigens irgend wo ein frecher Schwindel –
-               das dürfte Ihnen nicht unbekannt ſein. Sie ſetzen ſich ſozuſagen plötzlich an eine
-               andre Orgel, die auch herrlich klingt – <pb facs="1900_AS_RBH_1_00056"/>aber das
-               beweiſt nichts. – Nicht überall ſcheint es mir geglückt, daſs gegenwärtiges und
-               erinnertes ſich gegeneinander abhebt, wie es ſoll; daſs man das Bedürfnis hat, das
-                  <rs type="work" ref="#31535" subtype="implied">Buch</rs> wieder zu leſen <del rend="strikethrough">dagegen</del> iſt ja ſehr ſchön; aber dſs man es entschieden
-               2–3 Mal lesen <hi rend="underline" n="1">muſs</hi>, iſt vielleicht ein Fehler. Ihre
-               Bilderpracht ſchreit nach Jamben <pb facs="1900_AS_RBH_1_00057"/>und nach Drama. Ja
-               es verlangt mich geradezu, einige von Ihren Vergleichen in Ihren Stücken
-               wiederzufinden und ſie auf der Bühne ſprechen zu hören. – Wunderbar iſt, wie
-               ſcheinbar belangloſe Details zu ihrer Zeit ausgenützt und nachträglich voll Belang
-               erſcheinen. Das gibt den gewiſſen Schauer. Überhaupt: meiner <pb facs="1900_AS_RBH_1_00054"/>Empfindg nach ſteckt viel mehr Dichteriſches in dem
-                  <rs type="work" ref="#31535" subtype="implied">Buch</rs> als, wie gewiſs vielfach
-               behauptet werden wird, Verſtand. Sie wiſſen wie ich das meine. So geſcheidt iſt bald
-               einer – aber die Dinge <hi rend="underline" n="1">ſo</hi> sagen – ! Um <rs ref="#11461" type="person">Goethe</rs> zu variiren: <rs type="work" ref="#31131" subtype="implied">Alles gescheidte iſt ſchon einmal geſagt worden: man muſs nur
-                  verſuchen, es <anchor xml:id="K_L01017_1" type="commentary"/>– ganz anders zu
-                     sagen.<note xml:id="K_L01017_1h" type="commentary">Bei <rs ref="#11461" type="person">Goethe</rs> endet es: »<quote>es noch einmal zu
-                        denken.</quote>«</note>
-               </rs>
-               <space unit="chars" quantity="1"/>
-               <pb facs="1900_AS_RBH_1_00058"/>Und »<anchor xml:id="K_L01017_2" type="commentary"/>
-               <hi rend="latintype">ma foi</hi>
-               <note xml:id="K_L01017_2h" type="commentary">französisch: meiner Treu</note>« das haben Sie
-               gethan. –</p>
-            <p>Während ich dieſes ſchreibe ſitze ich allein im Speiſeſaal, <time>abends
-               9 Uhr</time>. Außer mir lebt hier nemlich nur ein (noch) älterer Herr. Montag fahr
-               ich wohl wieder nach <rs ref="#50" type="place">Wien</rs>. Ich ſehn mich nach
-               niemandem – niemand ſehnt ſich nach mir. Das iſt nicht ſenti<pb facs="1900_AS_RBH_1_00059"/>mental – ſondern das iſt eben ſo. Heut vor einem Jahr
-               war alles noch ſo anders – und doch <anchor xml:id="K_L01017_3" type="commentary"/>ſchwebte es ſchon über uns<note xml:id="K_L01017_3h" type="commentary">der Tod <rs type="person" ref="#2378">Marie Reinhard</rs>s</note>
-               <c rendition="#dots" n="2"/> Ja ja, es ſchwebt immer<c rendition="#dots" n="3"/> »<rs type="work" ref="#29857" subtype="implied">Zeit iſt nur ein Wort —</rs>« Könnte
-               von Ihnen, von <rs ref="#11740" type="person">Hugo</rs> und von mir <add place="above">(und etlichen andern)</add> ſein. Zufällig ſagt es <rs type="work" ref="#29857" subtype="implied">
-                  <hi rend="latintype">Beatrice</hi>
-               </rs>. –</p>
-            <p>Wie lang denken Sie noch auf Reiſen zu ſein? Ich ſchicke <pb facs="1900_AS_RBH_1_00060"/>dieſen Brief nach <rs ref="#263" type="place">Florenz</rs>, wo ich Sie, glücklicher und wenn Sie wünſchen weniger witzig als in
-                  <rs ref="#45279" type="place">
-                  <hi rend="latintype">Sanremo</hi>
-               </rs> vermuthe. – <rs ref="#2668" type="person">Mirjam</rs> hoff ich ſo luſtig als
-               ſie war und Ihre <rs type="person" ref="#10860" subtype="implied">Frau</rs> ſo
-               erholt, als man es von <rs ref="#40306" type="place">italieniſcher</rs> Luft erwarten
-               sollte. –</p>
-            <p>Von <rs ref="#11740" type="person">Hugo</rs> weiſs ich noch immer nichts, und <rs ref="#12740" type="person">Gustav</rs>
-               <space unit="chars" quantity="1"/>
-               <pb facs="1900_AS_RBH_1_00061"/>hab ich von Ihnen gegrüßt. Thun Sie das gleiche von
-               mir an <rs ref="#21236" type="person">
-                  <hi rend="latintype">Mayer</hi>
-               </rs>, we<c rendition="#gemination-n"/> er ſchon mit Ihnen zuſa<c rendition="#gemination-m"/>engeſtoßen iſt (– was hoffentlich nicht weh gethan
-               hat.)</p>
-            <p>Leben Sie wohl!</p>
-            <closer>Ihr <signed>Arthur</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="MAM" when="2020-05-24">Index check</change><change who="GHS" when="2020-06-23">Durchsicht</change><change who="MAM" when="2020-10-02">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="1900_AS_RBH_1_00054"/><graphic url="1900_AS_RBH_1_00055"/><graphic url="1900_AS_RBH_1_00056"/><graphic url="1900_AS_RBH_1_00057"/><graphic url="1900_AS_RBH_1_00058"/><graphic url="1900_AS_RBH_1_00059"/><graphic url="1900_AS_RBH_1_00060"/><graphic url="1900_AS_RBH_1_00061"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="1900_AS_RBH_1_00054"/><rs ref="#pmb714" type="place"><hi rend="latintype">Edlacher Hof</hi></rs>,</dateline><dateline rend="right"><date when="1900-03-02">2. März 1900</date>.</dateline></opener><p><salute>mein lieber Richard, </salute>vorge<c rendition="#langesS">s</c>tern Abend bin ich hier angeko<c rendition="#gemination-m"/>en, ich wollte dem Frühling entgegenfahren – und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eit ge<c rendition="#langesS">s</c>tern<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chneit und friert es. I<c rendition="#gemination-m"/>erhin i<c rendition="#langesS">s</c>t es in den Mittag<c rendition="#langesS">s</c>tunden<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön. Heut<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>owohl als ge<c rendition="#langesS">s</c>tern bin ich nahezu 6 Stunden<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>pazieren gegangen. Weniger lang <pb facs="1900_AS_RBH_1_00055"/><c rendition="#langesS">s</c>chrieb ich an der <rs type="work" ref="#pmb30486" subtype="implied">Novelle</rs>, für die ich keinen Namen habe.</p><p><rs type="work" ref="#pmb31535" subtype="implied">Ihre</rs> hab’ ich in 2 Etappen gele<c rendition="#langesS">s</c>en, die er<c rendition="#langesS">s</c>ten 2 Capitel in der Ei<c rendition="#langesS">s</c>enbahn, die letzten 2 ge<c rendition="#langesS">s</c>tern Abend auf meinem Zimmer (3. außer 4. im Bett) Also glauben Sie mir: es i<c rendition="#langesS">s</c>t ein wundervolles <rs type="work" ref="#pmb31535" subtype="implied">Buch</rs>. Man hat allerdings das Gefühl, als wenn die aneinandergereihten Edel<c rendition="#langesS">s</c>teine nicht auf einer Schnur, <pb facs="1900_AS_RBH_1_00055"/><c rendition="#langesS">s</c>ondern auf einem Zwirnsfaden – oder gar nur in der Luft aneinandergereiht wären – aber man mu<c rendition="#langesS">s</c>s nicht alles als Kette um den Hals tragen können. Im vierten <rs type="work" ref="#pmb31535" subtype="implied">Kapitel</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>teckt übrigens irgend wo ein frecher Schwindel – das dürfte Ihnen nicht unbekannt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein. Sie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>etzen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ozu<c rendition="#langesS">s</c>agen plötzlich an eine andre Orgel, die auch herrlich klingt – <pb facs="1900_AS_RBH_1_00056"/>aber das bewei<c rendition="#langesS">s</c>t nichts. – Nicht überall<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>cheint es mir geglückt, da<c rendition="#langesS">s</c>s gegenwärtiges und erinnertes<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich gegeneinander abhebt, wie es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll; da<c rendition="#langesS">s</c>s man das Bedürfnis hat, das <rs type="work" ref="#pmb31535" subtype="implied">Buch</rs> wieder zu le<c rendition="#langesS">s</c>en <del rend="strikethrough">dagegen</del> i<c rendition="#langesS">s</c>t ja<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön; aber d<c rendition="#langesS">s</c>s man es entschieden 2–3 Mal lesen <hi rend="underline" n="1">mu<c rendition="#langesS">s</c>s</hi>, i<c rendition="#langesS">s</c>t vielleicht ein Fehler. Ihre Bilderpracht<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreit nach Jamben <pb facs="1900_AS_RBH_1_00057"/>und nach Drama. Ja es verlangt mich geradezu, einige von Ihren Vergleichen in Ihren Stücken wiederzufinden und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie auf der Bühne<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>prechen zu hören. – Wunderbar i<c rendition="#langesS">s</c>t, wie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>cheinbar belanglo<c rendition="#langesS">s</c>e Details zu ihrer Zeit ausgenützt und nachträglich voll Belang er<c rendition="#langesS">s</c>cheinen. Das gibt den gewi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Schauer. Überhaupt: meiner <pb facs="1900_AS_RBH_1_00054"/>Empfindg nach<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>teckt viel mehr Dichteri<c rendition="#langesS">s</c>ches in dem <rs type="work" ref="#pmb31535" subtype="implied">Buch</rs> als, wie gewi<c rendition="#langesS">s</c>s vielfach behauptet werden wird, Ver<c rendition="#langesS">s</c>tand. Sie wi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en wie ich das meine. So ge<c rendition="#langesS">s</c>cheidt i<c rendition="#langesS">s</c>t bald einer – aber die Dinge <hi rend="underline" n="1"><c rendition="#langesS">s</c>o</hi> sagen – ! Um <rs ref="#pmb11461" type="person">Goethe</rs> zu variiren: <rs type="work" ref="#pmb31131" subtype="implied">Alles gescheidte i<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon einmal ge<c rendition="#langesS">s</c>agt worden: man mu<c rendition="#langesS">s</c>s nur ver<c rendition="#langesS">s</c>uchen, es <anchor xml:id="K_L01017_1" type="commentary"/>– ganz anders zu sagen.<note xml:id="K_L01017_1h" type="commentary">Bei <rs ref="#pmb11461" type="person">Goethe</rs> endet es: »<quote>es noch einmal zu denken.</quote>«</note></rs><space unit="chars" quantity="1"/><pb facs="1900_AS_RBH_1_00058"/>Und »<anchor xml:id="K_L01017_2" type="commentary"/><hi rend="latintype">ma foi</hi><note xml:id="K_L01017_2h" type="commentary">französisch: meiner Treu</note>« das haben Sie gethan. –</p><p>Während ich die<c rendition="#langesS">s</c>es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreibe<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>itze ich allein im Spei<c rendition="#langesS">s</c>e<c rendition="#langesS">s</c>aal, <time>abends 9 Uhr</time>. Außer mir lebt hier nemlich nur ein (noch) älterer Herr. Montag fahr ich wohl wieder nach <rs ref="#pmb50" type="place">Wien</rs>. Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehn mich nach niemandem – niemand<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehnt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich nach mir. Das i<c rendition="#langesS">s</c>t nicht<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>enti<pb facs="1900_AS_RBH_1_00059"/>mental –<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ondern das i<c rendition="#langesS">s</c>t eben<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o. Heut vor einem Jahr war alles noch<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o anders – und doch <anchor xml:id="K_L01017_3" type="commentary"/><c rendition="#langesS">s</c>chwebte es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon über uns<note xml:id="K_L01017_3h" type="commentary">der Tod <rs type="person" ref="#pmb2378">Marie Reinhard</rs>s</note><c rendition="#dots" n="2"/> Ja ja, es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chwebt immer<c rendition="#dots" n="3"/> »<rs type="work" ref="#pmb29857" subtype="implied">Zeit i<c rendition="#langesS">s</c>t nur ein Wort —</rs>« Könnte von Ihnen, von <rs ref="#pmb11740" type="person">Hugo</rs> und von mir <add place="above">(und etlichen andern)</add><tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein. Zufällig<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agt es <rs type="work" ref="#pmb29857" subtype="implied"><hi rend="latintype">Beatrice</hi></rs>. –</p><p>Wie lang denken Sie noch auf Rei<c rendition="#langesS">s</c>en zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein? Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicke <pb facs="1900_AS_RBH_1_00060"/>die<c rendition="#langesS">s</c>en Brief nach <rs ref="#pmb263" type="place">Florenz</rs>, wo ich Sie, glücklicher und wenn Sie wün<c rendition="#langesS">s</c>chen weniger witzig als in <rs ref="#pmb45279" type="place"><hi rend="latintype">Sanremo</hi></rs> vermuthe. – <rs ref="#pmb2668" type="person">Mirjam</rs> hoff ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o lu<c rendition="#langesS">s</c>tig als<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie war und Ihre <rs type="person" ref="#pmb10860" subtype="implied">Frau</rs><tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o erholt, als man es von <rs ref="#pmb40306" type="place">italieni<c rendition="#langesS">s</c>cher</rs> Luft erwarten sollte. –</p><p>Von <rs ref="#pmb11740" type="person">Hugo</rs> wei<c rendition="#langesS">s</c>s ich noch immer nichts, und <rs ref="#pmb12740" type="person">Gustav</rs><space unit="chars" quantity="1"/><pb facs="1900_AS_RBH_1_00061"/>hab ich von Ihnen gegrüßt. Thun Sie das gleiche von mir an <rs ref="#pmb21236" type="person"><hi rend="latintype">Mayer</hi></rs>, we<c rendition="#gemination-n"/> er<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon mit Ihnen zu<c rendition="#langesS">s</c>a<c rendition="#gemination-m"/>enge<c rendition="#langesS">s</c>toßen i<c rendition="#langesS">s</c>t (– was hoffentlich nicht weh gethan hat.)</p><p>Leben Sie wohl!</p><closer>Ihr <signed>Arthur</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb11461">
+                  <tei:persName>
+                     <tei:surname>Goethe</tei:surname>
+                     <tei:forename>Johann Wolfgang von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1749-08-28">28. 8. 1749</tei:date>
+                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1832-03-22">22. 3. 1832</tei:date>
+                     <tei:placeName ref="#pmb197">Weimar</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118540238/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15499</idno>
+               </person><person xml:id="pmb2378">
+                  <tei:persName>
+                     <tei:surname>Reinhard</tei:surname>
+                     <tei:forename>Marie</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1871-03-13">13. 3. 1871</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1899-03-18">18. 3. 1899</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="148">Gesangspädagoge/in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/123368790/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19150</idno>
+               </person><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2668">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Mirjam</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1897-09-04">4. 9. 1897</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1984-12-24">24. 12. 1984</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/116787902/</idno>
+               </person><person xml:id="pmb10860">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Paula</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1879-02-25">25. 2. 1879</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-10-30">30. 10. 1939</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/119044994/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13550</idno>
+               </person><person xml:id="pmb12740">
+                  <tei:persName>
+                     <tei:surname>Schwarzkopf</tei:surname>
+                     <tei:forename>Gustav</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1853-11-07">7. 11. 1853</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-11-13">13. 11. 1939</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1014997828/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19986</idno>
+               </person><person xml:id="pmb21236">
+                  <tei:persName>
+                     <tei:surname>Mayer</tei:surname>
+                     <tei:forename>Oskar</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1876-01-01">1876</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1915-05-15">15. 5. 1915</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="101">Beamter/in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18021</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30486">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Frau Bertha Garlan. Roman</tei:title>
+                  <tei:date from="1901-01-15" from-custom="15.1.1901" to="1901-03-15" to-custom="15.3.1901">15. 1. 1901–15. 3. 1901</tei:date>
+                  <tei:gloss type="w1060">Roman</tei:gloss>
+                  <tei:note>2941</tei:note>
+                  <tei:note>6489</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1451457/</idno>
+               </bibl><bibl xml:id="pmb31535">
+                  <tei:author ref="pmb10863" role="author">
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Tod Georgs</tei:title>
+                  <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+                  <tei:note>2793</tei:note>
+                  <tei:note>6192</tei:note>
+               </bibl><bibl xml:id="pmb31131">
+                  <tei:author ref="pmb11461" role="author">
+                     <tei:surname>Goethe</tei:surname>
+                     <tei:forename>Johann Wolfgang von</tei:forename>
+                  </tei:author>
+                  <tei:title>Wilhelm Meisters Wanderjahre</tei:title>
+                  <tei:date from="1821-01-01" from-custom="1821">1821</tei:date>
+                  <tei:gloss type="w1060">Roman</tei:gloss>
+               </bibl><bibl xml:id="pmb29857">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Schleier der Beatrice. Schauspiel in fünf Akten</tei:title>
+                  <tei:date when="1900-12-01" when-custom="1900-12-01">1. 12. 1900</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>6201</tei:note>
+                  <tei:note>8990</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb483">
+                  <tei:placeName>Reichenau an der Rax</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.7 15.83333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2767775/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q665243/</idno>
+               </place><place xml:id="pmb263">
+                  <tei:placeName>Florenz</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">43.77925 11.24626</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3176959/</idno>
+               </place><place xml:id="pmb714">
+                  <tei:placeName>Hotel Edlacherhof</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.605239 15.707639</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb45279">
+                  <tei:placeName>Sanremo</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1410">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">43.81725 7.7772</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3167777/</idno>
+               </place><place xml:id="pmb40306">
+                  <tei:placeName>Italien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">42.83333 12.83333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3175395/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

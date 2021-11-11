@@ -1,306 +1,400 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02353"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Georg Brandes, 16. 8. 1920</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02353</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02353" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Georg Brandes, 16. 8. 1920</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02353</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>Dk</country>
-                        <settlement>Kopenhagen</settlement>
-                        <repository>Det Kongelige Bibliotek</repository>
-                        <idno>Georg Brandes Arkiv, box 125</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="4" type="_blaetter"/>
-                           <desc n="8" type="_seiten">Paginierung 1–8</desc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                            Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7451-4</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>Dk</country><settlement>Kopenhagen</settlement><repository>Det Kongelige Bibliotek</repository><idno>Georg Brandes Arkiv, box 125</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="4" type="_blaetter"/><desc n="8" type="_seiten">Paginierung 1–8</desc></objectDesc><handDesc><handNote medium="bleistift" style="lateinische-kurrent"/></handDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
                                                 »<quote>42.</quote>«, die neuen Blätter
-                                            mit Datum versehen: »<quote>
-                                    <date>16/8 20</date>
-                                            </quote>« und beschriftet mit
-                                 »<quote>Schnitzler</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASGB">
-                  <monogr>
-                     <author ref="#10992">Brandes, Georg</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Ein Briefwechsel</title>
-                     <editor>Hg. Kurt Bergel</editor>
-                     <imprint>
-                        <pubPlace>Bern</pubPlace>
-                        <publisher>Francke</publisher>
-                        <date when="1956">1956</date>
-                     </imprint>
-                     <biblScope unit="pp">127–130</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct corresp="ASB2">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefe 1913–1931</title>
-                     <editor>Braunwarth, Peter Michael</editor>
-                     <editor>Miklin, Richard</editor>
-                     <editor>Pertlik, Susanne</editor>
-                     <editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1984">1984</date>
-                     </imprint>
-                     <biblScope unit="pp">212–215</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1920-08-16" n="01">16. 8. 1920</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10992">Brandes, Georg</persName>
-               <placeName ref="#36300">Kopenhagen</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10992">Brandes, Georg</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02352">Hofmannsthal an Schnitzler, 30. 7. 1920</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02354">Brandes an Schnitzler, 17. 8. 1920</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02342">Brandes an Schnitzler, 13. 6. 1920</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02354">Brandes an Schnitzler, 17. 8. 1920</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                                            mit Datum versehen: »<quote><date>16/8 20</date></quote>« und beschriftet mit
+                                 »<quote>Schnitzler</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASGB"><monogr><author ref="#pmb10992">Brandes, Georg</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Ein Briefwechsel</title><editor>Hg. Kurt Bergel</editor><imprint><pubPlace>Bern</pubPlace><publisher>Francke</publisher><date when="1956">1956</date></imprint><biblScope unit="pp">127–130</biblScope></monogr></biblStruct><biblStruct corresp="ASB2"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefe 1913–1931</title><editor>Braunwarth, Peter Michael</editor><editor>Miklin, Richard</editor><editor>Pertlik, Susanne</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1984">1984</date></imprint><biblScope unit="pp">212–215</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1920-08-16" n="01">16. 8. 1920</date></correspAction><correspAction type="received"><persName ref="#pmb10992">Brandes, Georg</persName><placeName ref="#pmb36300">Kopenhagen</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10992">Brandes, Georg</ref><ref subtype="previous_letter" type="withinCollection" target="L02352">Hofmannsthal an Schnitzler, 30. 7. 1920</ref><ref subtype="next_letter" type="withinCollection" target="L02354">Brandes an Schnitzler, 17. 8. 1920</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02342">Brandes an Schnitzler, 13. 6. 1920</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02354">Brandes an Schnitzler, 17. 8. 1920</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2018-07-01">Angelegt</change>
-         <change who="MAM" when="2018-08-02">Durchsicht</change>
-         <change who="MAM" when="2018-10-01">Index check</change>
-         <change who="MAM" when="2020-04-21">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <seg rend="left">
-                     <pb facs="Georg_Brandes_arkiv_184"/>
-                     <rs ref="#150" type="place">XVIII Sternwartestr 71</rs>
-                  </seg>
-                  <seg rend="right">
-                     <rs ref="#50" type="place">Wien</rs>, <date>16. August 1920</date>
-                  </seg>
-               </p>
-            </opener>
-            <p>
-               <salute>lieber und verehrter Freund, </salute>mit Freude lese ich aus Ihrem
-                    Brief, dass Sie arbeiten und sich wohl befinden. Wann aber werden wir, die nicht
-                    daenisch verstehen, Ihre neuen Bücher kennen lernen? <rs type="work" ref="#32093" subtype="implied">
-                  <rs ref="#11461" type="person">Goethe</rs>
-               </rs>, <rs type="work" ref="#33237" subtype="implied">
-                  <rs ref="#3124" type="person">Voltaire</rs>
-               </rs>, <rs type="work" ref="#33376" subtype="implied">
-                  <rs ref="#14796" type="person">Julius Caesar</rs>
-               </rs> – keines von den dreien ist meines Wissens in deutscher Sprache erschienen
-                    oder bisher nur angekündigt.</p>
-            <p>Verzeihen Sie mir daß ich mit Bleistift schreibe, – so wird es leserlicher als
-                    mit der Feder (auch die sind während des Krieges hundertmal schlechter
-                    geworden); – und seit einer ziemlich erheblichen Oberarmverletzung die ich im
-                    Frühjahr durch einen Sturz über eine Baumwurzel erlitt und die mir durch ein
-                    paar Wochen das Schreiben ganz unmöglich machte, scheint mir, dſs die Stahlfeder
-                    meiner Schrift noch weniger entgegenkommt als früher. Die Sache ist übrigens
-                    schon ganz gut. Auch sonst darf ich über mein Befinden (abgesehen von dem
-                    vertrackten Ohr) nicht klagen. Wir alle bringen uns, materiell, körperlich,
-                    seelisch, über diese Zeit des Grauens und der Schurkerei, ganz leidlich fort.
-                    Alle <c rendition="#dots" n="2"/> d. h. die <pb facs="Georg_Brandes_arkiv_185"/>Meinigen, nahe Verwandte und Freunde. Die Zustände in <rs ref="#41240" type="place">Oesterreich</rs>, in <rs ref="#50" type="place">Wien</rs> vor
-                    allem, sind schli<c rendition="#gemination-m"/> genug – aber in die Ferne
-                    dringen doch alle Nachrichten so concentrirt, daß man notwendig ein
-                        übertriebne<unclear>s</unclear> Bild empfängt. Am übelesten <add place="above">dran</add> ist natürlich der sog. Mittelstand, eine gewisse
-                    Sorte von Beamten, ehemaligen Offizieren, Aerzten, Advokaten, Künstlern, –
-                    Rentiers, die sich mit einer kleinen Rente ins Privatleben zurückgezogen haben
-                    und nun, da alles, nach unserer Valuta 50–100mal theurer geworden ist, langsam
-                    verhungern oder wenigstens proletarisiren. Dem sog. Proletariat, dem einstigen
-                    (freilich gibt es auch hier Ausnahmen) geht es besser als je, und man darf nicht
-                    behaupten, daß diese Schichte ethisch ihrem Aufstieg sich gewachsen zeigt. Aber
-                        <add place="above">warum</add> sollten unter den Kanalräumern,
-                    Laternanzündern, Greißlern, Fabriksarbeitern, Locomotivführern u. s. w. die
-                    Parvenus sich besser benehmen als sie es in andern Ständen zu thun pflegten? <pb facs="Georg_Brandes_arkiv_186"/>An den sog. neuen Reichen und Schiebern
-                    mangelt es in den neutralen Ländern, wie man weiß, so wenig als bei uns; – sie
-                    machen sich vielfach unangenehm bemerkbar, – und viele Leute, Moralisten und
-                    Vergnügungsreisende, beklagen sich und finden es furchtbar, daß in der selben
-                    Stadt das schrecklichste Elend neben dem lächerlichsten Luxus und fabelhafter
-                    Verschwendungssucht bestehen kann;– aber neulich sagte einer unsrer <rs type="person" ref="#44647" subtype="implied">Staatsmä<c rendition="#gemination-n"/>er</rs> (aus der nächsten Nähe <rs ref="#12507" type="person">Renner</rs>s) zu mir, daß es vielleicht die
-                    Schieber und Verschwender seien die uns retten oder wenigstens über Wasser
-                    halten – was nationaloekonomisch vielleicht seine Richtigkeit hat. Das
-                    entwertete Geld, das in Fluß ko<c rendition="#gemination-m"/>t, ist nie so
-                    gefährlich als das aus dem Verkehr gezogene; – und ein großer Theil unsres
-                    Unglückes liegt meiner Überzeugung nach in den Truhen der Bauern, in Gestalt von
-                    Banknoten begraben. Hier ließe sich auch von dem unglückseligen Verhältnis
-                    zwischen Stadt <pb facs="Georg_Brandes_arkiv_187"/>und Land reden, das für den
-                    Zustand <rs ref="#41240" type="place">Oesterreich</rs>s so charakteristisch ist
-                    – aber das führte ins unendliche. Man glaubt vielfach, daß schon die Neuwahlen
-                    im Herbst bei uns eine Niederlage der Sozialdemokraten oder mindestens
-                    erhebliche Stimmenzunahme der Christlichsozialen bringen werden; – zu ganz <rs ref="#34438" type="place">russischen</rs> – oder zu ganz <rs ref="#35512" type="place">ungarischen</rs> Zuständen wird es bei uns nie kommen, de<c rendition="#gemination-n"/> bei uns bringt man <del rend="strikethrough">
-                  <gap quantity="2" reason="illegible" unit="chars"/>
-               </del> es nie zum Fanatismus, sondern nur <add place="above">bis</add> zur
-                    Lausbüberei (was aber in solchen Zeitläuften immerhin für kleinen rothen und
-                    weißen Terror ausreichen mag.) Die schlimmsten Rollen spielen, wie jederzeit,
-                    die Renegaten, – es hat seine geschichtlichen <add place="below">und
-                        psycholog.</add> Gründe, daß sich diese <add place="above">unerfreuliche und
-                        gefährliche</add> Spielart unter den Deutschen, den Juden und den Literaten
-                    am häufigsten findet.</p>
-            <p>
-               <pb facs="Georg_Brandes_arkiv_188"/>Aber ich will Ihnen doch um Gotteswillen
-                    keinen politischen Brief schreiben – schon darum weil es da<c rendition="#gemination-n"/> kein Brief sondern ein Buch würde, – mit
-                    Parenthesen, Co<c rendition="#gemination-m"/>entaren, kleingedruckten
-                    Anmerkungen; – de<c rendition="#gemination-n"/> welcher Satz, welche
-                    Charakteristik dürfte ohne Einschränkung gelten?– Umso lebhafter hätt ich das
-                    Bedürfnis wieder einmal mit Ihnen zu reden;– aber wa<c rendition="#gemination-n"/> ka<c rendition="#gemination-n"/> ich nach <rs ref="#43570" type="place">Daenemark</rs>, oder Sie nach <rs ref="#41240" type="place">Oesterreich</rs>? –</p>
-            <p>Übrigens ist <del rend="strikethrough">e</del> diese verda<c rendition="#gemination-m"/>te Valuta, die ich daher doch nicht so ganz
-                    verdammen kann, <add place="above">Schuld daran</add>, daß ich mich in den
-                    letzten zwei Jahren trotz der fürchterlichen Geldentwerthung mit den Meinigen
-                    ohne eigentliche »Sorgen« weitergebracht habe: in <rs ref="#44016" type="place">Holland</rs>, <rs ref="#44335" type="place">Schweden</rs>, und auch bei
-                    Ihnen wurde einiges von mir gespielt; auch <rs ref="#175" type="place">Amerika</rs> fängt an sich zu melden;– und <del rend="strikethrough">die</del> Beträge in <rs type="place" ref="#745" subtype="implied">nordischen</rs> Kronen, oder <rs ref="#44016" type="place">holl</rs>.
-                    Gulden, die früher gar nicht in Betracht geko<c rendition="#gemination-m"/>en
-                        <pb facs="Georg_Brandes_arkiv_189"/>wären, bedeuten für uns heruntergeko<c rendition="#gemination-m"/>ene <rs ref="#41240" type="place">Oesterreicher</rs> schon etwas. Daß keiner von uns auf dem gleichen Fuß wie
-                    vor dem Krieg oder auch noch <date>1916</date>, <date>17</date> leben ka<c rendition="#gemination-n"/>, ist selbstverständlich. ich habe neulich
-                    berechnet, dſs ich, we<c rendition="#gemination-n"/> ich z. B. meine Existenz
-                    nach <del rend="strikethrough">dem</del> der von <date>1914</date> einrichten
-                    wollte, – 1½–2 Millionen Kronen <add place="above">(als Jahresausgabe)</add>
-                    bräuchte – und wie ich es anstellen sollte, zu Schiff von <rs ref="#263" type="place">Florenz</rs> nach <rs ref="#40709" type="place">Amsterdam</rs>
-                    zu gelangen, (wie ich es im <date>Mai 1914</date> gethan) – das wird mir <add place="above">auch we<c rendition="#gemination-n"/> ich noch eine halbe
-                        Million zulegte</add> keiner sagen kö<c rendition="#gemination-n"/>en. – Wir
-                    wohnen <del rend="strikethrough">selb</del> in unserer alten kleinen Villa, die
-                    Sie kennen; – (für notwendige Reparaturen habe ich in diesem Jahr annähernd so
-                    viel bezahlt, als das Haus <date>1910</date> gekostet hat);– ein solches Heim in
-                    dieser Zeit <add place="above">zu</add> haben, empfanden wir als besondre
-                    Schicksalsgunst; – freilich <del rend="strikethrough">fühlte</del> war man nicht
-                    jederzeit sicher, daß man es sich unge<pb facs="Georg_Brandes_arkiv_190"/>schmälert erhalten würde; – aber bisher <subst>
-                  <del rend="strikethrough">waren</del>
-                  <add place="above">sind</add>
-               </subst> wir von Zwangseinquartierungen, Anforderungen, – ja sogar (wir wollen
-                    nichts verschreien) von Einbrüchen verschont geblieben;– und auch die
-                    gelegentlich angedrohten Plünderungen haben in <rs ref="#50" type="place">Wien</rs> im allgemeinen nicht stattgefunden. Bisher. Da die Weltgeschichte
-                    ja leider ungehindert weitergeht, ist nicht abzusehen, was wir noch erleben
-                    werden. Im übrigen lebt man ja doch weiter – als könnte nichts passiren. Meine
-                        <rs type="person" ref="#2173" subtype="implied">Frau</rs> gebraucht eine Cur
-                    in <rs ref="#521" type="place">Gastein</rs>, meine kleine <rs type="person" ref="#2238" subtype="implied">Tochter</rs> ist bei meinem <rs type="person" ref="#2284" subtype="implied">Schwager</rs> und meiner <rs type="person" ref="#2461" subtype="implied">Schwester</rs> in <rs ref="#34401" type="place">Altaussee</rs>, mein <rs type="person" ref="#12692" subtype="implied">Sohn</rs>, achtzehn, (hat die Matura gemacht, muss aber
-                    Mathematik wiederholen) – ist nach <rs ref="#45258" type="place">München</rs>
-                    gereist, und auch ich verlasse in wenigen Tagen die Stadt, wahrschein<pb facs="Georg_Brandes_arkiv_191"/>lich <rs ref="#429" type="place">Salzka<c rendition="#gemination-m"/>ergut</rs>, – um Anfang September mit all den
-                    Meinen in <rs ref="#34401" type="place">Altaussee</rs> zusa<c rendition="#gemination-m"/>enzutreffen.</p>
-            <p>Gearbeitet habe ich nicht viel in den letzten Jahren, allerlei angefangen;– ich
-                    fühlte mich doch sehr bedrückt und verdüstert. Wäre man wenigstens freizügig wie
-                    einst. Unsere schönen Reisen – wie offen lag die Welt! Jetzt ist es schon ein
-                    kleines Problem, sich selbst und sein Gepäck zur Bahn zu schaffen – ein Billet
-                    zu lösen u. s. w. –</p>
-            <p>Nun hab ich Ihnen sozusagen acht Seiten geschrieben; – es ist nichts. – Und Sie
-                    Armer der sich trotzdem plagen musste es zu lesen!</p>
-            <p>– Denken Sie meiner weiter in Freundschaft; – ich halte an der Hoffnung fest, Sie
-                    wiederzusehen, und bin von Herzen</p>
-            <closer>Ihr getreuer<lb/>
-               <signed>Arthur Schnitzler</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-07-01">Angelegt</change><change who="MAM" when="2018-08-02">Durchsicht</change><change who="MAM" when="2018-10-01">Index check</change><change who="MAM" when="2020-04-21">Durchsicht</change></revisionDesc></teiHeader><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="Georg_Brandes_arkiv_184"/><rs ref="#pmb150" type="place">XVIII Sternwartestr 71</rs></seg><seg rend="right"><rs ref="#pmb50" type="place">Wien</rs>, <date>16. August 1920</date></seg></p></opener><p><salute>lieber und verehrter Freund, </salute>mit Freude lese ich aus Ihrem Brief, dass Sie arbeiten und sich wohl befinden. Wann aber werden wir, die nicht daenisch verstehen, Ihre neuen Bücher kennen lernen? <rs type="work" ref="#pmb32093" subtype="implied"><rs ref="#pmb11461" type="person">Goethe</rs></rs>, <rs type="work" ref="#pmb33237" subtype="implied"><rs ref="#pmb3124" type="person">Voltaire</rs></rs>, <rs type="work" ref="#pmb33376" subtype="implied"><rs ref="#pmb14796" type="person">Julius Caesar</rs></rs> – keines von den dreien ist meines Wissens in deutscher Sprache erschienen oder bisher nur angekündigt.</p><p>Verzeihen Sie mir daß ich mit Bleistift schreibe, – so wird es leserlicher als mit der Feder (auch die sind während des Krieges hundertmal schlechter geworden); – und seit einer ziemlich erheblichen Oberarmverletzung die ich im Frühjahr durch einen Sturz über eine Baumwurzel erlitt und die mir durch ein paar Wochen das Schreiben ganz unmöglich machte, scheint mir, d<c rendition="#langesS">s</c>s die Stahlfeder meiner Schrift noch weniger entgegenkommt als früher. Die Sache ist übrigens schon ganz gut. Auch sonst darf ich über mein Befinden (abgesehen von dem vertrackten Ohr) nicht klagen. Wir alle bringen uns, materiell, körperlich, seelisch, über diese Zeit des Grauens und der Schurkerei, ganz leidlich fort. Alle <c rendition="#dots" n="2"/> d. h. die <pb facs="Georg_Brandes_arkiv_185"/>Meinigen, nahe Verwandte und Freunde. Die Zustände in <rs ref="#pmb41240" type="place">Oesterreich</rs>, in <rs ref="#pmb50" type="place">Wien</rs> vor allem, sind schli<c rendition="#gemination-m"/> genug – aber in die Ferne dringen doch alle Nachrichten so concentrirt, daß man notwendig ein übertriebne<unclear>s</unclear> Bild empfängt. Am übelesten <add place="above">dran</add> ist natürlich der sog. Mittelstand, eine gewisse Sorte von Beamten, ehemaligen Offizieren, Aerzten, Advokaten, Künstlern, – Rentiers, die sich mit einer kleinen Rente ins Privatleben zurückgezogen haben und nun, da alles, nach unserer Valuta 50–100mal theurer geworden ist, langsam verhungern oder wenigstens proletarisiren. Dem sog. Proletariat, dem einstigen (freilich gibt es auch hier Ausnahmen) geht es besser als je, und man darf nicht behaupten, daß diese Schichte ethisch ihrem Aufstieg sich gewachsen zeigt. Aber <add place="above">warum</add> sollten unter den Kanalräumern, Laternanzündern, Greißlern, Fabriksarbeitern, Locomotivführern u. s. w. die Parvenus sich besser benehmen als sie es in andern Ständen zu thun pflegten? <pb facs="Georg_Brandes_arkiv_186"/>An den sog. neuen Reichen und Schiebern mangelt es in den neutralen Ländern, wie man weiß, so wenig als bei uns; – sie machen sich vielfach unangenehm bemerkbar, – und viele Leute, Moralisten und Vergnügungsreisende, beklagen sich und finden es furchtbar, daß in der selben Stadt das schrecklichste Elend neben dem lächerlichsten Luxus und fabelhafter Verschwendungssucht bestehen kann;– aber neulich sagte einer unsrer <rs type="person" ref="#pmb44647" subtype="implied">Staatsmä<c rendition="#gemination-n"/>er</rs> (aus der nächsten Nähe <rs ref="#pmb12507" type="person">Renner</rs>s) zu mir, daß es vielleicht die Schieber und Verschwender seien die uns retten oder wenigstens über Wasser halten – was nationaloekonomisch vielleicht seine Richtigkeit hat. Das entwertete Geld, das in Fluß ko<c rendition="#gemination-m"/>t, ist nie so gefährlich als das aus dem Verkehr gezogene; – und ein großer Theil unsres Unglückes liegt meiner Überzeugung nach in den Truhen der Bauern, in Gestalt von Banknoten begraben. Hier ließe sich auch von dem unglückseligen Verhältnis zwischen Stadt <pb facs="Georg_Brandes_arkiv_187"/>und Land reden, das für den Zustand <rs ref="#pmb41240" type="place">Oesterreich</rs>s so charakteristisch ist – aber das führte ins unendliche. Man glaubt vielfach, daß schon die Neuwahlen im Herbst bei uns eine Niederlage der Sozialdemokraten oder mindestens erhebliche Stimmenzunahme der Christlichsozialen bringen werden; – zu ganz <rs ref="#pmb34438" type="place">russischen</rs> – oder zu ganz <rs ref="#pmb35512" type="place">ungarischen</rs> Zuständen wird es bei uns nie kommen, de<c rendition="#gemination-n"/> bei uns bringt man <del rend="strikethrough"><gap quantity="2" reason="illegible" unit="chars"/></del> es nie zum Fanatismus, sondern nur <add place="above">bis</add> zur Lausbüberei (was aber in solchen Zeitläuften immerhin für kleinen rothen und weißen Terror ausreichen mag.) Die schlimmsten Rollen spielen, wie jederzeit, die Renegaten, – es hat seine geschichtlichen <add place="below">und psycholog.</add> Gründe, daß sich diese <add place="above">unerfreuliche und gefährliche</add> Spielart unter den Deutschen, den Juden und den Literaten am häufigsten findet.</p><p><pb facs="Georg_Brandes_arkiv_188"/>Aber ich will Ihnen doch um Gotteswillen keinen politischen Brief schreiben – schon darum weil es da<c rendition="#gemination-n"/> kein Brief sondern ein Buch würde, – mit Parenthesen, Co<c rendition="#gemination-m"/>entaren, kleingedruckten Anmerkungen; – de<c rendition="#gemination-n"/> welcher Satz, welche Charakteristik dürfte ohne Einschränkung gelten?– Umso lebhafter hätt ich das Bedürfnis wieder einmal mit Ihnen zu reden;– aber wa<c rendition="#gemination-n"/> ka<c rendition="#gemination-n"/> ich nach <rs ref="#pmb43570" type="place">Daenemark</rs>, oder Sie nach <rs ref="#pmb41240" type="place">Oesterreich</rs>? –</p><p>Übrigens ist <del rend="strikethrough">e</del> diese verda<c rendition="#gemination-m"/>te Valuta, die ich daher doch nicht so ganz verdammen kann, <add place="above">Schuld daran</add>, daß ich mich in den letzten zwei Jahren trotz der fürchterlichen Geldentwerthung mit den Meinigen ohne eigentliche »Sorgen« weitergebracht habe: in <rs ref="#pmb44016" type="place">Holland</rs>, <rs ref="#pmb44335" type="place">Schweden</rs>, und auch bei Ihnen wurde einiges von mir gespielt; auch <rs ref="#pmb175" type="place">Amerika</rs> fängt an sich zu melden;– und <del rend="strikethrough">die</del> Beträge in <rs type="place" ref="#pmb745" subtype="implied">nordischen</rs> Kronen, oder <rs ref="#pmb44016" type="place">holl</rs>. Gulden, die früher gar nicht in Betracht geko<c rendition="#gemination-m"/>en <pb facs="Georg_Brandes_arkiv_189"/>wären, bedeuten für uns heruntergeko<c rendition="#gemination-m"/>ene <rs ref="#pmb41240" type="place">Oesterreicher</rs> schon etwas. Daß keiner von uns auf dem gleichen Fuß wie vor dem Krieg oder auch noch <date>1916</date>, <date>17</date> leben ka<c rendition="#gemination-n"/>, ist selbstverständlich. ich habe neulich berechnet, d<c rendition="#langesS">s</c>s ich, we<c rendition="#gemination-n"/> ich z. B. meine Existenz nach <del rend="strikethrough">dem</del> der von <date>1914</date> einrichten wollte, – 1½–2 Millionen Kronen <add place="above">(als Jahresausgabe)</add> bräuchte – und wie ich es anstellen sollte, zu Schiff von <rs ref="#pmb263" type="place">Florenz</rs> nach <rs ref="#pmb40709" type="place">Amsterdam</rs> zu gelangen, (wie ich es im <date>Mai 1914</date> gethan) – das wird mir <add place="above">auch we<c rendition="#gemination-n"/> ich noch eine halbe Million zulegte</add> keiner sagen kö<c rendition="#gemination-n"/>en. – Wir wohnen <del rend="strikethrough">selb</del> in unserer alten kleinen Villa, die Sie kennen; – (für notwendige Reparaturen habe ich in diesem Jahr annähernd so viel bezahlt, als das Haus <date>1910</date> gekostet hat);– ein solches Heim in dieser Zeit <add place="above">zu</add> haben, empfanden wir als besondre Schicksalsgunst; – freilich <del rend="strikethrough">fühlte</del> war man nicht jederzeit sicher, daß man es sich unge<pb facs="Georg_Brandes_arkiv_190"/>schmälert erhalten würde; – aber bisher <subst><del rend="strikethrough">waren</del><add place="above">sind</add></subst> wir von Zwangseinquartierungen, Anforderungen, – ja sogar (wir wollen nichts verschreien) von Einbrüchen verschont geblieben;– und auch die gelegentlich angedrohten Plünderungen haben in <rs ref="#pmb50" type="place">Wien</rs> im allgemeinen nicht stattgefunden. Bisher. Da die Weltgeschichte ja leider ungehindert weitergeht, ist nicht abzusehen, was wir noch erleben werden. Im übrigen lebt man ja doch weiter – als könnte nichts passiren. Meine <rs type="person" ref="#pmb2173" subtype="implied">Frau</rs> gebraucht eine Cur in <rs ref="#pmb521" type="place">Gastein</rs>, meine kleine <rs type="person" ref="#pmb2238" subtype="implied">Tochter</rs> ist bei meinem <rs type="person" ref="#pmb2284" subtype="implied">Schwager</rs> und meiner <rs type="person" ref="#pmb2461" subtype="implied">Schwester</rs> in <rs ref="#pmb34401" type="place">Altaussee</rs>, mein <rs type="person" ref="#pmb12692" subtype="implied">Sohn</rs>, achtzehn, (hat die Matura gemacht, muss aber Mathematik wiederholen) – ist nach <rs ref="#pmb45258" type="place">München</rs> gereist, und auch ich verlasse in wenigen Tagen die Stadt, wahrschein<pb facs="Georg_Brandes_arkiv_191"/>lich <rs ref="#pmb429" type="place">Salzka<c rendition="#gemination-m"/>ergut</rs>, – um Anfang September mit all den Meinen in <rs ref="#pmb34401" type="place">Altaussee</rs> zusa<c rendition="#gemination-m"/>enzutreffen.</p><p>Gearbeitet habe ich nicht viel in den letzten Jahren, allerlei angefangen;– ich fühlte mich doch sehr bedrückt und verdüstert. Wäre man wenigstens freizügig wie einst. Unsere schönen Reisen – wie offen lag die Welt! Jetzt ist es schon ein kleines Problem, sich selbst und sein Gepäck zur Bahn zu schaffen – ein Billet zu lösen u. s. w. –</p><p>Nun hab ich Ihnen sozusagen acht Seiten geschrieben; – es ist nichts. – Und Sie Armer der sich trotzdem plagen musste es zu lesen!</p><p>– Denken Sie meiner weiter in Freundschaft; – ich halte an der Hoffnung fest, Sie wiederzusehen, und bin von Herzen</p><closer>Ihr getreuer<lb/><signed>Arthur Schnitzler</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10992">
+                  <tei:persName>
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:death>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514326/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13920</idno>
+               </person><person xml:id="pmb11461">
+                  <tei:persName>
+                     <tei:surname>Goethe</tei:surname>
+                     <tei:forename>Johann Wolfgang von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1749-08-28">28. 8. 1749</tei:date>
+                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1832-03-22">22. 3. 1832</tei:date>
+                     <tei:placeName ref="#pmb197">Weimar</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118540238/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15499</idno>
+               </person><person xml:id="pmb3124">
+                  <tei:persName>
+                     <tei:surname>Voltaire</tei:surname>
+                     <tei:forename>François-Marie</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1694-11-21">21. 11. 1694</tei:date>
+                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1778-05-30">30. 5. 1778</tei:date>
+                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="154">Philosoph*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118627813/</idno>
+               </person><person xml:id="pmb14796">
+                  <tei:persName>
+                     <tei:surname>Caesar</tei:surname>
+                     <tei:forename>Gaius Iulius</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="0001-01-01">13.7.100? v. Chr.</tei:date>
+                     <tei:placeName ref="#pmb445">Rom</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="0001-01-01">15.3.44 v. Chr.</tei:date>
+                     <tei:placeName ref="#pmb445">Rom</tei:placeName>
+                  </tei:death>
+                  <occupation code="95">Politiker*in</occupation>
+                  <occupation code="167">Kaiser*in</occupation>
+                  <occupation code="574">Feldherr</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118518275/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14106</idno>
+               </person><person xml:id="pmb44647">
+                  <tei:persName>
+                     <tei:surname>?? [Staatsmann aus der Umgebung Renners]</tei:surname>
+                     <tei:forename/>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1920-08-16">16. 8. 1920</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1920-08-16">16. 8. 1920</tei:date>
+                  </tei:death>
+                  <occupation code="95">Politiker*in</occupation>
+               </person><person xml:id="pmb12507">
+                  <tei:persName>
+                     <tei:surname>Renner</tei:surname>
+                     <tei:forename>Karl</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1870-12-14">14. 12. 1870</tei:date>
+                     <tei:placeName ref="#pmb12508">Untertannowitz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1950-12-31">31. 12. 1950</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="95">Politiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118599739/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19190</idno>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb2238">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Lili</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1909-09-13">13. 9. 1909</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1928-07-26">26. 7. 1928</tei:date>
+                     <tei:placeName ref="#pmb462">Venedig</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/131362089/</idno>
+               </person><person xml:id="pmb2284">
+                  <tei:persName>
+                     <tei:surname>Hajek</tei:surname>
+                     <tei:forename>Markus</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-11-25">25. 11. 1861</tei:date>
+                     <tei:placeName ref="#pmb46727">Vršac</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1941-04-04">4. 4. 1941</tei:date>
+                     <tei:placeName ref="#pmb224">London</tei:placeName>
+                  </tei:death>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <occupation code="132">Laryngologe/in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/143163604/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15855</idno>
+               </person><person xml:id="pmb2461">
+                  <tei:persName>
+                     <tei:surname>Hajek</tei:surname>
+                     <tei:forename>Gisela</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1867-12-20">20. 12. 1867</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1953-02-03">3. 2. 1953</tei:date>
+                     <tei:placeName ref="#pmb893">Cambridge</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/1011705532/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15854</idno>
+               </person><person xml:id="pmb12692">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Heinrich</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1902-08-09">9. 8. 1902</tei:date>
+                     <tei:placeName ref="#pmb75">Hinterbrühl</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1982-07-12">12. 7. 1982</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848510/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19822</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb32093">
+                  <tei:author ref="pmb10992" role="author">
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:author>
+                  <tei:title>Wolfgang Goethe</tei:title>
+                  <tei:date from="1915-01-01" from-custom="1915">1915</tei:date>
+                  <tei:gloss type="w1156">Biografie</tei:gloss>
+               </bibl><bibl xml:id="pmb33237">
+                  <tei:author ref="pmb10992" role="author">
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:author>
+                  <tei:title>Voltaire und sein Jahrhundert</tei:title>
+                  <tei:date from="1916-01-01" from-custom="1916" to="1917-01-01" to-custom="1917">1916–1917</tei:date>
+                  <tei:gloss type="w1376">Geschichtswerk</tei:gloss>
+               </bibl><bibl xml:id="pmb33376">
+                  <tei:author ref="pmb10992" role="author">
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:author>
+                  <tei:title>Gaius Julius Cæsar</tei:title>
+                  <tei:date from="1918-01-01" from-custom="1918">1918</tei:date>
+                  <tei:gloss type="w1156">Biografie</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb36300">
+                  <tei:placeName>Kopenhagen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2618425/copenhagen.html/</idno>
+                  <idno type="geonames">https://www.geonames.org/2618425/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1748/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4032399-7/</idno>
+               </place><place xml:id="pmb150">
+                  <tei:placeName>Sternwartestraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb41240">
+                  <tei:placeName>Österreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb34438">
+                  <tei:placeName>Russland</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">60.0 100.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2017370/</idno>
+               </place><place xml:id="pmb35512">
+                  <tei:placeName>Ungarn</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.0 20.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/719819/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q28/</idno>
+               </place><place xml:id="pmb43570">
+                  <tei:placeName>Dänemark</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">56.0 10.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2623032/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q35/</idno>
+               </place><place xml:id="pmb44016">
+                  <tei:placeName>Niederlande</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.25 5.75</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2750405/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q55/</idno>
+               </place><place xml:id="pmb44335">
+                  <tei:placeName>Schweden</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">62.0 15.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2661886/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q34/</idno>
+               </place><place xml:id="pmb175">
+                  <tei:placeName>Amerika</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">32.530833 -117.02</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/6255149/</idno>
+               </place><place xml:id="pmb745">
+                  <tei:placeName>Skandinavien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i74">Teil eines Kontinents</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">63.0 25.0</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q21195/</idno>
+               </place><place xml:id="pmb263">
+                  <tei:placeName>Florenz</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">43.77925 11.24626</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3176959/</idno>
+               </place><place xml:id="pmb40709">
+                  <tei:placeName>Amsterdam</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1103">Hauptstadt</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.37403 4.88969</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2759794/</idno>
+               </place><place xml:id="pmb521">
+                  <tei:placeName>Bad Gastein</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.11547 13.13467</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782058/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q254835/</idno>
+               </place><place xml:id="pmb34401">
+                  <tei:placeName>Altaussee</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1124">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.6698 13.78453</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/7872434/</idno>
+               </place><place xml:id="pmb45258">
+                  <tei:placeName>München</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2867714/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4127793-4/</idno>
+               </place><place xml:id="pmb429">
+                  <tei:placeName>Salzkammergut</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i47">Region</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.75 13.5</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q266703/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

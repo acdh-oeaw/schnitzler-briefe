@@ -1,213 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02493"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler: Widmungsexemplar Buch der Sprüche und Bedenken für
-               Hugo von Hofmannsthal, 16. 12. 1927</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02493</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02493" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler: Widmungsexemplar Buch der Sprüche und Bedenken für
+               Hugo von Hofmannsthal, 16. 12. 1927</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02493</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Frankfurt am Main</settlement>
-                        <repository>Freies Deutsches Hochstift</repository>
-                        <idno>FDH 3221</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="widmung" subtype="widmung_vorsatzblatt"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct>
-                  <monogr>
-                     <author ref="#11740">Hofmannsthal, Hugo von</author>
-                     <title level="m">Bibliothek</title>
-                     <editor>Hg. Ellen Ritter&#160;† in Zusammenarbeit mit Dalia Bukauskaité und
-                        Konrad Heumann</editor>
-                     <imprint>
-                        <date when="2011">2011</date>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                     </imprint>
-                     <biblScope unit="pp">603</biblScope>
-                  </monogr>
-                  <series>
-                     <title level="s">Sämtliche Werke. Kritische Ausgabe</title>
-                     <biblScope unit="vol">XL</biblScope>
-                  </series>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1927-12-16" n="01">16. 12. 1927</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02492">Schnitzler an
-                  Großmann, 7. 11. 1927</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02494">Braun an
-                  Schnitzler, 25. 12. 1927</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L02482">Schnitzler
-                  an Hofmannsthal, 26. 2. 1927</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02496">Hofmannsthal
-                  an Schnitzler, 29. 12. 1927</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-74DD-7</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Frankfurt am Main</settlement><repository>Freies Deutsches Hochstift</repository><idno>FDH 3221</idno></msIdentifier><physDesc><objectDesc><desc type="widmung" subtype="widmung_vorsatzblatt"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><title level="m">Bibliothek</title><editor>Hg. Ellen Ritter † in Zusammenarbeit mit Dalia Bukauskaité und
+                        Konrad Heumann</editor><imprint><date when="2011">2011</date><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher></imprint><biblScope unit="pp">603</biblScope></monogr><series><title level="s">Sämtliche Werke. Kritische Ausgabe</title><biblScope unit="vol">XL</biblScope></series></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1927-12-16" n="01">16. 12. 1927</date></correspAction><correspAction type="received"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L02492">Schnitzler an
+                  Großmann, 7. 11. 1927</ref><ref subtype="next_letter" type="withinCollection" target="L02494">Braun an
+                  Schnitzler, 25. 12. 1927</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02482">Schnitzler
+                  an Hofmannsthal, 26. 2. 1927</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02496">Hofmannsthal
+                  an Schnitzler, 29. 12. 1927</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2020-09-17">Angelegt aus Buchausgabe</change>
-         <change who="MAM" when="2020-09-22">Index check</change>
-         <change who="MAM" when="2020-09-29">Durchsicht mit Faksimile</change>
-         <change who="MAM" when="2020-11-04">Durchsicht</change>
-         <change who="GHS" when="2021-07-09">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="3220_Schnitzler_Buch-der-Sprüche-und-Bedenken_001"/>
-      <graphic url="3220_Schnitzler_Buch-der-Sprüche-und-Bedenken_002"/>
-   </facsimile>
-   <text type="dedication">
-      <body>
-         <div type="writingSession" n="1">
-            <p>
-               <pb facs="3220_Schnitzler_Buch-der-Sprüche-und-Bedenken_001"/>Meinem lieben Hugo
-                  Hofma<c rendition="#gemination-n"/>sthal</p>
-            <closer>herzlichſt<lb/>
-               <signed>ArthSch</signed>
-            </closer>
-            <postscript>
-               <dateline>
-                  <rs type="place" ref="#50">Wien</rs>
-                  <space unit="chars" quantity="1"/>
-                  <date>16/12 927</date>
-               </dateline>
-            </postscript>
-         </div>
-         <div type="writingSession" n="2">
-            <p>
-               <space dim="vertical" unit="line" quantity="1"/>
-            </p>
-            <p rend="center">
-               <pb facs="3220_Schnitzler_Buch-der-Sprüche-und-Bedenken_002"/>
-               <hi rend="pre-print">
-                  <hi rend="capitals">Arthur Schnitzler</hi>
-               </hi>
-            </p>
-            <p rend="center">
-               <hi rend="pre-print">
-                  <hi rend="capitals">
-                     <rs type="work" ref="#30053">Buch der Sprüche und Bedenken</rs>
-                  </hi>
-               </hi>
-            </p>
-            <p rend="center">
-               <hi rend="pre-print">
-                  <hi rend="capitals">Aphorismen und Fragmente</hi>
-               </hi>
-            </p>
-            <p>
-               <space dim="vertical" unit="line" quantity="1"/>
-            </p>
-            <p rend="center">
-               <hi rend="pre-print">
-                  <hi rend="capitals">Im <rs type="org" ref="#48752">Phaidon-Verlag</rs> ⋅ <rs
-                        type="place" ref="#50">Wien</rs> ⋅ <date>MCMXXVII</date>
-                  </hi>
-               </hi>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-09-17">Angelegt aus Buchausgabe</change><change who="MAM" when="2020-09-22">Index check</change><change who="MAM" when="2020-09-29">Durchsicht mit Faksimile</change><change who="MAM" when="2020-11-04">Durchsicht</change><change who="GHS" when="2021-07-09">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="3220_Schnitzler_Buch-der-Sprüche-und-Bedenken_001"/><graphic url="3220_Schnitzler_Buch-der-Sprüche-und-Bedenken_002"/></facsimile><text type="dedication"><body><div type="writingSession" n="1"><p><pb facs="3220_Schnitzler_Buch-der-Sprüche-und-Bedenken_001"/>Meinem lieben Hugo Hofma<c rendition="#gemination-n"/>sthal</p><closer>herzlich<c rendition="#langesS">s</c>t<lb/><signed>ArthSch</signed></closer><postscript><dateline><rs type="place" ref="#pmb50">Wien</rs><space unit="chars" quantity="1"/><date>16/12 927</date></dateline></postscript></div><div type="writingSession" n="2"><p><space dim="vertical" unit="line" quantity="1"/></p><p rend="center"><pb facs="3220_Schnitzler_Buch-der-Sprüche-und-Bedenken_002"/><hi rend="pre-print"><hi rend="capitals">Arthur Schnitzler</hi></hi></p><p rend="center"><hi rend="pre-print"><hi rend="capitals"><rs type="work" ref="#pmb30053">Buch der Sprüche und Bedenken</rs></hi></hi></p><p rend="center"><hi rend="pre-print"><hi rend="capitals">Aphorismen und Fragmente</hi></hi></p><p><space dim="vertical" unit="line" quantity="1"/></p><p rend="center"><hi rend="pre-print"><hi rend="capitals">Im <rs type="org" ref="#pmb48752">Phaidon-Verlag</rs> ⋅ <rs type="place" ref="#pmb50">Wien</rs> ⋅ <date>MCMXXVII</date></hi></hi></p></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30053">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Buch der Sprüche und Bedenken</tei:title>
+                  <tei:date from="1927-01-01" from-custom="1927">1927</tei:date>
+                  <tei:gloss type="w1065">Aphorismensammlung</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb48752">
+                  <tei:orgName>Phaidon-Verlag</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1923-01-01" from-custom="1923">1923</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/1073077799/</idno>
+               </org></listOrg></back></text></TEI>

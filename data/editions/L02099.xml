@@ -1,234 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02099"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Hermann Bahr, 16. 11. 1912</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L02099</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02099" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, 16. 11. 1912</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L02099</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Theatermuseum</repository>
-                        <idno>HS AM 60161 Ba</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="briefkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent">
-                              <p>Korrektur und Grußformel</p>
-                           </handNote>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Schreibmaschine</p>
-                        </typeDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>Lochung</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="DASB">
-                  <analytic>
-                     <title level="a">16. 11. 1912, Abschrift</title>
-                  </analytic>
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
-                     <editor>Edited, annotated, and with an introduction, by Donald G.
-                        Daviau</editor>
-                     <imprint>
-                        <pubPlace>Chapel Hill</pubPlace>
-                        <publisher>The University of North Carolina Press</publisher>
-                        <date when="1978">1978</date>
-                     </imprint>
-                     <biblScope unit="pp">109–110</biblScope>
-                  </monogr>
-                  <series>
-                     <title level="s">University of North Carolina studies in the Germanic languages
-                        and literatures</title>
-                     <biblScope unit="nr">89</biblScope>
-                  </series>
-               </biblStruct>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">479</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <date when="1912-11-16" n="01">16. 11. 1912</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10815">Bahr, Hermann</persName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02098">Hofmannsthal an Schnitzler, [15. 11. 1912]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02100">Brandes an Schnitzler, [nach dem 16. 11. 1912]</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02092">Bahr an Schnitzler, 28. 9. 1912</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02107">Bahr an Schnitzler, 7. 12. 1912</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7353-3</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 60161 Ba</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"><p>Korrektur und Grußformel</p></handNote></handDesc><typeDesc><p>Schreibmaschine</p></typeDesc><additions><incident type="archival"><desc>Lochung</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="DASB"><analytic><title level="a">16. 11. 1912, Abschrift</title></analytic><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title><editor>Edited, annotated, and with an introduction, by Donald G.
+                        Daviau</editor><imprint><pubPlace>Chapel Hill</pubPlace><publisher>The University of North Carolina Press</publisher><date when="1978">1978</date></imprint><biblScope unit="pp">109–110</biblScope></monogr><series><title level="s">University of North Carolina studies in the Germanic languages
+                        and literatures</title><biblScope unit="nr">89</biblScope></series></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">479</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><date when="1912-11-16" n="01">16. 11. 1912</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L02098">Hofmannsthal an Schnitzler, [15. 11. 1912]</ref><ref subtype="next_letter" type="withinCollection" target="L02100">Brandes an Schnitzler, [nach dem 16. 11. 1912]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02092">Bahr an Schnitzler, 28. 9. 1912</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02107">Bahr an Schnitzler, 7. 12. 1912</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-10-01">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-12">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-         <change who="GHS" when="2020-03-20">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS_AM60161Ba"/>
-      <graphic url="HS_AM60161Ba_R"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <seg rend="left">
-                     <pb facs="https://www.theatermuseum.at/de/object/f4766adca1/"/>
-                     <hi rend="pre-print">Dr. Arthur Schnitzler</hi>
-                  </seg>
-                  <seg rend="right">
-                     <date>16. 11. 1912</date>. </seg>
-               </p>
-               <p>
-                  <hi rend="pre-print">
-                     <rs ref="#150" type="place">Wien XVIII. Sternwartestrasse 71</rs>
-                  </hi>
-               </p>
-               <salute>Lieber Hermann.</salute>
-            </opener>
-            <p>Neulich schrieb mir <rs ref="#2147" type="person">Peter Altenberg</rs>, dass eine
-               Anzahl derjenigen Leute, die ihn im Laufe der letzten Jahre regelmässig
-               unterstützten, allmählich ausgesprungen seien und frägt mich zugleich, ob ich bereit
-               wäre an Stelle dieser Leute einzutreten und andere in gleichem Sinn zu gewinnen.
-               Unter diesen nennt er Dich und so frage ich an, ob Du bereit wärst ihm monatlich bis
-               auf Weiteres einen von Dir zu bestimmenden Betrag anzuweisen, wie es vorläufig <rs ref="#11740" type="person">Hugo</rs> und ich zu tun gedenken. Bist Du
-               einverstanden, so teile es mir freundlichst mit und schreibe zugleich an <rs ref="#11324" type="person">S. Fischer</rs>, mit welchem Betrag Du Dich zu
-               beteiligen ge<pb facs="https://www.theatermuseum.at/de/object/f4766adca1/"/>denkst. <subst>
-                  <del rend="strikethrough">Dieser</del>
-                  <add place="above">
-                     <rs ref="#11324" type="person">
-                        <hi rend="latintype">
-                           <damage agent="hole">
-                              <supplied>Fis</supplied>
-                           </damage>cher</hi>
-                     </rs>
-                  </add>
-               </subst> will es nämlich übernehmen das Geld allmonatlich an <rs ref="#2147" type="person">P. A.</rs> zu expedieren.</p>
-            <p>Ich schreibe Dir noch an Deine <rs ref="#665" type="place">St. Veiter</rs>-Adresse,
-               obwohl ich ja annehmen muss, dass Du schon in der Uebersiedelung nach <rs ref="#30" type="place">Salzburg</rs> begriffen bist.</p>
-            <p>Auf baldiges Wiedersehen und herzliche Grüsse</p>
-            <closer>
-               <handShift/>Dein<lb/>
-               <signed>Arthur</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-12">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-03-20">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM60161Ba"/><graphic url="HS_AM60161Ba_R"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="https://www.theatermuseum.at/de/object/f4766adca1/"/><hi rend="pre-print">Dr. Arthur Schnitzler</hi></seg><seg rend="right"><date>16. 11. 1912</date>. </seg></p><p><hi rend="pre-print"><rs ref="#pmb150" type="place">Wien XVIII. Sternwartestrasse 71</rs></hi></p><salute>Lieber Hermann.</salute></opener><p>Neulich schrieb mir <rs ref="#pmb2147" type="person">Peter Altenberg</rs>, dass eine Anzahl derjenigen Leute, die ihn im Laufe der letzten Jahre regelmässig unterstützten, allmählich ausgesprungen seien und frägt mich zugleich, ob ich bereit wäre an Stelle dieser Leute einzutreten und andere in gleichem Sinn zu gewinnen. Unter diesen nennt er Dich und so frage ich an, ob Du bereit wärst ihm monatlich bis auf Weiteres einen von Dir zu bestimmenden Betrag anzuweisen, wie es vorläufig <rs ref="#pmb11740" type="person">Hugo</rs> und ich zu tun gedenken. Bist Du einverstanden, so teile es mir freundlichst mit und schreibe zugleich an <rs ref="#pmb11324" type="person">S. Fischer</rs>, mit welchem Betrag Du Dich zu beteiligen ge<pb facs="https://www.theatermuseum.at/de/object/f4766adca1/"/>denkst. <subst><del rend="strikethrough">Dieser</del><add place="above"><rs ref="#pmb11324" type="person"><hi rend="latintype"><damage agent="hole"><supplied>Fis</supplied></damage>cher</hi></rs></add></subst> will es nämlich übernehmen das Geld allmonatlich an <rs ref="#pmb2147" type="person">P. A.</rs> zu expedieren.</p><p>Ich schreibe Dir noch an Deine <rs ref="#pmb665" type="place">St. Veiter</rs>-Adresse, obwohl ich ja annehmen muss, dass Du schon in der Uebersiedelung nach <rs ref="#pmb30" type="place">Salzburg</rs> begriffen bist.</p><p>Auf baldiges Wiedersehen und herzliche Grüsse</p><closer><handShift/>Dein<lb/><signed>Arthur</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2147">
+                  <tei:persName>
+                     <tei:surname>Altenberg</tei:surname>
+                     <tei:forename>Peter</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1859-03-09">9. 3. 1859</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1919-01-08">8. 1. 1919</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118502255/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13162</idno>
+               </person><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb11324">
+                  <tei:persName>
+                     <tei:surname>Fischer</tei:surname>
+                     <tei:forename>Samuel</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1859-12-24">24. 12. 1859</tei:date>
+                     <tei:placeName ref="#pmb55962">Liptovský Mikuláš</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-10-15">15. 10. 1934</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="144">Verleger*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118691406/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15009</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb150">
+                  <tei:placeName>Sternwartestraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb665">
+                  <tei:placeName>St. Veit</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1850-07-02" from-custom="1850-07-02" to="1870-07-02" to-custom="1870-07-02">1850–1870</tei:date>
+                     <tei:gloss ana="i40">eingemeindeter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.18805 16.26638</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb30">
+                  <tei:placeName>Salzburg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.80067 13.04532</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2766818/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

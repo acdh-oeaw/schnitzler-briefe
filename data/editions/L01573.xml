@@ -1,178 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01573"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Gerhart Hauptmann,
-                    [17. 1. 1906]</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Martin Anton Müller</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01573</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01573" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Gerhart Hauptmann,
+                    [17. 1. 1906]</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Martin Anton Müller</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01573</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Berlin</settlement>
-                        <repository>Staatsbibliothek Berlin – Preußischer Kulturbesitz</repository>
-                        <idno>GHBrBl A:Schnitzler (1)</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="briefkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>1</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1906-01-17" n="01">[17. 1. 1906]</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#11617">Hauptmann, Gerhart</persName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11617">Hauptmann, Gerhart</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01572">Treibl an Schnitzler, 15 1. 1906</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01574">Treibl an Schnitzler, 18. 1. 1906</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01497">Hofmannsthal, Hofmannsthal, Hauptmann, Hauptmann an Schnitzler, 29. 1. 1905</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01643">Hauptmann an Schnitzler, 18. 12. 1906</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7145-5</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Berlin</settlement><repository>Staatsbibliothek Berlin – Preußischer Kulturbesitz</repository><idno>GHBrBl A:Schnitzler (1)</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>1</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1906-01-17" n="01">[17. 1. 1906]</date></correspAction><correspAction type="received"><persName ref="#pmb11617">Hauptmann, Gerhart</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11617">Hauptmann, Gerhart</ref><ref subtype="previous_letter" type="withinCollection" target="L01572">Treibl an Schnitzler, 15 1. 1906</ref><ref subtype="next_letter" type="withinCollection" target="L01574">Treibl an Schnitzler, 18. 1. 1906</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01497">Hofmannsthal, Hofmannsthal, Hauptmann, Hauptmann an Schnitzler, 29. 1. 1905</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01643">Hauptmann an Schnitzler, 18. 12. 1906</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2020-02-04">angelegt aus Faksimile</change>
-         <change who="MAM" when="2020-02-06">Durchsicht</change>
-         <change who="MAM" when="2020-02-06">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="GHBrBl_Schnitzler_00000003"/>
-      <graphic url="GHBrBl_Schnitzler_00000004"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <pb facs="GHBrBl_Schnitzler_00000003"/>
-                  <hi rend="pre-print">Dr. Arthur
-                            Schnitzler</hi>
-                  <lb/>
-                  <hi rend="pre-print">
-                     <rs type="place" ref="#133">Wien XVIII. Spoettelgasse 7</rs>.</hi>
-               </p>
-            </opener>
-            <p>
-               <salute>lieber Herr Hauptmann, </salute>der <rs type="person" ref="#19450">Überbringer</rs> dieſer <anchor xml:id="K_L01573_1" type="commentary"/>Karte<note xml:id="K_L01573_1h" type="commentary">
-                  <ref target="1906-01-17" type="schnitzlerDiary" subtype="Cf"/>: <rs ref="#19450" type="person">Knapitsch</rs> »behufs Unterzeichnung eines
-                        Aufrufs zur Gründung einer deutschen ›société‹. – Ich gab ihm eine Karte an
-                            <rs type="person" ref="#11617">Hauptmann</rs>.«</note>, Herr <hi rend="latintype">cand. jur. <rs ref="#19450" type="person">Siegfried
-                            Knapitsch</rs>
-               </hi>, beabſichtigt, in Verbindung mit vielen andren
-                    Bühnenautoren eine deutſche <del rend="strikethrough">Bühnen</del> Geſellschaft
-                    in der Art der »<hi rend="latintype">
-                  <rs type="org" ref="#29397">societé des
-                        auteurs dram</rs>. etc</hi>
-               <supplied>«</supplied> ins Leben zu rufen, eine <pb facs="GHBrBl_Schnitzler_00000004"/>Idee, die gewiſs alle Förderung verdient.</p>
-            <p>Wollen Sie die große Güte haben, Herrn <hi rend="latintype">
-                  <rs ref="#19450" type="person">Knapitsch</rs>
-               </hi> anzuhören?</p>
-            <closer>Herzlich grüßend<lb/>Ihr<lb/>
-               <signed>Arth Schnitzler</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-02-04">angelegt aus Faksimile</change><change who="MAM" when="2020-02-06">Durchsicht</change><change who="MAM" when="2020-02-06">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="GHBrBl_Schnitzler_00000003"/><graphic url="GHBrBl_Schnitzler_00000004"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><p><pb facs="GHBrBl_Schnitzler_00000003"/><hi rend="pre-print">Dr. Arthur Schnitzler</hi><lb/><hi rend="pre-print"><rs type="place" ref="#pmb133">Wien XVIII. Spoettelgasse 7</rs>.</hi></p></opener><p><salute>lieber Herr Hauptmann, </salute>der <rs type="person" ref="#pmb19450">Überbringer</rs> die<c rendition="#langesS">s</c>er <anchor xml:id="K_L01573_1" type="commentary"/>Karte<note xml:id="K_L01573_1h" type="commentary"><ref target="1906-01-17" type="schnitzlerDiary" subtype="Cf"/>: <rs ref="#pmb19450" type="person">Knapitsch</rs> »behufs Unterzeichnung eines Aufrufs zur Gründung einer deutschen ›société‹. – Ich gab ihm eine Karte an <rs type="person" ref="#pmb11617">Hauptmann</rs>.«</note>, Herr <hi rend="latintype">cand. jur. <rs ref="#pmb19450" type="person">Siegfried Knapitsch</rs></hi>, beab<c rendition="#langesS">s</c>ichtigt, in Verbindung mit vielen andren Bühnenautoren eine deut<c rendition="#langesS">s</c>che <del rend="strikethrough">Bühnen</del> Ge<c rendition="#langesS">s</c>ellschaft in der Art der »<hi rend="latintype"><rs type="org" ref="#pmb29397">societé des auteurs dram</rs>. etc</hi><supplied>«</supplied> ins Leben zu rufen, eine <pb facs="GHBrBl_Schnitzler_00000004"/>Idee, die gewi<c rendition="#langesS">s</c>s alle Förderung verdient.</p><p>Wollen Sie die große Güte haben, Herrn <hi rend="latintype"><rs ref="#pmb19450" type="person">Knapitsch</rs></hi> anzuhören?</p><closer>Herzlich grüßend<lb/>Ihr<lb/><signed>Arth Schnitzler</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11617">
+                  <tei:persName>
+                     <tei:surname>Hauptmann</tei:surname>
+                     <tei:forename>Gerhart</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-11-15">15. 11. 1862</tei:date>
+                     <tei:placeName ref="#pmb34542">Szczawno-Zdrój</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1946-06-06">6. 6. 1946</tei:date>
+                     <tei:placeName ref="#pmb735">Agnetendorf</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118546937/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15980</idno>
+               </person><person xml:id="pmb19450">
+                  <tei:persName>
+                     <tei:surname>Knapitsch</tei:surname>
+                     <tei:forename>Siegfried</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1883-10-20">20. 10. 1883</tei:date>
+                     <tei:placeName ref="#pmb13270">Laibach</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1962-05-16">16. 5. 1962</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="106">Rechtsanwalt/anwältin</occupation>
+                  <occupation code="198">Gutsbesitzer</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16925</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
+                  <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb29397">
+                  <tei:orgName>Société des Auteurs et Compositeurs Dramatiques</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1777-01-01" from-custom="1777">1777</tei:date>
+                     <tei:gloss ana="i1015">Autorenverband</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb182">
+                     <tei:placeName>Paris</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.85341 2.3488</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

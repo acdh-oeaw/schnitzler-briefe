@@ -1,243 +1,153 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00611"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Peter Altenberg, 29. 10. 1896</title>
-            <author ref="#2147">Altenberg, Peter</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00611</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00611" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Peter Altenberg, 29. 10. 1896</title><author ref="#pmb2147">Altenberg, Peter</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00611</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek im Rathaus</repository>
-                        <idno>H.I.N.-137077</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc type="reproduktion" subtype="fotokopie"/>
-                           <desc n="2" type="_seiten"/>
-                        </objectDesc>
-                        <additions>
-                           <incident type="additional-information">
-                              <desc>im Nachlass von <rs ref="#11988" type="person">Karl Kraus</rs>
-                                 überliefert. <rs ref="#11988" type="person">Kraus</rs> ergänzte
-                                 (vor der Kopie) am Objekt: »<quote>handſchriftliche Notiz von Peter
-                                    Altenberg. Das Dokument <date>1896</date> von ihm empfangen. <rs
-                                       ref="#50" type="place">Wien</rs>, im <date>November
-                                       1922</date>
-                                    <space unit="chars" quantity="3"/>
-                                    <rs ref="#11988" type="person">Karl Kraus</rs>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="additional-information">
-                              <desc>nur zwei der vier Zeilen der Notiz sind ansatzweise zu
-                                 entziffern: »<quote>
-                                    <p>
-                                       <hi rend="latintype">Lendway</hi>
-                                    </p>
-                                    <p>
-                                       <hi rend="latintype">II. <unclear>A</unclear>
-                                          <gap quantity="5" reason="illegible" unit="chars"
-                                          />gaſſe 5</hi>
-                                    </p>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="additional-information">
-                              <desc>
-                                 <rs ref="#11988" type="person">Kraus</rs> ließ das Original
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6D84-3</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek im Rathaus</repository><idno>H.I.N.-137077</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc type="reproduktion" subtype="fotokopie"/><desc n="2" type="_seiten"/></objectDesc><additions><incident type="additional-information"><desc>im Nachlass von <rs ref="#pmb11988" type="person">Karl Kraus</rs>
+                                 überliefert. <rs ref="#pmb11988" type="person">Kraus</rs> ergänzte
+                                 (vor der Kopie) am Objekt: »<quote>hand<c rendition="#langesS">s</c>chriftliche Notiz von Peter
+                                    Altenberg. Das Dokument <date>1896</date> von ihm empfangen. <rs ref="#pmb50" type="place">Wien</rs>, im <date>November
+                                       1922</date><space unit="chars" quantity="3"/><rs ref="#pmb11988" type="person">Karl Kraus</rs></quote>«</desc></incident><incident type="additional-information"><desc>nur zwei der vier Zeilen der Notiz sind ansatzweise zu
+                                 entziffern: »<quote><p><hi rend="latintype">Lendway</hi></p><p><hi rend="latintype">II. <unclear>A</unclear><gap quantity="5" reason="illegible" unit="chars"/>ga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e 5</hi></p></quote>«</desc></incident><incident type="additional-information"><desc><rs ref="#pmb11988" type="person">Kraus</rs> ließ das Original
                                  versteigern. Schnitzler bot selber mit, wurde aber überboten.
-                                    <bibl>Vgl. <title level="m">Briefe</title> II,293–296</bibl> und <rs
-                                    ref="#41244" type="work">Die Fackel</rs> von <date>Ende
-                                    1922</date> bis <date>Anfang 1923</date></desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct>
-                  <monogr>
-                     <title level="m">Vorlesung Karl Kraus [Programm]</title>
-                     <imprint>
-                        <date when="1922-11-26">26. 11. 1922</date>
-                     </imprint>
-                  </monogr>
-               </biblStruct>
-               <biblStruct>
-                  <monogr>
-                     <title ref="#41244" level="j">Die Fackel</title>
-                     <imprint>
-                        <date when="1922-12-31">Ende Dezember 1922</date>
-                     </imprint>
-                     <biblScope unit="jg">24</biblScope>
-                     <biblScope unit="nr">608–612</biblScope>
-                     <biblScope unit="pp">51</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct>
-                  <analytic>
-                     <author>Urbach, Reinhard</author>
-                     <title level="a">»Schwätzer sind Verbrecher«. Bemerkungen zu Schnitzlers
-                        Dramenfragment »Das Wort«</title>
-                  </analytic>
-                  <monogr>
-                     <title level="j">Literatur und Kritik</title>
-                     <imprint>
-                        <date when="1968">1968</date>
-                     </imprint>
-                     <biblScope unit="jg">3</biblScope>
-                     <biblScope unit="pp">292–304, hier S. 293</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <date n="01" when="1896-10-29">29. 10. 1896</date>
-               <placeName ref="#168">Berlin</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2147">Altenberg, Peter</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1896-10-30">30. 10. 1896</date>
-               <!-- Vgl. Brief an Annie Holitscher vom 31. -->
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#2147">Altenberg, Peter</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00610">Burckhard an
-                  Schnitzler, [zwischen 27. 10. und 1. 11. 1896]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00612">Altenberg an
-                  Schnitzler, [30.? 10. 1896]</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L00503">Altenberg
-                  an Schnitzler, [10. 10. 1895]</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00612">Altenberg an
-                  Schnitzler, [30.? 10. 1896]</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                                    <bibl>Vgl. <title level="m">Briefe</title> II,293–296</bibl> und <rs ref="#pmb41244" type="work">Die Fackel</rs> von <date>Ende
+                                    1922</date> bis <date>Anfang 1923</date></desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct><monogr><title level="m">Vorlesung Karl Kraus [Programm]</title><imprint><date when="1922-11-26">26. 11. 1922</date></imprint></monogr></biblStruct><biblStruct><monogr><title ref="#pmb41244" level="j">Die Fackel</title><imprint><date when="1922-12-31">Ende Dezember 1922</date></imprint><biblScope unit="jg">24</biblScope><biblScope unit="nr">608–612</biblScope><biblScope unit="pp">51</biblScope></monogr></biblStruct><biblStruct><analytic><author>Urbach, Reinhard</author><title level="a">»Schwätzer sind Verbrecher«. Bemerkungen zu Schnitzlers
+                        Dramenfragment »Das Wort«</title></analytic><monogr><title level="j">Literatur und Kritik</title><imprint><date when="1968">1968</date></imprint><biblScope unit="jg">3</biblScope><biblScope unit="pp">292–304, hier S. 293</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><date n="01" when="1896-10-29">29. 10. 1896</date><placeName ref="#pmb168">Berlin</placeName></correspAction><correspAction type="received"><persName ref="#pmb2147">Altenberg, Peter</persName><placeName ref="#pmb50">Wien</placeName><date when="1896-10-30">30. 10. 1896</date><!-- Vgl. Brief an Annie Holitscher vom 31. --></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb2147">Altenberg, Peter</ref><ref subtype="previous_letter" type="withinCollection" target="L00610">Burckhard an
+                  Schnitzler, [zwischen 27. 10. und 1. 11. 1896]</ref><ref subtype="next_letter" type="withinCollection" target="L00612">Altenberg an
+                  Schnitzler, [30.? 10. 1896]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00503">Altenberg
+                  an Schnitzler, [10. 10. 1895]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00612">Altenberg an
+                  Schnitzler, [30.? 10. 1896]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2018-10-09">Angelegt aus Zeitschrift</change>
-         <change who="MAM" when="2018-10-10">Index check</change>
-         <change who="MAM" when="2018-12-05">Abgleich mit Faksimile der Kopie</change>
-         <change who="GHS" when="2020-07-01">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="Wienbibliothek_H.I.N.-137077_vs"/>
-      <graphic url="Wienbibliothek_H.I.N.-137077_rs"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <salute>
-                  <pb facs="Wienbibliothek_H.I.N.-137077_vs"/>Lieber Herr Peter Altenberg,</salute>
-            </opener>
-            <p>geſtern ſprach ich mit <rs ref="#11617" type="person">
-                  <hi rend="latintype">Gerhard Hauptmann</hi>
-               </rs>, der ſich über Ihr <rs type="work" ref="#30965" subtype="implied">Buch</rs> in
-               unendlich ſympathiſcher Weiſe äußerte u. unter anderm sagte, ſeit <hi
-                  rend="underline" n="1">Jahren</hi> habe kein <rs type="work" ref="#30965"
-                  subtype="implied">Buch</rs> einen ſo ſtarken Eindruck auf ihn gemacht als das
-               Ihre.</p>
-            <p>Da dieſe Bemerkung für Sie <anchor xml:id="K_L00611_1" type="commentary"/>intereſſant
-                  ſein<note xml:id="K_L00611_1h" type="commentary">Für <rs ref="#2147" type="person"
-                     >Altenberg</rs> bot sie den Anlass, <rs ref="#11617" type="person"
-                     >Hauptmann</rs> direkt einen Brief zu schreiben. (<bibl>
-                     <title level="m">Selbsterfindung eines Dichters</title>, S. 80</bibl>.)</note>
-               dürfte und ſie ſonſt kaum an Sie <pb facs="Wienbibliothek_H.I.N.-137077_rs"/>gelangen
-               könnte, fühle ich mich in gewiſſem Sinne angenehm verpflichtet, ſie Ihnen
-               mitzutheilen.</p>
-            <closer>Mit beſtem Gruſs Ihr ergebener<lb/>
-               <signed>ArthurSchnitzler</signed>
-            </closer>
-            <postscript>
-               <dateline>
-                  <rs ref="#168" type="place">Berlin</rs>, <date>29. X. 96</date>.</dateline>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-10-09">Angelegt aus Zeitschrift</change><change who="MAM" when="2018-10-10">Index check</change><change who="MAM" when="2018-12-05">Abgleich mit Faksimile der Kopie</change><change who="GHS" when="2020-07-01">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="Wienbibliothek_H.I.N.-137077_vs"/><graphic url="Wienbibliothek_H.I.N.-137077_rs"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="Wienbibliothek_H.I.N.-137077_vs"/>Lieber Herr Peter Altenberg,</salute></opener><p>ge<c rendition="#langesS">s</c>tern<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>prach ich mit <rs ref="#pmb11617" type="person"><hi rend="latintype">Gerhard Hauptmann</hi></rs>, der<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich über Ihr <rs type="work" ref="#pmb30965" subtype="implied">Buch</rs> in unendlich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ympathi<c rendition="#langesS">s</c>cher Wei<c rendition="#langesS">s</c>e äußerte u. unter anderm sagte,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eit <hi rend="underline" n="1">Jahren</hi> habe kein <rs type="work" ref="#pmb30965" subtype="implied">Buch</rs> einen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tarken Eindruck auf ihn gemacht als das Ihre.</p><p>Da die<c rendition="#langesS">s</c>e Bemerkung für Sie <anchor xml:id="K_L00611_1" type="commentary"/>intere<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ant<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein<note xml:id="K_L00611_1h" type="commentary">Für <rs ref="#pmb2147" type="person">Altenberg</rs> bot sie den Anlass, <rs ref="#pmb11617" type="person">Hauptmann</rs> direkt einen Brief zu schreiben. (<bibl><title level="m">Selbsterfindung eines Dichters</title>, S. 80</bibl>.)</note> dürfte und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>on<c rendition="#langesS">s</c>t kaum an Sie <pb facs="Wienbibliothek_H.I.N.-137077_rs"/>gelangen könnte, fühle ich mich in gewi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>em Sinne angenehm verpflichtet,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie Ihnen mitzutheilen.</p><closer>Mit be<c rendition="#langesS">s</c>tem Gru<c rendition="#langesS">s</c>s Ihr ergebener<lb/><signed>ArthurSchnitzler</signed></closer><postscript><dateline><rs ref="#pmb168" type="place">Berlin</rs>, <date>29. X. 96</date>.</dateline></postscript></div></body><back><listPerson><person xml:id="pmb11988">
+                  <tei:persName>
+                     <tei:surname>Kraus</tei:surname>
+                     <tei:forename>Karl</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-04-28">28. 4. 1874</tei:date>
+                     <tei:placeName ref="#pmb41660">Jičín</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1936-06-12">12. 6. 1936</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="237">Publizist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118566288/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2147">
+                  <tei:persName>
+                     <tei:surname>Altenberg</tei:surname>
+                     <tei:forename>Peter</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1859-03-09">9. 3. 1859</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1919-01-08">8. 1. 1919</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118502255/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13162</idno>
+               </person><person xml:id="pmb11617">
+                  <tei:persName>
+                     <tei:surname>Hauptmann</tei:surname>
+                     <tei:forename>Gerhart</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-11-15">15. 11. 1862</tei:date>
+                     <tei:placeName ref="#pmb34542">Szczawno-Zdrój</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1946-06-06">6. 6. 1946</tei:date>
+                     <tei:placeName ref="#pmb735">Agnetendorf</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118546937/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15980</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb41244">
+                  <tei:author ref="pmb11988" role="editor">
+                     <tei:surname>Kraus</tei:surname>
+                     <tei:forename>Karl</tei:forename>
+                     <tei:term>[Herausgeber*in]</tei:term>
+                  </tei:author>
+                  <tei:author ref="pmb10364" role="contributor">
+                     <tei:surname>Viertel</tei:surname>
+                     <tei:forename>Berthold</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb11230" role="contributor">
+                     <tei:surname>Ehrenstein</tei:surname>
+                     <tei:forename>Albert</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb12438" role="contributor">
+                     <tei:surname>Adam</tei:surname>
+                     <tei:forename>Robert</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb10574" role="contributor">
+                     <tei:surname>Wittels</tei:surname>
+                     <tei:forename>Fritz</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Fackel</tei:title>
+                  <tei:date from="1899-01-01" from-custom="1899" to="1936-01-01" to-custom="1936">1899–1936</tei:date>
+                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
+                  <tei:note>5704</tei:note>
+                  <tei:note>5705</tei:note>
+               </bibl><bibl xml:id="pmb30965">
+                  <tei:author ref="pmb2147" role="author">
+                     <tei:surname>Altenberg</tei:surname>
+                     <tei:forename>Peter</tei:forename>
+                  </tei:author>
+                  <tei:title>Wie ich es sehe</tei:title>
+                  <tei:date from="1896-01-01" from-custom="1896">1896</tei:date>
+                  <tei:gloss type="w1098">Novellensammlung</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

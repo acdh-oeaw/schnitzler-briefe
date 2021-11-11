@@ -1,230 +1,147 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L01274"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 2. 3. 1903</title>
-            <author ref="#11740">Hofmannsthal, Hugo von</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01274</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L01274" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 2. 3. 1903</title><author ref="#pmb11740">Hofmannsthal, Hugo von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01274</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 43</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="bildpostkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#667">Breslau</placeName>
-                                    <date>2. 3. 03</date>
-                                    <time>1–2V</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="2">
-                                    <placeName ref="#168">Berlin</placeName>
-                                    <date>3. 3. 03</date>
-                                    <addSpan>Bestellt vom Postamte 6</addSpan>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit Bleistift die Jahreszahl ergänzt: »<quote>
-                                    <date>902</date>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>
-                                 <del rend="strikethrough">225</del></quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>195</quote>«</desc>
-                           </incident>
-                           
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="HvHAS">
-                  <monogr>
-                     <author ref="#11740">Hofmannsthal, Hugo von</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel</title>
-                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1964">1964</date>
-                     </imprint>
-                     <biblScope unit="pp">168</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
-               <placeName ref="#677">Breslau</placeName>
-               <date when="1903-03-02" n="01">2. 3. 1903</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#168">Berlin</placeName>
-               <date when="1903-03-03">3. 3. 1903</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01273">Schnitzler an
-                  Beer-Hofmann, 27. 2. 1903</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01275">Schnitzler an
-                  Hauptmann, 8. 3. 1903</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L01269"
-                  >Hofmannsthal, Beer-Hofmann an Schnitzler, [15. 2. 1903]</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01292">Schnitzler an
-                  Hofmannsthal, 23. 5. 1903</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-701A-7</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 43</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb667">Breslau</placeName><date>2. 3. 03</date><time>1–2V</time></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb168">Berlin</placeName><date>3. 3. 03</date><addSpan>Bestellt vom Postamte 6</addSpan></stamp></desc></incident><incident type="receiver"><desc>mit Bleistift die Jahreszahl ergänzt: »<quote><date>902</date></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote><del rend="strikethrough">225</del></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>195</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">168</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb677">Breslau</placeName><date when="1903-03-02" n="01">2. 3. 1903</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb168">Berlin</placeName><date when="1903-03-03">3. 3. 1903</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L01273">Schnitzler an
+                  Beer-Hofmann, 27. 2. 1903</ref><ref subtype="next_letter" type="withinCollection" target="L01275">Schnitzler an
+                  Hauptmann, 8. 3. 1903</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01269">Hofmannsthal, Beer-Hofmann an Schnitzler, [15. 2. 1903]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01292">Schnitzler an
+                  Hofmannsthal, 23. 5. 1903</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change>
-         <change who="GHS" when="2020-04-04">Durchsicht</change>
-         <change who="MAM" when="2020-05-08">Durchsicht</change>
-         <change who="MAM" when="2020-05-08">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00081"/>
-      <graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00082"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00081"/>Herrn D<hi rend="superscript"
-                     >r</hi> Arthur Schnitzler</addrLine>
-               <addrLine>
-                  <rs type="place" ref="#168">Berlin</rs>
-               </addrLine>
-               <addrLine>
-                  <rs type="place" ref="#307">Schuhmannstrasse</rs>, <rs ref="#3" type="place"
-                     >Deutsches Theater</rs>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="center">
-                  <hi rend="pre-print">
-                     <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00082"/>
-                     <rs ref="#677" type="place">Breslau</rs>
-                     <space unit="chars" quantity="1"/>
-                     <rs type="place" ref="#44404">Südpark-Restaurant</rs>.</hi>
-               </p>
-            </opener>
-            <p>Gruss an Sie, <rs ref="#10986" type="person">Brahm</rs> und den wackern alten <anchor
-                  xml:id="K_L01274_1" type="commentary"/>
-               <rs type="work" ref="#29857" subtype="implied">Chiaveluzzi</rs>
-               <note xml:id="K_L01274_1h" type="commentary">Figur aus <rs type="work" ref="#29857"
-                     >Der Schleier der Beatrice</rs>; bei der <rs type="place" ref="#168"
-                     >Berlin</rs>er Inszenierung wurde er von <rs type="person" ref="#44876">Adolf
-                     Kurth</rs> gespielt.</note>.</p>
-            <postscript>
-               <dateline>
-                  <date>2 März</date>
-               </dateline>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-04">Durchsicht</change><change who="MAM" when="2020-05-08">Durchsicht</change><change who="MAM" when="2020-05-08">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00081"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00082"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00081"/>Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb168">Berlin</rs></addrLine><addrLine><rs type="place" ref="#pmb307">Schuhmannstrasse</rs>, <rs ref="#pmb3" type="place">Deutsches Theater</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00082"/><rs ref="#pmb677" type="place">Breslau</rs><space unit="chars" quantity="1"/><rs type="place" ref="#pmb44404">Südpark-Restaurant</rs>.</hi></p></opener><p>Gruss an Sie, <rs ref="#pmb10986" type="person">Brahm</rs> und den wackern alten <anchor xml:id="K_L01274_1" type="commentary"/><rs type="work" ref="#pmb29857" subtype="implied">Chiaveluzzi</rs><note xml:id="K_L01274_1h" type="commentary">Figur aus <rs type="work" ref="#pmb29857">Der Schleier der Beatrice</rs>; bei der <rs type="place" ref="#pmb168">Berlin</rs>er Inszenierung wurde er von <rs type="person" ref="#pmb44876">Adolf Kurth</rs> gespielt.</note>.</p><postscript><dateline><date>2 März</date></dateline></postscript></div></body><back><listPerson><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10986">
+                  <tei:persName>
+                     <tei:surname>Brahm</tei:surname>
+                     <tei:forename>Otto</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1856-02-05">5. 2. 1856</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1912-11-28">28. 11. 1912</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514245/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13913</idno>
+               </person><person xml:id="pmb44876">
+                  <tei:persName>
+                     <tei:surname>Kurth</tei:surname>
+                     <tei:forename>Adolf</tei:forename>
+                  </tei:persName>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116623608/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29857">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Schleier der Beatrice. Schauspiel in fünf Akten</tei:title>
+                  <tei:date when="1900-12-01" when-custom="1900-12-01">1. 12. 1900</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>6201</tei:note>
+                  <tei:note>8990</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb667">
+                  <tei:placeName>Garmisch-Partenkirchen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.49209 11.09576</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2922530/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q127043/</idno>
+               </place><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb677">
+                  <tei:placeName>Breslau</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.10773 17.03533</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/7531292/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1799/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4008216-7/</idno>
+               </place><place xml:id="pmb307">
+                  <tei:placeName>Schumannstraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52402 13.38186</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb3">
+                  <tei:placeName>Deutsches Theater Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i4">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.524444 13.382222</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q703955/</idno>
+               </place><place xml:id="pmb44404">
+                  <tei:placeName>Südpark-Restaurant</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i22">Lokal</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.07487 17.01162</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg/></back></text></TEI>

@@ -1,229 +1,280 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00255"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Karl Kraus an Arthur Schnitzler, 12. 8. 1893</title>
-            <author ref="#11988">Kraus, Karl</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00255</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00255" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Karl Kraus an Arthur Schnitzler, 12. 8. 1893</title><author ref="#pmb11988">Kraus, Karl</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00255</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 55</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="4" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct>
-                  <analytic>
-                     <title level="a">Karl Kraus und Arthur Schnitzler. Eine
-                                Dokumentation</title>
-                     <editor>Hg. Reinhard Urbach</editor>
-                  </analytic>
-                  <monogr>
-                     <title level="j">Literatur und Kritik</title>
-                     <imprint>
-                        <date when="1970-10">Oktober 1970</date>
-                     </imprint>
-                     <biblScope unit="vol">49</biblScope>
-                     <biblScope unit="pp">520</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11988">Kraus, Karl</persName>
-               <placeName ref="#213">Bad Ischl</placeName>
-               <date when="1893-08-12" n="04">12. 8. 1893</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11988">Kraus, Karl</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00254">Hofmannsthal an Schnitzler, 12. 8. 1893</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00256">Schnitzler an Beer-Hofmann, 18. 8. 1893</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00244">Kraus an Schnitzler, 27. 7. 1893</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00267">Kraus, Rosner, Schaumberger an Schnitzler, 30. 9. 1893</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6C20-5</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 55</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct><analytic><title level="a">Karl Kraus und Arthur Schnitzler. Eine
+                                Dokumentation</title><editor>Hg. Reinhard Urbach</editor></analytic><monogr><title level="j">Literatur und Kritik</title><imprint><date when="1970-10">Oktober 1970</date></imprint><biblScope unit="vol">49</biblScope><biblScope unit="pp">520</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11988">Kraus, Karl</persName><placeName ref="#pmb213">Bad Ischl</placeName><date when="1893-08-12" n="04">12. 8. 1893</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11988">Kraus, Karl</ref><ref subtype="previous_letter" type="withinCollection" target="L00254">Hofmannsthal an Schnitzler, 12. 8. 1893</ref><ref subtype="next_letter" type="withinCollection" target="L00256">Schnitzler an Beer-Hofmann, 18. 8. 1893</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00244">Kraus an Schnitzler, 27. 7. 1893</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00267">Kraus, Rosner, Schaumberger an Schnitzler, 30. 9. 1893</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2018-11-22">Angelegt</change>
-         <change who="MAM" when="2018-11-24">Index check</change>
-         <change who="GHS" when="2019-04-04">Korrektur gelesen, facs aktualisiert,
-                finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00055-000-00017"/>
-      <graphic url="MS-SCHNITZLER-B-00055-000-00018"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline>
-                  <pb facs="MS-SCHNITZLER-B-00055-000-00017"/>
-                  <rs ref="#1219" type="place">Ischl, Ramsauer</rs>,
-                        <date>12. 8. 93</date>.</dateline>
-            </opener>
-            <p>
-               <salute>Liebſter Doktor! </salute>Eben holte ich mir von der Post den Brief u.
-                    beeile mich, Ihnen auf Ihr Schreiben zu antworten: ich bin über die Auskunft des
-                    Herrn <rs ref="#2871" type="person">Entſch</rs> ganz paff – es iſt mir <hi rend="underline" n="1">nie im Traume eingefallen</hi>, dem <rs ref="#29625" type="org">Magazin</rs> eine derartige aus der Luft gegriffene <anchor xml:id="K_L00255_1" type="commentary"/>
-               <rs type="work" ref="#33532" subtype="implied">Mittheilung</rs>
-               <note xml:id="K_L00255_1h" type="commentary">Auf S. 469 der Nr. 29 vom
-                            <date>22. 7. 1893</date>
-                  <space unit="chars" quantity="1"/>stand: »<quote>Am <rs ref="#35053" type="org">Lessingtheater</rs> kommen ferner noch im Laufe des
-                            Sommers ein Drama von <rs ref="#5684" type="person">
-                        <hi rend="spaced_out">Fedor von Zobeltitz</hi>
-                     </rs>: ›<rs ref="#33530" type="work">Ohne Geläut</rs>‹ und ein
-                            dreiaktiges Schauspiel von <hi rend="antiqua">Dr</hi>. <rs ref="#2121" type="person">Arthur <hi rend="spaced_out">Schnitzler</hi>
-                     </rs> in <rs ref="#50" type="place">Wien</rs>: ›<rs ref="#29823" type="work">Das Märchen</rs>‹, zur Aufführung.</quote>«</note> zu
-                    machen – das wäre dann eine höchſt abgeſchmackte Fopperei <add place="above">von</add> meiner Seite geweſen, wenn ich Ihnen dann »freudig <hi rend="underline" n="1">überraſcht</hi>« das Blatt ſchicken konnte: »Sehen
-                    Sie, da ſteht was über das ›<rs ref="#29823" type="work">Märchen</rs>‹ drin!«
-                    Wie geſagt, liebſter Herr Doktor, <hi rend="underline" n="2">nie und nimmer</hi>
-                    würde mir ſoetwas einfallen, ich habe <hi rend="underline" n="2">nie</hi> (Sie
-                    wiſſen ja, bei <pb facs="MS-SCHNITZLER-B-00055-000-00018"/>
-               <rs ref="#30005" type="work">Abſchiedssouper</rs> habe ich Sie zu erst brieflich
-                    befragt) Herrn <rs ref="#12348" type="person">Neumann-Hofer</rs> den
-                    Aufführungstermin Ihres <rs ref="#29823" type="work">Märchen</rs> geſchrieben:
-                    das wäre doch meinerſeits eine recht ungeſchickte Reklame für Sie geweſen. Das
-                    Ganze muſs unbedingt auf einem <hi rend="underline" n="1">Irrthum</hi> beruhen,
-                    vielleicht erklärt es ſich daraus, daſs ich einmal – Sie haben’s ja geleſen – im
-                        <rs ref="#40968" type="work">Magazin</rs> gelegentlich der <rs type="work" ref="#33444" subtype="implied">
-                  <rs ref="#29935" type="work">Anatol</rs>-recenſion</rs> auch Ihr <rs ref="#29823" type="work">
-                  <hi rend="underline" n="1">Märchen</hi>
-               </rs> als beachtenswertes Schauspiel erwähnte.</p>
-            <p>Mir iſt die ganze Sache <hi rend="underline" n="2">ſehr peinlich</hi>, glauben
-                    Sie mir! <pb facs="MS-SCHNITZLER-B-00055-000-00018"/>Jawohl, wenn Sie mir ſelbſt
-                    den <del rend="strikethrough">I</del> Inhalt dieſer vielbeſprochenen <rs type="work" ref="#33532" subtype="implied">
-                  <rs ref="#29823" type="work">Märchen</rs>notiz</rs> geſagt hätten, mit
-                    Vergnügen <hi rend="underline" n="2">hätte</hi> ich, um Ihnen zu dienen, dem <rs ref="#29625" type="org">Magazin</rs> die Notiz mitgetheilt – aber ſo – wie
-                    werde ich ſo plump ſein, ſo etwas aus der Luft zu greifen oder aus dem Finger zu
-                    zutzeln und dann Ihnen das Heft mit »freudig–überraschter« Miene noch zu<add place="above">zu</add>senden? Ich bitte Sie, mir nicht böſe zu ſein, daſs
-                    ich Ihnen (<hi rend="underline" n="2">unverſchuldet</hi>!) ſolche
-                    Unannehmlichkeiten bereite – aber mich ſelbſt <pb facs="MS-SCHNITZLER-B-00055-000-00017"/>berührt die Angelegenheit noch <hi rend="underline" n="2">viel</hi> unangenehmer. <hi rend="underline" n="2">Selbſtverſtändlich</hi>
-               <space unit="chars" quantity="1"/>ſchreibe ich ſofort dem <rs ref="#29625" type="org">Magazin</rs> u. erſuche um Aufklärung. Der <add place="above">
-                  <rs ref="#2871" type="person">Entſch</rs>
-               </add>brief liegt bei. Ich bin mit den herzlichſten Grüßen Ihr</p>
-            <closer>
-               <signed>KarlKraus.</signed>
-            </closer>
-            <postscript>
-               <p>
-                  <hi rend="underline" n="2">NB.</hi> um von freundlicheren Sachen zu
-                        ſprechen: <rs ref="#10863" type="person">Beer Hofmann</rs>s »<rs type="work" ref="#30437" subtype="implied">Kind</rs>« iſt ein prächtiger, geſunder
-                        Bengel. Der grauſame Vater will es – <anchor xml:id="K_L00255_2" type="commentary"/>verlegen<note xml:id="K_L00255_2h" type="commentary">
-                     <bibl>
-                        <rs ref="#10863" type="person">Richard Beer-Hofmann</rs>: <rs ref="#32832" type="work">Novellen</rs>. Berlin:
-                                    <publisher>Freund <c rendition="#kaufmannsund"/>
-                                    Jeckel</publisher>
-                        <space unit="chars" quantity="1"/>
-                        <date>1893</date>
-                     </bibl>. Enthält: <rs ref="#30437" type="work">Das Kind</rs> und <rs ref="#30177" type="work">Camelias</rs>. Erschienen <date>Anfang
-                                Dezember 1893</date>.</note> laſſen.</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-11-22">Angelegt</change><change who="MAM" when="2018-11-24">Index check</change><change who="GHS" when="2019-04-04">Korrektur gelesen, facs aktualisiert,
+                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00055-000-00017"/><graphic url="MS-SCHNITZLER-B-00055-000-00018"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline><pb facs="MS-SCHNITZLER-B-00055-000-00017"/><rs ref="#pmb1219" type="place">Ischl, Ramsauer</rs>, <date>12. 8. 93</date>.</dateline></opener><p><salute>Lieb<c rendition="#langesS">s</c>ter Doktor! </salute>Eben holte ich mir von der Post den Brief u. beeile mich, Ihnen auf Ihr Schreiben zu antworten: ich bin über die Auskunft des Herrn <rs ref="#pmb2871" type="person">Ent<c rendition="#langesS">s</c>ch</rs> ganz paff – es i<c rendition="#langesS">s</c>t mir <hi rend="underline" n="1">nie im Traume eingefallen</hi>, dem <rs ref="#pmb29625" type="org">Magazin</rs> eine derartige aus der Luft gegriffene <anchor xml:id="K_L00255_1" type="commentary"/><rs type="work" ref="#pmb33532" subtype="implied">Mittheilung</rs><note xml:id="K_L00255_1h" type="commentary">Auf S. 469 der Nr. 29 vom <date>22. 7. 1893</date><space unit="chars" quantity="1"/>stand: »<quote>Am <rs ref="#pmb35053" type="org">Lessingtheater</rs> kommen ferner noch im Laufe des Sommers ein Drama von <rs ref="#pmb5684" type="person"><hi rend="spaced_out">Fedor von Zobeltitz</hi></rs>: ›<rs ref="#pmb33530" type="work">Ohne Geläut</rs>‹ und ein dreiaktiges Schauspiel von <hi rend="antiqua">Dr</hi>. <rs ref="#pmb2121" type="person">Arthur <hi rend="spaced_out">Schnitzler</hi></rs> in <rs ref="#pmb50" type="place">Wien</rs>: ›<rs ref="#pmb29823" type="work">Das Märchen</rs>‹, zur Aufführung.</quote>«</note> zu machen – das wäre dann eine höch<c rendition="#langesS">s</c>t abge<c rendition="#langesS">s</c>chmackte Fopperei <add place="above">von</add> meiner Seite gewe<c rendition="#langesS">s</c>en, wenn ich Ihnen dann »freudig <hi rend="underline" n="1">überra<c rendition="#langesS">s</c>cht</hi>« das Blatt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicken konnte: »Sehen Sie, da<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>teht was über das ›<rs ref="#pmb29823" type="work">Märchen</rs>‹ drin!« Wie ge<c rendition="#langesS">s</c>agt, lieb<c rendition="#langesS">s</c>ter Herr Doktor, <hi rend="underline" n="2">nie und nimmer</hi> würde mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oetwas einfallen, ich habe <hi rend="underline" n="2">nie</hi> (Sie wi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en ja, bei <pb facs="MS-SCHNITZLER-B-00055-000-00018"/><rs ref="#pmb30005" type="work">Ab<c rendition="#langesS">s</c>chiedssouper</rs> habe ich Sie zu erst brieflich befragt) Herrn <rs ref="#pmb12348" type="person">Neumann-Hofer</rs> den Aufführungstermin Ihres <rs ref="#pmb29823" type="work">Märchen</rs> ge<c rendition="#langesS">s</c>chrieben: das wäre doch meiner<c rendition="#langesS">s</c>eits eine recht unge<c rendition="#langesS">s</c>chickte Reklame für Sie gewe<c rendition="#langesS">s</c>en. Das Ganze mu<c rendition="#langesS">s</c>s unbedingt auf einem <hi rend="underline" n="1">Irrthum</hi> beruhen, vielleicht erklärt es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich daraus, da<c rendition="#langesS">s</c>s ich einmal – Sie haben’s ja gele<c rendition="#langesS">s</c>en – im <rs ref="#pmb40968" type="work">Magazin</rs> gelegentlich der <rs type="work" ref="#pmb33444" subtype="implied"><rs ref="#pmb29935" type="work">Anatol</rs>-recen<c rendition="#langesS">s</c>ion</rs> auch Ihr <rs ref="#pmb29823" type="work"><hi rend="underline" n="1">Märchen</hi></rs> als beachtenswertes Schauspiel erwähnte.</p><p>Mir i<c rendition="#langesS">s</c>t die ganze Sache <hi rend="underline" n="2"><c rendition="#langesS">s</c>ehr peinlich</hi>, glauben Sie mir! <pb facs="MS-SCHNITZLER-B-00055-000-00018"/>Jawohl, wenn Sie mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t den <del rend="strikethrough">I</del> Inhalt die<c rendition="#langesS">s</c>er vielbe<c rendition="#langesS">s</c>prochenen <rs type="work" ref="#pmb33532" subtype="implied"><rs ref="#pmb29823" type="work">Märchen</rs>notiz</rs> ge<c rendition="#langesS">s</c>agt hätten, mit Vergnügen <hi rend="underline" n="2">hätte</hi> ich, um Ihnen zu dienen, dem <rs ref="#pmb29625" type="org">Magazin</rs> die Notiz mitgetheilt – aber<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o – wie werde ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o plump<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o etwas aus der Luft zu greifen oder aus dem Finger zu zutzeln und dann Ihnen das Heft mit »freudig–überraschter« Miene noch zu<add place="above">zu</add>senden? Ich bitte Sie, mir nicht bö<c rendition="#langesS">s</c>e zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, da<c rendition="#langesS">s</c>s ich Ihnen (<hi rend="underline" n="2">unver<c rendition="#langesS">s</c>chuldet</hi>!)<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olche Unannehmlichkeiten bereite – aber mich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t <pb facs="MS-SCHNITZLER-B-00055-000-00017"/>berührt die Angelegenheit noch <hi rend="underline" n="2">viel</hi> unangenehmer. <hi rend="underline" n="2">Selb<c rendition="#langesS">s</c>tver<c rendition="#langesS">s</c>tändlich</hi><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>chreibe ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ofort dem <rs ref="#pmb29625" type="org">Magazin</rs> u. er<c rendition="#langesS">s</c>uche um Aufklärung. Der <add place="above"><rs ref="#pmb2871" type="person">Ent<c rendition="#langesS">s</c>ch</rs></add>brief liegt bei. Ich bin mit den herzlich<c rendition="#langesS">s</c>ten Grüßen Ihr</p><closer><signed>KarlKraus.</signed></closer><postscript><p><hi rend="underline" n="2">NB.</hi> um von freundlicheren Sachen zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>prechen: <rs ref="#pmb10863" type="person">Beer Hofmann</rs>s »<rs type="work" ref="#pmb30437" subtype="implied">Kind</rs>« i<c rendition="#langesS">s</c>t ein prächtiger, ge<c rendition="#langesS">s</c>under Bengel. Der grau<c rendition="#langesS">s</c>ame Vater will es – <anchor xml:id="K_L00255_2" type="commentary"/>verlegen<note xml:id="K_L00255_2h" type="commentary"><bibl><rs ref="#pmb10863" type="person">Richard Beer-Hofmann</rs>: <rs ref="#pmb32832" type="work">Novellen</rs>. Berlin: <publisher>Freund <c rendition="#kaufmannsund"/> Jeckel</publisher><space unit="chars" quantity="1"/><date>1893</date></bibl>. Enthält: <rs ref="#pmb30437" type="work">Das Kind</rs> und <rs ref="#pmb30177" type="work">Camelias</rs>. Erschienen <date>Anfang Dezember 1893</date>.</note> la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en.</p></postscript></div></body><back><listPerson><person xml:id="pmb11988">
+                  <tei:persName>
+                     <tei:surname>Kraus</tei:surname>
+                     <tei:forename>Karl</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-04-28">28. 4. 1874</tei:date>
+                     <tei:placeName ref="#pmb41660">Jičín</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1936-06-12">12. 6. 1936</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="237">Publizist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118566288/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2871">
+                  <tei:persName>
+                     <tei:surname>Entsch</tei:surname>
+                     <tei:forename>Theodor</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1853-01-17">17. 1. 1853</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1913-12-19">19. 12. 1913</tei:date>
+                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
+                  </tei:death>
+                  <occupation code="144">Verleger*in</occupation>
+                  <occupation code="199">Theateragent</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116506695/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14766</idno>
+               </person><person xml:id="pmb5684">
+                  <tei:persName>
+                     <tei:surname>Zobeltitz</tei:surname>
+                     <tei:forename>Fedor von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1857-10-05">5. 10. 1857</tei:date>
+                     <tei:placeName ref="#pmb5685">Poźrzadło</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-02-10">10. 2. 1934</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119256096/</idno>
+               </person><person xml:id="pmb12348">
+                  <tei:persName>
+                     <tei:surname>Neumann-Hofer</tei:surname>
+                     <tei:forename>Gilbert Otto</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1857-02-04">4. 2. 1857</tei:date>
+                     <tei:placeName ref="#pmb12349">Lappienen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1941-04-14">14. 4. 1941</tei:date>
+                     <tei:placeName ref="#pmb45808">Detmold</tei:placeName>
+                  </tei:death>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/124116221/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18426</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb33532">
+                  <tei:title>[Meldung: Märchen im Lessingtheater]</tei:title>
+                  <tei:date from="1893-07-22" from-custom="22.07.1893">22. 7. 1893</tei:date>
+                  <tei:gloss type="w1352">Notiz</tei:gloss>
+                  <tei:note>3398</tei:note>
+               </bibl><bibl xml:id="pmb33530">
+                  <tei:author ref="pmb5684" role="author">
+                     <tei:surname>Zobeltitz</tei:surname>
+                     <tei:forename>Fedor von</tei:forename>
+                  </tei:author>
+                  <tei:title>Ohne Geläut</tei:title>
+                  <tei:date from="1894-01-01" from-custom="1894">1894</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb29823">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Das Märchen. Schauspiel in drei Aufzügen</tei:title>
+                  <tei:date when="1891-01-01" when-custom="1891">1891</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>6299</tei:note>
+                  <tei:note>8984</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1169917/</idno>
+               </bibl><bibl xml:id="pmb30005">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb2242" role="translator">
+                     <tei:surname>Levi</tei:surname>
+                     <tei:forename>Cesare</tei:forename>
+                     <tei:term>[Übersetzung]</tei:term>
+                  </tei:author>
+                  <tei:title>Abschiedssouper</tei:title>
+                  <tei:date from="1892-01-01" from-custom="1892">1892</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+               </bibl><bibl xml:id="pmb40968">
+                  <tei:title>Magazin für die Literatur des Auslandes</tei:title>
+                  <tei:date from="1832-01-01" from-custom="1832" to="1915-01-01" to-custom="1915">1832–1915</tei:date>
+                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
+                  <tei:note>6640</tei:note>
+                  <tei:note>7078</tei:note>
+               </bibl><bibl xml:id="pmb33444">
+                  <tei:author ref="pmb11988" role="author">
+                     <tei:surname>Kraus</tei:surname>
+                     <tei:forename>Karl</tei:forename>
+                  </tei:author>
+                  <tei:title>Wiener Dichter</tei:title>
+                  <tei:date from="1893-05-06" from-custom="06.05.1893">6. 5. 1893</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>3378</tei:note>
+               </bibl><bibl xml:id="pmb29935">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb28645" role="illustrator">
+                     <tei:surname>Coschell</tei:surname>
+                     <tei:forename>Moritz</tei:forename>
+                     <tei:term>[Illustrationen]</tei:term>
+                  </tei:author>
+                  <tei:author ref="pmb5369" role="translator">
+                     <tei:surname>Granville-Barker</tei:surname>
+                     <tei:forename>Harley</tei:forename>
+                     <tei:term>[Übersetzung]</tei:term>
+                  </tei:author>
+                  <tei:title>Anatol</tei:title>
+                  <tei:date when="1892-10-29" when-custom="1892-10-29">29. 10. 1892</tei:date>
+                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q487409/</idno>
+               </bibl><bibl xml:id="pmb30437">
+                  <tei:author ref="pmb10863" role="author">
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:author>
+                  <tei:title>Das Kind</tei:title>
+                  <tei:date from="1893-01-01" from-custom="1893">1893</tei:date>
+                  <tei:gloss type="w1340">Novelle</tei:gloss>
+               </bibl><bibl xml:id="pmb32832">
+                  <tei:author ref="pmb10863" role="author">
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:author>
+                  <tei:title>Novellen</tei:title>
+                  <tei:date from="1893-12-01" from-custom="1.12.1893">1. 12. 1893</tei:date>
+                  <tei:gloss type="w1098">Novellensammlung</tei:gloss>
+               </bibl><bibl xml:id="pmb30177">
+                  <tei:author ref="pmb10863" role="author">
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:author>
+                  <tei:title>Camelias</tei:title>
+                  <tei:date from="1893-01-01" from-custom="1893">1893</tei:date>
+                  <tei:gloss type="w1340">Novelle</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb213">
+                  <tei:placeName>Bad Ischl</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782052/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb1219">
+                  <tei:placeName>Ramsauer Garni Café</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1826-07-02" from-custom="1826-07-02">2. 7. 1826</tei:date>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.71247 13.62311</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb29625">
+                  <tei:orgName>Magazin für die Literatur des Auslandes</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb35053">
+                  <tei:orgName>Lessing-Theater</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1888-01-01" from-custom="1888" to-custom="4.1945 &lt;1945-04&gt;">1888 – 4.1945 </tei:date>
+                     <tei:gloss ana="i1047">Theaterunternehmen</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb18">
+                     <tei:placeName>Lessing-Theater</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.5225 13.376389</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb34999">
+                     <tei:placeName>Kapelle-Ufer</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52315 13.374789</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

@@ -1,179 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00268"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, [zwischen 5. 10. und
-               14. 11. 1893]</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00268</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00268" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, [zwischen 5. 10. und
+               14. 11. 1893]</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00268</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter">Briefpapier mit Trauerrand</desc>
-                           <desc n="2" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="deutsche-kurrent"/>
-                        </handDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date notBefore="1893-10-05" notAfter="1893-11-14" n="01">[zwischen 5. 10. und
-                  14. 11. 1893]</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00267">Kraus, Rosner, Schaumberger an Schnitzler, 30. 9. 1893</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00269">Hofmannsthal an Schnitzler, [12. 10. 1893]</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00264">Schnitzler, Goldmann an Beer-Hofmann, 18. 9. 1893</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00270">Schnitzler an Beer-Hofmann, 13. 10. 1893</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6C2D-8</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter">Briefpapier mit Trauerrand</desc><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date notBefore="1893-10-05" notAfter="1893-11-14" n="01">[zwischen 5. 10. und
+                  14. 11. 1893]</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00267">Kraus, Rosner, Schaumberger an Schnitzler, 30. 9. 1893</ref><ref subtype="next_letter" type="withinCollection" target="L00269">Hofmannsthal an Schnitzler, [12. 10. 1893]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00264">Schnitzler, Goldmann an Beer-Hofmann, 18. 9. 1893</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00270">Schnitzler an Beer-Hofmann, 13. 10. 1893</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2019-10-02">angelegt aus Faksimile</change>
-         <change who="MAM" when="2019-10-03">Durchsicht</change>
-         <change who="MAM" when="2019-10-22">Durchsicht</change>
-         <change who="MAM" when="2019-10-28">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1893_AS_RBH_3_00013"/>
-      <graphic url="1893_AS_RBH_3_00014"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <salute>
-                  <pb facs="1893_AS_RBH_3_00013"/>Lieber Richard,</salute>
-            </opener>
-            <p>bitte ſehr, ſenden Sie durch Ueberbringer dieſes den <anchor xml:id="K_L00268_1" type="commentary"/>
-               <rs ref="#12570" type="person">
-                  <hi rend="latintype">Rosé</hi>
-               </rs>ſitz<note xml:id="K_L00268_1h" type="commentary">
-                  <rs ref="#12570" type="person">Arnold Rosé</rs> 
-               war ein beliebter Violinist, dessen Aufführungen <rs ref="#2121" type="person">Schnitzler</rs> gerne besuchte. Ein offensichtliches
-                  Konzert bietet sich in dem Zeitraum aber nicht an, doch trat <rs ref="#12570" type="person">Rosé</rs> mehrmals als Begleitmusiker
-                  auf. Möglicherweise handelt es sich aber auch um bei <rs ref="#42491" type="org">Alexander Rosé Concertbureau</rs> besorgte
-               Karten für eine musikalische Vorführung?</note>, den Sie wohl noch bei ſich haben,
-                  <pb facs="1893_AS_RBH_3_00014"/>
-               <hi rend="latintype">
-                  <anchor xml:id="K_L00268_2" type="commentary"/>
-                  <rs ref="#274" type="place">Burgring 1</rs>
-                  <note xml:id="K_L00268_2h" type="commentary">Das
-                     undatierte Korrespondenzstück ist mit Trauerrand versehen und damit nach dem Tod des 
-                        <rs ref="#12695" type="person" subtype="implied">Vaters</rs> anzusetzen. Da <rs ref="#2121" type="person">Schnitzler</rs> für
-                        fünf Monate nicht ins Theater ging und am <date>15. 11. 1893</date> übersiedelte,
-                        lässt sich das mögliche Zeitfenster weiter eingrenzen.</note>
-               </hi>. – (an meinen
-               Namen)</p>
-            <closer>Herzlich<lb/>Ihr <signed>Arthur.</signed>
-            </closer>
-            <postscript>
-               <p>Seh ich Sie heut Abend? hoffentlich</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-10-02">angelegt aus Faksimile</change><change who="MAM" when="2019-10-03">Durchsicht</change><change who="MAM" when="2019-10-22">Durchsicht</change><change who="MAM" when="2019-10-28">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="1893_AS_RBH_3_00013"/><graphic url="1893_AS_RBH_3_00014"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="1893_AS_RBH_3_00013"/>Lieber Richard,</salute></opener><p>bitte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>enden Sie durch Ueberbringer die<c rendition="#langesS">s</c>es den <anchor xml:id="K_L00268_1" type="commentary"/><rs ref="#pmb12570" type="person"><hi rend="latintype">Rosé</hi></rs><c rendition="#langesS">s</c>itz<note xml:id="K_L00268_1h" type="commentary"><rs ref="#pmb12570" type="person">Arnold Rosé</rs> war ein beliebter Violinist, dessen Aufführungen <rs ref="#pmb2121" type="person">Schnitzler</rs> gerne besuchte. Ein offensichtliches Konzert bietet sich in dem Zeitraum aber nicht an, doch trat <rs ref="#pmb12570" type="person">Rosé</rs> mehrmals als Begleitmusiker auf. Möglicherweise handelt es sich aber auch um bei <rs ref="#pmb42491" type="org">Alexander Rosé Concertbureau</rs> besorgte Karten für eine musikalische Vorführung?</note>, den Sie wohl noch bei<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich haben, <pb facs="1893_AS_RBH_3_00014"/><hi rend="latintype"><anchor xml:id="K_L00268_2" type="commentary"/><rs ref="#pmb274" type="place">Burgring 1</rs><note xml:id="K_L00268_2h" type="commentary">Das undatierte Korrespondenzstück ist mit Trauerrand versehen und damit nach dem Tod des <rs ref="#pmb12695" type="person" subtype="implied">Vaters</rs> anzusetzen. Da <rs ref="#pmb2121" type="person">Schnitzler</rs> für fünf Monate nicht ins Theater ging und am <date>15. 11. 1893</date> übersiedelte, lässt sich das mögliche Zeitfenster weiter eingrenzen.</note></hi>. – (an meinen Namen)</p><closer>Herzlich<lb/>Ihr <signed>Arthur.</signed></closer><postscript><p>Seh ich Sie heut Abend? hoffentlich</p></postscript></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb12570">
+                  <tei:persName>
+                     <tei:surname>Rosé</tei:surname>
+                     <tei:forename>Arnold</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-10-24">24. 10. 1863</tei:date>
+                     <tei:placeName ref="#pmb38876">Iaşi</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1946-08-25">25. 8. 1946</tei:date>
+                     <tei:placeName ref="#pmb224">London</tei:placeName>
+                  </tei:death>
+                  <occupation code="411">Violinist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116608943/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19351</idno>
+               </person><person xml:id="pmb12695">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Johann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1835-04-10">10. 4. 1835</tei:date>
+                     <tei:placeName ref="#pmb45549">Nagykanizsa</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1893-05-02">2. 5. 1893</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="132">Laryngologe/in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848669/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19824</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb274">
+                  <tei:placeName>Burgring</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.204946202715 16.362166500158</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb42491">
+                  <tei:orgName>Alexander Rosé Concertbüro</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i981">Kartenbüro</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb501">
+                     <tei:placeName>Kärntnerring</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.201874800905 16.371985203093</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb51">
+                     <tei:placeName>I., Innere Stadt</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

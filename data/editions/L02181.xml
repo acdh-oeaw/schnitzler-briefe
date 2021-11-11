@@ -1,277 +1,277 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02181"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Hermann Bahr, 12. 6. 1914</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L02181</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02181" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, 12. 6. 1914</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L02181</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Theatermuseum</repository>
-                        <idno>HS AM 23395 Ba</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="2" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="nicht_anzuwenden">
-                              <p>Korrekturen, Unterschrift</p>
-                           </handNote>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Schreibmaschine</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-               <witness n="2">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Marbach am Neckar</settlement>
-                        <repository>Deutsches Literaturarchiv</repository>
-                        <idno>A:Schnitzler, 85.1.294/5</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc type="reproduktion" subtype="durchschlag"/>
-                        </objectDesc>
-                        <typeDesc>
-                           <p>Schreibmaschine</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASB2">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefe 1913–1931</title>
-                     <editor>Braunwarth, Peter Michael</editor>
-                     <editor>Miklin, Richard</editor>
-                     <editor>Pertlik, Susanne</editor>
-                     <editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1984">1984</date>
-                     </imprint>
-                     <biblScope unit="pp">43</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct corresp="DASB">
-                  <analytic>
-                     <title level="a">12. 6. 1914</title>
-                  </analytic>
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
-                     <editor>Edited, annotated, and with an introduction, by Donald G.
-                        Daviau</editor>
-                     <imprint>
-                        <pubPlace>Chapel Hill</pubPlace>
-                        <publisher>The University of North Carolina Press</publisher>
-                        <date when="1978">1978</date>
-                     </imprint>
-                     <biblScope unit="pp">113</biblScope>
-                  </monogr>
-                  <series>
-                     <title level="s">University of North Carolina studies in the Germanic languages
-                        and literatures</title>
-                     <biblScope unit="nr">89</biblScope>
-                  </series>
-               </biblStruct>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">494</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1914-06-12" n="01">12. 6. 1914</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10815">Bahr, Hermann</persName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02555">Schnitzler,
-                  Schnitzler an Beer-Hofmann, Beer-Hofmann, 24. 5. 1914</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02182">Hofmannsthal an
-                  Schnitzler, [13. 6. 1914]</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L02169">Schnitzler
-                  an Bahr, 30. 3. 1914</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02183">Bahr an
-                  Schnitzler, 14. 6. 1914</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-73A5-6</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 23395 Ba</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="nicht_anzuwenden"><p>Korrekturen, Unterschrift</p></handNote></handDesc><typeDesc><p>Schreibmaschine</p></typeDesc></physDesc></msDesc></witness><witness n="2"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, 85.1.294/5</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc type="reproduktion" subtype="durchschlag"/></objectDesc><typeDesc><p>Schreibmaschine</p></typeDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASB2"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefe 1913–1931</title><editor>Braunwarth, Peter Michael</editor><editor>Miklin, Richard</editor><editor>Pertlik, Susanne</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1984">1984</date></imprint><biblScope unit="pp">43</biblScope></monogr></biblStruct><biblStruct corresp="DASB"><analytic><title level="a">12. 6. 1914</title></analytic><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title><editor>Edited, annotated, and with an introduction, by Donald G.
+                        Daviau</editor><imprint><pubPlace>Chapel Hill</pubPlace><publisher>The University of North Carolina Press</publisher><date when="1978">1978</date></imprint><biblScope unit="pp">113</biblScope></monogr><series><title level="s">University of North Carolina studies in the Germanic languages
+                        and literatures</title><biblScope unit="nr">89</biblScope></series></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">494</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1914-06-12" n="01">12. 6. 1914</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L02555">Schnitzler,
+                  Schnitzler an Beer-Hofmann, Beer-Hofmann, 24. 5. 1914</ref><ref subtype="next_letter" type="withinCollection" target="L02182">Hofmannsthal an
+                  Schnitzler, [13. 6. 1914]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02169">Schnitzler
+                  an Bahr, 30. 3. 1914</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02183">Bahr an
+                  Schnitzler, 14. 6. 1914</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-10-01">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-11">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-         <change who="GHS" when="2020-03-23">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS_AM23395Ba"/>
-      <graphic url="HS_AM23395Ba_R"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <seg rend="left">
-                     <pb facs="https://www.theatermuseum.at/de/object/9ceb5ab45e/"/>
-                     <hi rend="pre-print">Dr. Arthur Schnitzler</hi>
-                  </seg>
-                  <seg rend="right">
-                     <date>12. 6. 1914</date>. </seg>
-               </p>
-               <p>
-                  <hi rend="pre-print">
-                     <rs ref="#150" type="place">Wien XVIII. Sternwartestrasse 71</rs>
-                  </hi>
-               </p>
-               <salute>Lieber Hermann.</salute>
-            </opener>
-            <p>Wie Dir ja bekannt ist war der »<rs ref="#29855" type="work">Reigen</rs>« bisher in
-                  <rs ref="#151" type="place">Deutschland</rs> ein verbotenes Buch. Nun soll von dem
-               Verlag <rs ref="#29369" type="org">J. Singer <c rendition="#kaufmannsund"/> Co.</rs>,
-                  <rs ref="#168" type="place">Berlin</rs>, eine <anchor xml:id="K_L02181_1"
-                  type="commentary"/>Neuauflage<note xml:id="K_L02181_1h" type="commentary"
-                  >Eine Titelauflage der Erstausgabe im <rs ref="#29636" type="org">Wiener Verlag</rs>,
-                  erschienen ohne Jahresangabe. Das heißt, dass Seiten des ursprünglichen Druckes verwendet werden, aber mit einem
-                  neuen Titel und Umschlag versehen sind.
-                  Selbst die Verlagswerbung deutet auf das
-                  ursprüngliche Erscheinen (»<quote>Im gleichen Verlag erscheint von <rs ref="#2121"
-                        type="person">Arthur Schnitzler</rs>
-                  </quote>«), ebenso die Hinweise auf die Auflage: »<quote>44.–46.
-                  Tausend</quote>«.</note> veröffentlicht werden, deren Beschlagnahme vorauszusehen
-               ist, und es kommt dem Verlag darauf an bei einem eventuell bevorstehenden Prozess
-               etliche <anchor xml:id="K_L02181_2" type="commentary"/>Gutachten<note
-                  xml:id="K_L02181_2h" type="commentary">Die Briefe der Genannten und ein weiterer
-                  von <rs ref="#11581" type="person">Maximilian Harden</rs> finden sich in der Mappe
-                     <bibl>B 128 in der <publisher>Cambridge University Library</publisher>
-                     (»Opinions on Reigen«)</bibl>.</note> zur Verfügung zu haben. Solche von <rs
-                  ref="#12092" type="person">Liszt</rs>, <rs ref="#2263" type="person"
-                  >Lilienthal</rs>, <rs ref="#11273" type="person">Eulenburg</rs>, <rs ref="#12778"
-                  type="person">Simmel</rs>, <rs ref="#12068" type="person">Liebermann</rs>, <rs
-                  ref="#11391" type="person">Fulda</rs> liegen schon vor (in zum Teil ganz
-               überraschend günstigem Sinne, muss ich sagen); und da der Verlag doch gern auch aus
-                  <rs ref="#41240" type="place">Oesterreich</rs> etwas in der Art möchte vorweisen
-               können, so fiel mir ein, dass vor Jahren, als dir einmal die öffentliche Vorlesung
-               des »<rs ref="#29855" type="work">Reigen</rs>« untersagt wurde, <rs ref="#11036"
-                  type="person">Burckhardt</rs> einen Rekurs eingebracht hat, der sich vielleicht
-               noch in Deinem Besitze finden mag. Ich frage Dich nun, ob Du dem Verlag <rs
-                  ref="#29369" type="org">J. Singer</rs>, wenn er sich <pb
-                  facs="https://www.theatermuseum.at/de/object/9ceb5ab45e/"/>mit entsprechender
-               Bitte an Dich wenden sollte, jenes Schriftstück zu eventueller Benützung vor Gericht
-               auszufolgen geneigt wärest? </p>
-            <closer>Mit herzlichem Gruss<lb/>Dein<lb/>
-               <signed>
-                  <handShift/>Arthur</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-11">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-03-23">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23395Ba"/><graphic url="HS_AM23395Ba_R"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="https://www.theatermuseum.at/de/object/9ceb5ab45e/"/><hi rend="pre-print">Dr. Arthur Schnitzler</hi></seg><seg rend="right"><date>12. 6. 1914</date>. </seg></p><p><hi rend="pre-print"><rs ref="#pmb150" type="place">Wien XVIII. Sternwartestrasse 71</rs></hi></p><salute>Lieber Hermann.</salute></opener><p>Wie Dir ja bekannt ist war der »<rs ref="#pmb29855" type="work">Reigen</rs>« bisher in <rs ref="#pmb151" type="place">Deutschland</rs> ein verbotenes Buch. Nun soll von dem Verlag <rs ref="#pmb29369" type="org">J. Singer <c rendition="#kaufmannsund"/> Co.</rs>, <rs ref="#pmb168" type="place">Berlin</rs>, eine <anchor xml:id="K_L02181_1" type="commentary"/>Neuauflage<note xml:id="K_L02181_1h" type="commentary">Eine Titelauflage der Erstausgabe im <rs ref="#pmb29636" type="org">Wiener Verlag</rs>, erschienen ohne Jahresangabe. Das heißt, dass Seiten des ursprünglichen Druckes verwendet werden, aber mit einem neuen Titel und Umschlag versehen sind. Selbst die Verlagswerbung deutet auf das ursprüngliche Erscheinen (»<quote>Im gleichen Verlag erscheint von <rs ref="#pmb2121" type="person">Arthur Schnitzler</rs></quote>«), ebenso die Hinweise auf die Auflage: »<quote>44.–46. Tausend</quote>«.</note> veröffentlicht werden, deren Beschlagnahme vorauszusehen ist, und es kommt dem Verlag darauf an bei einem eventuell bevorstehenden Prozess etliche <anchor xml:id="K_L02181_2" type="commentary"/>Gutachten<note xml:id="K_L02181_2h" type="commentary">Die Briefe der Genannten und ein weiterer von <rs ref="#pmb11581" type="person">Maximilian Harden</rs> finden sich in der Mappe <bibl>B 128 in der <publisher>Cambridge University Library</publisher> (»Opinions on Reigen«)</bibl>.</note> zur Verfügung zu haben. Solche von <rs ref="#pmb12092" type="person">Liszt</rs>, <rs ref="#pmb2263" type="person">Lilienthal</rs>, <rs ref="#pmb11273" type="person">Eulenburg</rs>, <rs ref="#pmb12778" type="person">Simmel</rs>, <rs ref="#pmb12068" type="person">Liebermann</rs>, <rs ref="#pmb11391" type="person">Fulda</rs> liegen schon vor (in zum Teil ganz überraschend günstigem Sinne, muss ich sagen); und da der Verlag doch gern auch aus <rs ref="#pmb41240" type="place">Oesterreich</rs> etwas in der Art möchte vorweisen können, so fiel mir ein, dass vor Jahren, als dir einmal die öffentliche Vorlesung des »<rs ref="#pmb29855" type="work">Reigen</rs>« untersagt wurde, <rs ref="#pmb11036" type="person">Burckhardt</rs> einen Rekurs eingebracht hat, der sich vielleicht noch in Deinem Besitze finden mag. Ich frage Dich nun, ob Du dem Verlag <rs ref="#pmb29369" type="org">J. Singer</rs>, wenn er sich <pb facs="https://www.theatermuseum.at/de/object/9ceb5ab45e/"/>mit entsprechender Bitte an Dich wenden sollte, jenes Schriftstück zu eventueller Benützung vor Gericht auszufolgen geneigt wärest? </p><closer>Mit herzlichem Gruss<lb/>Dein<lb/><signed><handShift/>Arthur</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb11581">
+                  <tei:persName>
+                     <tei:surname>Harden</tei:surname>
+                     <tei:forename>Maximilian</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-10-20">20. 10. 1861</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-10-30">30. 10. 1927</tei:date>
+                     <tei:placeName ref="#pmb11583">Montana-Vermala</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="237">Publizist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118545892/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15919</idno>
+               </person><person xml:id="pmb12092">
+                  <tei:persName>
+                     <tei:surname>Liszt</tei:surname>
+                     <tei:forename>Franz von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1851-03-02">2. 3. 1851</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1919-06-21">21. 6. 1919</tei:date>
+                     <tei:placeName ref="#pmb12094">Seeheim</tei:placeName>
+                  </tei:death>
+                  <occupation code="102">Rechtswissenschaftler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118573519/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17594</idno>
+               </person><person xml:id="pmb2263">
+                  <tei:persName>
+                     <tei:surname>Lilienthal</tei:surname>
+                     <tei:forename>Karl von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1853-08-31">31. 8. 1853</tei:date>
+                     <tei:placeName ref="#pmb903">Elberfeld</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-11-08">8. 11. 1927</tei:date>
+                     <tei:placeName ref="#pmb882">Heidelberg</tei:placeName>
+                  </tei:death>
+                  <occupation code="102">Rechtswissenschaftler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118834193/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17549</idno>
+               </person><person xml:id="pmb11273">
+                  <tei:persName>
+                     <tei:surname>Eulenberg</tei:surname>
+                     <tei:forename>Herbert</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1876-01-25">25. 1. 1876</tei:date>
+                     <tei:placeName ref="#pmb11274">Mülheim</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1949-09-04">4. 9. 1949</tei:date>
+                     <tei:placeName ref="#pmb863">Düsseldorf</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118682636/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14821</idno>
+               </person><person xml:id="pmb12778">
+                  <tei:persName>
+                     <tei:surname>Simmel</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1858-03-01">1. 3. 1858</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1918-09-26">26. 9. 1918</tei:date>
+                     <tei:placeName ref="#pmb319">Straßburg</tei:placeName>
+                  </tei:death>
+                  <occupation code="154">Philosoph*in</occupation>
+                  <occupation code="170">Soziologe/in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118614436/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20113</idno>
+               </person><person xml:id="pmb12068">
+                  <tei:persName>
+                     <tei:surname>Liebermann</tei:surname>
+                     <tei:forename>Max</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1847-07-20">20. 7. 1847</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-02-08">8. 2. 1935</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="110">Maler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118572695/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17517</idno>
+               </person><person xml:id="pmb11391">
+                  <tei:persName>
+                     <tei:surname>Fulda</tei:surname>
+                     <tei:forename>Ludwig</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-07-15">15. 7. 1862</tei:date>
+                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-03-30">30. 3. 1939</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="116">Übersetzer*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118840452/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15306</idno>
+               </person><person xml:id="pmb11036">
+                  <tei:persName>
+                     <tei:surname>Burckhard</tei:surname>
+                     <tei:forename>Max Eugen</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1854-07-14">14. 7. 1854</tei:date>
+                     <tei:placeName ref="#pmb11037">Korneuburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1912-03-16">16. 3. 1912</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="102">Rechtswissenschaftler*in</occupation>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117161144/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14065</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29855">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Reigen. Zehn Dialoge</tei:title>
+                  <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>11660</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/ "Q1414190"/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb150">
+                  <tei:placeName>Sternwartestraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb151">
+                  <tei:placeName>Deutschland</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.5 10.5</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2921044/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q183/</idno>
+               </place><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb41240">
+                  <tei:placeName>Österreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29369">
+                  <tei:orgName>J. Singer &amp; Co.</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb29636">
+                  <tei:orgName>Wiener Verlag</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb864">
+                     <tei:placeName>Leipzig</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">51.33962 12.37129</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

@@ -1,200 +1,166 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00062"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Oscar Blumenthal an Arthur Schnitzler, 16. 1. 1892</title>
-            <author ref="#14328">Blumenthal, Oscar</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00062</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00062" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Oscar Blumenthal an Arthur Schnitzler, 16. 1. 1892</title><author ref="#pmb14328">Blumenthal, Oscar</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00062</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 15</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter"/>
-                           <desc n="1" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc hands="2">
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"
-                              corresp="schreibkraft"/>
-                           <handNote corresp="#14328" medium="schwarze_tinte"
-                              style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit rotem Buntstift nummeriert: »<quote>2</quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert:
-                                 »<quote>2</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#14328">Blumenthal, Oscar</persName>
-               <placeName ref="#168">Berlin</placeName>
-               <date when="1892-01-16" n="01">16. 1. 1892</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#14328">Blumenthal, Oscar</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00061">Hofmannsthal
-                  an Schnitzler, 12. 1. 1892</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00063">Beer-Hofmann an
-                  Schnitzler, 18. 1. 1892</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L00052">Blumenthal
-                  an Schnitzler, 15. 12. 1891</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00077">Blumenthal an
-                  Schnitzler, [6. 3. 1892]</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6B5F-1</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 15</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="1" type="_seiten"/></objectDesc><handDesc hands="2"><handNote medium="schwarze_tinte" style="deutsche-kurrent" corresp="schreibkraft"/><handNote corresp="#pmb14328" medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit rotem Buntstift nummeriert: »<quote>2</quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
+                                 »<quote>2</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb14328">Blumenthal, Oscar</persName><placeName ref="#pmb168">Berlin</placeName><date when="1892-01-16" n="01">16. 1. 1892</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb14328">Blumenthal, Oscar</ref><ref subtype="previous_letter" type="withinCollection" target="L00061">Hofmannsthal
+                  an Schnitzler, 12. 1. 1892</ref><ref subtype="next_letter" type="withinCollection" target="L00063">Beer-Hofmann an
+                  Schnitzler, 18. 1. 1892</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00052">Blumenthal
+                  an Schnitzler, 15. 12. 1891</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00077">Blumenthal an
+                  Schnitzler, [6. 3. 1892]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2019-06-16">Angelegt</change>
-         <change who="MAM" when="2019-06-17">Durchsicht</change>
-         <change who="MAM" when="2019-06-18">Index check</change>
-         <change who="GHS" when="2019-09-11">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00015-000-00005"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="center">
-                  <pb facs="MS-SCHNITZLER-B-00015-000-00005"/>
-                  <hi rend="pre-print">
-                     <rs ref="#35053" type="org">LESSING-THEATER</rs>
-                  </hi>
-               </p>
-               <p rend="center">
-                  <hi rend="pre-print">Director:</hi>
-                  <lb/>
-                  <hi rend="pre-print">Dr. Oscar Blumenthal.</hi>
-               </p>
-               <p rend="right">
-                  <hi rend="pre-print">
-                     <rs ref="#168" type="place">Berlin N.W.</rs>, den</hi>
-                  <space unit="chars" quantity="1"/>
-                  <date>16. Januar <hi rend="pre-print">189</hi>2</date>.<lb/>
-                  <hi rend="pre-print">
-                     <rs ref="#34999" type="place">Friedrich-Carl-Ufer</rs>
-                  </hi>.</p>
-               <salute rend="center">Sehr geehrter Herr Doktor!</salute>
-            </opener>
-            <p>Die von Ihnen gewünſchte kritiſche Gloſſirung Ihres intereſſanten <rs type="work"
-                  ref="#29823" subtype="implied">Schauſpiels</rs> muß ich mir für den
-                  <date>Sommer</date> aufſparen, da ich gegenwärtig durch eine Fülle von anderen
-               dringenden Arbeiten zu ſehr in Anſpruch genommen bin. Jedenfalls rathe ich Ihnen
-               nochmals, ſich <anchor xml:id="K_L00062_1" type="commentary"/>mit Herrn <hi
-                  rend="latintype">
-                  <rs ref="#12491" type="person">Emanuel Reicher</rs>
-               </hi>
-               <note xml:id="K_L00062_1h" type="commentary">Laut <rs type="work" ref="#33243"
-                     >Tagebuch</rs> schrieb <rs type="person" ref="#2121">Schnitzler</rs> am <ref
-                     target="1892-01-24" type="schnitzlerDiary" subtype="date-only"/> an <rs
-                     ref="#12491" type="person">Reicher</rs>.</note> (<rs ref="#822" type="place">
-                  <hi rend="latintype">Berlin O.,</hi> Alexanderſtraße 30</rs>) wegen der Aufnahme
-               des <rs type="work" ref="#29823" subtype="implied">Werks</rs> in ſein <rs type="org"
-                  ref="#29252" subtype="implied">Ausſtellungsrepertoire</rs> in Verbindung zu
-               ſetzen.</p>
-            <closer>Hochachtungsvoll<lb/>
-               <signed>
-                  <handShift scribe="#14328"/>Dr. Osc. Blumenthal</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-06-16">Angelegt</change><change who="MAM" when="2019-06-17">Durchsicht</change><change who="MAM" when="2019-06-18">Index check</change><change who="GHS" when="2019-09-11">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00015-000-00005"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-00015-000-00005"/><hi rend="pre-print"><rs ref="#pmb35053" type="org">LESSING-THEATER</rs></hi></p><p rend="center"><hi rend="pre-print">Director:</hi><lb/><hi rend="pre-print">Dr. Oscar Blumenthal.</hi></p><p rend="right"><hi rend="pre-print"><rs ref="#pmb168" type="place">Berlin N.W.</rs>, den</hi><space unit="chars" quantity="1"/><date>16. Januar <hi rend="pre-print">189</hi>2</date>.<lb/><hi rend="pre-print"><rs ref="#pmb34999" type="place">Friedrich-Carl-Ufer</rs></hi>.</p><salute rend="center">Sehr geehrter Herr Doktor!</salute></opener><p>Die von Ihnen gewün<c rendition="#langesS">s</c>chte kriti<c rendition="#langesS">s</c>che Glo<c rendition="#langesS">s</c><c rendition="#langesS">s</c>irung Ihres intere<c rendition="#langesS">s</c><c rendition="#langesS">s</c>anten <rs type="work" ref="#pmb29823" subtype="implied">Schau<c rendition="#langesS">s</c>piels</rs> muß ich mir für den <date>Sommer</date> auf<c rendition="#langesS">s</c>paren, da ich gegenwärtig durch eine Fülle von anderen dringenden Arbeiten zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr in An<c rendition="#langesS">s</c>pruch genommen bin. Jedenfalls rathe ich Ihnen nochmals,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich <anchor xml:id="K_L00062_1" type="commentary"/>mit Herrn <hi rend="latintype"><rs ref="#pmb12491" type="person">Emanuel Reicher</rs></hi><note xml:id="K_L00062_1h" type="commentary">Laut <rs type="work" ref="#pmb33243">Tagebuch</rs> schrieb <rs type="person" ref="#pmb2121">Schnitzler</rs> am <ref target="1892-01-24" type="schnitzlerDiary" subtype="date-only"/> an <rs ref="#pmb12491" type="person">Reicher</rs>.</note> (<rs ref="#pmb822" type="place"><hi rend="latintype">Berlin O.,</hi> Alexander<c rendition="#langesS">s</c>traße 30</rs>) wegen der Aufnahme des <rs type="work" ref="#pmb29823" subtype="implied">Werks</rs> in<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein <rs type="org" ref="#pmb29252" subtype="implied">Aus<c rendition="#langesS">s</c>tellungsrepertoire</rs> in Verbindung zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>etzen.</p><closer>Hochachtungsvoll<lb/><signed><handShift scribe="#pmb14328"/>Dr. Osc. Blumenthal</signed></closer></div></body><back><listPerson><person xml:id="pmb14328">
+                  <tei:persName>
+                     <tei:surname>Blumenthal</tei:surname>
+                     <tei:forename>Oskar</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1852-03-13">13. 3. 1852</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1917-04-24">24. 4. 1917</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118659111/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13808</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12491">
+                  <tei:persName>
+                     <tei:surname>Reicher</tei:surname>
+                     <tei:forename>Emanuel</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1849-06-18">18. 6. 1849</tei:date>
+                     <tei:placeName ref="#pmb59412">Bochnia</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1924-05-15">15. 5. 1924</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116398949/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19126</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29823">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Das Märchen. Schauspiel in drei Aufzügen</tei:title>
+                  <tei:date when="1891-01-01" when-custom="1891">1891</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>6299</tei:note>
+                  <tei:note>8984</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1169917/</idno>
+               </bibl><bibl xml:id="pmb33243">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Tagebuch</tei:title>
+                  <tei:date from="1981-01-01" from-custom="1981" to="2000-01-01" to-custom="2000">1981–2000</tei:date>
+                  <tei:gloss type="w1356">Tagebuch</tei:gloss>
+                  <tei:note>6297</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb34999">
+                  <tei:placeName>Kapelle-Ufer</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52315 13.374789</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb822">
+                  <tei:placeName>Alexanderstraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52383 13.41293</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb35053">
+                  <tei:orgName>Lessing-Theater</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1888-01-01" from-custom="1888" to-custom="4.1945 &lt;1945-04&gt;">1888 – 4.1945 </tei:date>
+                     <tei:gloss ana="i1047">Theaterunternehmen</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb18">
+                     <tei:placeName>Lessing-Theater</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.5225 13.376389</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb34999">
+                     <tei:placeName>Kapelle-Ufer</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52315 13.374789</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb29252">
+                  <tei:orgName>Emanuel Reicher’s Deutsche Gastspielgesellschaft</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i991">Theatertruppe</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

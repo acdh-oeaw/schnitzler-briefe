@@ -1,199 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01911"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 18. 1. 1910</title>
-            <author ref="#10863">Beer-Hofmann, Richard</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01911</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01911" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 18. 1. 1910</title><author ref="#pmb10863">Beer-Hofmann, Richard</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01911</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 8</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="kartenbrief"/>
-                           <desc n="4" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>ohne postalischen Übermittlungsvermerk</desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit Bleistift beschriftet: »<quote>
-                                    <hi rend="latintype">BH</hi>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert:
-                              »<quote>227</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <date when="1910-01-18" n="01">18. 1. 1910</date>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1910-01-18">18. 1. 1910</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01910">Hofmannsthal an Schnitzler, 26. 12. 1909</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02561">Schnitzler an Beer-Hofmann, [19. 1. 1910]</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01904">Schnitzler an Beer-Hofmann, [16. 12. 1909?]</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02561">Schnitzler an Beer-Hofmann, [19. 1. 1910]</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7297-7</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="kartenbrief"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="bleistift" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc>ohne postalischen Übermittlungsvermerk</desc></incident><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">BH</hi></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
+                              »<quote>227</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><date when="1910-01-18" n="01">18. 1. 1910</date><placeName ref="#pmb50">Wien</placeName></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1910-01-18">18. 1. 1910</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01910">Hofmannsthal an Schnitzler, 26. 12. 1909</ref><ref subtype="next_letter" type="withinCollection" target="L02561">Schnitzler an Beer-Hofmann, [19. 1. 1910]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01904">Schnitzler an Beer-Hofmann, [16. 12. 1909?]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02561">Schnitzler an Beer-Hofmann, [19. 1. 1910]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2021-01-13">Angelegt aus Faksimile</change>
-         <change who="MAM" when="2021-02-02">Durchsicht</change>
-         <change who="MAM" when="2021-02-02">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00150"/>
-      <graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00151"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00150"/>Herrn</addrLine>
-               <addrLine>Arthur Schnitzler</addrLine>
-               <addrLine>
-                  <rs ref="#133" type="place">Spöttelgasse</rs> 7</addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00150"/>
-                  <date>18/I 10</date>
-               </dateline>
-               <salute>Lieber Arthur!</salute>
-            </opener>
-            <p>Bitte, veranlassen Sie, dass das bewusste <anchor xml:id="KLL01911_AS-" type="commentary"/>
-               <rs type="person" ref="#23241" subtype="implied">Fräulein</rs>
-               <note xml:id="KLL01911_AS-h" type="commentary">
-                  <ref target="1910-01-19" subtype="cf" type="schnitzlerDiary"/>
-               </note>
-               <space unit="chars" quantity="1"/>
-               <hi n="1" rend="underline">nicht</hi> zwischen <time>halbdrei – halbvier</time>,
-               sondern erst wenn Sie von Ihnen weggeht – also zwischen <time>6</time> und
-                  <time>7</time> zu uns kommt<supplied>.</supplied>
-               <space unit="chars" quantity="1"/>
-               <pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00151"/>Sie collidirt sonst mit den
-               Fräuleins die wir von <rs type="person" ref="#52224 #52225">Schallingers</rs>
-               erwarten.</p>
-            <closer>Herzlichst mit allen guten Wünschen für <anchor xml:id="KLL01911_AS-1" type="commentary"/>
-               <rs ref="#866" type="place">Dresden</rs>
-               <note xml:id="KLL01911_AS-1h" type="commentary">
-                  <rs type="person" ref="#2121">Schnitzler</rs> reiste am <ref target="1910-01-20" subtype="date-only" type="schnitzlerDiary"/> zur Premiere
-                  von <rs type="work" ref="#30215">Der Schleier der Pierrette</rs>.</note>
-               <lb/>Ihr<lb/>
-               <signed>Richard</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-13">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-02">Durchsicht</change><change who="MAM" when="2021-02-02">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00150"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00151"/></facsimile><text type="letter"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00150"/>Herrn</addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb133" type="place">Spöttelgasse</rs> 7</addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00150"/><date>18/I 10</date></dateline><salute>Lieber Arthur!</salute></opener><p>Bitte, veranlassen Sie, dass das bewusste <anchor xml:id="KLL01911_AS-" type="commentary"/><rs type="person" ref="#pmb23241" subtype="implied">Fräulein</rs><note xml:id="KLL01911_AS-h" type="commentary"><ref target="1910-01-19" subtype="cf" type="schnitzlerDiary"/></note><space unit="chars" quantity="1"/><hi n="1" rend="underline">nicht</hi> zwischen <time>halbdrei – halbvier</time>, sondern erst wenn Sie von Ihnen weggeht – also zwischen <time>6</time> und <time>7</time> zu uns kommt<supplied>.</supplied><space unit="chars" quantity="1"/><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00151"/>Sie collidirt sonst mit den Fräuleins die wir von <rs type="person" ref="#pmb52224 #pmb52225">Schallingers</rs> erwarten.</p><closer>Herzlichst mit allen guten Wünschen für <anchor xml:id="KLL01911_AS-1" type="commentary"/><rs ref="#pmb866" type="place">Dresden</rs><note xml:id="KLL01911_AS-1h" type="commentary"><rs type="person" ref="#pmb2121">Schnitzler</rs> reiste am <ref target="1910-01-20" subtype="date-only" type="schnitzlerDiary"/> zur Premiere von <rs type="work" ref="#pmb30215">Der Schleier der Pierrette</rs>.</note><lb/>Ihr<lb/><signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb23241">
+                  <tei:persName>
+                     <tei:surname>Reiter</tei:surname>
+                     <tei:forename>Anna</tei:forename>
+                  </tei:persName>
+                  <occupation code="761">Hausschneiderin</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19170</idno>
+               </person><person xml:id="pmb52224">
+                  <tei:persName>
+                     <tei:surname>Schallinger</tei:surname>
+                     <tei:forename/>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1910-01-18">18. 1. 1910</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1910-01-18">18. 1. 1910</tei:date>
+                  </tei:death>
+               </person><person xml:id="pmb52225">
+                  <tei:persName>
+                     <tei:surname>Schallinger</tei:surname>
+                     <tei:forename/>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1910-01-18">18. 1. 1910</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1910-01-18">18. 1. 1910</tei:date>
+                  </tei:death>
+               </person></listPerson><listBibl><bibl xml:id="pmb30215">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb11165" role="composer">
+                     <tei:surname>Dohnányi</tei:surname>
+                     <tei:forename>Ernst von</tei:forename>
+                     <tei:term>[Vertonung]</tei:term>
+                  </tei:author>
+                  <tei:title>Der Schleier der Pierrette</tei:title>
+                  <tei:date from="1910-01-22" from-custom="1910-01-22">22. 1. 1910</tei:date>
+                  <tei:gloss type="w1068">Tanzpantomime</tei:gloss>
+                  <tei:note>2522</tei:note>
+                  <tei:note>2523</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
+                  <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb866">
+                  <tei:placeName>Dresden</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.0833 13.7666</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2935020/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1731/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4012995-0/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

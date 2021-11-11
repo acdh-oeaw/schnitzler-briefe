@@ -1,245 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00478"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 27. 8. 1895</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00478</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00478" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 27. 8. 1895</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00478</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="telegramm"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="blaue_tinte" style="deutsche-kurrent"
-                              corresp="schreibkraft"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>»<quote>
-                                    <p>
-                                       <hi rend="pre-print">Aufgegeben am <c rendition="#dots" n="3"
-                                          /> 18<c rendition="#dots" n="3"/> um</hi>
-                                       <space unit="chars" quantity="1"/>
-                                       <time>4 <hi rend="pre-print">Uhr</hi>
-                                          <space unit="chars" quantity="1"/>45 <hi rend="pre-print"
-                                             >Min.</hi> N<hi rend="pre-print">Mittag</hi>
-                                       </time>
-                                    </p>
-                                    <p>
-                                       <hi rend="pre-print">Eingelangt von</hi> S <hi
-                                          rend="pre-print">auf Leitung Nr.</hi> 1050 <hi
-                                          rend="pre-print">am</hi>
-                                       <space unit="chars" quantity="1"/>
-                                       <date>27/8<hi rend="pre-print">189</hi>5</date>
-                                       <space unit="chars" quantity="1"/>
-                                       <hi rend="pre-print">um</hi>
-                                       <space unit="chars" quantity="1"/>
-                                       <time>5 <hi rend="pre-print">Uhr</hi> 50 <hi rend="pre-print"
-                                             >Min. <c rendition="#dots" n="3"/> Mittag</hi>
-                                       </time>
-                                    </p>
-                                    <p>
-                                       <hi rend="pre-print">Aufgenommen durch</hi>
-                                       <space unit="chars" quantity="1"/>
-                                       <unclear>JF.</unclear>
-                                    </p>
-                                    <p>
-                                       <hi rend="pre-print">Von</hi>
-                                       <space unit="chars" quantity="1"/>
-                                       <rs type="place" ref="#45258">München</rs>
-                                       <space unit="chars" quantity="1"/>
-                                       <hi rend="pre-print">mit</hi> 7.232p<space unit="chars"
-                                          quantity="1"/>
-                                       <hi rend="pre-print">Taxworten (</hi>17 <hi rend="pre-print"
-                                          >Worten <c rendition="#dots" n="3"/> Chiffern)</hi>
-                                    </p>
-                                 </quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#45258">München</placeName>
-               <date when="1895-08-27" n="01">27. 8. 1895</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <placeName ref="#213">Bad Ischl</placeName>
-               <date when="1895-08-27">27. 8. 1895</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00477">Schnitzler an
-                  Beer-Hofmann, 24. 8. 1895</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00479">Schnitzler an
-                  Hofmannsthal, 1. 9. 1895</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L00477">Schnitzler
-                  an Beer-Hofmann, 24. 8. 1895</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00480">Beer-Hofmann
-                  an Schnitzler, 10. 9. 1895</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6CFF-B</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="telegramm"/></objectDesc><handDesc><handNote medium="blaue_tinte" style="deutsche-kurrent" corresp="schreibkraft"/></handDesc><additions><incident type="postal"><desc>»<quote><p><hi rend="pre-print">Aufgegeben am <c rendition="#dots" n="3"/> 18<c rendition="#dots" n="3"/> um</hi><space unit="chars" quantity="1"/><time>4 <hi rend="pre-print">Uhr</hi><space unit="chars" quantity="1"/>45 <hi rend="pre-print">Min.</hi> N<hi rend="pre-print">Mittag</hi></time></p><p><hi rend="pre-print">Eingelangt von</hi> S <hi rend="pre-print">auf Leitung Nr.</hi> 1050 <hi rend="pre-print">am</hi><space unit="chars" quantity="1"/><date>27/8<hi rend="pre-print">189</hi>5</date><space unit="chars" quantity="1"/><hi rend="pre-print">um</hi><space unit="chars" quantity="1"/><time>5 <hi rend="pre-print">Uhr</hi> 50 <hi rend="pre-print">Min. <c rendition="#dots" n="3"/> Mittag</hi></time></p><p><hi rend="pre-print">Aufgenommen durch</hi><space unit="chars" quantity="1"/><unclear>JF.</unclear></p><p><hi rend="pre-print">Von</hi><space unit="chars" quantity="1"/><rs type="place" ref="#pmb45258">München</rs><space unit="chars" quantity="1"/><hi rend="pre-print">mit</hi> 7.232p<space unit="chars" quantity="1"/><hi rend="pre-print">Taxworten (</hi>17 <hi rend="pre-print">Worten <c rendition="#dots" n="3"/> Chiffern)</hi></p></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb45258">München</placeName><date when="1895-08-27" n="01">27. 8. 1895</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb213">Bad Ischl</placeName><date when="1895-08-27">27. 8. 1895</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00477">Schnitzler an
+                  Beer-Hofmann, 24. 8. 1895</ref><ref subtype="next_letter" type="withinCollection" target="L00479">Schnitzler an
+                  Hofmannsthal, 1. 9. 1895</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00477">Schnitzler
+                  an Beer-Hofmann, 24. 8. 1895</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00480">Beer-Hofmann
+                  an Schnitzler, 10. 9. 1895</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2019-10-18">angelegt aus Faksimile</change>
-         <change who="MAM" when="2019-10-19">Durchsicht</change>
-         <change who="MAM" when="2019-10-19">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1895_AS_RBH_2_00022"/>
-   </facsimile>
-   <text type="telegram">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="1895_AS_RBH_2_00022"/>Richard Beer</addrLine>
-               <addrLine>Hoffmann</addrLine>
-               <addrLine>
-                  <rs ref="#766" type="place">Egelmos 22</rs>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#213" type="place">
-                     <hi rend="stamp">Ischl</hi>
-                  </rs>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <p>
-               <pb facs="1895_AS_RBH_2_00022"/>Wohne ſchön <rs ref="#681" type="place">Hotel
-                  Continental</rs>
-               <space unit="chars" quantity="1"/>
-               <anchor xml:id="K_L00478_1" type="commentary"/>ſitze beſorgt<note
-                  xml:id="K_L00478_1h" type="commentary">Möglicherweise ist dieses Telegramm der
-                  Ursprung eines beliebten Witzes, den Zeitungen mehrfach abdrucken und der zumeist
-                     <rs ref="#2292" type="person">Hofmannsthal</rs> und <rs ref="#2121"
-                     type="person">Schnitzler</rs> als Protagonisten hat: »<quote>In <rs ref="#50"
-                        type="place">Wien</rs>er Literatenkreisen wird über folgende angeblich wahre
-                     Geschichte herzlich gelacht: <rs ref="#2121" type="person">Artur
-                        Schnitzler</rs> ersuchte in <rs ref="#415" type="place">Aussee</rs>
-                     <space unit="chars" quantity="1"/>seinen Freund <rs ref="#2292" type="person"
-                        >Hugo Hoffmannsthal</rs>, er möge ihm, wenn er nach <rs ref="#30"
-                        type="place">Salzburg</rs> fahre, Karten für die <rs ref="#30129"
-                        type="work">Jedermann</rs>-Aufführung besorgen. Nach einigen Wochen, als <rs
-                        ref="#2121" type="person">Schnitzler</rs> längst diese Bitte vergessen
-                     hatte, erhielt er aus <rs ref="#30" type="place">Salzburg</rs> folgendes
-                     Telegramm: <hi rend="spaced_out">Sitze besorgt </hi>
-                     <rs ref="#152" type="place">
-                        <hi rend="spaced_out">Hotel Europe</hi>
-                     </rs>. <rs ref="#2292" type="person">Hoffmannsthal</rs>. Worauf <rs ref="#2121"
-                        type="person">Schnitzler</rs> bestürzt zurückdrahtete: <hi rend="spaced_out"
-                        >Warum sitzt du besorgt im </hi>
-                     <rs ref="#152" type="place">
-                        <hi rend="spaced_out">Hotel Europe</hi>
-                     </rs>
-                     <hi rend="spaced_out">? </hi>
-                     <rs ref="#2121" type="person">
-                        <hi rend="spaced_out">Schnitzler</hi>
-                     </rs>
-                     <hi rend="spaced_out">.</hi>
-                  </quote>« (<bibl>
-                     <rs ref="#42403" type="work">Der Morgen</rs>, Jg. 12, Nr. 42,
-                        <date>17. 10. 1921</date>, S. 8</bibl>.) <ref type="toLetter" subtype="Cf"
-                     target="L02082"/>, <ref type="toLetter" target="L02554" subtype="date-only"/>
-               </note>
-               <space unit="chars" quantity="1"/>
-               <rs ref="#11485" type="person">Paul</rs> kommt morgen herzlichſt</p>
-            <closer>
-               <signed>Arthur</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-10-18">angelegt aus Faksimile</change><change who="MAM" when="2019-10-19">Durchsicht</change><change who="MAM" when="2019-10-19">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="1895_AS_RBH_2_00022"/></facsimile><text type="telegram"><body><div type="address"><address><addrLine><pb facs="1895_AS_RBH_2_00022"/>Richard Beer</addrLine><addrLine>Hoffmann</addrLine><addrLine><rs ref="#pmb766" type="place">Egelmos 22</rs></addrLine><addrLine><rs ref="#pmb213" type="place"><hi rend="stamp">Ischl</hi></rs></addrLine></address></div><div type="writingSession" n="1"><p><pb facs="1895_AS_RBH_2_00022"/>Wohne<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön <rs ref="#pmb681" type="place">Hotel Continental</rs><space unit="chars" quantity="1"/><anchor xml:id="K_L00478_1" type="commentary"/><c rendition="#langesS">s</c>itze be<c rendition="#langesS">s</c>orgt<note xml:id="K_L00478_1h" type="commentary">Möglicherweise ist dieses Telegramm der Ursprung eines beliebten Witzes, den Zeitungen mehrfach abdrucken und der zumeist <rs ref="#pmb2292" type="person">Hofmannsthal</rs> und <rs ref="#pmb2121" type="person">Schnitzler</rs> als Protagonisten hat: »<quote>In <rs ref="#pmb50" type="place">Wien</rs>er Literatenkreisen wird über folgende angeblich wahre Geschichte herzlich gelacht: <rs ref="#pmb2121" type="person">Artur Schnitzler</rs> ersuchte in <rs ref="#pmb415" type="place">Aussee</rs><space unit="chars" quantity="1"/>seinen Freund <rs ref="#pmb2292" type="person">Hugo Hoffmannsthal</rs>, er möge ihm, wenn er nach <rs ref="#pmb30" type="place">Salzburg</rs> fahre, Karten für die <rs ref="#pmb30129" type="work">Jedermann</rs>-Aufführung besorgen. Nach einigen Wochen, als <rs ref="#pmb2121" type="person">Schnitzler</rs> längst diese Bitte vergessen hatte, erhielt er aus <rs ref="#pmb30" type="place">Salzburg</rs> folgendes Telegramm: <hi rend="spaced_out">Sitze besorgt </hi><rs ref="#pmb152" type="place"><hi rend="spaced_out">Hotel Europe</hi></rs>. <rs ref="#pmb2292" type="person">Hoffmannsthal</rs>. Worauf <rs ref="#pmb2121" type="person">Schnitzler</rs> bestürzt zurückdrahtete: <hi rend="spaced_out">Warum sitzt du besorgt im </hi><rs ref="#pmb152" type="place"><hi rend="spaced_out">Hotel Europe</hi></rs><hi rend="spaced_out">? </hi><rs ref="#pmb2121" type="person"><hi rend="spaced_out">Schnitzler</hi></rs><hi rend="spaced_out">.</hi></quote>« (<bibl><rs ref="#pmb42403" type="work">Der Morgen</rs>, Jg. 12, Nr. 42, <date>17. 10. 1921</date>, S. 8</bibl>.) <ref target="L02082.xml" type="toLetter" subtype="Cf"><title>Arthur Schnitzler an Richard Beer-Hofmann, 5. 8. 1912</title><date when="1912-08-05">5. 8. 1912</date></ref>, <ref target="L02554.xml" type="toLetter" subtype="date-only"><title>Arthur Schnitzler an Richard Beer-Hofmann, 28. 7. 1922</title><date when="1922-07-28">28. 7. 1922</date></ref></note><space unit="chars" quantity="1"/><rs ref="#pmb11485" type="person">Paul</rs> kommt morgen herzlich<c rendition="#langesS">s</c>t</p><closer><signed>Arthur</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2292">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Gertrude von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1880-03-16">16. 3. 1880</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1959-11-09">9. 11. 1959</tei:date>
+                     <tei:placeName ref="#pmb46885">Paddington</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/116952199/</idno>
+               </person><person xml:id="pmb11485">
+                  <tei:persName>
+                     <tei:surname>Goldmann</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1865-01-31">31. 1. 1865</tei:date>
+                     <tei:placeName ref="#pmb677">Breslau</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-09-25">25. 9. 1935</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116755105/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15529</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30129">
+                  <tei:author ref="pmb11740" role="author">
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:author>
+                  <tei:title>Jedermann. Das Spiel vom Sterben des reichen Mannes</tei:title>
+                  <tei:date from="1911-01-01" from-custom="1911">1911</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb42403">
+                  <tei:title>Der Morgen. Wiener Montagsblatt</tei:title>
+                  <tei:date from="1910-01-01" from-custom="1910" to="1938-01-01" to-custom="1938">1910–1938</tei:date>
+                  <tei:gloss type="w1221">Wochenschrift</tei:gloss>
+                  <tei:note>6011</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb45258">
+                  <tei:placeName>München</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2867714/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4127793-4/</idno>
+               </place><place xml:id="pmb213">
+                  <tei:placeName>Bad Ischl</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782052/</idno>
+               </place><place xml:id="pmb766">
+                  <tei:placeName>Eglmoosgasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.713083 13.61758</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb681">
+                  <tei:placeName>Hotel Continental</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1892-07-01" from-custom="1892-07-01" to="1994-07-02" to-custom="1994-07-02">1892–1994</tei:date>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.143395 11.569993</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb415">
+                  <tei:placeName>Bad Aussee</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q251065/</idno>
+               </place><place xml:id="pmb30">
+                  <tei:placeName>Salzburg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.80067 13.04532</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2766818/</idno>
+               </place><place xml:id="pmb152">
+                  <tei:placeName>Grand Hotel de L’Europe, G. Jung</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.81233 13.043176</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg/></back></text></TEI>

@@ -1,210 +1,274 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01920"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Stefan Großmann an Arthur Schnitzler, 31. 3. 1910</title>
-            <author ref="#11527">Großmann, Stefan</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Martin Anton Müller</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01920</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01920" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Stefan Großmann an Arthur Schnitzler, 31. 3. 1910</title><author ref="#pmb11527">Großmann, Stefan</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Martin Anton Müller</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01920</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 34</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter"/>
-                           <desc n="2" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent" corresp="#11527"/>
-                           <handNote medium="schwarze_tinte"
-                                     style="lateinische-kurrent"
-                                     corresp="#11527">
-                              <p>bis einschließlich der
-                           Aufzählung der Schauspieler</p>
-                           </handNote>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit rotem Buntstift eine Unterstreichung</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>7</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11527">Großmann, Stefan</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1910-03-31" n="01">31. 3. 1910</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11527">Großmann, Stefan</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01919">Schnitzler an Beer-Hofmann, 20. 3. 1910</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01921">Großmann an Schnitzler, 2. 4. 1910</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01722">Großmann an Schnitzler, 12. 10. 1907</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01921">Großmann an Schnitzler, 2. 4. 1910</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-72A0-C</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 34</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent" corresp="#pmb11527"/><handNote medium="schwarze_tinte" style="lateinische-kurrent" corresp="#pmb11527"><p>bis einschließlich der
+                           Aufzählung der Schauspieler</p></handNote></handDesc><additions><incident type="receiver"><desc>mit rotem Buntstift eine Unterstreichung</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>7</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11527">Großmann, Stefan</persName><placeName ref="#pmb50">Wien</placeName><date when="1910-03-31" n="01">31. 3. 1910</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11527">Großmann, Stefan</ref><ref subtype="previous_letter" type="withinCollection" target="L01919">Schnitzler an Beer-Hofmann, 20. 3. 1910</ref><ref subtype="next_letter" type="withinCollection" target="L01921">Großmann an Schnitzler, 2. 4. 1910</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01722">Großmann an Schnitzler, 12. 10. 1907</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01921">Großmann an Schnitzler, 2. 4. 1910</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2020-06-11">Angelegt</change>
-         <change who="MAM" when="2020-08-06">Durchsicht</change>
-         <change who="MAM" when="2020-08-06">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00034-00015"/>
-      <graphic url="MS-SCHNITZLER-B-00034-00016"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <seg rend="left">
-                     <pb facs="MS-SCHNITZLER-B-00034-00015"/>
-                     <hi rend="pre-print">
-                        <hi rend="capitals">Stefan Grossmann</hi>
-                     </hi>
-                  </seg>
-                  <seg rend="right">
-                     <rs type="place" ref="#51">WIEN, I.</rs>, <rs ref="#39599" type="place">GRABEN
-                        29a</rs>
-                  </seg>
-               </p>
-               <dateline rend="center">
-                  <date>31. III. 10</date>
-               </dateline>
-               <salute>Sehr verehrter Herr!</salute>
-            </opener>
-            <p>Aufrichtigen Dank für Ihre gütige Erlaubnis. Der <rs type="org" ref="#29569" subtype="implied">Verein</rs> (der langsam in eine bürgerliche Breite kommt, es
-               gehören ihm heute schon 12000 Mitglieder an) bittet Sie, zu gestatten, dass wir dem
-                  <rs type="person" ref="#11324" subtype="implied">Verleger</rs> 5<c rendition="#prozent"/> Tantieme zahlen. Reicher sind wir noch nicht.</p>
-            <p>Ich verstehe vollkommen, dass Ihnen die Anfügung der »<rs ref="#30749" type="work">Frage an das Schicksal</rs>« nicht gefällt. Aber die <rs type="org" ref="#37214">Neue W<hi rend="superscript">r</hi> Bühne</rs> behauptet, für den
-                  <supplied>»</supplied>
-               <rs ref="#29873" type="work">Puppenspieler</rs>« absolut nicht die Zeit für nöthige
-               Proben zu haben. So musste ich, wider besseres Wissen, <pb facs="MS-SCHNITZLER-B-00034-00016"/>im Interesse der guten Ausarbeitung der »<rs ref="#29869" type="work">Literatur</rs>« und »<rs type="work" ref="#29877">Masken</rs>« einwilligen.</p>
-            <p>In <rs ref="#29869" type="work">Literatur</rs> sind <hi rend="underline" n="1">
-                  <rs ref="#6621" type="person">Charlé</rs>
-               </hi>, Fr <rs type="person" ref="#20472">v. <hi n="1" rend="underline">Linden</hi>
-               </rs> (die ausgezeichnet wird), Hr <rs ref="#27473" type="person">
-                  <hi rend="underline" n="1">Ziegler</hi>
-               </rs>, – in <rs type="work" ref="#29877">Masken</rs> Herr <rs ref="#6621" type="person">
-                  <hi n="1" rend="underline">Charlé</hi>
-               </rs>, Herr <rs type="person" ref="#46144">
-                  <hi rend="underline" n="1">Heyse</hi>
-               </rs> (<rs type="work" subtype="implied" ref="#29877">Weihgast</rs>) beſchäftigt.</p>
-            <p>Gern würde ich Sie einmal als Gaſt bei einer Aufführung des <hi n="1" rend="underline">
-                  <rs ref="#32258" type="work">
-                     <hi rend="latintype">Halben Held</hi>
-                  </rs>
-               </hi> v <rs type="person" ref="#11273">
-                  <hi rend="latintype">H Eulenberg</hi>
-               </rs> begrüßen, auch deshalb, weil es eine paſſable
-               Regiſſeurarbeit von mir iſt. Wollen Sie unſer Gaſt ſein?</p>
-            <p>Ich habe die Hoffnung, daſs Sie mich als Regiſſeur noch einmal werden brauchen
-               können. – – –</p>
-            <closer>Mit den beſten Gefühlen<lb/>
-               <hi rend="underline" n="1">aufrichtig ergeben</hi>:
-                  <signed>Stefan Großmann</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-06-11">Angelegt</change><change who="MAM" when="2020-08-06">Durchsicht</change><change who="MAM" when="2020-08-06">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00034-00015"/><graphic url="MS-SCHNITZLER-B-00034-00016"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-00034-00015"/><hi rend="pre-print"><hi rend="capitals">Stefan Grossmann</hi></hi></seg><seg rend="right"><rs type="place" ref="#pmb51">WIEN, I.</rs>, <rs ref="#pmb39599" type="place">GRABEN 29a</rs></seg></p><dateline rend="center"><date>31. III. 10</date></dateline><salute>Sehr verehrter Herr!</salute></opener><p>Aufrichtigen Dank für Ihre gütige Erlaubnis. Der <rs type="org" ref="#pmb29569" subtype="implied">Verein</rs> (der langsam in eine bürgerliche Breite kommt, es gehören ihm heute schon 12000 Mitglieder an) bittet Sie, zu gestatten, dass wir dem <rs type="person" ref="#pmb11324" subtype="implied">Verleger</rs> 5<c rendition="#prozent"/> Tantieme zahlen. Reicher sind wir noch nicht.</p><p>Ich verstehe vollkommen, dass Ihnen die Anfügung der »<rs ref="#pmb30749" type="work">Frage an das Schicksal</rs>« nicht gefällt. Aber die <rs type="org" ref="#pmb37214">Neue W<hi rend="superscript">r</hi> Bühne</rs> behauptet, für den <supplied>»</supplied><rs ref="#pmb29873" type="work">Puppenspieler</rs>« absolut nicht die Zeit für nöthige Proben zu haben. So musste ich, wider besseres Wissen, <pb facs="MS-SCHNITZLER-B-00034-00016"/>im Interesse der guten Ausarbeitung der »<rs ref="#pmb29869" type="work">Literatur</rs>« und »<rs type="work" ref="#pmb29877">Masken</rs>« einwilligen.</p><p>In <rs ref="#pmb29869" type="work">Literatur</rs> sind <hi rend="underline" n="1"><rs ref="#pmb6621" type="person">Charlé</rs></hi>, Fr <rs type="person" ref="#pmb20472">v. <hi n="1" rend="underline">Linden</hi></rs> (die ausgezeichnet wird), Hr <rs ref="#pmb27473" type="person"><hi rend="underline" n="1">Ziegler</hi></rs>, – in <rs type="work" ref="#pmb29877">Masken</rs> Herr <rs ref="#pmb6621" type="person"><hi n="1" rend="underline">Charlé</hi></rs>, Herr <rs type="person" ref="#pmb46144"><hi rend="underline" n="1">Heyse</hi></rs> (<rs type="work" subtype="implied" ref="#pmb29877">Weihgast</rs>) be<c rendition="#langesS">s</c>chäftigt.</p><p>Gern würde ich Sie einmal als Ga<c rendition="#langesS">s</c>t bei einer Aufführung des <hi n="1" rend="underline"><rs ref="#pmb32258" type="work"><hi rend="latintype">Halben Held</hi></rs></hi> v <rs type="person" ref="#pmb11273"><hi rend="latintype">H Eulenberg</hi></rs> begrüßen, auch deshalb, weil es eine pa<c rendition="#langesS">s</c><c rendition="#langesS">s</c>able Regi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>eurarbeit von mir i<c rendition="#langesS">s</c>t. Wollen Sie un<c rendition="#langesS">s</c>er Ga<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein?</p><p>Ich habe die Hoffnung, da<c rendition="#langesS">s</c>s Sie mich als Regi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>eur noch einmal werden brauchen können. – – –</p><closer>Mit den be<c rendition="#langesS">s</c>ten Gefühlen<lb/><hi rend="underline" n="1">aufrichtig ergeben</hi>: <signed>Stefan Großmann</signed></closer></div></body><back><listPerson><person xml:id="pmb11527">
+                  <tei:persName>
+                     <tei:surname>Großmann</tei:surname>
+                     <tei:forename>Stefan</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-05-19">19. 5. 1875</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-01-03">3. 1. 1935</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118542664/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15691</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11324">
+                  <tei:persName>
+                     <tei:surname>Fischer</tei:surname>
+                     <tei:forename>Samuel</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1859-12-24">24. 12. 1859</tei:date>
+                     <tei:placeName ref="#pmb55962">Liptovský Mikuláš</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-10-15">15. 10. 1934</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="144">Verleger*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118691406/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15009</idno>
+               </person><person xml:id="pmb6621">
+                  <tei:persName>
+                     <tei:surname>Charlé</tei:surname>
+                     <tei:forename>Gustav</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1871-02-28">28. 2. 1871</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1940-01-01">1940?</tei:date>
+                     <placeName ref="#pmb46119" type="deportation">Konzentrationslager Jasenovac</placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/126726175/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14183</idno>
+               </person><person xml:id="pmb20472">
+                  <tei:persName>
+                     <tei:surname>Linden</tei:surname>
+                     <tei:forename>Constance von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1877-05-14">14. 5. 1877</tei:date>
+                     <tei:placeName ref="#pmb993">Bukarest</tei:placeName>
+                  </tei:birth>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17566</idno>
+               </person><person xml:id="pmb27473">
+                  <tei:persName>
+                     <tei:surname>Ziegler</tei:surname>
+                     <tei:forename>Hans</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1879-05-09">9. 5. 1879</tei:date>
+                     <tei:placeName ref="#pmb871">Karlsruhe</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1961-12-25">25. 12. 1961</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21550</idno>
+               </person><person xml:id="pmb46144">
+                  <tei:persName>
+                     <tei:surname>Heyse</tei:surname>
+                     <tei:forename>Emil</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-05-17">17. 5. 1875</tei:date>
+                     <tei:placeName ref="#pmb433">Sankt Petersburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1949-04-28">28. 4. 1949</tei:date>
+                     <tei:placeName ref="#pmb874">Gmunden</tei:placeName>
+                  </tei:death>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1026702755/</idno>
+               </person><person xml:id="pmb11273">
+                  <tei:persName>
+                     <tei:surname>Eulenberg</tei:surname>
+                     <tei:forename>Herbert</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1876-01-25">25. 1. 1876</tei:date>
+                     <tei:placeName ref="#pmb11274">Mülheim</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1949-09-04">4. 9. 1949</tei:date>
+                     <tei:placeName ref="#pmb863">Düsseldorf</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118682636/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14821</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30749">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Frage an das Schicksal</tei:title>
+                  <tei:date from="1890-05-01" from-custom="01.05.1890">1. 5. 1890</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>2951</tei:note>
+                  <tei:note>5845</tei:note>
+               </bibl><bibl xml:id="pmb29873">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb2242" role="translator">
+                     <tei:surname>Levi</tei:surname>
+                     <tei:forename>Cesare</tei:forename>
+                     <tei:term>[Übersetzung]</tei:term>
+                  </tei:author>
+                  <tei:title>Der Puppenspieler</tei:title>
+                  <tei:date from="1903-05-31" from-custom="31.05.1903">31. 5. 1903</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>2844</tei:note>
+               </bibl><bibl xml:id="pmb29869">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb2242" role="translator">
+                     <tei:surname>Levi</tei:surname>
+                     <tei:forename>Cesare</tei:forename>
+                     <tei:term>[Übersetzung]</tei:term>
+                  </tei:author>
+                  <tei:title>Literatur</tei:title>
+                  <tei:date from="1901-01-01" from-custom="1901">1901</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+               </bibl><bibl xml:id="pmb29877">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb2242" role="translator">
+                     <tei:surname>Levi</tei:surname>
+                     <tei:forename>Cesare</tei:forename>
+                     <tei:term>[Übersetzung]</tei:term>
+                  </tei:author>
+                  <tei:title>Die letzten Masken</tei:title>
+                  <tei:date from="1901-01-01" from-custom="1901">1901</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+               </bibl><bibl xml:id="pmb32258">
+                  <tei:author ref="pmb11273" role="author">
+                     <tei:surname>Eulenberg</tei:surname>
+                     <tei:forename>Herbert</tei:forename>
+                  </tei:author>
+                  <tei:title>Ein halber Held</tei:title>
+                  <tei:date from="1904-01-01" from-custom="1904">1904</tei:date>
+                  <tei:gloss type="w1055">Text</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb51">
+                  <tei:placeName>I., Innere Stadt</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2775259/</idno>
+               </place><place xml:id="pmb39599">
+                  <tei:placeName>Graben</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.208786 16.369106</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb29569">
+                  <tei:orgName>Wiener Freie Volksbühne</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1906-09-13" from-custom="1906-09-13">13. 9. 1906</tei:date>
+                     <tei:gloss ana="i995">Theaterverein</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb46358">
+                     <tei:placeName>Schönbrunnerstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.18789 16.34508</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb280">
+                     <tei:placeName>Volksbühne</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.201139 16.349222</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb37214">
+                  <tei:orgName>Neue Wiener Bühne</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1908-01-01" from-custom="1908" to="1928-01-01" to-custom="1928">1908–1928</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb59">
+                     <tei:placeName>IX., Alsergrund</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50681">
+                     <tei:placeName>Wasagasse</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.219653 16.358922</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

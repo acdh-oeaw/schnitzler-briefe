@@ -1,253 +1,159 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00325"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Lou Andreas-Salomé an Arthur Schnitzler, 15. 5. 1894</title>
-            <author ref="#10762">Andreas-Salomé, Lou</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00325</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00325" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Lou Andreas-Salomé an Arthur Schnitzler, 15. 5. 1894</title><author ref="#pmb10762">Andreas-Salomé, Lou</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00325</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 3</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="2" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="6" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift beschriftet »<quote>
-                                    <hi rend="latintype">Lou Andrea-Salomé</hi>
-                                 </quote>« und datiert: »<quote>
-                                    <date>15/5 94</date>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit rotem Buntstift von unbekannter Hand nummeriert:
-                                        »<quote>1.</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10762">Andreas-Salomé, Lou</persName>
-               <placeName ref="#182">Paris</placeName>
-               <date when="1894-05-15" n="03">15. 5. 1894</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1894-05-31">31. 5. 1894</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10762">Andreas-Salomé, Lou</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00324">Schnitzler an Hofmannsthal, [15. 5. 1894?]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00326">Fels an Schnitzler, [17. 5. 1894]</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00337">Schnitzler an Andreas-Salomé, 13. 6. 1894</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6C66-7</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 3</idno></msIdentifier><physDesc><objectDesc><desc n="2" type="_blaetter"/><desc type="brief"/><desc n="6" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet »<quote><hi rend="latintype">Lou Andrea-Salomé</hi></quote>« und datiert: »<quote><date>15/5 94</date></quote>«</desc></incident><incident type="archival"><desc>mit rotem Buntstift von unbekannter Hand nummeriert:
+                                        »<quote>1.</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10762">Andreas-Salomé, Lou</persName><placeName ref="#pmb182">Paris</placeName><date when="1894-05-15" n="03">15. 5. 1894</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1894-05-31">31. 5. 1894</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10762">Andreas-Salomé, Lou</ref><ref subtype="previous_letter" type="withinCollection" target="L00324">Schnitzler an Hofmannsthal, [15. 5. 1894?]</ref><ref subtype="next_letter" type="withinCollection" target="L00326">Fels an Schnitzler, [17. 5. 1894]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00337">Schnitzler an Andreas-Salomé, 13. 6. 1894</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2018-08-02">Angelegt</change>
-         <change who="MAM" when="2018-08-08">Durchsicht</change>
-         <change who="MAM" when="2018-02-14">Index check</change>
-         <change who="GHS" when="2019-06-22">facs aktualisiert, korrigiert, finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00003-000-00003"/>
-      <graphic url="MS-SCHNITZLER-B-00003-000-00004"/>
-      <graphic url="MS-SCHNITZLER-B-00003-000-00005"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <salute>
-                  <pb facs="MS-SCHNITZLER-B-00003-000-00003"/>Sehr geehrter Herr,</salute>
-            </opener>
-            <p>ich habe kürzlich erſt Ihren »<rs ref="#29935" type="work">
-                  <hi rend="latintype">Anatol</hi>
-               </rs>« kennen gelernt und, Dank der Freundlichkeit des Herrn <hi rend="latintype">D<hi rend="superscript">r</hi> </hi>
-               <rs ref="#11485" type="person">
-                  <hi rend="latintype">Goldmann</hi>
-               </rs>, darauf auch die beiden Manuſkripte »<rs ref="#30391" type="work">
-                  <hi rend="latintype">Eine überspannte Person</hi>
-               </rs>« und »<rs ref="#30389" type="work">
-                  <hi rend="latintype">Halb zwei</hi>
-               </rs>« leſen dürfen. Das war ein großer Genuß, ſo groß, wie ihn nur die
-                    echteſten Bücher geben. Wenn man ſich hinterher darüber klar zu werden verſucht,
-                    was ihn in jedem einzelnen Fall bedingt hat, ſo ſteht man überraſcht vor der
-                    Fülle von Talent, die zuſammmenſtrömen mußte, um dieſe feinen Sachen zu
-                    ſchaffen. Denn es iſt eine Verbindung von Geiſt, Geſtaltungskraft und
-                    dichteriſcher Stimmung in ihnen, wie ſie gewiß ſelten vorkommt. Und doch iſt es
-                    nicht einmal dies, was ich am meiſten <pb facs="MS-SCHNITZLER-B-00003-000-00004"/>daran bewundere, ſondern daß es gelang, etwas an ſich Gehaltvolles mit ſo
-                    unvergleichlich leichter und zarter Hand zu formen, daß es in den Feinheiten der
-                    graziöſen Form gleichſam verflüchtigt wird. Man erhält, wie im Tanz, das Gefühl
-                    der aufgehobenen Schwere eines Gegenſtandes. Und dennoch bleibt der Eindruck des
-                    Gehaltvollen, Inhaltvollen, nach beendeter Lektüre beſtehen, ja er verſtärkt
-                    ſich noch, indem man die einzelnen Scenen unwillkürlich noch vorwärts und
-                    rückwärts weiterſpinnt, als handle es ſich um ein geſchautes Stück wirklichen
-                    Lebens mit offenen Perſpektiven nach beiden Seiten. Im »<rs ref="#29935" type="work">
-                  <hi rend="latintype">Anatol</hi>
-               </rs>« gilt dies am meiſten von »<rs ref="#30163" type="work">
-                  <hi rend="latintype">Weihnachtseinkäufe</hi>
-               </rs>« und »<rs ref="#30145" type="work">
-                  <hi rend="latintype">Denksteine</hi>
-               </rs>«, und im höchſten Grade von den beiden Manuſkripten, die, meiner
-                    Empfindung nach, den »<rs ref="#29935" type="work">
-                  <hi rend="latintype">Anatol</hi>
-               </rs>« übertreffen. Das eine derſelben, »<rs ref="#30391" type="work">
-                  <hi rend="latintype">Eine überspannte Person</hi>
-               </rs>«, war mir auch noch beſonders merkwürdig wegen der Art, wie hier die
-                    Frau von den Frauen <pb facs="MS-SCHNITZLER-B-00003-000-00004"/>in allen übrigen
-                    Einaktern angehoben wird, und wegen der ironiſchen Beleuchtung die, ſchon vom
-                    vortrefflichen Titel aus, hier auf den Mann fällt. Es wäre intereſſant, dieſes
-                    kleine Drama nach einer beſtimmten Seite hin in Vergleich zu ziehen mit
-                        »<rs ref="#29823" type="work">
-                  <hi rend="latintype">Ein Märchen</hi>
-               </rs>«, welches ja wahrhaftig ebenſo gut heißen könnte: »<hi rend="latintype">Ein überspannter Mann</hi>,« – und zwar <hi n="1" rend="underline">ohne</hi> ironiſchen Nebenklang im Titel. Wird man nicht
-                    davon frappirt, wie einfach, ſelbſtverſtändlich und natürlich das Gefühl in der
-                    »überſpannten« Frau, und wie gänzlich verdreht und verbildet es dagegen im
-                    überſpannten Mann iſt? Mann und Frau, ſo einander gegenübergeſtellt, nehmen ſich
-                    faſt wie Krankheit und Geſundheit aus. Und verräth es nicht etwas, <del rend="strikethrough">d</del>wenn ein Autor, um die Frau in ihrer tiefern
-                    Liebesempfindung zu ſchildern, nur auf das Nächſte, Natürlichſte zurückzugreifen
-                    braucht, während er im gleichen Fall beim Mann ſogleich in <pb facs="MS-SCHNITZLER-B-00003-000-00003"/>eine ganze Wirrniß von zwieſpältigen
-                    verzwickten und widerſpruchsvollen Empfindungen hineingeräth? Auf mich hat das
-                        »<rs ref="#29823" type="work">
-                  <hi rend="latintype">Märchen</hi>
-               </rs>« weit ſchwächer gewirkt als der »<rs ref="#29935" type="work">
-                  <hi rend="latintype">Anatol</hi>
-               </rs>« und es kam mir vor, als ſei eine viel geringere poetiſche und
-                    plaſtiſche Kraft darin lebendig, aber der Grund kann auch ſein, daß ich Ihren
-                    Märchenhelden abſolut nicht leiden mag und deshalb dem Autor Unrecht thue.
-                    Auffallend iſt es, wie ſchlecht der Mann überhaupt in Ihren Dichtungen wegkommt,
-                    – ſo ſchlecht, daß man verſucht iſt, an ein klein wenig Verläumdung zu glauben.
-                    Gleichviel ob er ſich als der verhältnißmäßig Bravere oder Böſere giebt, – immer
-                    iſt er, neben der Frau, der Unintereſſantere. Alle dieſe Frauen ſind ihm, und
-                    wäre es auch nur in der Unſchuld ihrer Nichtsnutzigkeit, irgendwie überlegen.
-                    Eine wunderliche Sorte von Selbſtverleugnung <add place="above">des Autors</add>
-                    liegt in faſt jedem Strich, mit dem der Mann den Frauen gegenüber geſchildert
-                    iſt, <pb facs="MS-SCHNITZLER-B-00003-000-00005"/>– wer den Mann ſo ſchildert,
-                    räumt der Frau damit den Platz. Ich kann in den von Ihnen gewählten Fällen die
-                    Richtigkeit Ihrer Darſtellung in dieſem Punkt nicht recht beurtheilen, aber
-                    natürlich bin ich, als Frau, außerordentlich bereit, ihr ohne Weiteres jede nur
-                    denkbare Lebenswahrheit zuzugeſtehn. –</p>
-            <p>Sie werden gewiß etwas verwundert ſein, wenn dieſer gänzlich überflüſſige Brief
-                    Ihnen zukommt, doch das hat Ihr Freund, Herr <hi rend="latintype">D<hi rend="superscript">r</hi> </hi>
-               <rs ref="#11485" type="person">
-                  <hi rend="latintype">Goldmann</hi>
-               </rs>, ganz und gar auf ſeinem Gewiſſen. Ich hätte ſonſt vielleicht
-                    beſcheidentlich den Mund gehalten, da es nach meiner Erfahrung nur wenig oder
-                    gar keine Freude macht, Stimmen aus dem Publikum über Arbeiten zu vernehmen, die
-                    einem doch an's Herz gewachſen ſind, wenn ſie was taugen. Nur die paar ſeltenen
-                    Menſchen, die man liebt oder die man fürchtet, ſollte man darüber hören. Denn
-                    das, was man am liebſten hat, theilt man ja <pb facs="MS-SCHNITZLER-B-00003-000-00005"/>nicht leicht und nicht gern mit
-                    vielen Andern, und noch weniger gern läßt man es von Andern analyſiren und
-                    begucken, ganz einerlei ob Lob oder Tadel dabei herauskommt.</p>
-            <closer>In jedem Fall aber wollte dieſe Schreiberei Ihnen herzlichen Dank ſagen für
-                    gute Stunden.<lb/>
-               <signed>Lou Andreas-Salomé.</signed>
-            </closer>
-            <postscript>
-               <dateline>
-                  <rs ref="#182" type="place">Paris</rs>, <date>15. V. 94</date>.
-                    </dateline>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-02">Angelegt</change><change who="MAM" when="2018-08-08">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-06-22">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00003-000-00003"/><graphic url="MS-SCHNITZLER-B-00003-000-00004"/><graphic url="MS-SCHNITZLER-B-00003-000-00005"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00003-000-00003"/>Sehr geehrter Herr,</salute></opener><p>ich habe kürzlich er<c rendition="#langesS">s</c>t Ihren »<rs ref="#pmb29935" type="work"><hi rend="latintype">Anatol</hi></rs>« kennen gelernt und, Dank der Freundlichkeit des Herrn <hi rend="latintype">D<hi rend="superscript">r</hi> </hi><rs ref="#pmb11485" type="person"><hi rend="latintype">Goldmann</hi></rs>, darauf auch die beiden Manu<c rendition="#langesS">s</c>kripte »<rs ref="#pmb30391" type="work"><hi rend="latintype">Eine überspannte Person</hi></rs>« und »<rs ref="#pmb30389" type="work"><hi rend="latintype">Halb zwei</hi></rs>« le<c rendition="#langesS">s</c>en dürfen. Das war ein großer Genuß,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o groß, wie ihn nur die echte<c rendition="#langesS">s</c>ten Bücher geben. Wenn man<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich hinterher darüber klar zu werden ver<c rendition="#langesS">s</c>ucht, was ihn in jedem einzelnen Fall bedingt hat,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>teht man überra<c rendition="#langesS">s</c>cht vor der Fülle von Talent, die zu<c rendition="#langesS">s</c>ammmen<c rendition="#langesS">s</c>trömen mußte, um die<c rendition="#langesS">s</c>e feinen Sachen zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chaffen. Denn es i<c rendition="#langesS">s</c>t eine Verbindung von Gei<c rendition="#langesS">s</c>t, Ge<c rendition="#langesS">s</c>taltungskraft und dichteri<c rendition="#langesS">s</c>cher Stimmung in ihnen, wie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie gewiß<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elten vorkommt. Und doch i<c rendition="#langesS">s</c>t es nicht einmal dies, was ich am mei<c rendition="#langesS">s</c>ten <pb facs="MS-SCHNITZLER-B-00003-000-00004"/>daran bewundere,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ondern daß es gelang, etwas an<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich Gehaltvolles mit<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o unvergleichlich leichter und zarter Hand zu formen, daß es in den Feinheiten der graziö<c rendition="#langesS">s</c>en Form gleich<c rendition="#langesS">s</c>am verflüchtigt wird. Man erhält, wie im Tanz, das Gefühl der aufgehobenen Schwere eines Gegen<c rendition="#langesS">s</c>tandes. Und dennoch bleibt der Eindruck des Gehaltvollen, Inhaltvollen, nach beendeter Lektüre be<c rendition="#langesS">s</c>tehen, ja er ver<c rendition="#langesS">s</c>tärkt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich noch, indem man die einzelnen Scenen unwillkürlich noch vorwärts und rückwärts weiter<c rendition="#langesS">s</c>pinnt, als handle es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich um ein ge<c rendition="#langesS">s</c>chautes Stück wirklichen Lebens mit offenen Per<c rendition="#langesS">s</c>pektiven nach beiden Seiten. Im »<rs ref="#pmb29935" type="work"><hi rend="latintype">Anatol</hi></rs>« gilt dies am mei<c rendition="#langesS">s</c>ten von »<rs ref="#pmb30163" type="work"><hi rend="latintype">Weihnachtseinkäufe</hi></rs>« und »<rs ref="#pmb30145" type="work"><hi rend="latintype">Denksteine</hi></rs>«, und im höch<c rendition="#langesS">s</c>ten Grade von den beiden Manu<c rendition="#langesS">s</c>kripten, die, meiner Empfindung nach, den »<rs ref="#pmb29935" type="work"><hi rend="latintype">Anatol</hi></rs>« übertreffen. Das eine der<c rendition="#langesS">s</c>elben, »<rs ref="#pmb30391" type="work"><hi rend="latintype">Eine überspannte Person</hi></rs>«, war mir auch noch be<c rendition="#langesS">s</c>onders merkwürdig wegen der Art, wie hier die Frau von den Frauen <pb facs="MS-SCHNITZLER-B-00003-000-00004"/>in allen übrigen Einaktern angehoben wird, und wegen der ironi<c rendition="#langesS">s</c>chen Beleuchtung die,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon vom vortrefflichen Titel aus, hier auf den Mann fällt. Es wäre intere<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ant, die<c rendition="#langesS">s</c>es kleine Drama nach einer be<c rendition="#langesS">s</c>timmten Seite hin in Vergleich zu ziehen mit »<rs ref="#pmb29823" type="work"><hi rend="latintype">Ein Märchen</hi></rs>«, welches ja wahrhaftig eben<c rendition="#langesS">s</c>o gut heißen könnte: »<hi rend="latintype">Ein überspannter Mann</hi>,« – und zwar <hi n="1" rend="underline">ohne</hi> ironi<c rendition="#langesS">s</c>chen Nebenklang im Titel. Wird man nicht davon frappirt, wie einfach,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>tver<c rendition="#langesS">s</c>tändlich und natürlich das Gefühl in der »über<c rendition="#langesS">s</c>pannten« Frau, und wie gänzlich verdreht und verbildet es dagegen im über<c rendition="#langesS">s</c>pannten Mann i<c rendition="#langesS">s</c>t? Mann und Frau,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o einander gegenüberge<c rendition="#langesS">s</c>tellt, nehmen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich fa<c rendition="#langesS">s</c>t wie Krankheit und Ge<c rendition="#langesS">s</c>undheit aus. Und verräth es nicht etwas, <del rend="strikethrough">d</del>wenn ein Autor, um die Frau in ihrer tiefern Liebesempfindung zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>childern, nur auf das Näch<c rendition="#langesS">s</c>te, Natürlich<c rendition="#langesS">s</c>te zurückzugreifen braucht, während er im gleichen Fall beim Mann<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ogleich in <pb facs="MS-SCHNITZLER-B-00003-000-00003"/>eine ganze Wirrniß von zwie<c rendition="#langesS">s</c>pältigen verzwickten und wider<c rendition="#langesS">s</c>pruchsvollen Empfindungen hineingeräth? Auf mich hat das »<rs ref="#pmb29823" type="work"><hi rend="latintype">Märchen</hi></rs>« weit<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chwächer gewirkt als der »<rs ref="#pmb29935" type="work"><hi rend="latintype">Anatol</hi></rs>« und es kam mir vor, als<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ei eine viel geringere poeti<c rendition="#langesS">s</c>che und pla<c rendition="#langesS">s</c>ti<c rendition="#langesS">s</c>che Kraft darin lebendig, aber der Grund kann auch<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, daß ich Ihren Märchenhelden ab<c rendition="#langesS">s</c>olut nicht leiden mag und deshalb dem Autor Unrecht thue. Auffallend i<c rendition="#langesS">s</c>t es, wie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chlecht der Mann überhaupt in Ihren Dichtungen wegkommt, –<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chlecht, daß man ver<c rendition="#langesS">s</c>ucht i<c rendition="#langesS">s</c>t, an ein klein wenig Verläumdung zu glauben. Gleichviel ob er<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich als der verhältnißmäßig Bravere oder Bö<c rendition="#langesS">s</c>ere giebt, – immer i<c rendition="#langesS">s</c>t er, neben der Frau, der Unintere<c rendition="#langesS">s</c><c rendition="#langesS">s</c>antere. Alle die<c rendition="#langesS">s</c>e Frauen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind ihm, und wäre es auch nur in der Un<c rendition="#langesS">s</c>chuld ihrer Nichtsnutzigkeit, irgendwie überlegen. Eine wunderliche Sorte von Selb<c rendition="#langesS">s</c>tverleugnung <add place="above">des Autors</add> liegt in fa<c rendition="#langesS">s</c>t jedem Strich, mit dem der Mann den Frauen gegenüber ge<c rendition="#langesS">s</c>childert i<c rendition="#langesS">s</c>t, <pb facs="MS-SCHNITZLER-B-00003-000-00005"/>– wer den Mann<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>childert, räumt der Frau damit den Platz. Ich kann in den von Ihnen gewählten Fällen die Richtigkeit Ihrer Dar<c rendition="#langesS">s</c>tellung in die<c rendition="#langesS">s</c>em Punkt nicht recht beurtheilen, aber natürlich bin ich, als Frau, außerordentlich bereit, ihr ohne Weiteres jede nur denkbare Lebenswahrheit zuzuge<c rendition="#langesS">s</c>tehn. –</p><p>Sie werden gewiß etwas verwundert<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, wenn die<c rendition="#langesS">s</c>er gänzlich überflü<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ige Brief Ihnen zukommt, doch das hat Ihr Freund, Herr <hi rend="latintype">D<hi rend="superscript">r</hi> </hi><rs ref="#pmb11485" type="person"><hi rend="latintype">Goldmann</hi></rs>, ganz und gar auf<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>einem Gewi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en. Ich hätte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>on<c rendition="#langesS">s</c>t vielleicht be<c rendition="#langesS">s</c>cheidentlich den Mund gehalten, da es nach meiner Erfahrung nur wenig oder gar keine Freude macht, Stimmen aus dem Publikum über Arbeiten zu vernehmen, die einem doch an's Herz gewach<c rendition="#langesS">s</c>en<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind, wenn<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie was taugen. Nur die paar<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eltenen Men<c rendition="#langesS">s</c>chen, die man liebt oder die man fürchtet,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ollte man darüber hören. Denn das, was man am lieb<c rendition="#langesS">s</c>ten hat, theilt man ja <pb facs="MS-SCHNITZLER-B-00003-000-00005"/>nicht leicht und nicht gern mit vielen Andern, und noch weniger gern läßt man es von Andern analy<c rendition="#langesS">s</c>iren und begucken, ganz einerlei ob Lob oder Tadel dabei herauskommt.</p><closer>In jedem Fall aber wollte die<c rendition="#langesS">s</c>e Schreiberei Ihnen herzlichen Dank<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen für gute Stunden.<lb/><signed>Lou Andreas-Salomé.</signed></closer><postscript><dateline><rs ref="#pmb182" type="place">Paris</rs>, <date>15. V. 94</date>. </dateline></postscript></div></body><back><listPerson><person xml:id="pmb10762">
+                  <tei:persName>
+                     <tei:surname>Andreas-Salomé</tei:surname>
+                     <tei:forename>Lou</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-02-12">12. 2. 1861</tei:date>
+                     <tei:placeName ref="#pmb433">Sankt Petersburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1937-02-05">5. 2. 1937</tei:date>
+                     <tei:placeName ref="#pmb42325">Göttingen</tei:placeName>
+                  </tei:death>
+                  <occupation code="91">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118502921/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13196</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11485">
+                  <tei:persName>
+                     <tei:surname>Goldmann</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1865-01-31">31. 1. 1865</tei:date>
+                     <tei:placeName ref="#pmb677">Breslau</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-09-25">25. 9. 1935</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116755105/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15529</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29935">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb28645" role="illustrator">
+                     <tei:surname>Coschell</tei:surname>
+                     <tei:forename>Moritz</tei:forename>
+                     <tei:term>[Illustrationen]</tei:term>
+                  </tei:author>
+                  <tei:author ref="pmb5369" role="translator">
+                     <tei:surname>Granville-Barker</tei:surname>
+                     <tei:forename>Harley</tei:forename>
+                     <tei:term>[Übersetzung]</tei:term>
+                  </tei:author>
+                  <tei:title>Anatol</tei:title>
+                  <tei:date when="1892-10-29" when-custom="1892-10-29">29. 10. 1892</tei:date>
+                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q487409/</idno>
+               </bibl><bibl xml:id="pmb30391">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Die überspannte Person</tei:title>
+                  <tei:date from="1896-04-18" from-custom="18.04.1896">18. 4. 1896</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>2926</tei:note>
+               </bibl><bibl xml:id="pmb30389">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Halb Zwei</tei:title>
+                  <tei:date from="1897-04-01" from-custom="01.04.1897">1. 4. 1897</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>2754</tei:note>
+                  <tei:note>2925</tei:note>
+               </bibl><bibl xml:id="pmb30163">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Weihnachts-Einkäufe</tei:title>
+                  <tei:date from="1891-12-24" from-custom="24.12.1891">24. 12. 1891</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>2899</tei:note>
+               </bibl><bibl xml:id="pmb30145">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Denksteine</tei:title>
+                  <tei:date from="1891-05-15" from-custom="15.05.1891">15. 5. 1891</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>2896</tei:note>
+               </bibl><bibl xml:id="pmb29823">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Das Märchen. Schauspiel in drei Aufzügen</tei:title>
+                  <tei:date when="1891-01-01" when-custom="1891">1891</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>6299</tei:note>
+                  <tei:note>8984</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1169917/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb182">
+                  <tei:placeName>Paris</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.85341 2.3488</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2988507/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4044660-8/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

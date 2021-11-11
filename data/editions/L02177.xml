@@ -1,208 +1,163 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02177"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur und Olga Schnitzler an Richard und Paula Beer-Hofmann,
-                    5. 5. 1914</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <author ref="#2173">Schnitzler, Olga</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02177</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02177" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur und Olga Schnitzler an Richard und Paula Beer-Hofmann,
+                    5. 5. 1914</title><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb2173">Schnitzler, Olga</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02177</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="bildpostkarte"/>
-                        </objectDesc>
-                        <handDesc hands="2">
-                           <handNote medium="bleistift" corresp="#2121" style="deutsche-kurrent"/>
-                           <handNote medium="bleistift" corresp="#2173" style="nicht_anzuwenden"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#52725">Firenze Ferrovia</placeName>
-                                    <date>5. V 1914</date>
-                                    <time>20–21</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <persName ref="#2173">Schnitzler, Olga</persName>
-               <placeName ref="#263">Florenz</placeName>
-               <date when="1914-05-05" n="01">5. 5. 1914</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <persName ref="#10860">Beer-Hofmann, Paula</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02176">Hofmannsthal an Schnitzler, 16. 4. [1914]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02178">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 1[2?]. 5. 1914</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02175">Beer-Hofmann an Schnitzler, 16. 4. 1914</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02178">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 1[2?]. 5. 1914</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                            Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-73A1-A</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc hands="2"><handNote medium="bleistift" corresp="#pmb2121" style="deutsche-kurrent"/><handNote medium="bleistift" corresp="#pmb2173" style="nicht_anzuwenden"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb52725">Firenze Ferrovia</placeName><date>5. V 1914</date><time>20–21</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><persName ref="#pmb2173">Schnitzler, Olga</persName><placeName ref="#pmb263">Florenz</placeName><date when="1914-05-05" n="01">5. 5. 1914</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><persName ref="#pmb10860">Beer-Hofmann, Paula</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L02176">Hofmannsthal an Schnitzler, 16. 4. [1914]</ref><ref subtype="next_letter" type="withinCollection" target="L02178">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 1[2?]. 5. 1914</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02175">Beer-Hofmann an Schnitzler, 16. 4. 1914</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02178">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 1[2?]. 5. 1914</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2021-02-08">Angelegt</change>
-         <change who="MAM" when="2021-02-08">Index check</change>
-         <change who="GHS" when="2021-05-01">Finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1914_AS_RBH_1_00014"/>
-      <graphic url="1914_AS_RBH_1_00015"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="1914_AS_RBH_1_00015"/>Hrn <hi rend="latintype">Dr. Richard
-                                BeerHofma<c rendition="#gemination-n"/>
-                  </hi>
-               </addrLine>
-               <addrLine>u Frau</addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs type="place" ref="#68">Wien XVIII</rs>
-                  </hi>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#383" type="place">
-                     <hi rend="latintype">Hasenauerstr. 59</hi>
-                  </rs>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="center">
-                  <pb facs="1914_AS_RBH_1_00014"/>
-                  <hi rend="pre-print">
-                     <rs type="place" ref="#970">Firenze – R. Galleria Uffizi</rs>
-                  </hi>
-               </p>
-               <p rend="center">
-                  <hi rend="pre-print">
-                     <rs type="work" ref="#52372">L’adorazione dei Re Magi</rs> (<rs type="person" ref="#14434">Botticelli</rs>)</hi>
-               </p>
-               <dateline rend="center">
-                  <pb facs="1914_AS_RBH_1_00015"/>
-                  <rs type="place" ref="#263">Florenz</rs>
-                  <space unit="chars" quantity="1"/>
-                  <date>5. 5. 914</date>
-               </dateline>
-            </opener>
-            <p>Herzliche Grüße!</p>
-            <p>Wir haben das ſchönſte Wetter und befinden uns ſehr wohl.</p>
-            <closer>
-               <signed>Arthur.</signed>
-               <lb/>
-               <signed>
-                  <handShift scribe="#2173"/>Olga.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2021-02-08">Angelegt</change><change who="MAM" when="2021-02-08">Index check</change><change who="GHS" when="2021-05-01">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="1914_AS_RBH_1_00014"/><graphic url="1914_AS_RBH_1_00015"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="1914_AS_RBH_1_00015"/>Hrn <hi rend="latintype">Dr. Richard BeerHofma<c rendition="#gemination-n"/></hi></addrLine><addrLine>u Frau</addrLine><addrLine><hi rend="latintype"><rs type="place" ref="#pmb68">Wien XVIII</rs></hi></addrLine><addrLine><rs ref="#pmb383" type="place"><hi rend="latintype">Hasenauerstr. 59</hi></rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="1914_AS_RBH_1_00014"/><hi rend="pre-print"><rs type="place" ref="#pmb970">Firenze – R. Galleria Uffizi</rs></hi></p><p rend="center"><hi rend="pre-print"><rs type="work" ref="#pmb52372">L’adorazione dei Re Magi</rs> (<rs type="person" ref="#pmb14434">Botticelli</rs>)</hi></p><dateline rend="center"><pb facs="1914_AS_RBH_1_00015"/><rs type="place" ref="#pmb263">Florenz</rs><space unit="chars" quantity="1"/><date>5. 5. 914</date></dateline></opener><p>Herzliche Grüße!</p><p>Wir haben das<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön<c rendition="#langesS">s</c>te Wetter und befinden uns<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr wohl.</p><closer><signed>Arthur.</signed><lb/><signed><handShift scribe="#pmb2173"/>Olga.</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb10860">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Paula</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1879-02-25">25. 2. 1879</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-10-30">30. 10. 1939</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/119044994/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13550</idno>
+               </person><person xml:id="pmb14434">
+                  <tei:persName>
+                     <tei:surname>Botticelli</tei:surname>
+                     <tei:forename>Sandro</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1445-03-01">1. 3. 1445</tei:date>
+                     <tei:placeName ref="#pmb263">Florenz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1510-05-17">17. 5. 1510</tei:date>
+                     <tei:placeName ref="#pmb263">Florenz</tei:placeName>
+                  </tei:death>
+                  <occupation code="110">Maler*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13892</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb52372">
+                  <tei:author ref="pmb14434" role="author">
+                     <tei:surname>Botticelli</tei:surname>
+                     <tei:forename>Sandro</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Anbetung der heiligen drei Könige</tei:title>
+                  <tei:date when="1476-01-01" when-custom="um 1476&lt;1476-01-01&gt;">um 1476</tei:date>
+                  <tei:gloss type="w1080">Gemälde</tei:gloss>
+                  <tei:note>10553</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb52725">
+                  <tei:placeName>Santa Maria Novella</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i32">Bahnhofsgebäude</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">43.776338 11.247527</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb263">
+                  <tei:placeName>Florenz</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">43.77925 11.24626</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3176959/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb68">
+                  <tei:placeName>XVIII., Währing</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2762091/</idno>
+               </place><place xml:id="pmb383">
+                  <tei:placeName>Hasenauerstraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.233816866614 16.337927920952</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb970">
+                  <tei:placeName>Uffizien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i8">Museum</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">43.768439 11.2559</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q51252/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

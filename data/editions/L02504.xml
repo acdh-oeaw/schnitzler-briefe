@@ -1,273 +1,312 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02504"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Hugo Hofmannsthal, 21. 7. 1928</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02504</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02504" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hugo Hofmannsthal, 21. 7. 1928</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02504</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Frankfurt am Main</settlement>
-                        <repository>Freies Deutsches Hochstift</repository>
-                        <idno>Hs-30885,158</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="2" type="_blaetter"/>
-                           <desc n="3" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand beschriftet: »<quote>5 Tage
-                                    vor <rs ref="#2238" type="person">Lili</rs>’s
-                                 Tod</quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand das zweite Blatt nummeriert mit »<quote>2.</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="HvHAS">
-                  <monogr>
-                     <author ref="#11740">Hofmannsthal, Hugo von</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel</title>
-                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1964">1964</date>
-                     </imprint>
-                     <biblScope unit="pp">310–311</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct corresp="ASB2">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefe 1913–1931</title>
-                     <editor>Braunwarth, Peter Michael</editor>
-                     <editor>Miklin, Richard</editor>
-                     <editor>Pertlik, Susanne</editor>
-                     <editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1984">1984</date>
-                     </imprint>
-                     <biblScope unit="pp">557–559</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1928-07-21" n="01">21. 7. 1928</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02503">Hofmannsthal
-                  an Schnitzler, 10. 7. [1928]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02505">Hofmannsthal an
-                  Schnitzler, 31. 7. 1928</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L02503"
-                  >Hofmannsthal an Schnitzler, 10. 7. [1928]</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02505">Hofmannsthal
-                  an Schnitzler, 31. 7. 1928</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-74E8-A</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Frankfurt am Main</settlement><repository>Freies Deutsches Hochstift</repository><idno>Hs-30885,158</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="2" type="_blaetter"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand beschriftet: »<quote>5 Tage
+                                    vor <rs ref="#pmb2238" type="person">Lili</rs>’s
+                                 Tod</quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand das zweite Blatt nummeriert mit »<quote>2.</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">310–311</biblScope></monogr></biblStruct><biblStruct corresp="ASB2"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefe 1913–1931</title><editor>Braunwarth, Peter Michael</editor><editor>Miklin, Richard</editor><editor>Pertlik, Susanne</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1984">1984</date></imprint><biblScope unit="pp">557–559</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1928-07-21" n="01">21. 7. 1928</date></correspAction><correspAction type="received"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L02503">Hofmannsthal
+                  an Schnitzler, 10. 7. [1928]</ref><ref subtype="next_letter" type="withinCollection" target="L02505">Hofmannsthal an
+                  Schnitzler, 31. 7. 1928</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02503">Hofmannsthal an Schnitzler, 10. 7. [1928]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02505">Hofmannsthal
+                  an Schnitzler, 31. 7. 1928</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2018-12-04">Angelegt</change>
-         <change who="MAM" when="2019-01-16">Durchsicht</change>
-         <change who="GHS" when="2020-05-23">Durchsicht</change>
-         <change who="MAM" when="2020-09-10">Index check</change>
-         <change who="MAM" when="2020-09-10">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="Hs-30885,158a_001"/>
-      <graphic url="Hs-30885,158a_002"/>
-      <graphic url="Hs-30885,158b_001"/>
-      <graphic url="Hs-30885,158b_002"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="Hs-30885,158a_001"/>
-                  <rs ref="#50" type="place">Wien</rs>, <date>21. 7. 928</date>
-               </dateline>
-            </opener>
-            <p>
-               <salute>mein lieber Hugo, </salute>Sie werden schon von unserer <rs type="person"
-                  ref="#2312" subtype="implied">Freundin-Hofrätin</rs> gehört haben, wie sehr Ihr
-               Brief über die <rs ref="#30817" type="work">Therese</rs> mich gefreut hat; – das Buch
-               hat, sowohl beim Publikum, als bei den paar Menschen, auf die es <add place="above"
-                  >mir</add> besonders anko<c rendition="#gemination-m"/>t, mehr Erfolg als ich je
-               hätte vermuthen dürfen. Die Entstehungsgeschichte ist einigermaßen merkwürdig, ich
-               erzähle Ihnen einmal mehr davon.</p>
-            <p>– <rs ref="#3220" type="person">Christiane</rs> war mir immer außerordentlich
-               sympathisch – ich glaube das klare, gerade, kluge wahrhaft verläßliche ihres Wesens
-               seit jeher gespürt zu haben u bin froh, daſs der rechte <rs type="person"
-                  ref="#13183" subtype="implied">Mann</rs> die rechte Wahl getroffen hat. Mögen Sie
-               ihr bald das <rs ref="#882" type="place">Heidelberg</rs>er Häuschen bauen können.
-               Meine <rs type="person" ref="#2238 #14850" subtype="implied">Kinder</rs> in <rs
-                  ref="#462" type="place">Venedig</rs> haben jetzt etliche Wohnungsschwierigkeiten
-               durch einen kläglichen wahrhaft <rs ref="#5892" type="person">Goldoni</rs>schen <rs
-                  type="person" ref="#28947" subtype="implied">Hausherrn</rs> – (»nur halt daſs er
-               leider lebt«.) – Im übrigen sind sie glücklich, und ich hab <rs type="person"
-                  ref="#14850" subtype="implied">ihn</rs> (von <rs ref="#2238" type="person"
-                  >Lili</rs> gar nicht zu reden) sehr gern. Sie wissen, daſs wir drei im Frühjahr
-               eine schöne Reise gemacht haben. <rs ref="#41212" type="place">Corfu</rs>, <rs
-                  ref="#505" type="place">Athen</rs>, <rs ref="#966" type="place">Kon<pb
-                     facs="Hs-30885,158a_002"/>stantinopel</rs>, <rs ref="#44292" type="place"
-                  >Rhodus</rs>. Jetzt war <rs ref="#12692" type="person">Heini</rs> 10 Tage bei mir,
-               und ich habe viel Freude von ihm gehabt.</p>
-            <p>Die So<c rendition="#gemination-m"/>ermonate wer<unclear>d</unclear> ich wohl hier
-               verbringen; ich sehe recht viel Menschen, insbesondere <rs ref="#175" type="place"
-                  >Amerika</rs> findet sich in zahlreichen, oft verständnisvollen Exemplaren ein.
-               Mit dem Arbeiten geht es ganz leidlich, aber Dilettant, der ich bin und bleibe, spiel
-               ich mich mit Figuren und Stoffen mehr herum, – und eigentlich lieber, als daſs ich
-               die Dictatur meines sogenannten Talentes oder wie wir es nennen wollen über sie
-               ausübe. Immerhin wird gelegentlich schon wieder was herausko<c
-                  rendition="#gemination-m"/>en, und ans Geldverdienen muſs man ja leider immer
-               ernstlicher und continuirlicher denken.</p>
-            <p>Die <rs type="work" ref="#33704" subtype="implied">aegyptische</rs> hab ich natürlich
-               schon gekannt; in der <anchor xml:id="K_L02504_1" type="commentary"/>
-               <rs ref="#15" type="place">Oper</rs>
-               <note xml:id="K_L02504_1h" type="commentary">Die <rs ref="#50" type="place"
-                  >Wien</rs>er Erstaufführung von <rs type="work" ref="#33704">Die ägyptische
-                     Helena</rs> fand am <date>11. 6. 1928</date> statt, <rs ref="#2121"
-                     type="person">Schnitzler</rs> war aber erst am <ref target="1928-06-23"
-                     subtype="date-only" type="schnitzlerDiary"/> in der Vorstellung.</note> hab ich
-               einen schönen Eindruck gehabt, und es war mir über alle Maßen interessant, Ihre
-               Dichtung so für mich hin zu lesen – und daſs Musik mir immer mitklang, spricht für
-               Dichter wie für Musiker. Es ist unglaublich, wie Ihre Sprache Möglichkeiten u
-               Einfälle des Componisten oft vorauszuahnen scheint; es ist wahrhaftig Dichtung für
-               Musik und aus Musik zugleich. Die beiden Akte sind mir <pb facs="Hs-30885,158b_001"
-               />jeder für sich, einleuchtender, als in ihrem innern Zusa<c
-                  rendition="#gemination-m"/>enhang; das ganze Problem hat mich sehr bewegt, und ich
-               denke, Sie hätten es noch tiefer erschöpft, we<c rendition="#gemination-n"/> Sie sich
-               – ohne jeden Gedanken <subst>
-                  <del rend="strikethrough">an die</del>
-                  <add place="above">an</add>
-               </subst> un<unclear>d</unclear> ohne jede Rücksicht auf Melodisirung <subst>
-                  <del rend="overwritten">,</del>
-                  <add place="above">un<unclear>d</unclear>
-                  </add>
-               </subst> auf Operisierung Ihrem dramatischen Ingenium hätten hingeben dürfen (wie ich
-               derartiges in Ihren einleitenden <anchor xml:id="K_L02504_2" type="commentary"/>
-               <rs type="work" ref="#33708" subtype="implied">Worten</rs>
-               <note xml:id="K_L02504_2h" type="commentary">
-                  <bibl>
-                     <rs ref="#11740" type="person">Hugo von Hofmannsthal</rs>: <rs ref="#33708"
-                        type="work">»Die ägyptische Helena«</rs>. In: <rs ref="#36374" type="work"
-                        >Neue Freie Presse</rs>, Nr. 22832, <date>8. 4. 1928</date>,
-                  S. 31–33</bibl>.</note>, schon in d <rs ref="#29351" type="org">N. Fr Pr.</rs>
-               wunderbar angedeutet fand.). Nur mit den Liebestränken, besonders den
-               Dosirungsmöglichkeiten konnt ich mich nicht befreunden; irgendwo in mir steckt doch
-               ein Pedant und Rationalist und der Teufel soll mich holen, am Ende gar ein
-               Recensent.</p>
-            <closer>Nun mein lieber Hugo lassen Sie sich nochmals danken – und nach allen Richtungen
-               bestes und gutes wünschen. Und wer weiſs vielleicht sieht man sich sogar wieder
-               einmal.<lb/>Ihr getreuer<lb/>
-               <signed>Arth</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-12-04">Angelegt</change><change who="MAM" when="2019-01-16">Durchsicht</change><change who="GHS" when="2020-05-23">Durchsicht</change><change who="MAM" when="2020-09-10">Index check</change><change who="MAM" when="2020-09-10">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="Hs-30885,158a_001"/><graphic url="Hs-30885,158a_002"/><graphic url="Hs-30885,158b_001"/><graphic url="Hs-30885,158b_002"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="Hs-30885,158a_001"/><rs ref="#pmb50" type="place">Wien</rs>, <date>21. 7. 928</date></dateline></opener><p><salute>mein lieber Hugo, </salute>Sie werden schon von unserer <rs type="person" ref="#pmb2312" subtype="implied">Freundin-Hofrätin</rs> gehört haben, wie sehr Ihr Brief über die <rs ref="#pmb30817" type="work">Therese</rs> mich gefreut hat; – das Buch hat, sowohl beim Publikum, als bei den paar Menschen, auf die es <add place="above">mir</add> besonders anko<c rendition="#gemination-m"/>t, mehr Erfolg als ich je hätte vermuthen dürfen. Die Entstehungsgeschichte ist einigermaßen merkwürdig, ich erzähle Ihnen einmal mehr davon.</p><p>– <rs ref="#pmb3220" type="person">Christiane</rs> war mir immer außerordentlich sympathisch – ich glaube das klare, gerade, kluge wahrhaft verläßliche ihres Wesens seit jeher gespürt zu haben u bin froh, da<c rendition="#langesS">s</c>s der rechte <rs type="person" ref="#pmb13183" subtype="implied">Mann</rs> die rechte Wahl getroffen hat. Mögen Sie ihr bald das <rs ref="#pmb882" type="place">Heidelberg</rs>er Häuschen bauen können. Meine <rs type="person" ref="#pmb2238 #pmb14850" subtype="implied">Kinder</rs> in <rs ref="#pmb462" type="place">Venedig</rs> haben jetzt etliche Wohnungsschwierigkeiten durch einen kläglichen wahrhaft <rs ref="#pmb5892" type="person">Goldoni</rs>schen <rs type="person" ref="#pmb28947" subtype="implied">Hausherrn</rs> – (»nur halt da<c rendition="#langesS">s</c>s er leider lebt«.) – Im übrigen sind sie glücklich, und ich hab <rs type="person" ref="#pmb14850" subtype="implied">ihn</rs> (von <rs ref="#pmb2238" type="person">Lili</rs> gar nicht zu reden) sehr gern. Sie wissen, da<c rendition="#langesS">s</c>s wir drei im Frühjahr eine schöne Reise gemacht haben. <rs ref="#pmb41212" type="place">Corfu</rs>, <rs ref="#pmb505" type="place">Athen</rs>, <rs ref="#pmb966" type="place">Kon<pb facs="Hs-30885,158a_002"/>stantinopel</rs>, <rs ref="#pmb44292" type="place">Rhodus</rs>. Jetzt war <rs ref="#pmb12692" type="person">Heini</rs> 10 Tage bei mir, und ich habe viel Freude von ihm gehabt.</p><p>Die So<c rendition="#gemination-m"/>ermonate wer<unclear>d</unclear> ich wohl hier verbringen; ich sehe recht viel Menschen, insbesondere <rs ref="#pmb175" type="place">Amerika</rs> findet sich in zahlreichen, oft verständnisvollen Exemplaren ein. Mit dem Arbeiten geht es ganz leidlich, aber Dilettant, der ich bin und bleibe, spiel ich mich mit Figuren und Stoffen mehr herum, – und eigentlich lieber, als da<c rendition="#langesS">s</c>s ich die Dictatur meines sogenannten Talentes oder wie wir es nennen wollen über sie ausübe. Immerhin wird gelegentlich schon wieder was herausko<c rendition="#gemination-m"/>en, und ans Geldverdienen mu<c rendition="#langesS">s</c>s man ja leider immer ernstlicher und continuirlicher denken.</p><p>Die <rs type="work" ref="#pmb33704" subtype="implied">aegyptische</rs> hab ich natürlich schon gekannt; in der <anchor xml:id="K_L02504_1" type="commentary"/><rs ref="#pmb15" type="place">Oper</rs><note xml:id="K_L02504_1h" type="commentary">Die <rs ref="#pmb50" type="place">Wien</rs>er Erstaufführung von <rs type="work" ref="#pmb33704">Die ägyptische Helena</rs> fand am <date>11. 6. 1928</date> statt, <rs ref="#pmb2121" type="person">Schnitzler</rs> war aber erst am <ref target="1928-06-23" subtype="date-only" type="schnitzlerDiary"/> in der Vorstellung.</note> hab ich einen schönen Eindruck gehabt, und es war mir über alle Maßen interessant, Ihre Dichtung so für mich hin zu lesen – und da<c rendition="#langesS">s</c>s Musik mir immer mitklang, spricht für Dichter wie für Musiker. Es ist unglaublich, wie Ihre Sprache Möglichkeiten u Einfälle des Componisten oft vorauszuahnen scheint; es ist wahrhaftig Dichtung für Musik und aus Musik zugleich. Die beiden Akte sind mir <pb facs="Hs-30885,158b_001"/>jeder für sich, einleuchtender, als in ihrem innern Zusa<c rendition="#gemination-m"/>enhang; das ganze Problem hat mich sehr bewegt, und ich denke, Sie hätten es noch tiefer erschöpft, we<c rendition="#gemination-n"/> Sie sich – ohne jeden Gedanken <subst><del rend="strikethrough">an die</del><add place="above">an</add></subst> un<unclear>d</unclear> ohne jede Rücksicht auf Melodisirung <subst><del rend="overwritten">,</del><add place="above">un<unclear>d</unclear></add></subst> auf Operisierung Ihrem dramatischen Ingenium hätten hingeben dürfen (wie ich derartiges in Ihren einleitenden <anchor xml:id="K_L02504_2" type="commentary"/><rs type="work" ref="#pmb33708" subtype="implied">Worten</rs><note xml:id="K_L02504_2h" type="commentary"><bibl><rs ref="#pmb11740" type="person">Hugo von Hofmannsthal</rs>: <rs ref="#pmb33708" type="work">»Die ägyptische Helena«</rs>. In: <rs ref="#pmb36374" type="work">Neue Freie Presse</rs>, Nr. 22832, <date>8. 4. 1928</date>, S. 31–33</bibl>.</note>, schon in d <rs ref="#pmb29351" type="org">N. Fr Pr.</rs> wunderbar angedeutet fand.). Nur mit den Liebestränken, besonders den Dosirungsmöglichkeiten konnt ich mich nicht befreunden; irgendwo in mir steckt doch ein Pedant und Rationalist und der Teufel soll mich holen, am Ende gar ein Recensent.</p><closer>Nun mein lieber Hugo lassen Sie sich nochmals danken – und nach allen Richtungen bestes und gutes wünschen. Und wer wei<c rendition="#langesS">s</c>s vielleicht sieht man sich sogar wieder einmal.<lb/>Ihr getreuer<lb/><signed>Arth</signed></closer></div></body><back><listPerson><person xml:id="pmb2238">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Lili</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1909-09-13">13. 9. 1909</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1928-07-26">26. 7. 1928</tei:date>
+                     <tei:placeName ref="#pmb462">Venedig</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/131362089/</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2312">
+                  <tei:persName>
+                     <tei:surname>Zuckerkandl</tei:surname>
+                     <tei:forename>Berta</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1864-04-13">13. 4. 1864</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-10-16">16. 10. 1945</tei:date>
+                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
+                  </tei:death>
+                  <occupation code="137">Journalist*in</occupation>
+                  <occupation code="138">Übersetzer*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118758160/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21594</idno>
+               </person><person xml:id="pmb3220">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Christiane von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1902-05-14">14. 5. 1902</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1987-01-05">5. 1. 1987</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/118975803/</idno>
+               </person><person xml:id="pmb13183">
+                  <tei:persName>
+                     <tei:surname>Zimmer</tei:surname>
+                     <tei:forename>Heinrich</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1890-12-06">6. 12. 1890</tei:date>
+                     <tei:placeName ref="#pmb6133">Greifswald</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1943-03-20">20. 3. 1943</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="261">Indologe/in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119211351/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21566</idno>
+               </person><person xml:id="pmb14850">
+                  <tei:persName>
+                     <tei:surname>Cappellini</tei:surname>
+                     <tei:forename>Arnoldo</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1889-08-10">10. 8. 1889</tei:date>
+                     <tei:placeName ref="#pmb462">Venedig</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1954-05-08">8. 5. 1954</tei:date>
+                     <tei:placeName ref="#pmb445">Rom</tei:placeName>
+                  </tei:death>
+                  <occupation code="299">Offizier</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14129</idno>
+               </person><person xml:id="pmb5892">
+                  <tei:persName>
+                     <tei:surname>Goldoni</tei:surname>
+                     <tei:forename>Carlo</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1707-02-25">25. 2. 1707</tei:date>
+                     <tei:placeName ref="#pmb462">Venedig</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1793-02-06">6. 2. 1793</tei:date>
+                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118540505/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15532</idno>
+               </person><person xml:id="pmb28947">
+                  <tei:persName>
+                     <tei:surname>Levi</tei:surname>
+                     <tei:forename/>
+                  </tei:persName>
+                  <occupation code="953">Commandante</occupation>
+                  <occupation code="954">Vermieter*in</occupation>
+               </person><person xml:id="pmb12692">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Heinrich</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1902-08-09">9. 8. 1902</tei:date>
+                     <tei:placeName ref="#pmb75">Hinterbrühl</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1982-07-12">12. 7. 1982</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848510/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19822</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30817">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Therese. Chronik eines Frauenlebens</tei:title>
+                  <tei:date from="1928-01-01" from-custom="1928">1928</tei:date>
+                  <tei:gloss type="w1060">Roman</tei:gloss>
+                  <tei:note>5718</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q699088/</idno>
+               </bibl><bibl xml:id="pmb33704">
+                  <tei:author ref="pmb11740" role="author">
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb12870" role="author">
+                     <tei:surname>Strauss</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:author>
+                  <tei:title>Die ägyptische Helena</tei:title>
+                  <tei:date from="1928-01-01" from-custom="1928">1928</tei:date>
+                  <tei:gloss type="w1059">Oper</tei:gloss>
+                  <tei:note>6436</tei:note>
+               </bibl><bibl xml:id="pmb33708">
+                  <tei:author ref="pmb11740" role="author">
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:author>
+                  <tei:title>»Die ägyptische Helena«</tei:title>
+                  <tei:date from="1928-04-08" from-custom="08.04.1928">8. 4. 1928</tei:date>
+                  <tei:gloss type="w1154">Aufsatz</tei:gloss>
+                  <tei:note>3418</tei:note>
+                  <tei:note>6435</tei:note>
+               </bibl><bibl xml:id="pmb36374">
+                  <tei:title>Neue Freie Presse</tei:title>
+                  <tei:date from="1864-01-01" from-custom="1864" to="1939-01-01" to-custom="1939">1864–1939</tei:date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <tei:note>3479</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb882">
+                  <tei:placeName>Heidelberg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">49.40768 8.69079</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2907911/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q2966/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4023996-2/</idno>
+               </place><place xml:id="pmb462">
+                  <tei:placeName>Venedig</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">45.43713 12.33265</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3164603/</idno>
+               </place><place xml:id="pmb41212">
+                  <tei:placeName>Korfu</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i57">Insel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">39.598055 19.852222</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2463678/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q121378/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4073728-7/</idno>
+               </place><place xml:id="pmb505">
+                  <tei:placeName>Athen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">37.97945 23.71622</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/264371/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1524/</idno>
+               </place><place xml:id="pmb966">
+                  <tei:placeName>Istanbul</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">41.01384 28.94966</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/745044/</idno>
+                  <idno type="geonames">https://www.geonames.org/745042/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q406/</idno>
+               </place><place xml:id="pmb44292">
+                  <tei:placeName>Rhodos</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1419">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">36.43556 28.22199</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/400665/</idno>
+                  <idno type="geonames">https://www.geonames.org/400666/</idno>
+               </place><place xml:id="pmb175">
+                  <tei:placeName>Amerika</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">32.530833 -117.02</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/6255149/</idno>
+               </place><place xml:id="pmb15">
+                  <tei:placeName>Oper</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i10">Oper</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.203 16.3691</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb29351">
+                  <tei:orgName>Neue Freie Presse</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1864-09-01" from-custom="1864-09-01" to="1939-02-01" to-custom="1939-02-01">1. 9. 1864–1. 2. 1939</tei:date>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

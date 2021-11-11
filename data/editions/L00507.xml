@@ -1,202 +1,139 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00507"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Friedrich M. Fels an Arthur Schnitzler, 16. 10. 1895</title>
-            <author ref="#2450">Fels, Friedrich M.</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00507</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00507" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Friedrich M. Fels an Arthur Schnitzler, 16. 10. 1895</title><author ref="#pmb2450">Fels, Friedrich M.</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00507</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Marbach am Neckar</settlement>
-                        <repository>Deutsches Literaturarchiv</repository>
-                        <idno>A:Schnitzler, HS.NZ85.1.2956</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="postkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#42503">Zürich 5 Limmatq.</placeName>
-                                    <date when="1895-10-16">16. X. 95</date>
-                                    <time>XII</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="2">
-                                    <placeName ref="#59">Wien 9/3</placeName>
-                                    <date when="1895-10-18">18 10. 95</date>
-                                    <time>10.V</time>
-                                    <addSpan>Bestellt</addSpan>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit Bleistift nummeriert: »<quote>28</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2450">Fels, Friedrich M.</persName>
-               <placeName ref="#484">Zürich</placeName>
-               <date when="1895-10-16" n="01">16. 10. 1895</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1895-10-18">18. 10. 1895</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#2450">Fels, Friedrich M.</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00506">Fels, Nordegg an Schnitzler, 15. 10. 1895</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00508">Hofmannsthal an Schnitzler, 17. 10. [1895]</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00506">Fels, Nordegg an Schnitzler, 15. 10. 1895</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6D1C-A</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, HS.NZ85.1.2956</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="postkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb42503">Zürich 5 Limmatq.</placeName><date when="1895-10-16">16. X. 95</date><time>XII</time></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb59">Wien 9/3</placeName><date when="1895-10-18">18 10. 95</date><time>10.V</time><addSpan>Bestellt</addSpan></stamp></desc></incident><incident type="receiver"><desc>mit Bleistift nummeriert: »<quote>28</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2450">Fels, Friedrich M.</persName><placeName ref="#pmb484">Zürich</placeName><date when="1895-10-16" n="01">16. 10. 1895</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1895-10-18">18. 10. 1895</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb2450">Fels, Friedrich M.</ref><ref subtype="previous_letter" type="withinCollection" target="L00506">Fels, Nordegg an Schnitzler, 15. 10. 1895</ref><ref subtype="next_letter" type="withinCollection" target="L00508">Hofmannsthal an Schnitzler, 17. 10. [1895]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00506">Fels, Nordegg an Schnitzler, 15. 10. 1895</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2019-10-22">Angelegt</change>
-         <change who="MAM" when="2019-10-22">Index check</change>
-         <change who="GHS" when="2019-12-28">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS.NZ85.1.2956_0043"/>
-      <graphic url="HS.NZ85.1.2956_0044"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="HS.NZ85.1.2956_0044"/>Herrn Dr. Arthur Schnitzler</addrLine>
-               <addrLine>Schriftsteller</addrLine>
-               <addrLine>
-                  <rs ref="#50" type="place">Wien</rs>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#397" type="place">IX, Frankgaſse 1</rs>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#41240" type="place">Österreich</rs>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="HS.NZ85.1.2956_0043"/>
-                  <rs ref="#42505" type="place">Zürich I, Schifflände 30</rs>
-                  <lb/>, am <date>16. Okt. 95</date>
-               </dateline>
-               <salute>Lieber Dr. Schnitzler!</salute>
-            </opener>
-            <p>We<c rendition="#gemination-n"/> Sie vielleicht noch ein überflüſsiges Exemplar
-                    Ihres »<hi n="1" rend="underline">
-                  <rs ref="#29935" type="work">Anatol</rs>
-               </hi>« haben, würden Sie mich durch Übersendung desselben sehr zum Danke
-                    verpflichten. Erscheint »<rs ref="#29917" type="work">Liebelei</rs>« bald?</p>
-            <closer>Herzlichst<lb/>
-               <signed>Fels</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-10-22">Angelegt</change><change who="MAM" when="2019-10-22">Index check</change><change who="GHS" when="2019-12-28">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.2956_0043"/><graphic url="HS.NZ85.1.2956_0044"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="HS.NZ85.1.2956_0044"/>Herrn Dr. Arthur Schnitzler</addrLine><addrLine>Schriftsteller</addrLine><addrLine><rs ref="#pmb50" type="place">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">IX, Frankga<c rendition="#langesS">s</c>se 1</rs></addrLine><addrLine><rs ref="#pmb41240" type="place">Österreich</rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="HS.NZ85.1.2956_0043"/><rs ref="#pmb42505" type="place">Zürich I, Schifflände 30</rs><lb/>, am <date>16. Okt. 95</date></dateline><salute>Lieber Dr. Schnitzler!</salute></opener><p>We<c rendition="#gemination-n"/> Sie vielleicht noch ein überflü<c rendition="#langesS">s</c>siges Exemplar Ihres »<hi n="1" rend="underline"><rs ref="#pmb29935" type="work">Anatol</rs></hi>« haben, würden Sie mich durch Übersendung desselben sehr zum Danke verpflichten. Erscheint »<rs ref="#pmb29917" type="work">Liebelei</rs>« bald?</p><closer>Herzlichst<lb/><signed>Fels</signed></closer></div></body><back><listPerson><person xml:id="pmb2450">
+                  <tei:persName>
+                     <tei:surname>Fels</tei:surname>
+                     <tei:forename>Friedrich M.</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1864-07-01">1864</tei:date>
+                     <tei:placeName ref="#pmb41882">Bad Dürkheim</tei:placeName>
+                  </tei:birth>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127899537/</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29935">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb28645" role="illustrator">
+                     <tei:surname>Coschell</tei:surname>
+                     <tei:forename>Moritz</tei:forename>
+                     <tei:term>[Illustrationen]</tei:term>
+                  </tei:author>
+                  <tei:author ref="pmb5369" role="translator">
+                     <tei:surname>Granville-Barker</tei:surname>
+                     <tei:forename>Harley</tei:forename>
+                     <tei:term>[Übersetzung]</tei:term>
+                  </tei:author>
+                  <tei:title>Anatol</tei:title>
+                  <tei:date when="1892-10-29" when-custom="1892-10-29">29. 10. 1892</tei:date>
+                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q487409/</idno>
+               </bibl><bibl xml:id="pmb29917">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Liebelei. Schauspiel in drei Akten</tei:title>
+                  <tei:date from="1895-10-09" from-custom="9.10.1895">9. 10. 1895</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1823758/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb42503">
+                  <tei:placeName>Limmatquai</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.372003 8.542824</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb59">
+                  <tei:placeName>IX., Alsergrund</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb484">
+                  <tei:placeName>Zürich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.37174 8.54226</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2657896/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q72/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb397">
+                  <tei:placeName>Frankgasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb41240">
+                  <tei:placeName>Österreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb42505">
+                  <tei:placeName>Schifflände</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.36834 8.5449</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg/></back></text></TEI>

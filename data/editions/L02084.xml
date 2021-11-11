@@ -1,287 +1,227 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02084"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Richard Dehmel an Arthur Schnitzler, 14. 8. 1912</title>
-            <author ref="#11148">Dehmel, Richard</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Martin Anton Müller</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02084</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02084" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Richard Dehmel an Arthur Schnitzler, 14. 8. 1912</title><author ref="#pmb11148">Dehmel, Richard</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Martin Anton Müller</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02084</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Marbach am Neckar</settlement>
-                        <repository>Deutsches Literaturarchiv</repository>
-                        <idno>A:Schnitzler, HS.71.73</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter"/>
-                           <desc n="1" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="supplement">
-                              <desc>Druck, 1 Blatt, 2 Seiten, Antiqua</desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit Bleistift beschriftet »<quote>Deh<unclear>m</unclear>
-                                 </quote>«</desc></incident>
-                           <incident type="receiver">
-                              <desc>mit rotem Buntstift eine Unterstreichung</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct>
-                  <monogr>
-                     <author>Lindken, Hans-Ulrich</author>
-                     <title level="m">Arthur Schnitzler. Aspekte und Akzente. Materialien zu
-                                Leben und Werk</title>
-                     <imprint>
-                        <date when="1894">1984</date>
-                        <publisher>Peter Lang</publisher>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <pubPlace>Bern</pubPlace>
-                        <pubPlace>Göttingen</pubPlace>
-                     </imprint>
-                     <biblScope unit="pp">221–222</biblScope>
-                  </monogr>
-                  <series>
-                     <title level="s">Europäische Hochschulschriften, Reihe 1, Deutsche
-                                Sprache und Literatur</title>
-                     <biblScope unit="vol">754</biblScope>
-                  </series>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11148">Dehmel, Richard</persName>
-               <placeName ref="#506">Hamburg</placeName>
-               <date when="1912-08-14" n="01">14. 8. 1912</date>
-            </correspAction>
-            <correspAction type="forwarded">
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#45260">Brioni</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11148">Dehmel, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02083">Hofmannsthal an Schnitzler, 5. 8. [1912]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02085">Beer-Hofmann an Schnitzler, 17. 8. 1912</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01892">Dehmel, Hauptmann, Wassermann an Schnitzler, 3. 12. 1909</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02086">Schnitzler an Dehmel, 19. 8. 1912</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7344-4</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, HS.71.73</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="1" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="supplement"><desc>Druck, 1 Blatt, 2 Seiten, Antiqua</desc></incident><incident type="receiver"><desc>mit Bleistift beschriftet »<quote>Deh<unclear>m</unclear></quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift eine Unterstreichung</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct><monogr><author>Lindken, Hans-Ulrich</author><title level="m">Arthur Schnitzler. Aspekte und Akzente. Materialien zu
+                                Leben und Werk</title><imprint><date when="1894">1984</date><publisher>Peter Lang</publisher><pubPlace>Frankfurt am Main</pubPlace><pubPlace>Bern</pubPlace><pubPlace>Göttingen</pubPlace></imprint><biblScope unit="pp">221–222</biblScope></monogr><series><title level="s">Europäische Hochschulschriften, Reihe 1, Deutsche
+                                Sprache und Literatur</title><biblScope unit="vol">754</biblScope></series></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11148">Dehmel, Richard</persName><placeName ref="#pmb506">Hamburg</placeName><date when="1912-08-14" n="01">14. 8. 1912</date></correspAction><correspAction type="forwarded"><placeName ref="#pmb50">Wien</placeName></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb45260">Brioni</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11148">Dehmel, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L02083">Hofmannsthal an Schnitzler, 5. 8. [1912]</ref><ref subtype="next_letter" type="withinCollection" target="L02085">Beer-Hofmann an Schnitzler, 17. 8. 1912</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01892">Dehmel, Hauptmann, Wassermann an Schnitzler, 3. 12. 1909</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02086">Schnitzler an Dehmel, 19. 8. 1912</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2020-05-08">Angelegt aus Abschrift. Original im DLA muss noch
-                bestellt werden</change>
-         <change who="GHS" when="2020-09-07">Durchsicht</change>
-         <change who="MAM" when="2020-09-07">Index check</change>
-         <change who="MAM" when="2020-10-23">Durchsicht mit DLA</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS.71.73_0001"/>
-      <graphic url="HS.71.73_0002"/>
-      <graphic url="HS.71.73_0003"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline>
-                  <pb facs="HS.71.73_0001"/>
-                  <rs type="place" ref="#1226">Blankenese <hi rend="superscript">b</hi>/Hamburg</rs>, <date>14. 8. 12</date>. </dateline>
-               <salute>Lieber Herr Schnitzler!</salute>
-            </opener>
-            <p>Professor <rs type="person" ref="#44882">Köster</rs> schreibt mir, daß Sie ihm
-                    Ihre Unterschrift zu dem anhängenden <rs type="work" ref="#44869" subtype="implied">Aufruf</rs> nicht geschickt haben. Ich kann mir nicht
-                    denken, daß Sie es mit Absicht unterlassen haben. Es ist doch tatsächlich ein
-                    blödsinniger Unfug, daß soviel schönes Geld an Stümper verplempert wird, während
-                    sich tüchtige Leute als Schuldenmacher durchschinden müssen und dabei Zeit und
-                    Arbeitslust einbüßen. Ich meine, da muß Jeder, auf den die öffentliche Meinung
-                    hört, seinen Namen hergeben, um diese faule Wirtschaft endlich ändern zu helfen.
-                    Bitte schreiben Sie mir <hi rend="underline" n="1">gleich</hi> eine zusagende
-                    Zeile, eh Sie’s wieder vergessen! </p>
-            <closer>Mit einem sehr ergebenen Gruß<lb/>Ihr<signed>Dehmel.</signed>
-            </closer>
-         </div>
-         <div type="writingSession" n="2">
-            <opener>
-               <p>
-                  <space dim="vertical" unit="line" quantity="1"/>
-               </p>
-               <dateline rend="right">
-                  <pb facs="HS.71.73_0002"/>
-                  <date>Juni
-                        1912</date>.</dateline>
-               <salute>Euer Hochwohlgeboren</salute>
-            </opener>
-            <p>wird zur Kenntnis gekommen sein, daß am <date>17. März ds. Js.</date>
-                    eine Versammlung angesehener Schriftsteller in <rs type="place" ref="#168">Berlin</rs> die Verwaltungsberichte der <rs type="org" ref="#41852">
-                  <hi rend="spaced_out">Deutschen Schillerstiftung</hi>
-               </rs> geprüft und in
-                    sehr vielen Fällen die Verwendung der Stiftungsgelder als satzungswidrig
-                    befunden hat. Zugleich wurden die Unterzeichneten damit betraut, Schritte zu
-                    tun, die eine dauernde Abstellung dieses Mißstandes durchsetzen könnten.</p>
-            <p>Nach den Satzungen der Stiftung ist es ihr <hi rend="spaced_out">Hauptzweck</hi>,
-                    die verfügbaren Gelder als Ehrengaben an Schriftsteller zu verteilen, die einer
-                    Unterstützung bedürftig und würdig sind, »vorzugsweise an solche, die sich
-                    dichterischer Formen bedient haben«. Die Würdigkeit ist ausdrücklich dahin
-                    begrenzt, daß ein »Verdienst um die Nationalliteratur« vorliegen müsse.
-                    Tatsächlich aber sind in den letzten Jahrzehnten die Stiftungsgelder großenteils
-                    an literarisch wertlose Personen vergeben worden, während bedürftige Dichter und
-                    Schriftsteller, deren Wert heute weithin anerkannt ist, entweder gar keine oder
-                    ungenügende Unterstützung empfingen.</p>
-            <p>Wenn man erwägt, daß die Stiftung jetzt jährlich etwa 80000 Mark
-                    auszuspenden hat — im letzten Jahre waren es über 82000 —: dann fragt man
-                    mit Verwunderung, wieso sich ein deutscher Dichter von Bedeutung überhaupt noch
-                    in Not befinden kann. Was könnte man ausrichten mit <hi rend="spaced_out">so
-                        reichlichen Mitteln</hi>, wenn sie nicht immer wieder in kleinen Almosen an
-                    die breite Menge der Schwächlinge verzettelt würden, sondern in wirklich
-                    nennenswerten Ehrenspenden den stark Begabten zugute kämen! Man hat eingewendet,
-                    der Wortlaut der Satzungen erschwere die Austeilung größerer Spenden; aber die
-                    Erschwerung ist kein Hinderungsgrund und muß eben irgendwie überwunden werden.
-                    Es tut not, junge Kräfte, die sich bereits bewährt haben, vor Verkümmerung zu
-                    bewahren und den reifen die Ausdauer in der Durchführung ungewöhnlicher Pläne zu
-                    sichern.</p>
-            <p>Wir verkennen nicht, wie schwierig es ist, die jeweils Würdigsten auszuwählen,
-                    besonders in unsrer geistig vielspältigen Zeit, die immerfort neue Vorstöße nach
-                    den <hi rend="spaced_out">verschiedensten Richtungen</hi> macht. Wir möchten
-                    deshalb den Verwaltern der <rs type="org" ref="#41852" subtype="implied">Stiftung</rs>
-                    bei dieser schwierigen Aufgabe an die Hand gehn; um aber nicht in den Verdacht
-                    zu geraten, daß wir einseitige Ziele verfolgen, ersuchen wir hierdurch eine
-                    große Anzahl namhafter Mitarbeiter am deutschen Geist, sich mit uns
-                    zusammenzutun und dem Verwaltungsrat Vorschläge zu <pb facs="HS.71.73_0003"/>machen, wie das ihm anvertraute Nationalvermögen wohl am ersprießlichsten zu
-                    verwenden sei.</p>
-            <p>Unsre Absicht ist, den Zentralvorstand der <rs type="org" ref="#41852">Schillerstiftung</rs> zu ersuchen, daß er alljährlich eine gewisse Summe,
-                    und wäre es nur <hi rend="spaced_out">die Hälfte</hi> der auszuspendenden
-                    Zinsgelder, an <hi rend="spaced_out">einige wenige</hi> Schriftsteller,
-                    insbesondere Dichter, verteilen möge, die ein aus unserm Berufskreise zu
-                    ernennender Vertrauensmann (oder eine Gruppe von Vertrauensleuten) ihm <hi rend="spaced_out">jedesmal vorschlagen soll</hi>. Wenn die wenigen
-                    Persönlichkeiten, für deren Begabung wir vor der Mit- und Nachwelt die
-                    Verantwortung auf uns nehmen, je nach Bedürfnis Ehrengehälter von ausreichender
-                    Höhe und Dauer empfangen, so sichert das in der Tat ihre Schaffensfreiheit, oder
-                    später nötigenfalls ihren Ruhestand, zu ihrer und unsres Volkes Ehre. Der Rest
-                    der verfügbaren Zinssumme möge dann immerhin wie bisher den gewöhnlicheren
-                    Anwärtern in kleineren Gaben verabreicht werden.</p>
-            <p>Natürlich können und wollen wir nicht verlangen, daß sich die Verwaltung der <rs type="org" ref="#41852">Schillerstiftung</rs> unserm Urteil in bezug auf die
-                    Würdigkeit der vorzuschlagenden Schriftsteller ein für allemal unterwerfe. Wir
-                    wollen uns mit der Verwaltung vorerst nur darüber verständigen, ob sie <hi rend="spaced_out">grundsätzlich</hi> bereit sein würde, die Vorschläge
-                    unsres Vertrauensmannes (oder unsrer Vertrauensleute) regelmäßig
-                    entgegenzunehmen und wohlwollend zu erwägen. Die Verwaltung wird darauf um so
-                    eher eingehen, je mehr Namen von anerkanntem Wert unter unserm Antrag vereinigt
-                    stehen, und zwar gerade auch solche, die vielleicht Anspruch auf die Hilfsmittel
-                    der Stiftung haben.</p>
-            <p>Wenn Euer Hochwohlgeboren geneigt si nd, uns für diesen Zweck <hi rend="spaced_out">Ihre Unterschrift</hi> zur Verfügung zu stellen, so bitten
-                    wir Sie, Ihr Einverständnis <hi rend="spaced_out">binnen längstens vierzehn
-                        Tagen</hi> dem mitunterzeichneten Geheimen Hofrat Professor Dr. <rs type="person" ref="#44882">Köster</rs> kundzugeben, unter der Adresse: <rs type="place" ref="#50143">Leipzig-Gohlis, Schönhausenstraße 6</rs>. </p>
-            <closer>
-               <signed>
-                  <rs type="person" ref="#10905">Max Bernstein</rs>.</signed>
-               <signed>Richard Dehmel.</signed>
-               <signed>
-                  <rs type="person" ref="#44882">Albert Köster</rs>.</signed>
-               <signed>
-                  <rs type="person" ref="#9817">Wilhelm Schäfer</rs>.</signed>
-               <signed>
-                  <rs type="person" ref="#12671">Paul
-                        Schlenther</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-05-08">Angelegt aus Abschrift. Original im DLA muss noch
+                bestellt werden</change><change who="GHS" when="2020-09-07">Durchsicht</change><change who="MAM" when="2020-09-07">Index check</change><change who="MAM" when="2020-10-23">Durchsicht mit DLA</change></revisionDesc></teiHeader><facsimile><graphic url="HS.71.73_0001"/><graphic url="HS.71.73_0002"/><graphic url="HS.71.73_0003"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline><pb facs="HS.71.73_0001"/><rs type="place" ref="#pmb1226">Blankenese <hi rend="superscript">b</hi>/Hamburg</rs>, <date>14. 8. 12</date>. </dateline><salute>Lieber Herr Schnitzler!</salute></opener><p>Professor <rs type="person" ref="#pmb44882">Köster</rs> schreibt mir, daß Sie ihm Ihre Unterschrift zu dem anhängenden <rs type="work" ref="#pmb44869" subtype="implied">Aufruf</rs> nicht geschickt haben. Ich kann mir nicht denken, daß Sie es mit Absicht unterlassen haben. Es ist doch tatsächlich ein blödsinniger Unfug, daß soviel schönes Geld an Stümper verplempert wird, während sich tüchtige Leute als Schuldenmacher durchschinden müssen und dabei Zeit und Arbeitslust einbüßen. Ich meine, da muß Jeder, auf den die öffentliche Meinung hört, seinen Namen hergeben, um diese faule Wirtschaft endlich ändern zu helfen. Bitte schreiben Sie mir <hi rend="underline" n="1">gleich</hi> eine zusagende Zeile, eh Sie’s wieder vergessen! </p><closer>Mit einem sehr ergebenen Gruß<lb/>Ihr<signed>Dehmel.</signed></closer></div><div type="writingSession" n="2"><opener><p><space dim="vertical" unit="line" quantity="1"/></p><dateline rend="right"><pb facs="HS.71.73_0002"/><date>Juni 1912</date>.</dateline><salute>Euer Hochwohlgeboren</salute></opener><p>wird zur Kenntnis gekommen sein, daß am <date>17. März ds. Js.</date> eine Versammlung angesehener Schriftsteller in <rs type="place" ref="#pmb168">Berlin</rs> die Verwaltungsberichte der <rs type="org" ref="#pmb41852"><hi rend="spaced_out">Deutschen Schillerstiftung</hi></rs> geprüft und in sehr vielen Fällen die Verwendung der Stiftungsgelder als satzungswidrig befunden hat. Zugleich wurden die Unterzeichneten damit betraut, Schritte zu tun, die eine dauernde Abstellung dieses Mißstandes durchsetzen könnten.</p><p>Nach den Satzungen der Stiftung ist es ihr <hi rend="spaced_out">Hauptzweck</hi>, die verfügbaren Gelder als Ehrengaben an Schriftsteller zu verteilen, die einer Unterstützung bedürftig und würdig sind, »vorzugsweise an solche, die sich dichterischer Formen bedient haben«. Die Würdigkeit ist ausdrücklich dahin begrenzt, daß ein »Verdienst um die Nationalliteratur« vorliegen müsse. Tatsächlich aber sind in den letzten Jahrzehnten die Stiftungsgelder großenteils an literarisch wertlose Personen vergeben worden, während bedürftige Dichter und Schriftsteller, deren Wert heute weithin anerkannt ist, entweder gar keine oder ungenügende Unterstützung empfingen.</p><p>Wenn man erwägt, daß die Stiftung jetzt jährlich etwa 80000 Mark auszuspenden hat — im letzten Jahre waren es über 82000 —: dann fragt man mit Verwunderung, wieso sich ein deutscher Dichter von Bedeutung überhaupt noch in Not befinden kann. Was könnte man ausrichten mit <hi rend="spaced_out">so reichlichen Mitteln</hi>, wenn sie nicht immer wieder in kleinen Almosen an die breite Menge der Schwächlinge verzettelt würden, sondern in wirklich nennenswerten Ehrenspenden den stark Begabten zugute kämen! Man hat eingewendet, der Wortlaut der Satzungen erschwere die Austeilung größerer Spenden; aber die Erschwerung ist kein Hinderungsgrund und muß eben irgendwie überwunden werden. Es tut not, junge Kräfte, die sich bereits bewährt haben, vor Verkümmerung zu bewahren und den reifen die Ausdauer in der Durchführung ungewöhnlicher Pläne zu sichern.</p><p>Wir verkennen nicht, wie schwierig es ist, die jeweils Würdigsten auszuwählen, besonders in unsrer geistig vielspältigen Zeit, die immerfort neue Vorstöße nach den <hi rend="spaced_out">verschiedensten Richtungen</hi> macht. Wir möchten deshalb den Verwaltern der <rs type="org" ref="#pmb41852" subtype="implied">Stiftung</rs> bei dieser schwierigen Aufgabe an die Hand gehn; um aber nicht in den Verdacht zu geraten, daß wir einseitige Ziele verfolgen, ersuchen wir hierdurch eine große Anzahl namhafter Mitarbeiter am deutschen Geist, sich mit uns zusammenzutun und dem Verwaltungsrat Vorschläge zu <pb facs="HS.71.73_0003"/>machen, wie das ihm anvertraute Nationalvermögen wohl am ersprießlichsten zu verwenden sei.</p><p>Unsre Absicht ist, den Zentralvorstand der <rs type="org" ref="#pmb41852">Schillerstiftung</rs> zu ersuchen, daß er alljährlich eine gewisse Summe, und wäre es nur <hi rend="spaced_out">die Hälfte</hi> der auszuspendenden Zinsgelder, an <hi rend="spaced_out">einige wenige</hi> Schriftsteller, insbesondere Dichter, verteilen möge, die ein aus unserm Berufskreise zu ernennender Vertrauensmann (oder eine Gruppe von Vertrauensleuten) ihm <hi rend="spaced_out">jedesmal vorschlagen soll</hi>. Wenn die wenigen Persönlichkeiten, für deren Begabung wir vor der Mit- und Nachwelt die Verantwortung auf uns nehmen, je nach Bedürfnis Ehrengehälter von ausreichender Höhe und Dauer empfangen, so sichert das in der Tat ihre Schaffensfreiheit, oder später nötigenfalls ihren Ruhestand, zu ihrer und unsres Volkes Ehre. Der Rest der verfügbaren Zinssumme möge dann immerhin wie bisher den gewöhnlicheren Anwärtern in kleineren Gaben verabreicht werden.</p><p>Natürlich können und wollen wir nicht verlangen, daß sich die Verwaltung der <rs type="org" ref="#pmb41852">Schillerstiftung</rs> unserm Urteil in bezug auf die Würdigkeit der vorzuschlagenden Schriftsteller ein für allemal unterwerfe. Wir wollen uns mit der Verwaltung vorerst nur darüber verständigen, ob sie <hi rend="spaced_out">grundsätzlich</hi> bereit sein würde, die Vorschläge unsres Vertrauensmannes (oder unsrer Vertrauensleute) regelmäßig entgegenzunehmen und wohlwollend zu erwägen. Die Verwaltung wird darauf um so eher eingehen, je mehr Namen von anerkanntem Wert unter unserm Antrag vereinigt stehen, und zwar gerade auch solche, die vielleicht Anspruch auf die Hilfsmittel der Stiftung haben.</p><p>Wenn Euer Hochwohlgeboren geneigt si nd, uns für diesen Zweck <hi rend="spaced_out">Ihre Unterschrift</hi> zur Verfügung zu stellen, so bitten wir Sie, Ihr Einverständnis <hi rend="spaced_out">binnen längstens vierzehn Tagen</hi> dem mitunterzeichneten Geheimen Hofrat Professor Dr. <rs type="person" ref="#pmb44882">Köster</rs> kundzugeben, unter der Adresse: <rs type="place" ref="#pmb50143">Leipzig-Gohlis, Schönhausenstraße 6</rs>. </p><closer><signed><rs type="person" ref="#pmb10905">Max Bernstein</rs>.</signed><signed>Richard Dehmel.</signed><signed><rs type="person" ref="#pmb44882">Albert Köster</rs>.</signed><signed><rs type="person" ref="#pmb9817">Wilhelm Schäfer</rs>.</signed><signed><rs type="person" ref="#pmb12671">Paul Schlenther</rs>.</signed></closer></div></body><back><listPerson><person xml:id="pmb11148">
+                  <tei:persName>
+                     <tei:surname>Dehmel</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-11-18">18. 11. 1863</tei:date>
+                     <tei:placeName ref="#pmb11149">Wendisch-Hermsdorf</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1920-02-08">8. 2. 1920</tei:date>
+                     <tei:placeName ref="#pmb1226">Blankenese</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118679236/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14383</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb44882">
+                  <tei:persName>
+                     <tei:surname>Köster</tei:surname>
+                     <tei:forename>Albert</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-11-07">7. 11. 1862</tei:date>
+                     <tei:placeName ref="#pmb864">Leipzig</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1924-05-29">29. 5. 1924</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="227">Literarhistoriker*in</occupation>
+                  <occupation code="239">Germanist*in</occupation>
+                  <occupation code="1503"/>
+                  <idno type="gnd">https://d-nb.info/gnd/116301015/</idno>
+               </person><person xml:id="pmb10905">
+                  <tei:persName>
+                     <tei:surname>Bernstein</tei:surname>
+                     <tei:forename>Max</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1854-05-12">12. 5. 1854</tei:date>
+                     <tei:placeName ref="#pmb40508">Fürth</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1925-03-08">8. 3. 1925</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <occupation code="106">Rechtsanwalt/anwältin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119257408/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13682</idno>
+               </person><person xml:id="pmb9817">
+                  <tei:persName>
+                     <tei:surname>Schäfer</tei:surname>
+                     <tei:forename>Wilhelm</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1868-01-20">20. 1. 1868</tei:date>
+                     <tei:placeName ref="#pmb48314">Ottrau</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1952-01-19">19. 1. 1952</tei:date>
+                     <tei:placeName ref="#pmb46767">Überlingen am Ried</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="237">Publizist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118794868/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19605</idno>
+               </person><person xml:id="pmb12671">
+                  <tei:persName>
+                     <tei:surname>Schlenther</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1854-08-20">20. 8. 1854</tei:date>
+                     <tei:placeName ref="#pmb8928">Insterburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1916-04-30">30. 4. 1916</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118795112/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19724</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb44869">
+                  <tei:author ref="pmb11148" role="contributor">
+                     <tei:surname>Dehmel</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb10905" role="contributor">
+                     <tei:surname>Bernstein</tei:surname>
+                     <tei:forename>Max</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb44882" role="contributor">
+                     <tei:surname>Köster</tei:surname>
+                     <tei:forename>Albert</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb2121" role="contributor">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb12671" role="contributor">
+                     <tei:surname>Schlenther</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb9817" role="contributor">
+                     <tei:surname>Schäfer</tei:surname>
+                     <tei:forename>Wilhelm</tei:forename>
+                  </tei:author>
+                  <tei:title>Aufruf zur Kritik an der Verwendung von Spendengeldern für Autoren durch die Deutsche Schillerstiftung</tei:title>
+                  <tei:date from="1912-01-01" from-custom="1912">1912</tei:date>
+                  <tei:gloss type="w1498"/>
+               </bibl></listBibl><listPlace><place xml:id="pmb506">
+                  <tei:placeName>Hamburg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">53.57532 10.01534</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2911298/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1055/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4023118-5/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb45260">
+                  <tei:placeName>Brijuni</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">44.91417 13.76222</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3203301/</idno>
+               </place><place xml:id="pmb1226">
+                  <tei:placeName>Blankenese</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">53.5652 9.7972</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2948066/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1607/</idno>
+               </place><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb50143">
+                  <tei:placeName>Fritz-Seger-Straße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.35769 12.36963</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb41852">
+                  <tei:orgName>Deutsche Schillerstiftung</tei:orgName>
+                  <tei:desc>
+                     <tei:date to="1859-01-01" to-custom="1859">1859</tei:date>
+                     <tei:gloss ana="i978">Wohltätigkeitsverein</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb197">
+                     <tei:placeName>Weimar</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.97361 11.33806</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

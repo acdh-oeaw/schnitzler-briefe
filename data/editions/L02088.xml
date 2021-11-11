@@ -1,201 +1,153 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02088"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 1. 9. 1912</title>
-            <author ref="#10863">Beer-Hofmann, Richard</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02088</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02088" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 1. 9. 1912</title><author ref="#pmb10863">Beer-Hofmann, Richard</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02088</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 8</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="bildpostkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#68">18/1 Wien 110</placeName>
-                                    <date>2. IX. 12</date>
-                                    <time>1</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>249</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1912-09-01" n="01">1. 9. 1912</date>
-            </correspAction>
-            <correspAction type="transmitted">
-               <placeName ref="#50">Wien</placeName>
-               <date when="1912-09-02">2. 9. 1912</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#44493">Tutzing</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02087">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 30. 8. 1912</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02089">Hofmannsthal an Schnitzler, 21. 9. 1912</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02087">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 30. 8. 1912</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02104">Beer-Hofmann, Beer-Hofmann an Schnitzler, 29. 11. 1912</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7348-0</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb68">18/1 Wien 110</placeName><date>2. IX. 12</date><time>1</time></stamp></desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>249</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb50">Wien</placeName><date when="1912-09-01" n="01">1. 9. 1912</date></correspAction><correspAction type="transmitted"><placeName ref="#pmb50">Wien</placeName><date when="1912-09-02">2. 9. 1912</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb44493">Tutzing</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L02087">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 30. 8. 1912</ref><ref subtype="next_letter" type="withinCollection" target="L02089">Hofmannsthal an Schnitzler, 21. 9. 1912</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02087">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 30. 8. 1912</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02104">Beer-Hofmann, Beer-Hofmann an Schnitzler, 29. 11. 1912</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2021-01-20">Angelegt aus Faksimile</change>
-         <change who="MAM" when="2021-02-04">Index check</change>
-         <change who="MAM" when="2021-02-04">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00196"/>
-      <graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00197"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00196"/>Herrn</addrLine>
-               <addrLine>Arthur Schnitzler</addrLine>
-               <addrLine>
-                  <rs ref="#44493" type="place">Tutzing</rs>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#52262" type="place">Starnbergersee</rs>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#51937" type="place">Hôtel Simson</rs>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <seg rend="left">
-                     <pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00197"/>
-                     <hi rend="pre-print">
-                        <rs type="place" ref="#50">Wien</rs>, Panorama v. <rs type="place" ref="#113">Türkenschanzpark</rs> aus.</hi>
-                  </seg>
-                  <seg rend="right">
-                     <date>1./IX. 12</date>
-                  </seg>
-               </p>
-               <salute>
-                  <pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00196"/>Lieber Arthur!</salute>
-            </opener>
-            <p>Wir sind nach einigen Irrfahrten wieder zu Hause, und freuen uns Sie <rs ref="#2173" type="person" subtype="implied">Beide</rs> bald zu sehen. Herzliche Grüsse</p>
-            <closer>Ihr<signed>Richard</signed>
-            </closer>
-            <postscript>
-               <p>Grüsse an Ihre <rs subtype="implied" type="person" ref="#2315">Schwägerin</rs> u.
-                     <rs ref="#12837" type="person" subtype="implied">Schwager</rs>
-               </p>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-20">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-04">Index check</change><change who="MAM" when="2021-02-04">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00196"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00197"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00196"/>Herrn</addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb44493" type="place">Tutzing</rs></addrLine><addrLine><rs ref="#pmb52262" type="place">Starnbergersee</rs></addrLine><addrLine><rs ref="#pmb51937" type="place">Hôtel Simson</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00197"/><hi rend="pre-print"><rs type="place" ref="#pmb50">Wien</rs>, Panorama v. <rs type="place" ref="#pmb113">Türkenschanzpark</rs> aus.</hi></seg><seg rend="right"><date>1./IX. 12</date></seg></p><salute><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00196"/>Lieber Arthur!</salute></opener><p>Wir sind nach einigen Irrfahrten wieder zu Hause, und freuen uns Sie <rs ref="#pmb2173" type="person" subtype="implied">Beide</rs> bald zu sehen. Herzliche Grüsse</p><closer>Ihr<signed>Richard</signed></closer><postscript><p>Grüsse an Ihre <rs subtype="implied" type="person" ref="#pmb2315">Schwägerin</rs> u. <rs ref="#pmb12837" type="person" subtype="implied">Schwager</rs></p></postscript></div></body><back><listPerson><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb2315">
+                  <tei:persName>
+                     <tei:surname>Steinrück</tei:surname>
+                     <tei:forename>Elisabeth</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1885-11-19">19. 11. 1885</tei:date>
+                     <tei:placeName ref="#pmb2316">Wien?</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1920-04-07">7. 4. 1920</tei:date>
+                     <tei:placeName ref="#pmb2318">Partenkirchen</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/117263958/</idno>
+               </person><person xml:id="pmb12837">
+                  <tei:persName>
+                     <tei:surname>Steinrück</tei:surname>
+                     <tei:forename>Albert</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1872-05-20">20. 5. 1872</tei:date>
+                     <tei:placeName ref="#pmb48745">Wetterburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-02-11">11. 2. 1929</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117263923/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20383</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb68">
+                  <tei:placeName>XVIII., Währing</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2762091/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb44493">
+                  <tei:placeName>Tutzing</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1483">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.90938 11.2803</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2820692/</idno>
+               </place><place xml:id="pmb52262">
+                  <tei:placeName>Starnberger See</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1618">See</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.90348 11.31187</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2829454/</idno>
+               </place><place xml:id="pmb51937">
+                  <tei:placeName>Hotel Simson</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1875-07-02" from-custom="1875-07-02" to="1936-07-01" to-custom="1936-07-01">1875–1936</tei:date>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.90798 11.27453</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb113">
+                  <tei:placeName>Türkenschanzpark</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i19">Park</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.235119783861 16.333568462613</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg/></back></text></TEI>

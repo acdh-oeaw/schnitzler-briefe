@@ -1,232 +1,211 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02363"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Stefan Großmann, 17. 2. 1921</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02363</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02363" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Stefan Großmann, 17. 2. 1921</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02363</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Marbach am Neckar</settlement>
-                        <repository>Deutsches Literaturarchiv</repository>
-                        <idno>A:Schnitzler, HS.NZ85.1.896</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc type="reproduktion" subtype="durchschlag"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="roter_buntstift" style="deutsche-kurrent"
-                              corresp="#2121">
-                              <p>Beschriftung: »<quote>K<supplied>opie</supplied></quote>«,
-                                 Unterstreichungen</p>
-                           </handNote>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Schreibmaschine</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct>
-                  <analytic>
-                     <author ref="#11527">Großmann, Stefan</author>
-                     <title level="a" ref="#46580">Der Reigen der Gassenjungen</title>
-                  </analytic>
-                  <monogr>
-                     <title level="j" ref="#46493">Das Tage-Buch</title>
-                     <imprint>
-                        <date when="1921-02-26">26. 2. 1921</date>
-                     </imprint>
-                     <biblScope unit="jg">2</biblScope>
-                     <biblScope unit="nr">8</biblScope>
-                     <biblScope unit="pp">252–253</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct corresp="ASB2">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefe 1913–1931</title>
-                     <editor>Braunwarth, Peter Michael</editor>
-                     <editor>Miklin, Richard</editor>
-                     <editor>Pertlik, Susanne</editor>
-                     <editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1984">1984</date>
-                     </imprint>
-                     <biblScope unit="pp">234–235</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1921-02-17" n="01">17. 2. 1921</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#11527">Großmann, Stefan</persName>
-               <placeName ref="#168">Berlin</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11527">Großmann, Stefan</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02362">Großmann an
-                  Schnitzler, 10. 2. 1921</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02364">Hofmannsthal an
-                  Schnitzler, [19. 3. 1921]</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L02362">Großmann
-                  an Schnitzler, 10. 2. 1921</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02378">Großmann an
-                  Schnitzler, 26. 4. 1922</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-745B-A</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, HS.NZ85.1.896</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc type="reproduktion" subtype="durchschlag"/></objectDesc><handDesc><handNote medium="roter_buntstift" style="deutsche-kurrent" corresp="#pmb2121"><p>Beschriftung: »<quote>K<supplied>opie</supplied></quote>«,
+                                 Unterstreichungen</p></handNote></handDesc><typeDesc><p>Schreibmaschine</p></typeDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct><analytic><author ref="#pmb11527">Großmann, Stefan</author><title level="a" ref="#pmb46580">Der Reigen der Gassenjungen</title></analytic><monogr><title level="j" ref="#pmb46493">Das Tage-Buch</title><imprint><date when="1921-02-26">26. 2. 1921</date></imprint><biblScope unit="jg">2</biblScope><biblScope unit="nr">8</biblScope><biblScope unit="pp">252–253</biblScope></monogr></biblStruct><biblStruct corresp="ASB2"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefe 1913–1931</title><editor>Braunwarth, Peter Michael</editor><editor>Miklin, Richard</editor><editor>Pertlik, Susanne</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1984">1984</date></imprint><biblScope unit="pp">234–235</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1921-02-17" n="01">17. 2. 1921</date></correspAction><correspAction type="received"><persName ref="#pmb11527">Großmann, Stefan</persName><placeName ref="#pmb168">Berlin</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11527">Großmann, Stefan</ref><ref subtype="previous_letter" type="withinCollection" target="L02362">Großmann an
+                  Schnitzler, 10. 2. 1921</ref><ref subtype="next_letter" type="withinCollection" target="L02364">Hofmannsthal an
+                  Schnitzler, [19. 3. 1921]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02362">Großmann
+                  an Schnitzler, 10. 2. 1921</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02378">Großmann an
+                  Schnitzler, 26. 4. 1922</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2020-06-30">Angelegt</change>
-         <change who="MAM" when="2020-06-30">Index check</change>
-         <change who="GHS" when="2020-07-10">Durchsicht</change>
-         <change who="MAM" when="2020-08-04">Überarbeitet. Die Vorlage in der Briefe II ist
-            länger</change>
-         <change who="MAM" when="2021-01-21">Überarbeitet mit Faksimile 896</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS.NZ85.1.896_0005"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="HS.NZ85.1.896_0005"/>
-                  <date>17. 2. 1921</date>.</dateline>
-               <salute>Sehr verehrter Herr Grossmann.</salute>
-            </opener>
-            <p>Vielen Dank für Ihr freundliches Interesse. Sie haben indess wohl meine Karte
-               erhalten, in der ich Ihnen sagte, wie sehr mich Ihr parodistischer <rs type="work"
-                  subtype="implied" ref="#46573">Dialog</rs> amüsiert hat. Ich habe vorläufig keine
-               Absicht mich über den »<rs type="work" ref="#29855">Reigen</rs>« und die sogenannnte
-                  <rs type="work" ref="#29855">Reigen</rs>-Affaire in der Oeffentlichkeit weiter zu
-               äussern. Was ich <pb/>Herrn <rs type="work" ref="#33201" subtype="implied">
-                  <rs type="person" ref="#11581">Maximilian Harden</rs>
-               </rs>
-               <space unit="chars" quantity="1"/>
-               <rs type="work" subtype="implied" ref="#33205">erwidert</rs> habe, ersehen Sie aus
-               beiliegendem <anchor xml:id="K_L02363_1" type="commentary"/>Zeitungsblatt<note
-                  xml:id="K_L02363_1h" type="commentary"><bibl><rs type="person" ref="#2121">Arthur Schnitzler</rs>: 
-                  <rs type="work" ref="#33205">Berichtigung. Ein paar Worte zum Gutachten Maximilian
-                     Hardens über den »Reigen«</rs> in: <rs type="work" ref="#36376">Neues Wiener Journal</rs>, Jg. 29,
-                     Nr. 9782, <date>30. 1. 1921</date>, S. 6</bibl>.</note>. Die Berichtigung war
-               übrigens in einigen <rs type="place" ref="#168">Berlin</rs>er Blättern abgedruckt.
-               Von den hiesigen Skandalen, insbesondere von dem <anchor xml:id="K_L02363_2"
-                  type="commentary"/>gestrigen<note xml:id="K_L02363_2h" type="commentary">Da
-                  bereits am <ref target="1921-02-13" subtype="date-only" type="schnitzlerDiary"/>
-                  die auch im folgenden angesprochenen Ereignisse stattfanden, kann dieser Brief
-                  über mehrere Tage verfasst worden sein – oder er wäre richtigerweise auf den
-                     <date>14. 2. 1921</date> zu datieren.</note>, werden Sie wohl indess gelesen
-               haben. Was soll man dazu sagen? Ich käme mir unsäglich komisch vor, wollte ich mit
-               den Herren <rs type="person" ref="#5339">Kuntschak</rs> oder <rs type="person"
-                  ref="#12762">Seipel</rs> oder mit dem Schusterlehrling polemisieren, der das
-               Theater stürmt, mit dem begeisterten Ruf: Nieder mit dem Reigen! Man schändet unsere
-               Frauen! Nieder mit den Sozialdemokraten! (Es kann übrigens auch ein Stud. med.
-               gewesen sein oder ein Tapezierergehilfe, – wobei meine Sympathie immerhin noch mehr
-               bei dem Tapezierergehilfen ist als bei den Herren <rs type="person" ref="#12762"
-                  >Seipel</rs> und <rs type="person" ref="#5339"
-                  >Kuntschak</rs>.<supplied>)</supplied> Ich habe ja schon einige ähnliche Sachen
-               erlebt, wenn auch in bescheideneren Dimensionen. Erinnern Sie sich nur an den »<rs
-                  type="work" ref="#29853">Leutnant Gustl</rs>« und den »<rs type="work"
-                  ref="#30203">Professor Bernhardi</rs>«. Nach einigen Jahren bleibt von all dem
-               Lärm nichts weiter übrig als die Bücher, die ich geschrieben und eine dunkle
-               Erinnerung an die Blamage meiner Gegner. In diesem Fall wird es nicht anders
-               sein.</p>
-            <closer>Mit herzlichem Gruss<lb/>Ihr sehr ergebener<lb/>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-06-30">Angelegt</change><change who="MAM" when="2020-06-30">Index check</change><change who="GHS" when="2020-07-10">Durchsicht</change><change who="MAM" when="2020-08-04">Überarbeitet. Die Vorlage in der Briefe II ist
+            länger</change><change who="MAM" when="2021-01-21">Überarbeitet mit Faksimile 896</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.896_0005"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="HS.NZ85.1.896_0005"/><date>17. 2. 1921</date>.</dateline><salute>Sehr verehrter Herr Grossmann.</salute></opener><p>Vielen Dank für Ihr freundliches Interesse. Sie haben indess wohl meine Karte erhalten, in der ich Ihnen sagte, wie sehr mich Ihr parodistischer <rs type="work" subtype="implied" ref="#pmb46573">Dialog</rs> amüsiert hat. Ich habe vorläufig keine Absicht mich über den »<rs type="work" ref="#pmb29855">Reigen</rs>« und die sogenannnte <rs type="work" ref="#pmb29855">Reigen</rs>-Affaire in der Oeffentlichkeit weiter zu äussern. Was ich <pb/>Herrn <rs type="work" ref="#pmb33201" subtype="implied"><rs type="person" ref="#pmb11581">Maximilian Harden</rs></rs><space unit="chars" quantity="1"/><rs type="work" subtype="implied" ref="#pmb33205">erwidert</rs> habe, ersehen Sie aus beiliegendem <anchor xml:id="K_L02363_1" type="commentary"/>Zeitungsblatt<note xml:id="K_L02363_1h" type="commentary"><bibl><rs type="person" ref="#pmb2121">Arthur Schnitzler</rs>: <rs type="work" ref="#pmb33205">Berichtigung. Ein paar Worte zum Gutachten Maximilian Hardens über den »Reigen«</rs> in: <rs type="work" ref="#pmb36376">Neues Wiener Journal</rs>, Jg. 29, Nr. 9782, <date>30. 1. 1921</date>, S. 6</bibl>.</note>. Die Berichtigung war übrigens in einigen <rs type="place" ref="#pmb168">Berlin</rs>er Blättern abgedruckt. Von den hiesigen Skandalen, insbesondere von dem <anchor xml:id="K_L02363_2" type="commentary"/>gestrigen<note xml:id="K_L02363_2h" type="commentary">Da bereits am <ref target="1921-02-13" subtype="date-only" type="schnitzlerDiary"/> die auch im folgenden angesprochenen Ereignisse stattfanden, kann dieser Brief über mehrere Tage verfasst worden sein – oder er wäre richtigerweise auf den <date>14. 2. 1921</date> zu datieren.</note>, werden Sie wohl indess gelesen haben. Was soll man dazu sagen? Ich käme mir unsäglich komisch vor, wollte ich mit den Herren <rs type="person" ref="#pmb5339">Kuntschak</rs> oder <rs type="person" ref="#pmb12762">Seipel</rs> oder mit dem Schusterlehrling polemisieren, der das Theater stürmt, mit dem begeisterten Ruf: Nieder mit dem Reigen! Man schändet unsere Frauen! Nieder mit den Sozialdemokraten! (Es kann übrigens auch ein Stud. med. gewesen sein oder ein Tapezierergehilfe, – wobei meine Sympathie immerhin noch mehr bei dem Tapezierergehilfen ist als bei den Herren <rs type="person" ref="#pmb12762">Seipel</rs> und <rs type="person" ref="#pmb5339">Kuntschak</rs>.<supplied>)</supplied> Ich habe ja schon einige ähnliche Sachen erlebt, wenn auch in bescheideneren Dimensionen. Erinnern Sie sich nur an den »<rs type="work" ref="#pmb29853">Leutnant Gustl</rs>« und den »<rs type="work" ref="#pmb30203">Professor Bernhardi</rs>«. Nach einigen Jahren bleibt von all dem Lärm nichts weiter übrig als die Bücher, die ich geschrieben und eine dunkle Erinnerung an die Blamage meiner Gegner. In diesem Fall wird es nicht anders sein.</p><closer>Mit herzlichem Gruss<lb/>Ihr sehr ergebener<lb/></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11527">
+                  <tei:persName>
+                     <tei:surname>Großmann</tei:surname>
+                     <tei:forename>Stefan</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-05-19">19. 5. 1875</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-01-03">3. 1. 1935</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118542664/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15691</idno>
+               </person><person xml:id="pmb11581">
+                  <tei:persName>
+                     <tei:surname>Harden</tei:surname>
+                     <tei:forename>Maximilian</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-10-20">20. 10. 1861</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-10-30">30. 10. 1927</tei:date>
+                     <tei:placeName ref="#pmb11583">Montana-Vermala</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="237">Publizist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118545892/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15919</idno>
+               </person><person xml:id="pmb5339">
+                  <tei:persName>
+                     <tei:surname>Kunschak</tei:surname>
+                     <tei:forename>Leopold</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1871-11-11">11. 11. 1871</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1953-03-13">13. 3. 1953</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="95">Politiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118725432/</idno>
+               </person><person xml:id="pmb12762">
+                  <tei:persName>
+                     <tei:surname>Seipel</tei:surname>
+                     <tei:forename>Ignaz</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1876-07-19">19. 7. 1876</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1932-08-02">2. 8. 1932</tei:date>
+                     <tei:placeName ref="#pmb44719">Pernitz</tei:placeName>
+                  </tei:death>
+                  <occupation code="95">Politiker*in</occupation>
+                  <occupation code="515">Prälat</occupation>
+                  <occupation code="1300">Bundeskanzler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11861293X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20038</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb46573">
+                  <tei:author ref="pmb11527" role="author">
+                     <tei:surname>Großmann</tei:surname>
+                     <tei:forename>Stefan</tei:forename>
+                  </tei:author>
+                  <tei:title>Hänischs Reigen. Eine unsittliche Szenenfolge</tei:title>
+                  <tei:date when="1921-01-15" when-custom="1921-01-15">15. 1. 1921</tei:date>
+                  <tei:gloss type="w1531"/>
+                  <tei:note>7810</tei:note>
+                  <tei:note>7811</tei:note>
+               </bibl><bibl xml:id="pmb29855">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Reigen. Zehn Dialoge</tei:title>
+                  <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>11660</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/ "Q1414190"/</idno>
+               </bibl><bibl xml:id="pmb33201">
+                  <tei:author ref="pmb11581" role="author">
+                     <tei:surname>Harden</tei:surname>
+                     <tei:forename>Maximilian</tei:forename>
+                  </tei:author>
+                  <tei:title>Reigen</tei:title>
+                  <tei:date from="1921-01-08" from-custom="08.01.1921">8. 1. 1921</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>3335</tei:note>
+                  <tei:note>7816</tei:note>
+               </bibl><bibl xml:id="pmb33205">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Berichtigung. Ein paar Worte zum Gutachten Maximilian Hardens über den »Reigen«</tei:title>
+                  <tei:date from="1921-01-30" from-custom="30.01.1921">30. 1. 1921</tei:date>
+                  <tei:gloss type="w1095">Leserbrief</tei:gloss>
+                  <tei:note>3337</tei:note>
+                  <tei:note>8151</tei:note>
+               </bibl><bibl xml:id="pmb36376">
+                  <tei:author ref="pmb36371" role="contributor">
+                     <tei:surname>Papp</tei:surname>
+                     <tei:forename>Desiderius</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb10815" role="contributor">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Neues Wiener Journal</tei:title>
+                  <tei:date from="1893-01-01" from-custom="1893" to="1939-01-01" to-custom="1939">1893–1939</tei:date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <tei:note>3480</tei:note>
+               </bibl><bibl xml:id="pmb29853">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb28645" role="illustrator">
+                     <tei:surname>Coschell</tei:surname>
+                     <tei:forename>Moritz</tei:forename>
+                     <tei:term>[Illustrationen]</tei:term>
+                  </tei:author>
+                  <tei:title>Lieutenant Gustl. Novelle</tei:title>
+                  <tei:date from="1900-12-25" from-custom="25.12.1900">25. 12. 1900</tei:date>
+                  <tei:gloss type="w1340">Novelle</tei:gloss>
+                  <tei:note>2842</tei:note>
+                  <tei:note>5723</tei:note>
+                  <tei:note>5724</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1821658/</idno>
+               </bibl><bibl xml:id="pmb30203">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Professor Bernhardi. Komödie in fünf Akten</tei:title>
+                  <tei:date from="1912-01-01" from-custom="1912">1912</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>5812</tei:note>
+                  <tei:note>9868</tei:note>
+                  <tei:note>9869</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q872683/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

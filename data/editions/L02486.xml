@@ -1,198 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02486"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Felix Braun an Arthur Schnitzler, 10. 5. 1927</title>
-            <author ref="#11002">Braun, Felix</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02486</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02486" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Felix Braun an Arthur Schnitzler, 10. 5. 1927</title><author ref="#pmb11002">Braun, Felix</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02486</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Theatermuseum</repository>
-                        <idno>HS Schn 1/72/1</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="4" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift beschriftet: »<quote>
-                                    <hi rend="latintype">Fel Braun</hi>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit rotem Buntstift im Text ergänzt: »<quote>
-                                    <hi rend="latintype">
-                                       <rs ref="#32131" type="work" subtype="implied">Sp</rs>
-                                    </hi>
-                                 </quote>« und mehrere Unterstreichungen</desc></incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11002">Braun, Felix</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1927-05-10" n="01">10. 5. 1927</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11002">Braun, Felix</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02485">Adam an Schnitzler, 1. 5. 1927</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02487">Schnitzler an Braun, 28. 5. 1927</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02469">Schnitzler an Braun, [nach dem 15. 3. 1926?]</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02487">Schnitzler an Braun, 28. 5. 1927</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                            Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-74D6-E</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS Schn 1/72/1</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Fel Braun</hi></quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift im Text ergänzt: »<quote><hi rend="latintype"><rs ref="#pmb32131" type="work" subtype="implied">Sp</rs></hi></quote>« und mehrere Unterstreichungen</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11002">Braun, Felix</persName><placeName ref="#pmb50">Wien</placeName><date when="1927-05-10" n="01">10. 5. 1927</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11002">Braun, Felix</ref><ref subtype="previous_letter" type="withinCollection" target="L02485">Adam an Schnitzler, 1. 5. 1927</ref><ref subtype="next_letter" type="withinCollection" target="L02487">Schnitzler an Braun, 28. 5. 1927</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02469">Schnitzler an Braun, [nach dem 15. 3. 1926?]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02487">Schnitzler an Braun, 28. 5. 1927</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2018-12-03">Angelegt</change>
-         <change who="MAM" when="2018-12-03">Index check</change>
-         <change who="GHS" when="2020-06-23">Durchsicht</change>
-         <change who="GHS" when="2020-09-02">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS_Schn1_72_1_1"/>
-      <graphic url="HS_Schn1_72_1_2"/>
-      <graphic url="HS_Schn1_72_1_3"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="center">
-                  <pb facs="https://www.theatermuseum.at/de/object/e3c0dd78ea/"/>
-                  <rs ref="#50" type="place">Wien</rs>, den <date>10. V. 27</date>.</dateline>
-               <salute>Verehrter Herr Doktor!</salute>
-            </opener>
-            <p>Längſt ſchulde ich Ihnen Dank für die Gabe Ihres neuen <rs type="work" ref="#32131" subtype="implied">Buches</rs>, das ich ja auch längſt geleſen
-                    habe. Denn – es bekommen, aufſchlagen, beginnen und nicht ſogleich weiterleſen,
-                    angeſpannt, atemlos bis ans Ende – ich weiß nicht, welche dringende
-                    Beſchäftigung mich davon abzuhalten vermocht hätte. Das <rs ref="#32131" type="work" subtype="implied">Buch</rs> iſt die Frucht vollkommener
-                    Meiſterſchaft der Geſtaltenbildung ſowohl wie auch der Erzählungskunſt;
-                    ſprachlich und anſchaulich, der Hand<pb facs="https://www.theatermuseum.at/de/object/e3c0dd78ea/"/>lung wie der
-                    Begründung nach eine reine Freude des Leſens.</p>
-            <p>
-               <rs type="person" ref="#53267" subtype="implied">Jemand</rs>, der gleich mir die
-                        <rs ref="#32131" type="work" subtype="implied">Novelle</rs> geſpannt geleſen
-                    hatte, ein philoſophiſcher, tiefblickender Geiſt, wandte ein, daß der Schluß
-                    nicht befriedige, und auch ich empfinde das. Es hätte notgetan, ſagte der <rs ref="#53267" type="person" subtype="implied">Betreffende</rs>, daß dem Tod
-                    des Leutnants etwas vorausgegangen wäre, davon er ſelbſt erhöht hätte werden
-                    müſſen: etwa die Annahme des Geldes, das die Frau ihm vielleicht hätte
-                    mitbringen ſollen, und die Scham darüber wäre dann ein triftigerer Grund zur
-                    Selbſtjuſtiz geweſen als bloß die Flucht. Ich <pb facs="https://www.theatermuseum.at/de/object/e3c0dd78ea/"/>mußte dieſen
-                    Gedanken als einleuchtend anerkennen. Was mir fehlt, iſt Transſzendenz –
-                    vielleicht wäre ſie durch eine ſo geführte Linie der Motivierung ermöglicht
-                    worden. Nicht wahr, Sie ſind mir nicht böſe, Herr Doktor, wenn ich aufrichtig
-                    meine Empfindung ſchreibe?</p>
-            <p>In einer Zeit der Anarchie iſt das Erſcheinen des geſchloſſenen Kunſtwerks, des
-                    gekonnten, gemeiſterten Formgebildes eine ſolche Seltenheit, daß ſich nur
-                    Verehrung und Dankbarkeit geziemen. Laſſen Sie mich dieſe ſchönen Gefühle nicht
-                    zurückhalten. Ich freue mich Ihrer ſtetig ſich harmoni<pb facs="https://www.theatermuseum.at/de/object/e3c0dd78ea/"/>ſierenden
-                    produktiven Kräfte, die Werk auf Werk hervorgeſtalten. Seit dem »<rs ref="#30775" type="work">Gang zum Weiher</rs>« war mir keine Ihrer
-                    Dichtungen ſo nahe wie dieſe <rs ref="#32131" type="work" subtype="implied">Novelle</rs>.</p>
-            <closer>In verehrender Geſinnung ergeben<lb/>
-               <signed>Felix Braun.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-12-03">Angelegt</change><change who="MAM" when="2018-12-03">Index check</change><change who="GHS" when="2020-06-23">Durchsicht</change><change who="GHS" when="2020-09-02">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS_Schn1_72_1_1"/><graphic url="HS_Schn1_72_1_2"/><graphic url="HS_Schn1_72_1_3"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="center"><pb facs="https://www.theatermuseum.at/de/object/e3c0dd78ea/"/><rs ref="#pmb50" type="place">Wien</rs>, den <date>10. V. 27</date>.</dateline><salute>Verehrter Herr Doktor!</salute></opener><p>Läng<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chulde ich Ihnen Dank für die Gabe Ihres neuen <rs type="work" ref="#pmb32131" subtype="implied">Buches</rs>, das ich ja auch läng<c rendition="#langesS">s</c>t gele<c rendition="#langesS">s</c>en habe. Denn – es bekommen, auf<c rendition="#langesS">s</c>chlagen, beginnen und nicht<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ogleich weiterle<c rendition="#langesS">s</c>en, ange<c rendition="#langesS">s</c>pannt, atemlos bis ans Ende – ich weiß nicht, welche dringende Be<c rendition="#langesS">s</c>chäftigung mich davon abzuhalten vermocht hätte. Das <rs ref="#pmb32131" type="work" subtype="implied">Buch</rs> i<c rendition="#langesS">s</c>t die Frucht vollkommener Mei<c rendition="#langesS">s</c>ter<c rendition="#langesS">s</c>chaft der Ge<c rendition="#langesS">s</c>taltenbildung<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>owohl wie auch der Erzählungskun<c rendition="#langesS">s</c>t;<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>prachlich und an<c rendition="#langesS">s</c>chaulich, der Hand<pb facs="https://www.theatermuseum.at/de/object/e3c0dd78ea/"/>lung wie der Begründung nach eine reine Freude des Le<c rendition="#langesS">s</c>ens.</p><p><rs type="person" ref="#pmb53267" subtype="implied">Jemand</rs>, der gleich mir die <rs ref="#pmb32131" type="work" subtype="implied">Novelle</rs> ge<c rendition="#langesS">s</c>pannt gele<c rendition="#langesS">s</c>en hatte, ein philo<c rendition="#langesS">s</c>ophi<c rendition="#langesS">s</c>cher, tiefblickender Gei<c rendition="#langesS">s</c>t, wandte ein, daß der Schluß nicht befriedige, und auch ich empfinde das. Es hätte notgetan,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agte der <rs ref="#pmb53267" type="person" subtype="implied">Betreffende</rs>, daß dem Tod des Leutnants etwas vorausgegangen wäre, davon er<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t erhöht hätte werden mü<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en: etwa die Annahme des Geldes, das die Frau ihm vielleicht hätte mitbringen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ollen, und die Scham darüber wäre dann ein triftigerer Grund zur Selb<c rendition="#langesS">s</c>tju<c rendition="#langesS">s</c>tiz gewe<c rendition="#langesS">s</c>en als bloß die Flucht. Ich <pb facs="https://www.theatermuseum.at/de/object/e3c0dd78ea/"/>mußte die<c rendition="#langesS">s</c>en Gedanken als einleuchtend anerkennen. Was mir fehlt, i<c rendition="#langesS">s</c>t Trans<c rendition="#langesS">s</c>zendenz – vielleicht wäre<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie durch eine<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o geführte Linie der Motivierung ermöglicht worden. Nicht wahr, Sie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind mir nicht bö<c rendition="#langesS">s</c>e, Herr Doktor, wenn ich aufrichtig meine Empfindung<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreibe?</p><p>In einer Zeit der Anarchie i<c rendition="#langesS">s</c>t das Er<c rendition="#langesS">s</c>cheinen des ge<c rendition="#langesS">s</c>chlo<c rendition="#langesS">s</c><c rendition="#langesS">s</c>enen Kun<c rendition="#langesS">s</c>twerks, des gekonnten, gemei<c rendition="#langesS">s</c>terten Formgebildes eine<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olche Seltenheit, daß<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich nur Verehrung und Dankbarkeit geziemen. La<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Sie mich die<c rendition="#langesS">s</c>e<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chönen Gefühle nicht zurückhalten. Ich freue mich Ihrer<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tetig<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich harmoni<pb facs="https://www.theatermuseum.at/de/object/e3c0dd78ea/"/><c rendition="#langesS">s</c>ierenden produktiven Kräfte, die Werk auf Werk hervorge<c rendition="#langesS">s</c>talten. Seit dem »<rs ref="#pmb30775" type="work">Gang zum Weiher</rs>« war mir keine Ihrer Dichtungen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o nahe wie die<c rendition="#langesS">s</c>e <rs ref="#pmb32131" type="work" subtype="implied">Novelle</rs>.</p><closer>In verehrender Ge<c rendition="#langesS">s</c>innung ergeben<lb/><signed>Felix Braun.</signed></closer></div></body><back><listPerson><person xml:id="pmb11002">
+                  <tei:persName>
+                     <tei:surname>Braun</tei:surname>
+                     <tei:forename>Felix</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1885-11-04">4. 11. 1885</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1973-11-29">29. 11. 1973</tei:date>
+                     <tei:placeName ref="#pmb865">Klosterneuburg</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514598/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13929</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb53267">
+                  <tei:persName>
+                     <tei:surname>?? [Leser von Spiel im Morgengrauen 1927]</tei:surname>
+                     <tei:forename/>
+                  </tei:persName>
+               </person></listPerson><listBibl><bibl xml:id="pmb32131">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Spiel im Morgengrauen. Novelle</tei:title>
+                  <tei:date from="1926-12-05" from-custom="5.12.1926" to="1927-01-09" to-custom="9.1.1927">5. 12. 1926–9. 1. 1927</tei:date>
+                  <tei:gloss type="w1340">Novelle</tei:gloss>
+                  <tei:note>3113</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1761527/</idno>
+               </bibl><bibl xml:id="pmb30775">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Gang zum Weiher. Dramatische Dichtung</tei:title>
+                  <tei:date from="1926-01-01" from-custom="1926">1926</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>5737</tei:note>
+                  <tei:note>12628</tei:note>
+                  <tei:note>12629</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1193696/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

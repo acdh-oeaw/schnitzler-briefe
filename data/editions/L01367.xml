@@ -1,209 +1,217 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01367"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Hermann Bahr an Arthur Schnitzler, 29. 1. 1904</title>
-            <author ref="#10815">Bahr, Hermann</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L01367</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01367" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hermann Bahr an Arthur Schnitzler, 29. 1. 1904</title><author ref="#pmb10815">Bahr, Hermann</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L01367</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 5b</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="2" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>108</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">292–293</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10815">Bahr, Hermann</persName>
-               <placeName ref="#218">Marbach am Bodensee</placeName>
-               <date when="1904-01-29" n="01">29. 1. 1904</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01366">Hofmannsthal an Schnitzler, 28. 1. 1904</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01368">Schnitzler an Bahr, 1. 2. 1904</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01365">Schnitzler an Bahr, 27. 1. 1904</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01368">Schnitzler an Bahr, 1. 2. 1904</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7077-E</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 5b</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>108</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">292–293</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb218">Marbach am Bodensee</placeName><date when="1904-01-29" n="01">29. 1. 1904</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01366">Hofmannsthal an Schnitzler, 28. 1. 1904</ref><ref subtype="next_letter" type="withinCollection" target="L01368">Schnitzler an Bahr, 1. 2. 1904</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01365">Schnitzler an Bahr, 27. 1. 1904</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01368">Schnitzler an Bahr, 1. 2. 1904</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-12-10">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-29">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-         <change who="GHS" when="2020-01-21">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-B-00005-B-000-00191"/>
-      <graphic url="MS-B-00005-B-000-00192"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="MS-B-00005-B-000-00191"/>
-                  <date>29. 1. 04</date>
-               </dateline>
-               <salute rend="center">Lieber Arthur!</salute>
-            </opener>
-            <p>Ich »ſoll« nach <rs ref="#2216" type="person">Ortner</rs> zwei bis drei Monate hier
-               bleiben, glaube aber nicht es ſo lang auszuhalten. Es iſt hier ſehr unangenehm und
-               ich überlege hin und her, <damage agent="water">
-                  <supplied>ob</supplied>
-               </damage> es nicht viel geſcheiter wäre, in <rs ref="#906" type="place">Taormina</rs>
-               oder <rs ref="#839" type="place">Kairo</rs>
-               <space unit="chars" quantity="1"/>z<damage agent="water">
-                  <supplied>u</supplied>
-               </damage>
-               <space unit="chars" quantity="1"/>ſitzen. Ich tue übrigens nichts, ohne vorher <rs ref="#2216" type="person">Ortner</rs> zu ſchreiben.</p>
-            <p>Der »<rs ref="#29985" type="work">einſame Weg</rs>« kam geſtern an und wurde sogleich
-               geleſen. Wunderbar finde ich, wie Du da von der Peripherie der Menſchheit, an welcher
-               ſich die meiſten Stücke ſonſt herumbewegen, in die Mitte ihres geiſtigen Lebens
-               kommſt, nemlich unſeres geiſtigen Lebens, der Sachen, um die wir uns heute allein
-               noch kümmern können. (Wobei ich mich an einen Satz <rs ref="#12156" type="person">Maeterlincks</rs> von dem <anchor xml:id="K_L01367_1" type="commentary"/>ſtill an
-               ſeinem Tiſche ſitzenden Greiſe<note xml:id="K_L01367_1h" type="commentary">In <rs ref="#32406" type="work">À propos de Solness le Constructeur</rs> (<bibl>
-                     <rs ref="#29706" type="org">Le Figaro</rs>, Jg. 40, Ser. 3, Nr. 92,
-                        <date>2. 4. 1894</date>, S. 1</bibl>, <bibl>späterer Titel
-                        <rs ref="#32406" type="work">Le Tragique quotidien</rs>
-                  </bibl>) schreibt <rs ref="#12156" type="person">Maeterlinck</rs> über das
-                  »tiefere Leben« eines Alten, der in seinem Stuhl versucht, seine Umgebung zu
-                  begreifen, im Vergleich beispielsweise zu einem Liebhaber, der die Geliebte
-                  erwürgt.</note> und an manches erinnere, was in meinem <rs ref="#29895" type="work">Dialog vom Tragiſchen</rs> gefordert wird). Allerdings <pb facs="MS-B-00005-B-000-00192"/>hat mir geſtern, beim erſten eiligen Leſen und in
-               meiner jetzigen geiſtigen Trübung, im dramatiſchen Ductus etwas gefehlt, ich kann es
-               nicht anders sagen, als daß mir die Bewegung des Stückes einige Male abzubrechen und
-               ſich dann auf eine mir nicht gleich verſtändliche Art wieder zu ſammeln oder zu
-               erſetzen ſchien. Ich leſe es nun aber in ein paar Tagen wieder und mit dieſen
-               Bemerkungen iſt wol überhaupt mehr mein elender Zuſtand als das Stück kritiſiert.</p>
-            <closer>Grüß <rs ref="#10986" type="person">Brahm</rs> und wen ich ſonſt in <rs ref="#168" type="place">Berlin</rs> kenne, empfiel<!-- sic! --> mich Deiner <rs type="person" ref="#2173" subtype="implied">Frau</rs> und ſei herzlichſt gegrüßt
-               von<lb/>Deinem alten<lb/>
-               <signed>Hermann</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-12-10">Kollationiert</change><change who="KI MAM" when="2017-05-29">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-01-21">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-B-00005-B-000-00191"/><graphic url="MS-B-00005-B-000-00192"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-B-00005-B-000-00191"/><date>29. 1. 04</date></dateline><salute rend="center">Lieber Arthur!</salute></opener><p>Ich »<c rendition="#langesS">s</c>oll« nach <rs ref="#pmb2216" type="person">Ortner</rs> zwei bis drei Monate hier bleiben, glaube aber nicht es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o lang auszuhalten. Es i<c rendition="#langesS">s</c>t hier<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr unangenehm und ich überlege hin und her, <damage agent="water"><supplied>ob</supplied></damage> es nicht viel ge<c rendition="#langesS">s</c>cheiter wäre, in <rs ref="#pmb906" type="place">Taormina</rs> oder <rs ref="#pmb839" type="place">Kairo</rs><space unit="chars" quantity="1"/>z<damage agent="water"><supplied>u</supplied></damage><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>itzen. Ich tue übrigens nichts, ohne vorher <rs ref="#pmb2216" type="person">Ortner</rs> zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben.</p><p>Der »<rs ref="#pmb29985" type="work">ein<c rendition="#langesS">s</c>ame Weg</rs>« kam ge<c rendition="#langesS">s</c>tern an und wurde sogleich gele<c rendition="#langesS">s</c>en. Wunderbar finde ich, wie Du da von der Peripherie der Men<c rendition="#langesS">s</c>chheit, an welcher<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich die mei<c rendition="#langesS">s</c>ten Stücke<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>on<c rendition="#langesS">s</c>t herumbewegen, in die Mitte ihres gei<c rendition="#langesS">s</c>tigen Lebens komm<c rendition="#langesS">s</c>t, nemlich un<c rendition="#langesS">s</c>eres gei<c rendition="#langesS">s</c>tigen Lebens, der Sachen, um die wir uns heute allein noch kümmern können. (Wobei ich mich an einen Satz <rs ref="#pmb12156" type="person">Maeterlincks</rs> von dem <anchor xml:id="K_L01367_1" type="commentary"/><c rendition="#langesS">s</c>till an<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>einem Ti<c rendition="#langesS">s</c>che<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>itzenden Grei<c rendition="#langesS">s</c>e<note xml:id="K_L01367_1h" type="commentary">In <rs ref="#pmb32406" type="work">À propos de Solness le Constructeur</rs> (<bibl><rs ref="#pmb29706" type="org">Le Figaro</rs>, Jg. 40, Ser. 3, Nr. 92, <date>2. 4. 1894</date>, S. 1</bibl>, <bibl>späterer Titel <rs ref="#pmb32406" type="work">Le Tragique quotidien</rs></bibl>) schreibt <rs ref="#pmb12156" type="person">Maeterlinck</rs> über das »tiefere Leben« eines Alten, der in seinem Stuhl versucht, seine Umgebung zu begreifen, im Vergleich beispielsweise zu einem Liebhaber, der die Geliebte erwürgt.</note> und an manches erinnere, was in meinem <rs ref="#pmb29895" type="work">Dialog vom Tragi<c rendition="#langesS">s</c>chen</rs> gefordert wird). Allerdings <pb facs="MS-B-00005-B-000-00192"/>hat mir ge<c rendition="#langesS">s</c>tern, beim er<c rendition="#langesS">s</c>ten eiligen Le<c rendition="#langesS">s</c>en und in meiner jetzigen gei<c rendition="#langesS">s</c>tigen Trübung, im dramati<c rendition="#langesS">s</c>chen Ductus etwas gefehlt, ich kann es nicht anders sagen, als daß mir die Bewegung des Stückes einige Male abzubrechen und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich dann auf eine mir nicht gleich ver<c rendition="#langesS">s</c>tändliche Art wieder zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ammeln oder zu er<c rendition="#langesS">s</c>etzen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chien. Ich le<c rendition="#langesS">s</c>e es nun aber in ein paar Tagen wieder und mit die<c rendition="#langesS">s</c>en Bemerkungen i<c rendition="#langesS">s</c>t wol überhaupt mehr mein elender Zu<c rendition="#langesS">s</c>tand als das Stück kriti<c rendition="#langesS">s</c>iert.</p><closer>Grüß <rs ref="#pmb10986" type="person">Brahm</rs> und wen ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>on<c rendition="#langesS">s</c>t in <rs ref="#pmb168" type="place">Berlin</rs> kenne, empfiel<!-- sic! --> mich Deiner <rs type="person" ref="#pmb2173" subtype="implied">Frau</rs> und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ei herzlich<c rendition="#langesS">s</c>t gegrüßt von<lb/>Deinem alten<lb/><signed>Hermann</signed></closer></div></body><back><listPerson><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2216">
+                  <tei:persName>
+                     <tei:surname>Ortner-Rodenstätt</tei:surname>
+                     <tei:forename>Norbert von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1865-08-10">10. 8. 1865</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-03-01">1. 3. 1935</tei:date>
+                     <tei:placeName ref="#pmb30">Salzburg</tei:placeName>
+                  </tei:death>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <occupation code="120">Internist*in</occupation>
+                  <occupation code="121">Kardiologe/in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117149721/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18584</idno>
+               </person><person xml:id="pmb12156">
+                  <tei:persName>
+                     <tei:surname>Maeterlinck</tei:surname>
+                     <tei:forename>Maurice</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-08-29">29. 8. 1862</tei:date>
+                     <tei:placeName ref="#pmb58674">Ghent</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1949-05-06">6. 5. 1949</tei:date>
+                     <tei:placeName ref="#pmb926">Nizza</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118576089/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17779</idno>
+               </person><person xml:id="pmb10986">
+                  <tei:persName>
+                     <tei:surname>Brahm</tei:surname>
+                     <tei:forename>Otto</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1856-02-05">5. 2. 1856</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1912-11-28">28. 11. 1912</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514245/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13913</idno>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29985">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der einsame Weg. Schauspiel in fünf Akten</tei:title>
+                  <tei:date from="1904-01-01" from-custom="1904">1904</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>7001</tei:note>
+                  <tei:note>7002</tei:note>
+                  <tei:note>9863</tei:note>
+                  <tei:note>9864</tei:note>
+                  <tei:note>9865</tei:note>
+                  <tei:note>9866</tei:note>
+                  <tei:note>9867</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1198519/</idno>
+               </bibl><bibl xml:id="pmb32406">
+                  <tei:author ref="pmb12156" role="author">
+                     <tei:surname>Maeterlinck</tei:surname>
+                     <tei:forename>Maurice</tei:forename>
+                  </tei:author>
+                  <tei:title>À propos de Solness le Constructeur [Le Tragique quotidien]</tei:title>
+                  <tei:date from="1894-04-02" from-custom="02.04.1894">2. 4. 1894</tei:date>
+                  <tei:gloss type="w1055">Text</tei:gloss>
+                  <tei:note>3146</tei:note>
+               </bibl><bibl xml:id="pmb29895">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Dialog vom Tragischen</tei:title>
+                  <tei:date from="1903-07-01" from-custom="01.07.1903">1. 7. 1903</tei:date>
+                  <tei:gloss type="w1154">Aufsatz</tei:gloss>
+                  <tei:note>2847</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb218">
+                  <tei:placeName>Marbach am Bodensee</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.6667 8.9</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/6555867/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb906">
+                  <tei:placeName>Taormina</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">37.85358 15.28851</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2522975/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q199952/</idno>
+               </place><place xml:id="pmb839">
+                  <tei:placeName>Kairo</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">30.06263 31.24967</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/360630/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q85/</idno>
+               </place><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29706">
+                  <tei:orgName>Le Figaro</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb182">
+                     <tei:placeName>Paris</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.85341 2.3488</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

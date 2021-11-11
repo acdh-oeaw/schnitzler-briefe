@@ -1,213 +1,219 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01129"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Georg Brandes an Arthur Schnitzler, 16. 6. 1901</title>
-            <author ref="#10992">Brandes, Georg</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01129</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01129" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Georg Brandes an Arthur Schnitzler, 16. 6. 1901</title><author ref="#pmb10992">Brandes, Georg</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01129</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 17</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="3" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="blaue_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>25</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASGB">
-                  <monogr>
-                     <author ref="#10992">Brandes, Georg</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Ein Briefwechsel</title>
-                     <editor>Hg. Kurt Bergel</editor>
-                     <imprint>
-                        <pubPlace>Bern</pubPlace>
-                        <publisher>Francke</publisher>
-                        <date when="1956">1956</date>
-                     </imprint>
-                     <biblScope unit="pp">88–89</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10992">Brandes, Georg</persName>
-               <placeName ref="#36300">Kopenhagen</placeName>
-               <date when="1901-06-16" n="01">16. 6. 1901</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10992">Brandes, Georg</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01128">Hofmannsthal
-                  an Schnitzler, 14. 6. 1901</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01130">Saar an
-                  Schnitzler, 19. 6. 1901</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L01127">Schnitzler
-                  an Brandes, 11. 6. 1901</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01135">Brandes an
-                  Schnitzler, 26. 6. 1901</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6F8A-B</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 17</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="blaue_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>25</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASGB"><monogr><author ref="#pmb10992">Brandes, Georg</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Ein Briefwechsel</title><editor>Hg. Kurt Bergel</editor><imprint><pubPlace>Bern</pubPlace><publisher>Francke</publisher><date when="1956">1956</date></imprint><biblScope unit="pp">88–89</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10992">Brandes, Georg</persName><placeName ref="#pmb36300">Kopenhagen</placeName><date when="1901-06-16" n="01">16. 6. 1901</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10992">Brandes, Georg</ref><ref subtype="previous_letter" type="withinCollection" target="L01128">Hofmannsthal
+                  an Schnitzler, 14. 6. 1901</ref><ref subtype="next_letter" type="withinCollection" target="L01130">Saar an
+                  Schnitzler, 19. 6. 1901</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01127">Schnitzler
+                  an Brandes, 11. 6. 1901</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01135">Brandes an
+                  Schnitzler, 26. 6. 1901</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2018-08-01">Angelegt</change>
-         <change who="MAM" when="2018-08-14">Durchsicht</change>
-         <change who="MAM" when="2018-02-14">Index check</change>
-         <change who="GHS" when="2019-07-18">facs aktualisiert, korrigiert, finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00045"/>
-      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00046"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00045"/>
-                  <rs ref="#36300" type="place">Kopenhagen</rs>
-                  <space unit="chars" quantity="3"/>
-                  <date>16 Juni 1901</date>
-               </dateline>
-               <salute rend="inline">Verehrter Freund</salute>
-            </opener>
-            <p>Zwar ist <rs ref="#33317" type="work">Krotkaja</rs> ein Monolog – es gibt so viele
-               Monologe, <rs ref="#11330" type="person">Flaubert</rs>s <rs ref="#33350" type="work"
-                  >St. Antoine</rs> ist auch ein Monolog – aber das kleine Buch hat gar keine
-               Form-Aehnlichkeit mit der Ihrigen. <rs ref="#32676" type="work">Les lauriers sont
-                  coupés</rs> las ich vor – 16 Jahren glaub ich, als die <anchor xml:id="K_L01129_1"
-                  type="commentary"/>Erzählung in <rs ref="#29522" type="org">la Révue
-                  Indépendante</rs>
-               <note xml:id="K_L01129_1h" type="commentary">von <date>Mai bis August 1887</date> in
-                  vier Teilen, <bibl>Bd. 3, H. 7, <date>Mai</date>, H. 8, S. 289–316; H. 9,
-                        <date>Juni</date>, S. 472–494; H. 10, <date>Juli</date>, S. 122–137; H. 11,
-                        <date>August</date>, S. 221–244</bibl>.</note> stand, und es machte mir
-               einen starken und originellen Eindruck, aber das Einzelne hab ich vergessen.</p>
-            <p>Ich kam zwar durch <rs ref="#50" type="place">Wien</rs>, blieb aber <pb
-                  facs="MS-SCHNITZLER-B-00017-A-00001-000-00046"/>dort nur zwei Stunden. Ich hatte
-               eine Scheu, Sie wieder aufzusuchen. Ich finde mich selbst sehr oft für Fremde
-               ermüdend, fuhr deshalb nur durch; ich war bewegt, unaufgelegt zum Sprechen.</p>
-            <p>Durch Ihre Güte erhielt ich <rs ref="#33348" type="work">Renate Fuchs</rs>; es ist
-               ein starkes Buch, aber die Grundidee so willkürlich, das Nachtwandern der Heldin. Das
-               Beste sind die Details, scheint mir, die vielen tiefen Reflexionen. Im Ganzen jedoch
-                  <anchor xml:id="K_L01129_2" type="commentary"/>Kunst = Kunst, nicht Kunst =
-                  Natur<note xml:id="K_L01129_2h" type="commentary">Anspielung auf <rs ref="#11763"
-                     type="person">Arno Holz</rs>’ Formel: »Kunst = Natur – x« aus <rs ref="#36290"
-                     type="work">Die Kunst. Ihr Wesen und ihre Gesetze</rs>. Berlin: <rs
-                     ref="#36287" type="org">Issleib</rs>
-                  <space unit="chars" quantity="1"/>
-                  <date>1891</date>.</note>. Ist es nicht wahr? Aber der <rs type="person"
-                  ref="#13055" subtype="implied">Mann</rs> hat sehr viel Talent.</p>
-            <p>
-               <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00046"/>Hier haben wir scheussliches
-               Wetter, fast Winter. <date>Mitte Juli</date> gehe ich nach <rs ref="#842"
-                  type="place">Karlsbad</rs>, ich habe mit <rs ref="#4719" type="person">Georges
-                  Clemenceau</rs> verabredet, ihn dort zu treffen.</p>
-            <p>Von ganzem Herzen</p>
-            <closer>Ihr<lb/>
-               <signed>Georg Brandes</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-01">Angelegt</change><change who="MAM" when="2018-08-14">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-07-18">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00045"/><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00046"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00045"/><rs ref="#pmb36300" type="place">Kopenhagen</rs><space unit="chars" quantity="3"/><date>16 Juni 1901</date></dateline><salute rend="inline">Verehrter Freund</salute></opener><p>Zwar ist <rs ref="#pmb33317" type="work">Krotkaja</rs> ein Monolog – es gibt so viele Monologe, <rs ref="#pmb11330" type="person">Flaubert</rs>s <rs ref="#pmb33350" type="work">St. Antoine</rs> ist auch ein Monolog – aber das kleine Buch hat gar keine Form-Aehnlichkeit mit der Ihrigen. <rs ref="#pmb32676" type="work">Les lauriers sont coupés</rs> las ich vor – 16 Jahren glaub ich, als die <anchor xml:id="K_L01129_1" type="commentary"/>Erzählung in <rs ref="#pmb29522" type="org">la Révue Indépendante</rs><note xml:id="K_L01129_1h" type="commentary">von <date>Mai bis August 1887</date> in vier Teilen, <bibl>Bd. 3, H. 7, <date>Mai</date>, H. 8, S. 289–316; H. 9, <date>Juni</date>, S. 472–494; H. 10, <date>Juli</date>, S. 122–137; H. 11, <date>August</date>, S. 221–244</bibl>.</note> stand, und es machte mir einen starken und originellen Eindruck, aber das Einzelne hab ich vergessen.</p><p>Ich kam zwar durch <rs ref="#pmb50" type="place">Wien</rs>, blieb aber <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00046"/>dort nur zwei Stunden. Ich hatte eine Scheu, Sie wieder aufzusuchen. Ich finde mich selbst sehr oft für Fremde ermüdend, fuhr deshalb nur durch; ich war bewegt, unaufgelegt zum Sprechen.</p><p>Durch Ihre Güte erhielt ich <rs ref="#pmb33348" type="work">Renate Fuchs</rs>; es ist ein starkes Buch, aber die Grundidee so willkürlich, das Nachtwandern der Heldin. Das Beste sind die Details, scheint mir, die vielen tiefen Reflexionen. Im Ganzen jedoch <anchor xml:id="K_L01129_2" type="commentary"/>Kunst = Kunst, nicht Kunst = Natur<note xml:id="K_L01129_2h" type="commentary">Anspielung auf <rs ref="#pmb11763" type="person">Arno Holz</rs>’ Formel: »Kunst = Natur – x« aus <rs ref="#pmb36290" type="work">Die Kunst. Ihr Wesen und ihre Gesetze</rs>. Berlin: <rs ref="#pmb36287" type="org">Issleib</rs><space unit="chars" quantity="1"/><date>1891</date>.</note>. Ist es nicht wahr? Aber der <rs type="person" ref="#pmb13055" subtype="implied">Mann</rs> hat sehr viel Talent.</p><p><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00046"/>Hier haben wir scheussliches Wetter, fast Winter. <date>Mitte Juli</date> gehe ich nach <rs ref="#pmb842" type="place">Karlsbad</rs>, ich habe mit <rs ref="#pmb4719" type="person">Georges Clemenceau</rs> verabredet, ihn dort zu treffen.</p><p>Von ganzem Herzen</p><closer>Ihr<lb/><signed>Georg Brandes</signed></closer></div></body><back><listPerson><person xml:id="pmb10992">
+                  <tei:persName>
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:death>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514326/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13920</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11330">
+                  <tei:persName>
+                     <tei:surname>Flaubert</tei:surname>
+                     <tei:forename>Gustave</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1821-12-12">12. 12. 1821</tei:date>
+                     <tei:placeName ref="#pmb55374">Rouen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1880-05-08">8. 5. 1880</tei:date>
+                     <tei:placeName ref="#pmb11332">Canteleu</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118533754/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15025</idno>
+               </person><person xml:id="pmb11763">
+                  <tei:persName>
+                     <tei:surname>Holz</tei:surname>
+                     <tei:forename>Arno</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-04-26">26. 4. 1863</tei:date>
+                     <tei:placeName ref="#pmb52777">Kętrzyn</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-10-26">26. 10. 1929</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118553216/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16334</idno>
+               </person><person xml:id="pmb13055">
+                  <tei:persName>
+                     <tei:surname>Wassermann</tei:surname>
+                     <tei:forename>Jakob</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1873-03-10">10. 3. 1873</tei:date>
+                     <tei:placeName ref="#pmb40508">Fürth</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-01">1. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb34401">Altaussee</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118629387/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21107</idno>
+               </person><person xml:id="pmb4719">
+                  <tei:persName>
+                     <tei:surname>Clemenceau</tei:surname>
+                     <tei:forename>Georges</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1841-09-28">28. 9. 1841</tei:date>
+                     <tei:placeName ref="#pmb54231">Mouilleron-en-Pareds</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-11-24">24. 11. 1929</tei:date>
+                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
+                  </tei:death>
+                  <occupation code="95">Politiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118676407/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14238</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb33317">
+                  <tei:author ref="pmb4006" role="author">
+                     <tei:surname>Dostojevskij</tei:surname>
+                     <tei:forename>Fjodor M.</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Sanfte</tei:title>
+                  <tei:date from="1876-01-01" from-custom="1876">1876</tei:date>
+                  <tei:gloss type="w1055">Text</tei:gloss>
+               </bibl><bibl xml:id="pmb33350">
+                  <tei:author ref="pmb11330" role="author">
+                     <tei:surname>Flaubert</tei:surname>
+                     <tei:forename>Gustave</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Versuchung des heiligen Antonius</tei:title>
+                  <tei:date from="1874-01-01" from-custom="1874">1874</tei:date>
+                  <tei:gloss type="w1060">Roman</tei:gloss>
+               </bibl><bibl xml:id="pmb32676">
+                  <tei:author ref="pmb4974" role="author">
+                     <tei:surname>Dujardin</tei:surname>
+                     <tei:forename>Édouard</tei:forename>
+                  </tei:author>
+                  <tei:title>Les lauriers sont coupés</tei:title>
+                  <tei:date from="1887-01-01" from-custom="1887">1887</tei:date>
+                  <tei:gloss type="w1055">Text</tei:gloss>
+                  <tei:note>3196</tei:note>
+               </bibl><bibl xml:id="pmb33348">
+                  <tei:author ref="pmb13055" role="author">
+                     <tei:surname>Wassermann</tei:surname>
+                     <tei:forename>Jakob</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Geschichte der jungen Renate Fuchs</tei:title>
+                  <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
+                  <tei:gloss type="w1060">Roman</tei:gloss>
+               </bibl><bibl xml:id="pmb36290">
+                  <tei:author ref="pmb11763" role="author">
+                     <tei:surname>Holz</tei:surname>
+                     <tei:forename>Arno</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Kunst. Ihr Wesen und ihre Gesetze</tei:title>
+                  <tei:date from="1891-01-01" from-custom="1891">1891</tei:date>
+                  <tei:gloss type="w1142">Fachliteratur</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb36300">
+                  <tei:placeName>Kopenhagen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2618425/copenhagen.html/</idno>
+                  <idno type="geonames">https://www.geonames.org/2618425/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1748/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4032399-7/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb842">
+                  <tei:placeName>Karlsbad</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.23271 12.87117</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3073803/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q384544/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29522">
+                  <tei:orgName>La revue indépendante</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1884-01-01" from-custom="1884" to="1895-01-01" to-custom="1895">1884–1895</tei:date>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb182">
+                     <tei:placeName>Paris</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.85341 2.3488</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb36287">
+                  <tei:orgName>Wilhelm Issleib Verlagsbuchhandlung und Buchdruckerei</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1881-01-01" from-custom="1881">1881</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/107305845X/</idno>
+               </org></listOrg></back></text></TEI>

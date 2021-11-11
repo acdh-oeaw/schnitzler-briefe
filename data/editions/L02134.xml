@@ -1,205 +1,651 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02134"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arno Holz an Arthur Schnitzler, 26. 4. 1913</title>
-            <author ref="#11763">Holz, Arno</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02134</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02134" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arno Holz an Arthur Schnitzler, 26. 4. 1913</title><author ref="#pmb11763">Holz, Arno</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02134</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 44</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <objectDesc>
-                           <desc type="brief">Faltblatt mit einem Porträt von Holz
+                            Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7376-C</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 44</idno></msIdentifier><physDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><objectDesc><desc type="brief">Faltblatt mit einem Porträt von Holz
                                         und einer faksimilierten Unterschrift links, rechts einem
-                                        gedruckten Aufruf</desc>
-                           <desc type="_blaetter" n="1"/>
-                           <desc type="_seiten" n="2"/>
-                        </objectDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11763">Holz, Arno</persName>
-               <placeName ref="#168">Berlin</placeName>
-               <date when="1913-04-26" n="02">26. 4. 1913</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11763">Holz, Arno</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02133">Altenberg an Schnitzler, [26. 4. 1913]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02135">Schnitzler an Adam, 5. 5. 1913</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02255">Holz an Schnitzler, 11. 2. 1917</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                                        gedruckten Aufruf</desc><desc type="_blaetter" n="1"/><desc type="_seiten" n="2"/></objectDesc></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11763">Holz, Arno</persName><placeName ref="#pmb168">Berlin</placeName><date when="1913-04-26" n="02">26. 4. 1913</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11763">Holz, Arno</ref><ref subtype="previous_letter" type="withinCollection" target="L02133">Altenberg an Schnitzler, [26. 4. 1913]</ref><ref subtype="next_letter" type="withinCollection" target="L02135">Schnitzler an Adam, 5. 5. 1913</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02255">Holz an Schnitzler, 11. 2. 1917</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2018-11-09">Angelegt</change>
-         <change who="MAM" when="2018-11-26">Durchsicht</change>
-         <change who="MAM" when="2018-11-27">Index check</change>
-         <change who="GHS" when="2020-05-05">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00044-000-00005"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <p>
-               <pb facs="MS-SCHNITZLER-B-00044-000-00005"/>Herrn</p>
-            <p>
-               <hi rend="underline" n="1">Dr.</hi>
-               <space unit="chars" quantity="1"/>
-               <hi rend="underline" n="1">Arthur</hi>
-               <space unit="chars" quantity="1"/>
-               <hi rend="underline" n="1">Schnitzler</hi>
-            </p>
-            <p>mit aufrichtigſt herzlichem Dank</p>
-            <p rend="center">
-               <hi rend="pre-print">ArnoHolz</hi>
-            </p>
-            <p rend="center">
-               <date>26. IV. 1913</date>.</p>
-            <p rend="center">
-               <pb facs="MS-SCHNITZLER-B-00044-000-00005"/>
-               <hi rend="pre-print">Aufruf für Arno Holz!</hi>
-            </p>
-            <p>
-               <hi rend="pre-print">Arno Holz, der am <date>26. d. Mts.</date> 50 Jahre alt
-                        wird, erzählt im Vorwort zu seiner letzten, eben erschienenen Tragödie »<rs ref="#33542" type="work">Ignorabimus</rs>«, dass er »heute noch immer
-                        buchstäblich in einer Dachbude hockt«. Es ergreift und beschämt uns, einen
-                        um das deutsche Schrifttum der letzten dreissig Jahre im höchsten Grade
-                        verdienten, schon um der Reinheit seines nur der Kunst ergebenen Strebens
-                        willen bewunderungswürdigen Dichter in Not zu wissen. Wir fordern die Nation
-                        auf, diese Schuld durch eine Ehrenspende zu tilgen, und eröffnen hiermit die
-                        Sammlung. Beiträge wolle man an die Leitung des »<rs ref="#29649" type="org">Kunstwarts</rs>«, <rs ref="#1222" type="place">Dresden Blasewitz</rs>,
-                        richten.</hi>
-            </p>
-            <p rend="center">
-               <hi rend="pre-print">
-                  <hi rend="bold">
-                     <rs ref="#10815" type="person">Hermann Bahr</rs>. <rs ref="#5708" type="person">Hans Baluschek</rs>. Prof. <rs ref="#10869" type="person">Peter Behrens</rs>.</hi>
-                  <space unit="chars" quantity="1"/>
-                  <hi rend="bold">Dr. <rs ref="#10992" type="person">Georg Brandes</rs>.
-                                Prof. Dr. <rs ref="#5711" type="person">Collin</rs>
-                  </hi> (<rs ref="#910" type="place">Giessen</rs>)<hi rend="bold">.</hi>
-                  <space unit="chars" quantity="1"/>
-                  <hi rend="bold">Dr. <rs ref="#11148" type="person">Richard Dehmel</rs>.
-                                Dr. <rs ref="#11391" type="person">Ludwig Fulda</rs>.</hi>
-                  <space unit="chars" quantity="1"/>Geh. Hofrat <hi rend="bold">Prof. Dr. Ing. h. c. <rs ref="#5713" type="person">Cornelius Gurlitt</rs>. <rs ref="#11581" type="person">Maximilian Harden</rs>. Dr. <rs ref="#11711" type="person">Georg Hirth</rs>.</hi> General-Intendant <hi rend="bold">Graf <rs ref="#11795" type="person">von Hülsen-Haeseler</rs>,</hi> Exz<hi rend="bold">.</hi>
-                  <space unit="chars" quantity="1"/>
-                  <hi rend="bold">Dr. <rs ref="#5717" type="person">O. E. Lessing</rs>, Prof.</hi> an der <rs ref="#1225" type="place">Universität Illinois</rs>
-                  <hi rend="bold">. Prof. Dr. <rs ref="#3403" type="person">Alfred Lichtwark</rs>. Prof. Dr. h. c. <rs ref="#12068" type="person">Max Liebermann</rs>. Dr. <rs ref="#12078" type="person">Paul Lindau</rs>. Prof. Dr. <rs ref="#12147" type="person">Ernst Mach</rs>
-                  </hi> (<rs ref="#50" type="place">Wien</rs>)<hi rend="bold">. <rs ref="#12170" type="person">Heinrich Mann</rs>.</hi>
-                  <space unit="chars" quantity="1"/>
-                  <hi rend="bold">
-                     <rs ref="#12176" type="person">Thomas Mann</rs>.</hi> Intendant <hi rend="bold">
-                     <rs ref="#5720" type="person">Kurt von Mutzenbecher</rs>, </hi>Kgl. Kammerherr<hi rend="bold">.
-                                Prof. Dr. <rs ref="#5723" type="person">Franz Muncker</rs>
-                  </hi> (<rs ref="#45258" type="place">München</rs>)<hi rend="bold">.
-                                Dr. ing. G. Reg.-R. <rs ref="#5726" type="person">Hermann Muthesius</rs>.</hi> Geh. Hofrat <hi rend="bold">Prof. Dr. <rs ref="#3923" type="person">Wilhelm Ostwald</rs>.</hi>
-                            General-Intendant <hi rend="bold">Baron <rs ref="#28808" type="person">von Putlitz</rs>,</hi> Exz<hi rend="bold">.</hi> Bürgermeister <hi rend="bold">Dr. <rs ref="#5730" type="person">Georg Reicke</rs>.
-                            Dr. Arthur Schnitzler. Dr. <rs ref="#12772" type="person">Franz Servaes</rs>. <rs ref="#12899" type="person">Hermann Sudermann</rs>.</hi> Geh. Rat <hi rend="bold">Prof. Dr. <rs ref="#5733" type="person">Henry Thode</rs>. Prof. Dr. h. c. <rs ref="#4557" type="person">Hans Thoma</rs>. Prof. Dr. <rs ref="#5736" type="person">Ferdinand Vetter</rs>
-                  </hi> (<rs ref="#1223" type="place">Bern</rs>)<hi rend="bold">. <rs ref="#13027" type="person">Siegfried Wagner</rs>. Prof. Dr. <rs ref="#5741" type="person">Eugen Wolff</rs>
-                  </hi> (<rs ref="#907" type="place">Kiel</rs>.)</hi>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-11-09">Angelegt</change><change who="MAM" when="2018-11-26">Durchsicht</change><change who="MAM" when="2018-11-27">Index check</change><change who="GHS" when="2020-05-05">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00044-000-00005"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00044-000-00005"/>Herrn</p><p><hi rend="underline" n="1">Dr.</hi><space unit="chars" quantity="1"/><hi rend="underline" n="1">Arthur</hi><space unit="chars" quantity="1"/><hi rend="underline" n="1">Schnitzler</hi></p><p>mit aufrichtig<c rendition="#langesS">s</c>t herzlichem Dank</p><p rend="center"><hi rend="pre-print">ArnoHolz</hi></p><p rend="center"><date>26. IV. 1913</date>.</p><p rend="center"><pb facs="MS-SCHNITZLER-B-00044-000-00005"/><hi rend="pre-print">Aufruf für Arno Holz!</hi></p><p><hi rend="pre-print">Arno Holz, der am <date>26. d. Mts.</date> 50 Jahre alt wird, erzählt im Vorwort zu seiner letzten, eben erschienenen Tragödie »<rs ref="#pmb33542" type="work">Ignorabimus</rs>«, dass er »heute noch immer buchstäblich in einer Dachbude hockt«. Es ergreift und beschämt uns, einen um das deutsche Schrifttum der letzten dreissig Jahre im höchsten Grade verdienten, schon um der Reinheit seines nur der Kunst ergebenen Strebens willen bewunderungswürdigen Dichter in Not zu wissen. Wir fordern die Nation auf, diese Schuld durch eine Ehrenspende zu tilgen, und eröffnen hiermit die Sammlung. Beiträge wolle man an die Leitung des »<rs ref="#pmb29649" type="org">Kunstwarts</rs>«, <rs ref="#pmb1222" type="place">Dresden Blasewitz</rs>, richten.</hi></p><p rend="center"><hi rend="pre-print"><hi rend="bold"><rs ref="#pmb10815" type="person">Hermann Bahr</rs>. <rs ref="#pmb5708" type="person">Hans Baluschek</rs>. Prof. <rs ref="#pmb10869" type="person">Peter Behrens</rs>.</hi><space unit="chars" quantity="1"/><hi rend="bold">Dr. <rs ref="#pmb10992" type="person">Georg Brandes</rs>. Prof. Dr. <rs ref="#pmb5711" type="person">Collin</rs></hi> (<rs ref="#pmb910" type="place">Giessen</rs>)<hi rend="bold">.</hi><space unit="chars" quantity="1"/><hi rend="bold">Dr. <rs ref="#pmb11148" type="person">Richard Dehmel</rs>. Dr. <rs ref="#pmb11391" type="person">Ludwig Fulda</rs>.</hi><space unit="chars" quantity="1"/>Geh. Hofrat <hi rend="bold">Prof. Dr. Ing. h. c. <rs ref="#pmb5713" type="person">Cornelius Gurlitt</rs>. <rs ref="#pmb11581" type="person">Maximilian Harden</rs>. Dr. <rs ref="#pmb11711" type="person">Georg Hirth</rs>.</hi> General-Intendant <hi rend="bold">Graf <rs ref="#pmb11795" type="person">von Hülsen-Haeseler</rs>,</hi> Exz<hi rend="bold">.</hi><space unit="chars" quantity="1"/><hi rend="bold">Dr. <rs ref="#pmb5717" type="person">O. E. Lessing</rs>, Prof.</hi> an der <rs ref="#pmb1225" type="place">Universität Illinois</rs><hi rend="bold">. Prof. Dr. <rs ref="#pmb3403" type="person">Alfred Lichtwark</rs>. Prof. Dr. h. c. <rs ref="#pmb12068" type="person">Max Liebermann</rs>. Dr. <rs ref="#pmb12078" type="person">Paul Lindau</rs>. Prof. Dr. <rs ref="#pmb12147" type="person">Ernst Mach</rs></hi> (<rs ref="#pmb50" type="place">Wien</rs>)<hi rend="bold">. <rs ref="#pmb12170" type="person">Heinrich Mann</rs>.</hi><space unit="chars" quantity="1"/><hi rend="bold"><rs ref="#pmb12176" type="person">Thomas Mann</rs>.</hi> Intendant <hi rend="bold"><rs ref="#pmb5720" type="person">Kurt von Mutzenbecher</rs>, </hi>Kgl. Kammerherr<hi rend="bold">. Prof. Dr. <rs ref="#pmb5723" type="person">Franz Muncker</rs></hi> (<rs ref="#pmb45258" type="place">München</rs>)<hi rend="bold">. Dr. ing. G. Reg.-R. <rs ref="#pmb5726" type="person">Hermann Muthesius</rs>.</hi> Geh. Hofrat <hi rend="bold">Prof. Dr. <rs ref="#pmb3923" type="person">Wilhelm Ostwald</rs>.</hi> General-Intendant <hi rend="bold">Baron <rs ref="#pmb28808" type="person">von Putlitz</rs>,</hi> Exz<hi rend="bold">.</hi> Bürgermeister <hi rend="bold">Dr. <rs ref="#pmb5730" type="person">Georg Reicke</rs>. Dr. Arthur Schnitzler. Dr. <rs ref="#pmb12772" type="person">Franz Servaes</rs>. <rs ref="#pmb12899" type="person">Hermann Sudermann</rs>.</hi> Geh. Rat <hi rend="bold">Prof. Dr. <rs ref="#pmb5733" type="person">Henry Thode</rs>. Prof. Dr. h. c. <rs ref="#pmb4557" type="person">Hans Thoma</rs>. Prof. Dr. <rs ref="#pmb5736" type="person">Ferdinand Vetter</rs></hi> (<rs ref="#pmb1223" type="place">Bern</rs>)<hi rend="bold">. <rs ref="#pmb13027" type="person">Siegfried Wagner</rs>. Prof. Dr. <rs ref="#pmb5741" type="person">Eugen Wolff</rs></hi> (<rs ref="#pmb907" type="place">Kiel</rs>.)</hi></p></div></body><back><listPerson><person xml:id="pmb11763">
+                  <tei:persName>
+                     <tei:surname>Holz</tei:surname>
+                     <tei:forename>Arno</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-04-26">26. 4. 1863</tei:date>
+                     <tei:placeName ref="#pmb52777">Kętrzyn</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-10-26">26. 10. 1929</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118553216/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16334</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb5708">
+                  <tei:persName>
+                     <tei:surname>Baluschek</tei:surname>
+                     <tei:forename>Hans</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1870-05-09">9. 5. 1870</tei:date>
+                     <tei:placeName ref="#pmb677">Breslau</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-09-27">27. 9. 1935</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="110">Maler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118652230/</idno>
+               </person><person xml:id="pmb10869">
+                  <tei:persName>
+                     <tei:surname>Behrens</tei:surname>
+                     <tei:forename>Peter</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1868-04-14">14. 4. 1868</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1940-02-27">27. 2. 1940</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="185">Architekt</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118508466/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13562</idno>
+               </person><person xml:id="pmb10992">
+                  <tei:persName>
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:death>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514326/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13920</idno>
+               </person><person xml:id="pmb5711">
+                  <tei:persName>
+                     <tei:surname>Collin</tei:surname>
+                     <tei:forename>Josef</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1864-02-02">2. 2. 1864</tei:date>
+                     <tei:placeName ref="#pmb44119">Mainz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1942-01-01">1942</tei:date>
+                  </tei:death>
+                  <occupation code="274">Literaturwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116638613/</idno>
+               </person><person xml:id="pmb11148">
+                  <tei:persName>
+                     <tei:surname>Dehmel</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-11-18">18. 11. 1863</tei:date>
+                     <tei:placeName ref="#pmb11149">Wendisch-Hermsdorf</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1920-02-08">8. 2. 1920</tei:date>
+                     <tei:placeName ref="#pmb1226">Blankenese</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118679236/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14383</idno>
+               </person><person xml:id="pmb11391">
+                  <tei:persName>
+                     <tei:surname>Fulda</tei:surname>
+                     <tei:forename>Ludwig</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-07-15">15. 7. 1862</tei:date>
+                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-03-30">30. 3. 1939</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="116">Übersetzer*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118840452/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15306</idno>
+               </person><person xml:id="pmb5713">
+                  <tei:persName>
+                     <tei:surname>Gurlitt</tei:surname>
+                     <tei:forename>Cornelius</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1850-01-01">1. 1. 1850</tei:date>
+                     <tei:placeName ref="#pmb5714">Thallwitz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-03-25">25. 3. 1939</tei:date>
+                     <tei:placeName ref="#pmb866">Dresden</tei:placeName>
+                  </tei:death>
+                  <occupation code="187">Kunsthistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117591289/</idno>
+               </person><person xml:id="pmb11581">
+                  <tei:persName>
+                     <tei:surname>Harden</tei:surname>
+                     <tei:forename>Maximilian</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-10-20">20. 10. 1861</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-10-30">30. 10. 1927</tei:date>
+                     <tei:placeName ref="#pmb11583">Montana-Vermala</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="237">Publizist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118545892/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15919</idno>
+               </person><person xml:id="pmb11711">
+                  <tei:persName>
+                     <tei:surname>Hirth</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1841-07-13">13. 7. 1841</tei:date>
+                     <tei:placeName ref="#pmb11712">Gräfentonna</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1916-03-28">28. 3. 1916</tei:date>
+                     <tei:placeName ref="#pmb39752">Tegernsee</tei:placeName>
+                  </tei:death>
+                  <occupation code="144">Verleger*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118774549/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16234</idno>
+               </person><person xml:id="pmb11795">
+                  <tei:persName>
+                     <tei:surname>Hülsen-Haeseler</tei:surname>
+                     <tei:forename>Georg von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1858-07-15">15. 7. 1858</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1922-06-21">21. 6. 1922</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117049107/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16407</idno>
+               </person><person xml:id="pmb5717">
+                  <tei:persName>
+                     <tei:surname>Lessing</tei:surname>
+                     <tei:forename>Otto Eduard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-09-28">28. 9. 1875</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1942-01-01">1942</tei:date>
+                     <tei:placeName ref="#pmb49195">Illinois</tei:placeName>
+                  </tei:death>
+                  <occupation code="274">Literaturwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116950684/</idno>
+               </person><person xml:id="pmb3403">
+                  <tei:persName>
+                     <tei:surname>Lichtwark</tei:surname>
+                     <tei:forename>Alfred</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1852-11-14">14. 11. 1852</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1914-01-13">13. 1. 1914</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:death>
+                  <occupation code="187">Kunsthistoriker*in</occupation>
+                  <occupation code="246">Museumsleiter*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118572652/</idno>
+               </person><person xml:id="pmb12068">
+                  <tei:persName>
+                     <tei:surname>Liebermann</tei:surname>
+                     <tei:forename>Max</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1847-07-20">20. 7. 1847</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-02-08">8. 2. 1935</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="110">Maler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118572695/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17517</idno>
+               </person><person xml:id="pmb12078">
+                  <tei:persName>
+                     <tei:surname>Lindau</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1839-06-03">3. 6. 1839</tei:date>
+                     <tei:placeName ref="#pmb918">Magdeburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1919-01-31">31. 1. 1919</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118780034/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17558</idno>
+               </person><person xml:id="pmb12147">
+                  <tei:persName>
+                     <tei:surname>Mach</tei:surname>
+                     <tei:forename>Ernst</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1838-02-18">18. 2. 1838</tei:date>
+                     <tei:placeName ref="#pmb59934">Tuřany</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1916-02-19">19. 2. 1916</tei:date>
+                     <tei:placeName ref="#pmb59937">Vaterstetten</tei:placeName>
+                  </tei:death>
+                  <occupation code="154">Philosoph*in</occupation>
+                  <occupation code="436">Physiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118575767/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17768</idno>
+               </person><person xml:id="pmb12170">
+                  <tei:persName>
+                     <tei:surname>Mann</tei:surname>
+                     <tei:forename>Heinrich</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1871-03-27">27. 3. 1871</tei:date>
+                     <tei:placeName ref="#pmb884">Lübeck</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1950-03-11">11. 3. 1950</tei:date>
+                     <tei:placeName ref="#pmb45685">Santa Monica</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118577131/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17834</idno>
+               </person><person xml:id="pmb12176">
+                  <tei:persName>
+                     <tei:surname>Mann</tei:surname>
+                     <tei:forename>Thomas</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-06-06">6. 6. 1875</tei:date>
+                     <tei:placeName ref="#pmb884">Lübeck</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1955-08-12">12. 8. 1955</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118577166/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17838</idno>
+               </person><person xml:id="pmb5720">
+                  <tei:persName>
+                     <tei:surname>Mutzenbecher</tei:surname>
+                     <tei:forename>Kurt von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-11-18">18. 11. 1866</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1938-10-07">7. 10. 1938</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="101">Beamter/in</occupation>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11720515X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18338</idno>
+               </person><person xml:id="pmb5723">
+                  <tei:persName>
+                     <tei:surname>Muncker</tei:surname>
+                     <tei:forename>Franz</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1855-12-04">4. 12. 1855</tei:date>
+                     <tei:placeName ref="#pmb734">Bayreuth</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1926-09-07">7. 9. 1926</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="274">Literaturwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11718165X/</idno>
+               </person><person xml:id="pmb5726">
+                  <tei:persName>
+                     <tei:surname>Muthesius</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-04-20">20. 4. 1861</tei:date>
+                     <tei:placeName ref="#pmb47412">Großneuhausen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-10-26">26. 10. 1927</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="185">Architekt</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118585983/</idno>
+               </person><person xml:id="pmb3923">
+                  <tei:persName>
+                     <tei:surname>Ostwald</tei:surname>
+                     <tei:forename>Wilhelm</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1853-09-02">2. 9. 1853</tei:date>
+                     <tei:placeName ref="#pmb46637">Riga</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1932-04-04">4. 4. 1932</tei:date>
+                     <tei:placeName ref="#pmb864">Leipzig</tei:placeName>
+                  </tei:death>
+                  <occupation code="154">Philosoph*in</occupation>
+                  <occupation code="196">Chemiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11859057X/</idno>
+               </person><person xml:id="pmb28808">
+                  <tei:persName>
+                     <tei:surname>Putlitz</tei:surname>
+                     <tei:forename>Joachim Gans zu</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1861-07-02">1861</tei:date>
+                     <tei:placeName ref="#pmb28809">Retzin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1922-07-02">1922</tei:date>
+                     <tei:placeName ref="#pmb872">Stuttgart</tei:placeName>
+                  </tei:death>
+                  <occupation code="280">Theaterintendant</occupation>
+               </person><person xml:id="pmb5730">
+                  <tei:persName>
+                     <tei:surname>Reicke</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-11-26">26. 11. 1863</tei:date>
+                     <tei:placeName ref="#pmb42605">Königsberg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1923-04-07">7. 4. 1923</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="95">Politiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116403128/</idno>
+               </person><person xml:id="pmb12772">
+                  <tei:persName>
+                     <tei:surname>Servaes</tei:surname>
+                     <tei:forename>Franz</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-06-17">17. 6. 1862</tei:date>
+                     <tei:placeName ref="#pmb145">Köln</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1947-07-14">14. 7. 1947</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117467979/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20068</idno>
+               </person><person xml:id="pmb12899">
+                  <tei:persName>
+                     <tei:surname>Sudermann</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1857-09-30">30. 9. 1857</tei:date>
+                     <tei:placeName ref="#pmb58616">Macikai</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1928-11-21">21. 11. 1928</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118619853/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20563</idno>
+               </person><person xml:id="pmb5733">
+                  <tei:persName>
+                     <tei:surname>Thode</tei:surname>
+                     <tei:forename>Henry</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1857-01-13">13. 1. 1857</tei:date>
+                     <tei:placeName ref="#pmb866">Dresden</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1920-11-19">19. 11. 1920</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:death>
+                  <occupation code="187">Kunsthistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119116898/</idno>
+               </person><person xml:id="pmb4557">
+                  <tei:persName>
+                     <tei:surname>Thoma</tei:surname>
+                     <tei:forename>Hans</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1839-01-01">1839</tei:date>
+                     <tei:placeName ref="#pmb47491">Bernau</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1924-01-01">1924</tei:date>
+                     <tei:placeName ref="#pmb871">Karlsruhe</tei:placeName>
+                  </tei:death>
+                  <occupation code="110">Maler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622064/</idno>
+               </person><person xml:id="pmb5736">
+                  <tei:persName>
+                     <tei:surname>Vetter</tei:surname>
+                     <tei:forename>Ferdinand</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1847-02-03">3. 2. 1847</tei:date>
+                     <tei:placeName ref="#pmb58690">Bad Osterfingen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1924-08-06">6. 8. 1924</tei:date>
+                     <tei:placeName ref="#pmb45632">Stein am Rhein</tei:placeName>
+                  </tei:death>
+                  <occupation code="274">Literaturwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117396257/</idno>
+               </person><person xml:id="pmb13027">
+                  <tei:persName>
+                     <tei:surname>Wagner</tei:surname>
+                     <tei:forename>Siegfried</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1869-06-06">6. 6. 1869</tei:date>
+                     <tei:placeName ref="#pmb13028">Tribschen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1930-08-04">4. 8. 1930</tei:date>
+                     <tei:placeName ref="#pmb734">Bayreuth</tei:placeName>
+                  </tei:death>
+                  <occupation code="129">Komponist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118628429/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21036</idno>
+               </person><person xml:id="pmb5741">
+                  <tei:persName>
+                     <tei:surname>Wolff</tei:surname>
+                     <tei:forename>Eugen</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-09-28">28. 9. 1863</tei:date>
+                     <tei:placeName ref="#pmb35518">Frankfurt (Oder)</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-02-25">25. 2. 1929</tei:date>
+                     <tei:placeName ref="#pmb5744">Neubabelsberg</tei:placeName>
+                  </tei:death>
+                  <occupation code="274">Literaturwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117450022/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb33542">
+                  <tei:author ref="pmb11763" role="author">
+                     <tei:surname>Holz</tei:surname>
+                     <tei:forename>Arno</tei:forename>
+                  </tei:author>
+                  <tei:title>Ignoramibus</tei:title>
+                  <tei:date from="1913-01-01" from-custom="1913">1913</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb1222">
+                  <tei:placeName>Blasewitz</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.05 13.7969</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q8897/</idno>
+               </place><place xml:id="pmb910">
+                  <tei:placeName>Gießen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.58727 8.67554</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2920512/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q3874/</idno>
+               </place><place xml:id="pmb1225">
+                  <tei:placeName>University of Illinois</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i15">Universität</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">40.102494 -88.227322</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1145814/</idno>
+               </place><place xml:id="pmb45258">
+                  <tei:placeName>München</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2867714/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4127793-4/</idno>
+               </place><place xml:id="pmb1223">
+                  <tei:placeName>Bern</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">46.9489 7.4638</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2661552/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q70/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005762-8/</idno>
+               </place><place xml:id="pmb907">
+                  <tei:placeName>Kiel</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">54.32133 10.13489</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2891122/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1707/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29649">
+                  <tei:orgName>Der Kunstwart</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1887-01-01" from-custom="1887" to="1937-01-01" to-custom="1937">1887–1937</tei:date>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb866">
+                     <tei:placeName>Dresden</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">51.0833 13.7666</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb45258">
+                     <tei:placeName>München</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

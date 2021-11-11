@@ -1,273 +1,312 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02224"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Georg Brandes, 22. 12. 1915</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02224</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02224" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Georg Brandes, 22. 12. 1915</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02224</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>Dk</country>
-                        <settlement>Kopenhagen</settlement>
-                        <repository>Det Kongelige Bibliotek</repository>
-                        <idno>Georg Brandes Arkiv, box 125</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="2" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="3" type="_seiten">Seite 3 mit Schreibmaschine paginiert</desc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="nicht_anzuwenden">
-                              <p>Überarbeitung, Unterstreichung, Unterschrift</p>
-                           </handNote>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Schreibmaschine</p>
-                        </typeDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand auf dem ersten Blatt nummeriert: »<quote>39.</quote>«, das zweite Blatt datiert mit »<quote>
-                                    <date>22/12 15</date>
-                                 </quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASGB">
-                  <monogr>
-                     <author ref="#10992">Brandes, Georg</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Ein Briefwechsel</title>
-                     <editor>Hg. Kurt Bergel</editor>
-                     <imprint>
-                        <pubPlace>Bern</pubPlace>
-                        <publisher>Francke</publisher>
-                        <date when="1956">1956</date>
-                     </imprint>
-                     <biblScope unit="pp">120–121</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct corresp="ASB2">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefe 1913–1931</title>
-                     <editor>Braunwarth, Peter Michael</editor>
-                     <editor>Miklin, Richard</editor>
-                     <editor>Pertlik, Susanne</editor>
-                     <editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1984">1984</date>
-                     </imprint>
-                     <biblScope unit="pp">109–110</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1915-12-22" n="01">22. 12. 1915</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10992">Brandes, Georg</persName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10992">Brandes, Georg</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02223">Brandes an Schnitzler, 13. 12. 1915</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02225">Hofmannsthal, Hofmannsthal an Schnitzler, Schnitzler, 5. 5. [1916?]</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02223">Brandes an Schnitzler, 13. 12. 1915</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02274">Brandes an Schnitzler, 28. 9. 1917</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-73D0-5</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>Dk</country><settlement>Kopenhagen</settlement><repository>Det Kongelige Bibliotek</repository><idno>Georg Brandes Arkiv, box 125</idno></msIdentifier><physDesc><objectDesc><desc n="2" type="_blaetter"/><desc type="brief"/><desc n="3" type="_seiten">Seite 3 mit Schreibmaschine paginiert</desc></objectDesc><handDesc><handNote medium="schwarze_tinte" style="nicht_anzuwenden"><p>Überarbeitung, Unterstreichung, Unterschrift</p></handNote></handDesc><typeDesc><p>Schreibmaschine</p></typeDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand auf dem ersten Blatt nummeriert: »<quote>39.</quote>«, das zweite Blatt datiert mit »<quote><date>22/12 15</date></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASGB"><monogr><author ref="#pmb10992">Brandes, Georg</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Ein Briefwechsel</title><editor>Hg. Kurt Bergel</editor><imprint><pubPlace>Bern</pubPlace><publisher>Francke</publisher><date when="1956">1956</date></imprint><biblScope unit="pp">120–121</biblScope></monogr></biblStruct><biblStruct corresp="ASB2"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefe 1913–1931</title><editor>Braunwarth, Peter Michael</editor><editor>Miklin, Richard</editor><editor>Pertlik, Susanne</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1984">1984</date></imprint><biblScope unit="pp">109–110</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1915-12-22" n="01">22. 12. 1915</date></correspAction><correspAction type="received"><persName ref="#pmb10992">Brandes, Georg</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10992">Brandes, Georg</ref><ref subtype="previous_letter" type="withinCollection" target="L02223">Brandes an Schnitzler, 13. 12. 1915</ref><ref subtype="next_letter" type="withinCollection" target="L02225">Hofmannsthal, Hofmannsthal an Schnitzler, Schnitzler, 5. 5. [1916?]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02223">Brandes an Schnitzler, 13. 12. 1915</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02274">Brandes an Schnitzler, 28. 9. 1917</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2018-08-02">Angelegt aus OCR-Scan des Faksimiles</change>
-         <change who="MAM" when="2018-02-14">Index check</change>
-         <change who="GHS" when="2019-08-17">facs aktualisiert, korrigiert, finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="Georg_Brandes_arkiv_176"/>
-      <graphic url="Georg_Brandes_arkiv_177"/>
-      <graphic url="Georg_Brandes_arkiv_178"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <pb facs="Georg_Brandes_arkiv_176"/>
-                  <hi rend="pre-print">Dr. Arthur Schnitzler</hi>
-                  <lb/>
-                  <hi rend="pre-print">
-                     <rs ref="#150" type="place">Wien XVIII. Sternwartestrasse 71</rs>
-                  </hi>
-               </p>
-               <dateline rend="right">
-                  <date>22. 12. 1915</date>. </dateline>
-               <salute rend="center">Lieber und verehrter Freund.</salute>
-            </opener>
-            <p>Herzlichsten Dank für Ihre rasche Antwort<add place="inline">,</add> und zugleich
-                    eine Aufklärung. Es ist mir gar nicht eingefallen eine <add place="inline">»</add>Anspielung<add place="inline">«</add> zu machen, d<subst>
-                  <del rend="overwritten">a</del>
-                  <add place="inline">e</add>
-               </subst>nn das, worauf ich Ihrer Meinung nach angespielt habe, ist mir bis zum
-                    Eintreffen Ihres Briefes total unbekannt geblieben. Wenn ich diesen richtig
-                    verstanden habe, hat man Ihnen offenbar Aeusserungen in den Mund gelegt, die Sie
-                    niemals getan haben. Mir ist gleich zu Anfang des Krieges ganz Aehnliches
-                    passiert. Von Freunden in <rs ref="#34438" type="place">Russland</rs> wurde ich
-                    in Kenntnis gesetzt, es sei in dortigen Zeitungen ein <rs ref="#32959" type="work" subtype="implied">Interview</rs> erschienenen, in dem ich irgend
-                    einem <rs type="person" ref="#27739" subtype="implied">Journalisten</rs>
-                    gegenüber die albernsten Dinge über <rs ref="#3739" type="person">Tolstoi</rs>,
-                        <rs ref="#4279" type="person">Anatole France</rs>, <rs ref="#2412" type="person">Shakespeare</rs> und <rs ref="#12156" type="person">Maeterlin<add place="inline">c</add>k</rs> geäussert hätte. Man riet
-                    mir dringend etwas dagegen zu unternehmen (was ich anfangs nicht wollte), weil
-                    man in <rs ref="#34438" type="place">Russland</rs> all diesen Unsinn glaubte.
-                    Durch Vermittlung <rs ref="#12543" type="person">Romain Rollands</rs> liess ich
-                    nun in <rs ref="#43435" type="place">Schweiz</rs>er Blättern eine Entgegnung
-                        erschei<pb facs="Georg_Brandes_arkiv_177"/>nen, in der ich versicherte, dass
-                    ich niemals ein Wort von all dem Widersinn geäussert und bald darauf stellte
-                    sich das Ganze auch als die <anchor xml:id="K_L02224_1" type="commentary"/>Mystifikation<note xml:id="K_L02224_1h" type="commentary">nicht
-                        ermittelt</note> irgend eines <rs ref="#29503" type="org" subtype="implied">russischen Winkelblattes</rs> heraus. Hingegen wurde ich von gewissen <rs ref="#151" type="place">deutschen</rs> und <rs ref="#41240" type="place">österreichischen</rs>, selbstverständlich antisemitischen Blättern in der
-                    blödesten Weise angegriffen, weil ich es für notwendig gefunden hatte jene
-                    erlogenen Aeusserungen über die feindesländischen Dichter richtig zu stellen.
-                    Und noch bei Gelegenheit meiner letzten <anchor xml:id="K_L02224_2" type="commentary"/>
-               <rs ref="#30717" type="work" subtype="implied">Premiere</rs>
-               <note xml:id="K_L02224_2h" type="commentary">
-                  <rs ref="#30717" type="work">Komödie der Worte</rs>, Uraufführung am
-                            <date>12. 10. 1915</date>.</note> bekam ich es in irgend einem solchen,
-                    sich patr<add place="above">i</add>otisch gebärdenden Journal zu lesen, dass mir
-                    das Organ für diese Zeit fehle, wie ich ja schon zu Beginn des Krieges
-                    (wörtlich) »<rs ref="#33265" type="work" subtype="implied">
-                  <anchor xml:id="K_L02224_3" type="commentary"/>Torheiten über unsere
-                            Feinde<note xml:id="K_L02224_3h" type="commentary">
-                     <bibl>[O. V.:] <rs ref="#33265" type="work">Komödie der Worte</rs>. In:
-                                    <rs ref="#41572" type="work">Deutsche Tageszeitung</rs>, Jg. 22,
-                                Nr. 517, <date>15. 10. 1915</date>, S. 6</bibl>. Als unmittelbare
-                            Quelle bietet sich die – möglicherweise von <rs ref="#5401" type="person">Hans Brecka</rs> gestaltete – Zusammenstellung <rs ref="#33267" type="work">Kampf gegen den Theaterschund und
-                                Bühnenschmutz</rs> (<bibl>[O. V.], in: <rs ref="#42850" type="work">Reichspost</rs>, Jg. 22, Nr. 508, <date>28. 10. 1915</date>,
-                                S. 9</bibl>) an.</note>
-               </rs>« geäussert. Sie können sich also
-                    denken, lieber Freund, dass es mir schon a priori näher liegen müsste <del rend="strikethrough">dergleichen</del> Zeitungsgeschwätz anzuzweifeln als es
-                    auf Treu und Glauben hinzunehmen. Meine von Ihnen missverstandene Bemerkung aber
-                    bezog sich nur auf den Umstand, dass unseres Wissens in den <pb facs="Georg_Brandes_arkiv_178"/>ersten Monaten des Krieges die Presse aller
-                    neutralen Länder ihre Nachrichten – nicht nur über den Krieg selbst, sondern
-                    auch über die <hi rend="underline" n="1">inneren</hi> Zustände <rs ref="#151" type="place">Deutschlands</rs> und <rs ref="#687" type="place">Oesterreich-Ungarns</rs> in reicherem Mass von der Entente als von den
-                    Zentralmächten bezog, sowie ich mich auch gedrängt fühlte <rs ref="#15271" type="person" subtype="implied">Freunde</rs> in <rs ref="#175" type="place">Amerika</rs> in diesem Sinne nach Möglichkeit aufzuklären (was übrigens zur
-                    Folge hatte, dass einer dieser <anchor xml:id="K_L02224_4" type="commentary"/>Privatbriefe<note xml:id="K_L02224_4h" type="commentary">Die ganze
-                        Angelegenheit ausführlicher in <rs ref="#2121" type="person">Schnitzlers</rs> Brief an <rs ref="#15271" type="person">Eugen
-                            Deimel</rs>, <date>25. 11. 1914</date> (<bibl>Heinz P. Adamek: <title level="m">In die Neue Welt… Arthur Schnitzler – Eugen Deimel
-                                Briefwechsel</title>. Wien: <publisher>Holzhausen</publisher>
-                     <space unit="chars" quantity="1"/>
-                     <date>2003</date>, S. 210–211</bibl>).</note> ganz entstellt in ein <rs ref="#29491" type="org" subtype="implied">New-Yorker Blatt</rs> und von dort
-                    wieder <add place="inline">–</add> noch entstellter in deutsche Blätter
-                    überging. Also ich denke wir wissen beide wie viel wir von dem zu halten haben,
-                    was in den Zeitungen steht<subst>
-                  <del rend="overwritten">.</del>
-                  <add place="inline">!</add>
-               </subst>
-               <add place="inline">)</add>
-            </p>
-            <p>Für heute nur so viel; mögen Ihnen die Feiertage lauter Gutes, insbesondere
-                    völlige Genesung bringen und uns allen eine gegründetere Hoffnung auf die
-                    baldige Wiederkehr schönerer Zeiten, als wir sie nach dem augenblicklichen Stand
-                    der Dinge hegen dürfen.</p>
-            <closer>Mit herzlichen Grüssen<lb/>Ihr allezeit freundschaftlich ergebener<lb/>
-               <signed>
-                  <handShift/>Arthur Schnitzler</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-08-02">Angelegt aus OCR-Scan des Faksimiles</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-08-17">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="Georg_Brandes_arkiv_176"/><graphic url="Georg_Brandes_arkiv_177"/><graphic url="Georg_Brandes_arkiv_178"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><pb facs="Georg_Brandes_arkiv_176"/><hi rend="pre-print">Dr. Arthur Schnitzler</hi><lb/><hi rend="pre-print"><rs ref="#pmb150" type="place">Wien XVIII. Sternwartestrasse 71</rs></hi></p><dateline rend="right"><date>22. 12. 1915</date>. </dateline><salute rend="center">Lieber und verehrter Freund.</salute></opener><p>Herzlichsten Dank für Ihre rasche Antwort<add place="inline">,</add> und zugleich eine Aufklärung. Es ist mir gar nicht eingefallen eine <add place="inline">»</add>Anspielung<add place="inline">«</add> zu machen, d<subst><del rend="overwritten">a</del><add place="inline">e</add></subst>nn das, worauf ich Ihrer Meinung nach angespielt habe, ist mir bis zum Eintreffen Ihres Briefes total unbekannt geblieben. Wenn ich diesen richtig verstanden habe, hat man Ihnen offenbar Aeusserungen in den Mund gelegt, die Sie niemals getan haben. Mir ist gleich zu Anfang des Krieges ganz Aehnliches passiert. Von Freunden in <rs ref="#pmb34438" type="place">Russland</rs> wurde ich in Kenntnis gesetzt, es sei in dortigen Zeitungen ein <rs ref="#pmb32959" type="work" subtype="implied">Interview</rs> erschienenen, in dem ich irgend einem <rs type="person" ref="#pmb27739" subtype="implied">Journalisten</rs> gegenüber die albernsten Dinge über <rs ref="#pmb3739" type="person">Tolstoi</rs>, <rs ref="#pmb4279" type="person">Anatole France</rs>, <rs ref="#pmb2412" type="person">Shakespeare</rs> und <rs ref="#pmb12156" type="person">Maeterlin<add place="inline">c</add>k</rs> geäussert hätte. Man riet mir dringend etwas dagegen zu unternehmen (was ich anfangs nicht wollte), weil man in <rs ref="#pmb34438" type="place">Russland</rs> all diesen Unsinn glaubte. Durch Vermittlung <rs ref="#pmb12543" type="person">Romain Rollands</rs> liess ich nun in <rs ref="#pmb43435" type="place">Schweiz</rs>er Blättern eine Entgegnung erschei<pb facs="Georg_Brandes_arkiv_177"/>nen, in der ich versicherte, dass ich niemals ein Wort von all dem Widersinn geäussert und bald darauf stellte sich das Ganze auch als die <anchor xml:id="K_L02224_1" type="commentary"/>Mystifikation<note xml:id="K_L02224_1h" type="commentary">nicht ermittelt</note> irgend eines <rs ref="#pmb29503" type="org" subtype="implied">russischen Winkelblattes</rs> heraus. Hingegen wurde ich von gewissen <rs ref="#pmb151" type="place">deutschen</rs> und <rs ref="#pmb41240" type="place">österreichischen</rs>, selbstverständlich antisemitischen Blättern in der blödesten Weise angegriffen, weil ich es für notwendig gefunden hatte jene erlogenen Aeusserungen über die feindesländischen Dichter richtig zu stellen. Und noch bei Gelegenheit meiner letzten <anchor xml:id="K_L02224_2" type="commentary"/><rs ref="#pmb30717" type="work" subtype="implied">Premiere</rs><note xml:id="K_L02224_2h" type="commentary"><rs ref="#pmb30717" type="work">Komödie der Worte</rs>, Uraufführung am <date>12. 10. 1915</date>.</note> bekam ich es in irgend einem solchen, sich patr<add place="above">i</add>otisch gebärdenden Journal zu lesen, dass mir das Organ für diese Zeit fehle, wie ich ja schon zu Beginn des Krieges (wörtlich) »<rs ref="#pmb33265" type="work" subtype="implied"><anchor xml:id="K_L02224_3" type="commentary"/>Torheiten über unsere Feinde<note xml:id="K_L02224_3h" type="commentary"><bibl>[O. V.:] <rs ref="#pmb33265" type="work">Komödie der Worte</rs>. In: <rs ref="#pmb41572" type="work">Deutsche Tageszeitung</rs>, Jg. 22, Nr. 517, <date>15. 10. 1915</date>, S. 6</bibl>. Als unmittelbare Quelle bietet sich die – möglicherweise von <rs ref="#pmb5401" type="person">Hans Brecka</rs> gestaltete – Zusammenstellung <rs ref="#pmb33267" type="work">Kampf gegen den Theaterschund und Bühnenschmutz</rs> (<bibl>[O. V.], in: <rs ref="#pmb42850" type="work">Reichspost</rs>, Jg. 22, Nr. 508, <date>28. 10. 1915</date>, S. 9</bibl>) an.</note></rs>« geäussert. Sie können sich also denken, lieber Freund, dass es mir schon a priori näher liegen müsste <del rend="strikethrough">dergleichen</del> Zeitungsgeschwätz anzuzweifeln als es auf Treu und Glauben hinzunehmen. Meine von Ihnen missverstandene Bemerkung aber bezog sich nur auf den Umstand, dass unseres Wissens in den <pb facs="Georg_Brandes_arkiv_178"/>ersten Monaten des Krieges die Presse aller neutralen Länder ihre Nachrichten – nicht nur über den Krieg selbst, sondern auch über die <hi rend="underline" n="1">inneren</hi> Zustände <rs ref="#pmb151" type="place">Deutschlands</rs> und <rs ref="#pmb687" type="place">Oesterreich-Ungarns</rs> in reicherem Mass von der Entente als von den Zentralmächten bezog, sowie ich mich auch gedrängt fühlte <rs ref="#pmb15271" type="person" subtype="implied">Freunde</rs> in <rs ref="#pmb175" type="place">Amerika</rs> in diesem Sinne nach Möglichkeit aufzuklären (was übrigens zur Folge hatte, dass einer dieser <anchor xml:id="K_L02224_4" type="commentary"/>Privatbriefe<note xml:id="K_L02224_4h" type="commentary">Die ganze Angelegenheit ausführlicher in <rs ref="#pmb2121" type="person">Schnitzlers</rs> Brief an <rs ref="#pmb15271" type="person">Eugen Deimel</rs>, <date>25. 11. 1914</date> (<bibl>Heinz P. Adamek: <title level="m">In die Neue Welt… Arthur Schnitzler – Eugen Deimel Briefwechsel</title>. Wien: <publisher>Holzhausen</publisher><space unit="chars" quantity="1"/><date>2003</date>, S. 210–211</bibl>).</note> ganz entstellt in ein <rs ref="#pmb29491" type="org" subtype="implied">New-Yorker Blatt</rs> und von dort wieder <add place="inline">–</add> noch entstellter in deutsche Blätter überging. Also ich denke wir wissen beide wie viel wir von dem zu halten haben, was in den Zeitungen steht<subst><del rend="overwritten">.</del><add place="inline">!</add></subst><add place="inline">)</add></p><p>Für heute nur so viel; mögen Ihnen die Feiertage lauter Gutes, insbesondere völlige Genesung bringen und uns allen eine gegründetere Hoffnung auf die baldige Wiederkehr schönerer Zeiten, als wir sie nach dem augenblicklichen Stand der Dinge hegen dürfen.</p><closer>Mit herzlichen Grüssen<lb/>Ihr allezeit freundschaftlich ergebener<lb/><signed><handShift/>Arthur Schnitzler</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10992">
+                  <tei:persName>
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:death>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514326/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13920</idno>
+               </person><person xml:id="pmb27739">
+                  <tei:persName>
+                     <tei:surname>?? [Journalist]</tei:surname>
+                     <tei:forename/>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1914-07-02">1914</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1914-07-02">1914</tei:date>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+               </person><person xml:id="pmb3739">
+                  <tei:persName>
+                     <tei:surname>Tolstoi</tei:surname>
+                     <tei:forename>Leo N. von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1828-09-28">28. 9. 1828</tei:date>
+                     <tei:placeName ref="#pmb59327">Yasnaya Polyana</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1910-11-07">7. 11. 1910</tei:date>
+                     <tei:placeName ref="#pmb59329">Lev Tolstoy</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11864291X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20772</idno>
+               </person><person xml:id="pmb4279">
+                  <tei:persName>
+                     <tei:surname>France</tei:surname>
+                     <tei:forename>Anatole</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1844-04-16">16. 4. 1844</tei:date>
+                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1924-10-12">12. 10. 1924</tei:date>
+                     <tei:placeName ref="#pmb55966">Saint-Cyr-sur-Loire</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118692445/</idno>
+               </person><person xml:id="pmb2412">
+                  <tei:persName>
+                     <tei:surname>Shakespeare</tei:surname>
+                     <tei:forename>William</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1564-04-23">23.4.1564?</tei:date>
+                     <tei:placeName ref="#pmb49870">Stratford-upon-Avon</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1616-05-03">3. 5. 1616</tei:date>
+                     <tei:placeName ref="#pmb49870">Stratford-upon-Avon</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118613723/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20078</idno>
+               </person><person xml:id="pmb12156">
+                  <tei:persName>
+                     <tei:surname>Maeterlinck</tei:surname>
+                     <tei:forename>Maurice</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-08-29">29. 8. 1862</tei:date>
+                     <tei:placeName ref="#pmb58674">Ghent</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1949-05-06">6. 5. 1949</tei:date>
+                     <tei:placeName ref="#pmb926">Nizza</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118576089/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17779</idno>
+               </person><person xml:id="pmb12543">
+                  <tei:persName>
+                     <tei:surname>Rolland</tei:surname>
+                     <tei:forename>Romain</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-01-29">29. 1. 1866</tei:date>
+                     <tei:placeName ref="#pmb48686">Clamecy</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1944-12-30">30. 12. 1944</tei:date>
+                     <tei:placeName ref="#pmb58488">Vézelay</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118602330/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19333</idno>
+               </person><person xml:id="pmb5401">
+                  <tei:persName>
+                     <tei:surname>Brecka</tei:surname>
+                     <tei:forename>Hans</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1885-01-02">2. 1. 1885</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1954-10-07">7. 10. 1954</tei:date>
+                     <tei:placeName ref="#pmb56129">Zelking</tei:placeName>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/13011507X/</idno>
+               </person><person xml:id="pmb15271">
+                  <tei:persName>
+                     <tei:surname>Deimel</tei:surname>
+                     <tei:forename>Eugen</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1860-03-01">März 1860</tei:date>
+                     <tei:placeName ref="#pmb15272">Zara?</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1920-03-10">10. 3. 1920</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14386</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb32959">
+                  <tei:author ref="pmb27739" role="author">
+                     <tei:surname>?? [Journalist]</tei:surname>
+                     <tei:forename/>
+                  </tei:author>
+                  <tei:title>?? [Fiktives Interview aus der Kriegszeit]</tei:title>
+                  <tei:date from="1914-11-01" from-custom="November 1914&lt;1914-11-01&gt;">November 1914</tei:date>
+                  <tei:gloss type="w1344">Interview</tei:gloss>
+               </bibl><bibl xml:id="pmb30717">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Komödie der Worte. Drei Einakter</tei:title>
+                  <tei:date from="1915-01-01" from-custom="1915">1915</tei:date>
+                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
+                  <tei:note>8142</tei:note>
+               </bibl><bibl xml:id="pmb33265">
+                  <tei:title>Komödie der Worte</tei:title>
+                  <tei:date when="1915-10-15" when-custom="15.10.1915">15. 10. 1915</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>3352</tei:note>
+               </bibl><bibl xml:id="pmb41572">
+                  <tei:title>Deutsche Tageszeitung</tei:title>
+                  <tei:date from="1894-09-01" from-custom="1.9.1894" to="1934-01-01" to-custom="1934">1. 9. 1894–1934</tei:date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+               </bibl><bibl xml:id="pmb33267">
+                  <tei:title>Kampf gegen den Theaterschund und Bühnenschmutz</tei:title>
+                  <tei:date from="1915-10-28" from-custom="28.10.1915">28. 10. 1915</tei:date>
+                  <tei:gloss type="w1055">Text</tei:gloss>
+                  <tei:note>3353</tei:note>
+                  <tei:note>6119</tei:note>
+               </bibl><bibl xml:id="pmb42850">
+                  <tei:author ref="pmb53731" role="editor">
+                     <tei:surname>Funder</tei:surname>
+                     <tei:forename>Friedrich</tei:forename>
+                     <tei:term>[Herausgeber*in]</tei:term>
+                  </tei:author>
+                  <tei:title>Reichspost</tei:title>
+                  <tei:date from="1893-01-01" from-custom="1893" to="1938-01-01" to-custom="1938">1893–1938</tei:date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <tei:note>6118</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb150">
+                  <tei:placeName>Sternwartestraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb34438">
+                  <tei:placeName>Russland</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">60.0 100.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2017370/</idno>
+               </place><place xml:id="pmb43435">
+                  <tei:placeName>Schweiz</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.00016 8.01427</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2658434/</idno>
+               </place><place xml:id="pmb151">
+                  <tei:placeName>Deutschland</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.5 10.5</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2921044/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q183/</idno>
+               </place><place xml:id="pmb41240">
+                  <tei:placeName>Österreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb687">
+                  <tei:placeName>Österreich-Ungarn</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.4054 16.4887</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q28513/</idno>
+               </place><place xml:id="pmb175">
+                  <tei:placeName>Amerika</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">32.530833 -117.02</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/6255149/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29503">
+                  <tei:orgName>[Russische Zeitschrift, in der 1914 gefälschtes Interview  von Schnitzler erschien]</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb433">
+                     <tei:placeName>Sankt Petersburg</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">59.93863 30.31413</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb29491">
+                  <tei:orgName>New Yorker Staatszeitung</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb44053">
+                     <tei:placeName>New York City</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">40.71427 -74.00597</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

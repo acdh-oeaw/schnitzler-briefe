@@ -1,239 +1,179 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01272"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Hermann Bahr an Arthur Schnitzler, 22. 2. 1903</title>
-            <author ref="#10815">Bahr, Hermann</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L01272</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01272" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hermann Bahr an Arthur Schnitzler, 22. 2. 1903</title><author ref="#pmb10815">Bahr, Hermann</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L01272</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 5b</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="kartenbrief"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#63">Wien 13/7</placeName>
-                                    <date when="1902-02-23">23. 2. 02</date>
-                                    <time>10–11 V</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="2">
-                                    <date when="1902-02-24">24<supplied>.</supplied> 2. 03</date>
-                                    <time>12 ¼ – 1½ N</time>
-                                    <addSpan>Bestellt vom Postamte 9</addSpan>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit Bleistift die Jahreszahl ergänzt: »<quote>
-                                    <date>903</date>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>93</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">248</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10815">Bahr, Hermann</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1903-02-22" n="01">22. 2. 1903</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#168">Berlin</placeName>
-               <date when="1902-02-24">24. 2. 1903</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01271">Schnitzler an
-                  Beer-Hofmann, 20. 2. 1903</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01273">Schnitzler an
-                  Beer-Hofmann, 27. 2. 1903</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L01270">Schnitzler
-                  an Bahr, 20. 2. 1903</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01276">Bahr an
-                  Schnitzler, 15. 3. 1903</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7018-9</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 5b</idno></msIdentifier><physDesc><objectDesc><desc type="kartenbrief"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb63">Wien 13/7</placeName><date when="1902-02-23">23. 2. 02</date><time>10–11 V</time></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><date when="1902-02-24">24<supplied>.</supplied> 2. 03</date><time>12 ¼ – 1½ N</time><addSpan>Bestellt vom Postamte 9</addSpan></stamp></desc></incident><incident type="receiver"><desc>mit Bleistift die Jahreszahl ergänzt: »<quote><date>903</date></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>93</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">248</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName><date when="1903-02-22" n="01">22. 2. 1903</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb168">Berlin</placeName><date when="1902-02-24">24. 2. 1903</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01271">Schnitzler an
+                  Beer-Hofmann, 20. 2. 1903</ref><ref subtype="next_letter" type="withinCollection" target="L01273">Schnitzler an
+                  Beer-Hofmann, 27. 2. 1903</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01270">Schnitzler
+                  an Bahr, 20. 2. 1903</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01276">Bahr an
+                  Schnitzler, 15. 3. 1903</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-12-10">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-29">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="GHS" when="2020-01-12">finalisiert</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-B-00005-B-000-00161"/>
-      <graphic url="MS-B-00005-B-000-00162"/>
-   </facsimile>
-   <text type="letter-card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="MS-B-00005-B-000-00162"/>Herrn <hi rend="latintype">D<hi
-                        rend="superscript">r</hi> Arthur Schnitzler</hi>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#168" type="place">
-                     <hi rend="latintype">Berlin</hi>
-                  </rs>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#88" type="place">
-                     <hi rend="latintype">Palasthotel</hi>
-                  </rs>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="MS-B-00005-B-000-00161"/>
-                  <date>22/2</date>
-               </dateline>
-               <salute>Lieber Arthur!</salute>
-            </opener>
-            <p>Ich hätte Dir ſo viel zu ſagen, ſo viel zu danken – da ich wirklich das Gefühl habe,
-               wenn Du mich nicht zu Deinem <rs type="person" ref="#12698" subtype="implied"
-                  >Bruder</rs> geſchickt hätteſt, verloren geweſen zu ſein, und da mich auch Deine
-               Theilnahme an meiner Krankheit ſehr gerührt hat – aber ich kanns nicht, da ich noch
-               immer ſo hin und ſo grenzenlos müd bin, daß ich, wenn <add place="above">ich</add>
-               ein paar Zeilen kritzle, gleich ganz in Schweiß gebadet bin. Sonſt geht es mir, bis
-               auf die leichte Bauchdeckeneiterung, die immer noch andauert, ganz gut. Aber ich
-               erwarte immer noch die berühmte <anchor xml:id="K_L01272_1" type="commentary"/>
-               <rs type="work" ref="#30805" subtype="implied">Stimmung der Geneſung</rs>
-               <note xml:id="K_L01272_1h" type="commentary">Anspielung auf <rs ref="#12968"
-                     type="person">Siegfried Trebitsch</rs>s Roman <rs ref="#30805" type="work">Genesung</rs>
-                     (<bibl>Berlin: <rs ref="#29639" type="org">S. Fischer</rs>
-                     <space unit="chars" quantity="1"/>
-                     <date>1902</date>
-                  </bibl>). <ref type="toLetter" target="L01478"/>.</note>, die der Dichter <rs
-                  ref="#12968" type="person">Trebitſch</rs>
-               <space unit="chars" quantity="1"/>ſo ſchön geſchildert hat.</p>
-            <closer>Mit Grüßen an <rs ref="#10986" type="person">Brahm</rs> u. alle
-               Bekannten<lb/>herzlichst Dein dankbarer <signed>Herma<damage agent="paperloss">
-                     <supplied>nn</supplied>
-                  </damage>
-               </signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-12-10">Kollationiert</change><change who="KI MAM" when="2017-05-29">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-01-12">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-B-00005-B-000-00161"/><graphic url="MS-B-00005-B-000-00162"/></facsimile><text type="letter-card"><body><div type="address"><address><addrLine><pb facs="MS-B-00005-B-000-00162"/>Herrn <hi rend="latintype">D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></addrLine><addrLine><rs ref="#pmb168" type="place"><hi rend="latintype">Berlin</hi></rs></addrLine><addrLine><rs ref="#pmb88" type="place"><hi rend="latintype">Palasthotel</hi></rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-B-00005-B-000-00161"/><date>22/2</date></dateline><salute>Lieber Arthur!</salute></opener><p>Ich hätte Dir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o viel zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o viel zu danken – da ich wirklich das Gefühl habe, wenn Du mich nicht zu Deinem <rs type="person" ref="#pmb12698" subtype="implied">Bruder</rs> ge<c rendition="#langesS">s</c>chickt hätte<c rendition="#langesS">s</c>t, verloren gewe<c rendition="#langesS">s</c>en zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, und da mich auch Deine Theilnahme an meiner Krankheit<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr gerührt hat – aber ich kanns nicht, da ich noch immer<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o hin und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o grenzenlos müd bin, daß ich, wenn <add place="above">ich</add> ein paar Zeilen kritzle, gleich ganz in Schweiß gebadet bin. Son<c rendition="#langesS">s</c>t geht es mir, bis auf die leichte Bauchdeckeneiterung, die immer noch andauert, ganz gut. Aber ich erwarte immer noch die berühmte <anchor xml:id="K_L01272_1" type="commentary"/><rs type="work" ref="#pmb30805" subtype="implied">Stimmung der Gene<c rendition="#langesS">s</c>ung</rs><note xml:id="K_L01272_1h" type="commentary">Anspielung auf <rs ref="#pmb12968" type="person">Siegfried Trebitsch</rs>s Roman <rs ref="#pmb30805" type="work">Genesung</rs> (<bibl>Berlin: <rs ref="#pmb29639" type="org">S. Fischer</rs><space unit="chars" quantity="1"/><date>1902</date></bibl>). <ref target="L01478.xml" type="toLetter"><title>Hermann Bahr an Arthur Schnitzler, 14. 12. 1904</title><date when="1904-12-14">14. 12. 1904</date></ref>.</note>, die der Dichter <rs ref="#pmb12968" type="person">Trebit<c rendition="#langesS">s</c>ch</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön ge<c rendition="#langesS">s</c>childert hat.</p><closer>Mit Grüßen an <rs ref="#pmb10986" type="person">Brahm</rs> u. alle Bekannten<lb/>herzlichst Dein dankbarer <signed>Herma<damage agent="paperloss"><supplied>nn</supplied></damage></signed></closer></div></body><back><listPerson><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12698">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Julius</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1865-07-13">13. 7. 1865</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-06-29">29. 6. 1939</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="364">Chirurg*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848693/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19827</idno>
+               </person><person xml:id="pmb12968">
+                  <tei:persName>
+                     <tei:surname>Trebitsch</tei:surname>
+                     <tei:forename>Siegfried</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1868-12-22">22. 12. 1868</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1956-06-03">3. 6. 1956</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="116">Übersetzer*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118840150/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20796</idno>
+               </person><person xml:id="pmb10986">
+                  <tei:persName>
+                     <tei:surname>Brahm</tei:surname>
+                     <tei:forename>Otto</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1856-02-05">5. 2. 1856</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1912-11-28">28. 11. 1912</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514245/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13913</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30805">
+                  <tei:author ref="pmb12968" role="author">
+                     <tei:surname>Trebitsch</tei:surname>
+                     <tei:forename>Siegfried</tei:forename>
+                  </tei:author>
+                  <tei:title>Genesung. Roman</tei:title>
+                  <tei:date from="1902-01-01" from-custom="1902">1902</tei:date>
+                  <tei:gloss type="w1060">Roman</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb63">
+                  <tei:placeName>XIII., Hietzing</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.17547 16.29101</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2776420/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb88">
+                  <tei:placeName>Palasthotel Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1893-07-02" from-custom="1893-07-02" to="1936-07-01" to-custom="1936-07-01">1893–1936</tei:date>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.509241 13.376984</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb29639">
+                  <tei:orgName>S. Fischer Verlag</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1886-01-01" from-custom="1886">1886</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb146">
+                     <tei:placeName>Frankfurt am Main</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb659">
+                     <tei:placeName>Bülowstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.49737 13.36385</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

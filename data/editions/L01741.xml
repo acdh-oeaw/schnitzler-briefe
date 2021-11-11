@@ -1,247 +1,182 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01741"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Hermann Bahr, 16. 12. 1907</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L01741</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01741" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, 16. 12. 1907</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L01741</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Theatermuseum</repository>
-                        <idno>HS AM 23388 Ba</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter"/>
-                           <desc n="3" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>Lochung</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="DASB">
-                  <analytic>
-                     <title level="a">16. 12. 1907</title>
-                  </analytic>
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
-                     <editor>Edited, annotated, and with an introduction, by Donald G.
-                        Daviau</editor>
-                     <imprint>
-                        <pubPlace>Chapel Hill</pubPlace>
-                        <publisher>The University of North Carolina Press</publisher>
-                        <date when="1978">1978</date>
-                     </imprint>
-                     <biblScope unit="pp">100</biblScope>
-                  </monogr>
-                  <series>
-                     <title level="s">University of North Carolina studies in the Germanic languages
-                        and literatures</title>
-                     <biblScope unit="nr">89</biblScope>
-                  </series>
-               </biblStruct>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">398</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1907-12-16" n="01">16. 12. 1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10815">Bahr, Hermann</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01740">Blei an
-                  Schnitzler, 12. 12. 1907</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01742">Bahr an
-                  Schnitzler, 18. 12. 1907</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L01721">Schnitzler
-                  an Bahr, 11. 10. 1907</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01742">Bahr an
-                  Schnitzler, 18. 12. 1907</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-71ED-8</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 23388 Ba</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="archival"><desc>Lochung</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="DASB"><analytic><title level="a">16. 12. 1907</title></analytic><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title><editor>Edited, annotated, and with an introduction, by Donald G.
+                        Daviau</editor><imprint><pubPlace>Chapel Hill</pubPlace><publisher>The University of North Carolina Press</publisher><date when="1978">1978</date></imprint><biblScope unit="pp">100</biblScope></monogr><series><title level="s">University of North Carolina studies in the Germanic languages
+                        and literatures</title><biblScope unit="nr">89</biblScope></series></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">398</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1907-12-16" n="01">16. 12. 1907</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01740">Blei an
+                  Schnitzler, 12. 12. 1907</ref><ref subtype="next_letter" type="withinCollection" target="L01742">Bahr an
+                  Schnitzler, 18. 12. 1907</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01721">Schnitzler
+                  an Bahr, 11. 10. 1907</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01742">Bahr an
+                  Schnitzler, 18. 12. 1907</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-10-01">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-09">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-         <change who="GHS" when="2020-03-07">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS_AM23388Ba"/>
-      <graphic url="HS_AM23388Ba_R"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="right">
-                  <pb facs="https://www.theatermuseum.at/de/object/4e265e07d9/"/>
-                  <hi rend="underline" n="2">Vertraulich</hi>
-               </p>
-               <p>
-                  <seg rend="left">
-                     <hi rend="pre-print">Dr. Arthur Schnitzler</hi>
-                  </seg>
-                  <seg rend="right">
-                     <date>16/12 907</date>
-                  </seg>
-               </p>
-               <p>
-                  <hi rend="pre-print">
-                     <rs ref="#133" type="place">Wien XVIII. Spoettelgasse 7</rs>.</hi>
-               </p>
-               <salute>lieber Hermann,</salute>
-            </opener>
-            <p>ich weiss nicht, ob du noch <anchor xml:id="K_L01741_1" type="commentary"/>in <rs
-                  ref="#50" type="place">Wien</rs>
-               <note xml:id="K_L01741_1h" type="commentary">
-                  <rs ref="#10815" type="person">Bahr</rs> war nicht mehr in <rs ref="#168"
-                     type="place">Berlin</rs>, doch möglicherweise auf dem <rs ref="#189"
-                     type="place">Semmering</rs>.</note> bist – schreibe dir jedenfalls an deine <rs
-                  ref="#50" type="place">Wr</rs> Adresse, aufsuchen kö<c rendition="#gemination-n"
-               />t ich dich keineswegs, weil meine <rs type="person" ref="#2173" subtype="implied"
-                  >Frau</rs> sich eben in Reconvalescenz von einem Scharlach befindet – (doch schon
-               gekräftigt genug, um dich herzlich zu grüßen und dir mit mir zu dem <anchor
-                  xml:id="K_L01741_2" type="commentary"/>
-               <rs type="work" ref="#30021" subtype="implied">nachtigalligen Erfolg</rs>
-               <note xml:id="K_L01741_2h" type="commentary">Uraufführung von <rs ref="#30021"
-                     type="work">Die gelbe Nachtigall</rs> am <date>10. 12. 1907</date> am <rs
-                     ref="#3" type="place">Deutschen Theater</rs></note> schönstens zu gratuliren)
-               – Also <hi rend="underline" n="2">unter uns</hi>
-               <space unit="chars" quantity="1"/>
-               <pb facs="https://www.theatermuseum.at/de/object/4e265e07d9/"/>formeller Antrag des
-                  <rs ref="#13" type="place">Hebbeltheater</rs> liegt mir vor: <rs ref="#29857"
-                  type="work">Beatrice</rs> nächste Saison, <rs ref="#2303" type="person"
-                  >Ritscher</rs> als <rs type="work" ref="#29857" subtype="implied">Beatrice</rs>.
-               Meine Frage an dich: hältst dus 1) für wahrscheinlich, dass <rs ref="#12504"
-                  type="person">Reinhardt</rs> auf die <rs ref="#29857" type="work">Beatrice</rs>
-                  reflectirt<del rend="strikethrough">e</del>? 2) hältst du, im Jafalle <rs ref="#3"
-                  type="place">Deutsches Theater</rs> für praktischer als <del rend="strikethrough"
-                  >für</del>
-               <space unit="chars" quantity="1"/>
-               <rs ref="#13" type="place">Hebbeltheater</rs>? 3) Zu welcher Zeit wäre <rs
-                  ref="#12504" type="person">Reinhardt</rs> zu einer fixen Entscheidg zu
-                  veranlassen?<del rend="strikethrough">)</del>
-            </p>
-            <p>
-               <pb facs="https://www.theatermuseum.at/de/object/4e265e07d9/"/>– Du bist nicht böse,
-               wenn ich dich nochmals um vollkommen <hi rend="underline" n="1">vertrauliche</hi>
-               Behandlg der Angelegenheit ersuche.</p>
-            <closer>herzlichst der Deine,<lb/>
-               <signed>Arthur</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-09">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-03-07">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23388Ba"/><graphic url="HS_AM23388Ba_R"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p rend="right"><pb facs="https://www.theatermuseum.at/de/object/4e265e07d9/"/><hi rend="underline" n="2">Vertraulich</hi></p><p><seg rend="left"><hi rend="pre-print">Dr. Arthur Schnitzler</hi></seg><seg rend="right"><date>16/12 907</date></seg></p><p><hi rend="pre-print"><rs ref="#pmb133" type="place">Wien XVIII. Spoettelgasse 7</rs>.</hi></p><salute>lieber Hermann,</salute></opener><p>ich weiss nicht, ob du noch <anchor xml:id="K_L01741_1" type="commentary"/>in <rs ref="#pmb50" type="place">Wien</rs><note xml:id="K_L01741_1h" type="commentary"><rs ref="#pmb10815" type="person">Bahr</rs> war nicht mehr in <rs ref="#pmb168" type="place">Berlin</rs>, doch möglicherweise auf dem <rs ref="#pmb189" type="place">Semmering</rs>.</note> bist – schreibe dir jedenfalls an deine <rs ref="#pmb50" type="place">Wr</rs> Adresse, aufsuchen kö<c rendition="#gemination-n"/>t ich dich keineswegs, weil meine <rs type="person" ref="#pmb2173" subtype="implied">Frau</rs> sich eben in Reconvalescenz von einem Scharlach befindet – (doch schon gekräftigt genug, um dich herzlich zu grüßen und dir mit mir zu dem <anchor xml:id="K_L01741_2" type="commentary"/><rs type="work" ref="#pmb30021" subtype="implied">nachtigalligen Erfolg</rs><note xml:id="K_L01741_2h" type="commentary">Uraufführung von <rs ref="#pmb30021" type="work">Die gelbe Nachtigall</rs> am <date>10. 12. 1907</date> am <rs ref="#pmb3" type="place">Deutschen Theater</rs></note> schönstens zu gratuliren) – Also <hi rend="underline" n="2">unter uns</hi><space unit="chars" quantity="1"/><pb facs="https://www.theatermuseum.at/de/object/4e265e07d9/"/>formeller Antrag des <rs ref="#pmb13" type="place">Hebbeltheater</rs> liegt mir vor: <rs ref="#pmb29857" type="work">Beatrice</rs> nächste Saison, <rs ref="#pmb2303" type="person">Ritscher</rs> als <rs type="work" ref="#pmb29857" subtype="implied">Beatrice</rs>. Meine Frage an dich: hältst dus 1) für wahrscheinlich, dass <rs ref="#pmb12504" type="person">Reinhardt</rs> auf die <rs ref="#pmb29857" type="work">Beatrice</rs> reflectirt<del rend="strikethrough">e</del>? 2) hältst du, im Jafalle <rs ref="#pmb3" type="place">Deutsches Theater</rs> für praktischer als <del rend="strikethrough">für</del><space unit="chars" quantity="1"/><rs ref="#pmb13" type="place">Hebbeltheater</rs>? 3) Zu welcher Zeit wäre <rs ref="#pmb12504" type="person">Reinhardt</rs> zu einer fixen Entscheidg zu veranlassen?<del rend="strikethrough">)</del></p><p><pb facs="https://www.theatermuseum.at/de/object/4e265e07d9/"/>– Du bist nicht böse, wenn ich dich nochmals um vollkommen <hi rend="underline" n="1">vertrauliche</hi> Behandlg der Angelegenheit ersuche.</p><closer>herzlichst der Deine,<lb/><signed>Arthur</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb2303">
+                  <tei:persName>
+                     <tei:surname>Ritscher</tei:surname>
+                     <tei:forename>Helene</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1888-07-01">1888</tei:date>
+                     <tei:placeName ref="#pmb49163">Eisenstadt</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1964-11-27">27. 11. 1964</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:death>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1025099605/</idno>
+               </person><person xml:id="pmb12504">
+                  <tei:persName>
+                     <tei:surname>Reinhardt</tei:surname>
+                     <tei:forename>Max</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1873-09-09">9. 9. 1873</tei:date>
+                     <tei:placeName ref="#pmb662">Baden bei Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1943-10-30">30. 10. 1943</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118599380/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19154</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30021">
+                  <tei:author ref="pmb10815" role="author">
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:author>
+                  <tei:title>Die gelbe Nachtigall</tei:title>
+                  <tei:date from="1907-01-01" from-custom="1907">1907</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb29857">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Schleier der Beatrice. Schauspiel in fünf Akten</tei:title>
+                  <tei:date when="1900-12-01" when-custom="1900-12-01">1. 12. 1900</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>6201</tei:note>
+                  <tei:note>8990</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
+                  <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb189">
+                  <tei:placeName>Semmering</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.64224 15.8241</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/7873001/</idno>
+               </place><place xml:id="pmb3">
+                  <tei:placeName>Deutsches Theater Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i4">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.524444 13.382222</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q703955/</idno>
+               </place><place xml:id="pmb13">
+                  <tei:placeName>Hebbel-Theater</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1908-07-01" from-custom="1908-07-01">1. 7. 1908</tei:date>
+                     <tei:gloss ana="i4">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.500042 13.387328</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1592692/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

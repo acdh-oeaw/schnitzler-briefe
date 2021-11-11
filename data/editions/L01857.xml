@@ -1,264 +1,248 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01857"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Albert Ehrenstein an Arthur Schnitzler, 13. 7. 1909</title>
-            <author ref="#11230">Ehrenstein, Albert</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01857</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01857" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Albert Ehrenstein an Arthur Schnitzler, 13. 7. 1909</title><author ref="#pmb11230">Ehrenstein, Albert</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01857</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 30</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="4" type="_blaetter"/>
-                           <desc n="4" type="_seiten">Paginierung</desc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift beschriftet: »<quote>
-                                    <hi rend="latintype">Ehrenstein</hi>
-                                 </quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct>
-                  <monogr>
-                     <author ref="#11230">Ehrenstein, Albert</author>
-                     <title level="m">Briefe</title>
-                     <editor>Hg. Hanni Mittelmann</editor>
-                     <imprint>
-                        <date when="1989">1989</date>
-                        <pubPlace>München</pubPlace>
-                        <publisher>Boer</publisher>
-                     </imprint>
-                     <biblScope unit="pp">29–31</biblScope>
-                  </monogr>
-                  <series>
-                     <title level="s">Werke</title>
-                     <biblScope unit="vol">1</biblScope>
-                  </series>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11230">Ehrenstein, Albert</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1909-07-13" n="01">13. 7. 1909</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11230">Ehrenstein, Albert</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01856">Burckhard an Schnitzler, 12. 7. 1909</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01858">Schnitzler an Beer-Hofmann, 18. 7. 1909</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01854">Schnitzler an Ehrenstein, 7. 7. 1909</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01859">Schnitzler an Ehrenstein, 24. 7. 1909</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                            Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7261-4</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 30</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="4" type="_blaetter"/><desc n="4" type="_seiten">Paginierung</desc></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Ehrenstein</hi></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct><monogr><author ref="#pmb11230">Ehrenstein, Albert</author><title level="m">Briefe</title><editor>Hg. Hanni Mittelmann</editor><imprint><date when="1989">1989</date><pubPlace>München</pubPlace><publisher>Boer</publisher></imprint><biblScope unit="pp">29–31</biblScope></monogr><series><title level="s">Werke</title><biblScope unit="vol">1</biblScope></series></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11230">Ehrenstein, Albert</persName><placeName ref="#pmb50">Wien</placeName><date when="1909-07-13" n="01">13. 7. 1909</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11230">Ehrenstein, Albert</ref><ref subtype="previous_letter" type="withinCollection" target="L01856">Burckhard an Schnitzler, 12. 7. 1909</ref><ref subtype="next_letter" type="withinCollection" target="L01858">Schnitzler an Beer-Hofmann, 18. 7. 1909</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01854">Schnitzler an Ehrenstein, 7. 7. 1909</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01859">Schnitzler an Ehrenstein, 24. 7. 1909</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2018-10-08">Angelegt</change>
-         <change who="MAM" when="2018-11-05">Durchsicht</change>
-         <change who="MAM" when="2018-11-09">Index check</change>
-         <change who="GHS" when="2020-03-06">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00030-000-00021"/>
-      <graphic url="MS-SCHNITZLER-B-00030-000-00023"/>
-      <graphic url="MS-SCHNITZLER-B-00030-000-00025"/>
-      <graphic url="MS-SCHNITZLER-B-00030-000-00027"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline>
-                  <seg rend="left">
-                     <pb facs="MS-SCHNITZLER-B-00030-000-00021"/>
-                     <rs ref="#300" type="place">
-                        <hi rend="latintype">Wien, XVI. Ottakringerstr.</hi> 114</rs>.</seg>
-                  <seg rend="right">
-                     <date>13. Juli 09</date>.</seg>
-               </dateline>
-               <salute>
-                  <hi rend="latintype">Sehr geehrter Herr Doktor!</hi>
-               </salute>
-            </opener>
-            <p>Ihr freundlicher Brief gab mir gerade jetzt einigen Troſt. Mein <rs type="person" ref="#11349" subtype="implied">Geſchichtsprofeſſor</rs> nämlich, mit einem
-                    ewigen Bronchialkatarrh behaftet und daher außerordentlich ſekant, hat mir die
-                    Ehre erwieſen, mir meine <rs type="work" ref="#33458" subtype="implied">Diſſertation</rs> zur gänzlichen Umarbeitung zurückzugeben. Hätte der gute
-                        <rs type="person" ref="#11349" subtype="implied">Mann</rs> bei dieſer
-                    Abweiſung imponierendes Sachverſtändnis dokumentiert, ſo wäre dawider wohl
-                    nichts einzuwenden geweſen. Aber das war nicht allzuſehr der Fall. Eine
-                    übergroße und malitiöſe Empfindlichkeit modernerem und zugreifenderem Ausdruck
-                    und Satzbau gegenüber verführte ihn ſogar dazu, mir faſt auf jeder Seite Mängel
-                    ſtiliſtiſcher Natur nachweiſen zu wollen. Wozu erſtens der <rs type="person" ref="#11349" subtype="implied">Verfaſſer</rs> des langweiligsten <rs type="work" ref="#33480" subtype="implied">
-                  <rs ref="#4769" type="person">Napoleon</rs>buches</rs> nicht das Recht
-                    hatte, zweitens – und das iſt die komiſche Seite der Affaire – habe ich einem
-                        <rs ref="#644" type="place">galiziſchen</rs>
-               <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#27755" subtype="implied">Kollegen</rs>, der nicht gut
-                    Deutſch kann, ſeine Arbeit durchgeſehen und die gröbſten Verſtöße darin
-                    korrigiert. Bei dem hat der <rs type="person" ref="#11349" subtype="implied">Hofrat</rs> merkwürdigerweiſe wenig Stilwidrigkeiten zu regiſtrieren
-                    gehabt. Warum? Weil ich dem <rs ref="#313" type="place">Polen</rs> den Tric
-                    angeraten hatte, dem <rs type="person" ref="#11349" subtype="implied">Profeſſor</rs> von vornherein weiszumachen, er werde ſeine Diſſertation <rs ref="#313" type="place">polniſch</rs> drucken laſſen. Da begann des <rs type="person" ref="#11349" subtype="implied">Profeſſor</rs>s Eigenliebe und
-                    Nationalgefühl zu funktionieren. Eine aus ſeinem, einem Deutſchen Seminar
-                    hervorgegangene Abhandlung ſollte anderswo, in einer slawiſchen Sprache
-                    erſcheinen? Lieber veranlaßte er – was beabſichtigt war – die Drucklegung des
-                    Manuſkriptes in Deutſcher Sprache, <pb facs="MS-SCHNITZLER-B-00030-000-00023"/>hatte an dem von ihm empfohlenen <rs type="work" ref="#33478" subtype="implied">Werke</rs> (von dem er übrigens auch nicht viel verſteht)
-                    wenig zu bekritteln und prüfte den <rs type="person" ref="#27755" subtype="implied">Polen</rs> nicht, ſondern plauſchte mit ihm beim
-                    Rigoroſum. Unglücklicherweiſe kann ich nicht <rs ref="#35512" type="place">magyariſch</rs> und daher nicht mit dem <rs ref="#35512" type="place">magyariſchen</rs> Erſcheinen meines <rs ref="#35512" type="place">ungariſche</rs> Verhältniſſe gloſſierenden <rs type="work" ref="#33458" subtype="implied">Elaborates</rs> dienen.</p>
-            <p>Obgleich die Umarbeitung nur 3 Wochen in Anſspruch nahm, wurde ich, da es nur
-                    3 Lehramtsprüfungstermine im Jahr gibt und ich einen durch die Nichtannahme
-                    meiner Diſſertation verſäumen mußte, aus meiner Bahn geworfen, ich kann meinen
-                    urſprünglichen Plan nicht ausführen, werde um ein halbes Jahr ſpäter mit dem
-                    lächerlichen Namen- und Zahlenkram fertig werden, und außerdem – ich hatte ſchon
-                        <date>1908</date> keine Ferien – gibt es auch heuer keine Erholung für mich.
-                    Im <date>Oktober</date> wird meine <rs type="work" ref="#33398" subtype="implied">Abhandlung</rs> in ihrer neuen Form zenſiert. Mich noch
-                    weiterhin von dem <rs type="person" ref="#11349" subtype="implied">Profeſſor</rs> wie einen Schuldigen behandeln zu laſſen, habe ich keine
-                    Luſt. Es iſt kaum ein Verbrechen, wenn man ſich einen biſſigen Hofrat mit einem
-                    Stückchen Wurſt vom Leibe hält, ebenſowenig halte ich es für korrupt, im Regen
-                    einen Schirm aufzuſpannen. Aus dieſer Weltanſchauung heraus muß ich es mit
-                    Freude begrüßen, wenn Sie, ſehr geehrter Herr Doktor, die Liebenswürdigkeit
-                    beſäßen, Herrn <rs ref="#10788" type="person">Auernheimer</rs> gegenüber ein
-                    paar Worte über mich fallen zu laſſen. Ich möchte nämlich dann gern <date>Ende
-                        Juli</date> Herrn <rs ref="#10788" type="person">Auernheimer</rs> eine Notiz
-                    über die im Erſcheinen begriffene <rs type="work" ref="#33478" subtype="implied">Diſſertation</rs> jenes <rs ref="#644" type="place">galiziſchen</rs>
-               <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#27755" subtype="implied">Kollegen</rs>
-               <space unit="chars" quantity="1"/>
-               <pb facs="MS-SCHNITZLER-B-00030-000-00025"/>ſowie meinen <rs ref="#33454" type="work">Baber</rs> einſenden. Kurze Kritiken über Belletriſtiker
-                    einſchicken, was mir <rs ref="#10788" type="person">Auernheimer</rs> geſtattete,
-                    mag ich nicht; ich ſehne mich nicht danach, mich mit irgendwelchen Literaten
-                    durch Tauſchhandel zu verfreunden, in meiner gegenwärtigen Stimmung würde ich
-                    übrigens ſelbſt den Herrgott zu diskreditieren verſuchen, und das eine wie das
-                    andere darf doch eigentlich nur einer, der durch eigene Schöpfungen öffentlich
-                    einen gewiſſen Befähigungsnachweis erbracht hat. Die Notiz über die von ihm
-                    empfohlene <rs type="work" ref="#33478" subtype="implied">Diſſertation</rs>
-                    würde den Hiſtoriker umgänglicher machen, der <rs ref="#33454" type="work">Baber</rs> – den ich ſonſt in aller Eile anderweitig unterzubringen das
-                    gefährliche und bei meinem Mangel an Beziehungen auch ausſichtsloſe Wagnis
-                    unternehmen müßte – würde ihm imponieren, den <rs type="person" ref="#5644" subtype="implied">Geographieprofeſſor</rs>, der uns die <rs type="work" ref="#33476" subtype="implied">Memoiren</rs> dieſes <rs type="person" ref="#5647" subtype="implied">Regenten</rs> namhaft machte, freuen. Daher,
-                    um ſozuſagen als Reſpektsperſon wenigſtens Chikanen zu entgehen, wäre es mir
-                    wirklich ſehr angenehm, wenn Herr <rs ref="#10788" type="person">Auernheimer</rs> nicht (wie im <date>Feber</date>) ſich ausſchließlich
-                    darauf beſchränkte, in meinen Manuſkripten hin und wieder einen Beiſtrich
-                    anzubringen, was mich beluſtigte, oder ab und zu ein »Sehr ſchön«
-                    hinzuſchreiben, was mich ärgerte. Heute noch würde es mich freuen und mir in
-                    vieler Beziehung helfen, wenn die <rs ref="#29351" type="org">Preſſe</rs> oder
-                    ſonſt ein Blatt mich lancierte, in ein bis zwei Jahren, wenn ich einen Poſten
-                    habe, wird es mir ſehr gleichgültig ſein, ob mein Name in einer Zeitung ſteht,
-                    oder ob ich ihn mit dem Spazierſtock auf einen in der Sonne zerrinnenden
-                    Schneehaufen ſchreibe. <pb facs="MS-SCHNITZLER-B-00030-000-00027"/>Die Ehre iſt
-                    ſchließlich ſchon jetzt nicht gar ſo überwältigend. Und ſpäter, wenn ich einmal
-                    bekannt ſein werde – ich bin ſchrecklich rachſüchtig – würden die Zeitungen
-                    zunächſt doch nichts anderes von mir bekommen als die von ihnen ſelbſt
-                    abgelehnten Sachen. Den Luxus, derartige Prinzipien <add place="inline">zu</add>
-                    beſitzen zu glauben, kann ich mir ja jetzt noch getroſt geſtatten.</p>
-            <p>Indem ich zwar auf eine gnädige Erfüllung meiner <add place="inline">unbeſcheidenen</add> Wünſche hoffe, nichtsdeſtoweniger auch auf eine
-                    ſtrenge Kritik meiner novelliſtiſchen Taſtverſuche und moraliſchen Grundsätze
-                    gefaßt mache, verbleibe ich hochachtungsvoll</p>
-            <closer>Ihr ergebenſter<lb/>
-               <signed>Albert Ehrenstein.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-10-08">Angelegt</change><change who="MAM" when="2018-11-05">Durchsicht</change><change who="MAM" when="2018-11-09">Index check</change><change who="GHS" when="2020-03-06">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00030-000-00021"/><graphic url="MS-SCHNITZLER-B-00030-000-00023"/><graphic url="MS-SCHNITZLER-B-00030-000-00025"/><graphic url="MS-SCHNITZLER-B-00030-000-00027"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline><seg rend="left"><pb facs="MS-SCHNITZLER-B-00030-000-00021"/><rs ref="#pmb300" type="place"><hi rend="latintype">Wien, XVI. Ottakringerstr.</hi> 114</rs>.</seg><seg rend="right"><date>13. Juli 09</date>.</seg></dateline><salute><hi rend="latintype">Sehr geehrter Herr Doktor!</hi></salute></opener><p>Ihr freundlicher Brief gab mir gerade jetzt einigen Tro<c rendition="#langesS">s</c>t. Mein <rs type="person" ref="#pmb11349" subtype="implied">Ge<c rendition="#langesS">s</c>chichtsprofe<c rendition="#langesS">s</c><c rendition="#langesS">s</c>or</rs> nämlich, mit einem ewigen Bronchialkatarrh behaftet und daher außerordentlich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ekant, hat mir die Ehre erwie<c rendition="#langesS">s</c>en, mir meine <rs type="work" ref="#pmb33458" subtype="implied">Di<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ertation</rs> zur gänzlichen Umarbeitung zurückzugeben. Hätte der gute <rs type="person" ref="#pmb11349" subtype="implied">Mann</rs> bei die<c rendition="#langesS">s</c>er Abwei<c rendition="#langesS">s</c>ung imponierendes Sachver<c rendition="#langesS">s</c>tändnis dokumentiert,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o wäre dawider wohl nichts einzuwenden gewe<c rendition="#langesS">s</c>en. Aber das war nicht allzu<c rendition="#langesS">s</c>ehr der Fall. Eine übergroße und malitiö<c rendition="#langesS">s</c>e Empfindlichkeit modernerem und zugreifenderem Ausdruck und Satzbau gegenüber verführte ihn<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ogar dazu, mir fa<c rendition="#langesS">s</c>t auf jeder Seite Mängel<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tili<c rendition="#langesS">s</c>ti<c rendition="#langesS">s</c>cher Natur nachwei<c rendition="#langesS">s</c>en zu wollen. Wozu er<c rendition="#langesS">s</c>tens der <rs type="person" ref="#pmb11349" subtype="implied">Verfa<c rendition="#langesS">s</c><c rendition="#langesS">s</c>er</rs> des langweiligsten <rs type="work" ref="#pmb33480" subtype="implied"><rs ref="#pmb4769" type="person">Napoleon</rs>buches</rs> nicht das Recht hatte, zweitens – und das i<c rendition="#langesS">s</c>t die komi<c rendition="#langesS">s</c>che Seite der Affaire – habe ich einem <rs ref="#pmb644" type="place">galizi<c rendition="#langesS">s</c>chen</rs><space unit="chars" quantity="1"/><rs type="person" ref="#pmb27755" subtype="implied">Kollegen</rs>, der nicht gut Deut<c rendition="#langesS">s</c>ch kann,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eine Arbeit durchge<c rendition="#langesS">s</c>ehen und die gröb<c rendition="#langesS">s</c>ten Ver<c rendition="#langesS">s</c>töße darin korrigiert. Bei dem hat der <rs type="person" ref="#pmb11349" subtype="implied">Hofrat</rs> merkwürdigerwei<c rendition="#langesS">s</c>e wenig Stilwidrigkeiten zu regi<c rendition="#langesS">s</c>trieren gehabt. Warum? Weil ich dem <rs ref="#pmb313" type="place">Polen</rs> den Tric angeraten hatte, dem <rs type="person" ref="#pmb11349" subtype="implied">Profe<c rendition="#langesS">s</c><c rendition="#langesS">s</c>or</rs> von vornherein weiszumachen, er werde<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eine Di<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ertation <rs ref="#pmb313" type="place">polni<c rendition="#langesS">s</c>ch</rs> drucken la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en. Da begann des <rs type="person" ref="#pmb11349" subtype="implied">Profe<c rendition="#langesS">s</c><c rendition="#langesS">s</c>or</rs>s Eigenliebe und Nationalgefühl zu funktionieren. Eine aus<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>einem, einem Deut<c rendition="#langesS">s</c>chen Seminar hervorgegangene Abhandlung<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ollte anderswo, in einer slawi<c rendition="#langesS">s</c>chen Sprache er<c rendition="#langesS">s</c>cheinen? Lieber veranlaßte er – was beab<c rendition="#langesS">s</c>ichtigt war – die Drucklegung des Manu<c rendition="#langesS">s</c>kriptes in Deut<c rendition="#langesS">s</c>cher Sprache, <pb facs="MS-SCHNITZLER-B-00030-000-00023"/>hatte an dem von ihm empfohlenen <rs type="work" ref="#pmb33478" subtype="implied">Werke</rs> (von dem er übrigens auch nicht viel ver<c rendition="#langesS">s</c>teht) wenig zu bekritteln und prüfte den <rs type="person" ref="#pmb27755" subtype="implied">Polen</rs> nicht,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ondern plau<c rendition="#langesS">s</c>chte mit ihm beim Rigoro<c rendition="#langesS">s</c>um. Unglücklicherwei<c rendition="#langesS">s</c>e kann ich nicht <rs ref="#pmb35512" type="place">magyari<c rendition="#langesS">s</c>ch</rs> und daher nicht mit dem <rs ref="#pmb35512" type="place">magyari<c rendition="#langesS">s</c>chen</rs> Er<c rendition="#langesS">s</c>cheinen meines <rs ref="#pmb35512" type="place">ungari<c rendition="#langesS">s</c>che</rs> Verhältni<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e glo<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ierenden <rs type="work" ref="#pmb33458" subtype="implied">Elaborates</rs> dienen.</p><p>Obgleich die Umarbeitung nur 3 Wochen in An<c rendition="#langesS">s</c>spruch nahm, wurde ich, da es nur 3 Lehramtsprüfungstermine im Jahr gibt und ich einen durch die Nichtannahme meiner Di<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ertation ver<c rendition="#langesS">s</c>äumen mußte, aus meiner Bahn geworfen, ich kann meinen ur<c rendition="#langesS">s</c>prünglichen Plan nicht ausführen, werde um ein halbes Jahr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>päter mit dem lächerlichen Namen- und Zahlenkram fertig werden, und außerdem – ich hatte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon <date>1908</date> keine Ferien – gibt es auch heuer keine Erholung für mich. Im <date>Oktober</date> wird meine <rs type="work" ref="#pmb33398" subtype="implied">Abhandlung</rs> in ihrer neuen Form zen<c rendition="#langesS">s</c>iert. Mich noch weiterhin von dem <rs type="person" ref="#pmb11349" subtype="implied">Profe<c rendition="#langesS">s</c><c rendition="#langesS">s</c>or</rs> wie einen Schuldigen behandeln zu la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en, habe ich keine Lu<c rendition="#langesS">s</c>t. Es i<c rendition="#langesS">s</c>t kaum ein Verbrechen, wenn man<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich einen bi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>igen Hofrat mit einem Stückchen Wur<c rendition="#langesS">s</c>t vom Leibe hält, eben<c rendition="#langesS">s</c>owenig halte ich es für korrupt, im Regen einen Schirm aufzu<c rendition="#langesS">s</c>pannen. Aus die<c rendition="#langesS">s</c>er Weltan<c rendition="#langesS">s</c>chauung heraus muß ich es mit Freude begrüßen, wenn Sie,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr geehrter Herr Doktor, die Liebenswürdigkeit be<c rendition="#langesS">s</c>äßen, Herrn <rs ref="#pmb10788" type="person">Auernheimer</rs> gegenüber ein paar Worte über mich fallen zu la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en. Ich möchte nämlich dann gern <date>Ende Juli</date> Herrn <rs ref="#pmb10788" type="person">Auernheimer</rs> eine Notiz über die im Er<c rendition="#langesS">s</c>cheinen begriffene <rs type="work" ref="#pmb33478" subtype="implied">Di<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ertation</rs> jenes <rs ref="#pmb644" type="place">galizi<c rendition="#langesS">s</c>chen</rs><space unit="chars" quantity="1"/><rs type="person" ref="#pmb27755" subtype="implied">Kollegen</rs><space unit="chars" quantity="1"/><pb facs="MS-SCHNITZLER-B-00030-000-00025"/><c rendition="#langesS">s</c>owie meinen <rs ref="#pmb33454" type="work">Baber</rs> ein<c rendition="#langesS">s</c>enden. Kurze Kritiken über Belletri<c rendition="#langesS">s</c>tiker ein<c rendition="#langesS">s</c>chicken, was mir <rs ref="#pmb10788" type="person">Auernheimer</rs> ge<c rendition="#langesS">s</c>tattete, mag ich nicht; ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehne mich nicht danach, mich mit irgendwelchen Literaten durch Tau<c rendition="#langesS">s</c>chhandel zu verfreunden, in meiner gegenwärtigen Stimmung würde ich übrigens<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t den Herrgott zu diskreditieren ver<c rendition="#langesS">s</c>uchen, und das eine wie das andere darf doch eigentlich nur einer, der durch eigene Schöpfungen öffentlich einen gewi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Befähigungsnachweis erbracht hat. Die Notiz über die von ihm empfohlene <rs type="work" ref="#pmb33478" subtype="implied">Di<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ertation</rs> würde den Hi<c rendition="#langesS">s</c>toriker umgänglicher machen, der <rs ref="#pmb33454" type="work">Baber</rs> – den ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>on<c rendition="#langesS">s</c>t in aller Eile anderweitig unterzubringen das gefährliche und bei meinem Mangel an Beziehungen auch aus<c rendition="#langesS">s</c>ichtslo<c rendition="#langesS">s</c>e Wagnis unternehmen müßte – würde ihm imponieren, den <rs type="person" ref="#pmb5644" subtype="implied">Geographieprofe<c rendition="#langesS">s</c><c rendition="#langesS">s</c>or</rs>, der uns die <rs type="work" ref="#pmb33476" subtype="implied">Memoiren</rs> die<c rendition="#langesS">s</c>es <rs type="person" ref="#pmb5647" subtype="implied">Regenten</rs> namhaft machte, freuen. Daher, um<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ozu<c rendition="#langesS">s</c>agen als Re<c rendition="#langesS">s</c>pektsper<c rendition="#langesS">s</c>on wenig<c rendition="#langesS">s</c>tens Chikanen zu entgehen, wäre es mir wirklich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr angenehm, wenn Herr <rs ref="#pmb10788" type="person">Auernheimer</rs> nicht (wie im <date>Feber</date>)<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich aus<c rendition="#langesS">s</c>chließlich darauf be<c rendition="#langesS">s</c>chränkte, in meinen Manu<c rendition="#langesS">s</c>kripten hin und wieder einen Bei<c rendition="#langesS">s</c>trich anzubringen, was mich belu<c rendition="#langesS">s</c>tigte, oder ab und zu ein »Sehr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön« hinzu<c rendition="#langesS">s</c>chreiben, was mich ärgerte. Heute noch würde es mich freuen und mir in vieler Beziehung helfen, wenn die <rs ref="#pmb29351" type="org">Pre<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e</rs> oder<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>on<c rendition="#langesS">s</c>t ein Blatt mich lancierte, in ein bis zwei Jahren, wenn ich einen Po<c rendition="#langesS">s</c>ten habe, wird es mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr gleichgültig<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, ob mein Name in einer Zeitung<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>teht, oder ob ich ihn mit dem Spazier<c rendition="#langesS">s</c>tock auf einen in der Sonne zerrinnenden Schneehaufen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreibe. <pb facs="MS-SCHNITZLER-B-00030-000-00027"/>Die Ehre i<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chließlich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon jetzt nicht gar<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o überwältigend. Und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>päter, wenn ich einmal bekannt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein werde – ich bin<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chrecklich rach<c rendition="#langesS">s</c>üchtig – würden die Zeitungen zunäch<c rendition="#langesS">s</c>t doch nichts anderes von mir bekommen als die von ihnen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t abgelehnten Sachen. Den Luxus, derartige Prinzipien <add place="inline">zu</add> be<c rendition="#langesS">s</c>itzen zu glauben, kann ich mir ja jetzt noch getro<c rendition="#langesS">s</c>t ge<c rendition="#langesS">s</c>tatten.</p><p>Indem ich zwar auf eine gnädige Erfüllung meiner <add place="inline">unbe<c rendition="#langesS">s</c>cheidenen</add> Wün<c rendition="#langesS">s</c>che hoffe, nichtsde<c rendition="#langesS">s</c>toweniger auch auf eine<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>trenge Kritik meiner novelli<c rendition="#langesS">s</c>ti<c rendition="#langesS">s</c>chen Ta<c rendition="#langesS">s</c>tver<c rendition="#langesS">s</c>uche und morali<c rendition="#langesS">s</c>chen Grundsätze gefaßt mache, verbleibe ich hochachtungsvoll</p><closer>Ihr ergeben<c rendition="#langesS">s</c>ter<lb/><signed>Albert Ehrenstein.</signed></closer></div></body><back><listPerson><person xml:id="pmb11230">
+                  <tei:persName>
+                     <tei:surname>Ehrenstein</tei:surname>
+                     <tei:forename>Albert</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1886-12-23">23. 12. 1886</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1950-04-08">8. 4. 1950</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118688227/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14643</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11349">
+                  <tei:persName>
+                     <tei:surname>Fournier</tei:surname>
+                     <tei:forename>August</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1850-06-19">19. 6. 1850</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1920-05-18">18. 5. 1920</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="134">Historiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119034735/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15086</idno>
+               </person><person xml:id="pmb4769">
+                  <tei:persName>
+                     <tei:surname>Bonaparte</tei:surname>
+                     <tei:forename>Napoleon</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1769-08-15">15. 8. 1769</tei:date>
+                     <tei:placeName ref="#pmb847">Ajaccio</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1821-05-21">21. 5. 1821</tei:date>
+                     <tei:placeName ref="#pmb40754">Longwood</tei:placeName>
+                  </tei:death>
+                  <occupation code="167">Kaiser*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118586408/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18356</idno>
+               </person><person xml:id="pmb27755">
+                  <tei:persName>
+                     <tei:surname>?? [Studienkollege von Albert Ehrenstein]</tei:surname>
+                     <tei:forename/>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1909-07-02">1909</tei:date>
+                  </tei:birth>
+                  <occupation code="651">Student*in</occupation>
+               </person><person xml:id="pmb10788">
+                  <tei:persName>
+                     <tei:surname>Auernheimer</tei:surname>
+                     <tei:forename>Raoul</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1876-04-15">15. 4. 1876</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1948-01-06">6. 1. 1948</tei:date>
+                     <tei:placeName ref="#pmb47770">Oakland</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505033/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13305</idno>
+               </person><person xml:id="pmb5644">
+                  <tei:persName>
+                     <tei:surname>Oberhummer</tei:surname>
+                     <tei:forename>Eugen</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1859-03-29">29. 3. 1859</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1944-05-04">4. 5. 1944</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="371">Geograf</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117076376/</idno>
+               </person><person xml:id="pmb5647">
+                  <tei:persName>
+                     <tei:surname>Babur</tei:surname>
+                     <tei:forename>Zahir ad-Din Muhammad</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1483-02-14">14. 2. 1483</tei:date>
+                     <tei:placeName ref="#pmb60496">Andijan</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1530-12-26">26. 12. 1530</tei:date>
+                     <tei:placeName ref="#pmb43013">Agra</tei:placeName>
+                  </tei:death>
+                  <occupation code="327">Regent*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118841807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb33458">
+                  <tei:author ref="pmb11230" role="author">
+                     <tei:surname>Ehrenstein</tei:surname>
+                     <tei:forename>Albert</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Lage in Ungarn (Siebenbürgen und Serbien ausgenommen) im Jahre 1790</tei:title>
+                  <tei:date from="1910-01-01" from-custom="1910">1910</tei:date>
+                  <tei:gloss type="w1055">Text</tei:gloss>
+               </bibl><bibl xml:id="pmb33480">
+                  <tei:author ref="pmb11349" role="author">
+                     <tei:surname>Fournier</tei:surname>
+                     <tei:forename>August</tei:forename>
+                  </tei:author>
+                  <tei:title>Napoleon I. Eine Biographie</tei:title>
+                  <tei:date from="1886-01-01" from-custom="1886">1886</tei:date>
+                  <tei:gloss type="w1156">Biografie</tei:gloss>
+               </bibl><bibl xml:id="pmb33478">
+                  <tei:author ref="pmb27755" role="author">
+                     <tei:surname>?? [Studienkollege von Albert Ehrenstein]</tei:surname>
+                     <tei:forename/>
+                  </tei:author>
+                  <tei:title>?? [Dissertation]</tei:title>
+                  <tei:date from="1909-01-01" from-custom="1909">1909</tei:date>
+                  <tei:gloss type="w1678">Abschlussarbeit</tei:gloss>
+               </bibl><bibl xml:id="pmb33398">
+                  <tei:author ref="pmb4107" role="author">
+                     <tei:surname>Euripides</tei:surname>
+                     <tei:forename/>
+                  </tei:author>
+                  <tei:title>Helena</tei:title>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb33454">
+                  <tei:author ref="pmb11230" role="author">
+                     <tei:surname>Ehrenstein</tei:surname>
+                     <tei:forename>Albert</tei:forename>
+                  </tei:author>
+                  <tei:title>Tod des Zehir eddin Muhammed Baber</tei:title>
+                  <tei:date from="1912-01-01" from-custom="1912">1912</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+               </bibl><bibl xml:id="pmb33476">
+                  <tei:author ref="pmb5647" role="author">
+                     <tei:surname>Babur</tei:surname>
+                     <tei:forename>Zahir ad-Din Muhammad</tei:forename>
+                  </tei:author>
+                  <tei:title>Baburnama</tei:title>
+                  <tei:gloss type="w1099">Autobiografie</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb300">
+                  <tei:placeName>Ottakringerstraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.214134550754 16.321028123618</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb644">
+                  <tei:placeName>Galizien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i47">Region</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">49.521 23.245</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q180086/</idno>
+               </place><place xml:id="pmb313">
+                  <tei:placeName>Polen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i38">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.0 20.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/798544/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q36/</idno>
+               </place><place xml:id="pmb35512">
+                  <tei:placeName>Ungarn</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.0 20.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/719819/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q28/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29351">
+                  <tei:orgName>Neue Freie Presse</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1864-09-01" from-custom="1864-09-01" to="1939-02-01" to-custom="1939-02-01">1. 9. 1864–1. 2. 1939</tei:date>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

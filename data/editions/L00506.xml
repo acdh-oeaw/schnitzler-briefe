@@ -1,218 +1,161 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00506"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Friedrich M. Fels und Jenny Nordegg an Arthur Schnitzler,
-                    15. 10. 1895</title>
-            <author ref="#2450">Fels, Friedrich M.</author>
-            <author ref="#42508">Nordegg, Jenny</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00506</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00506" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Friedrich M. Fels und Jenny Nordegg an Arthur Schnitzler,
+                    15. 10. 1895</title><author ref="#pmb2450">Fels, Friedrich M.</author><author ref="#pmb42508">Nordegg, Jenny</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00506</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Marbach am Neckar</settlement>
-                        <repository>Deutsches Literaturarchiv</repository>
-                        <idno>A:Schnitzler, HS.NZ85.1.2956</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="postkarte"/>
-                        </objectDesc>
-                        <handDesc hands="2">
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent" corresp="#2450"/>
-                           <handNote medium="schwarze_tinte" style="nicht_anzuwenden" corresp="#42508"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#484">Zürich Bhf. Exp.</placeName>
-                                    <date when="1895-10-15">15. X. 95</date>
-                                    <time>11</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="2">
-                                    <placeName ref="#59">Wien 9/3</placeName>
-                                    <date when="1895-10-17">17 10. 95</date>
-                                    <time>9.V</time>
-                                    <addSpan>Bestellt</addSpan>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit Bleistift nummeriert: »<quote>27</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2450">Fels, Friedrich M.</persName>
-               <persName ref="#42508">Nordegg, Jenny</persName>
-               <placeName ref="#484">Zürich</placeName>
-               <date when="1895-10-15" n="01">15. 10. 1895</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1895-10-17">17. 10. 1895</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#2450">Fels, Friedrich M.</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00505">Bahr an Schnitzler, [12. 10. 1895]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00507">Fels an Schnitzler, 16. 10. 1895</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00499">Fels an Schnitzler, 4. 10. 1895</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00507">Fels an Schnitzler, 16. 10. 1895</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6D1B-B</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, HS.NZ85.1.2956</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="postkarte"/></objectDesc><handDesc hands="2"><handNote medium="schwarze_tinte" style="lateinische-kurrent" corresp="#pmb2450"/><handNote medium="schwarze_tinte" style="nicht_anzuwenden" corresp="#pmb42508"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb484">Zürich Bhf. Exp.</placeName><date when="1895-10-15">15. X. 95</date><time>11</time></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb59">Wien 9/3</placeName><date when="1895-10-17">17 10. 95</date><time>9.V</time><addSpan>Bestellt</addSpan></stamp></desc></incident><incident type="receiver"><desc>mit Bleistift nummeriert: »<quote>27</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2450">Fels, Friedrich M.</persName><persName ref="#pmb42508">Nordegg, Jenny</persName><placeName ref="#pmb484">Zürich</placeName><date when="1895-10-15" n="01">15. 10. 1895</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1895-10-17">17. 10. 1895</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb2450">Fels, Friedrich M.</ref><ref subtype="previous_letter" type="withinCollection" target="L00505">Bahr an Schnitzler, [12. 10. 1895]</ref><ref subtype="next_letter" type="withinCollection" target="L00507">Fels an Schnitzler, 16. 10. 1895</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00499">Fels an Schnitzler, 4. 10. 1895</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00507">Fels an Schnitzler, 16. 10. 1895</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2019-10-22">Angelegt</change>
-         <change who="MAM" when="2019-10-22">Index check</change>
-         <change who="GHS" when="2019-12-28">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS.NZ85.1.2956_0041"/>
-      <graphic url="HS.NZ85.1.2956_0042"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="HS.NZ85.1.2956_0042"/>Herrn Dr. med. Arthur
-                        Schnitzler</addrLine>
-               <addrLine>Schriftsteller</addrLine>
-               <addrLine>
-                  <rs ref="#50" type="place">Wien</rs>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#397" type="place">IX, Frankgaſse 1</rs>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#41240" type="place">Österreich</rs>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="center">
-                  <pb facs="HS.NZ85.1.2956_0041"/>
-                  <hi rend="pre-print">
-                     <rs type="place" ref="#43437">Grand Restaurant et Café Metropol Zurich
-                                Auböck <c rendition="#kaufmannsund"/> Ziegler Pr.</rs>
-                  </hi>
-               </p>
-               <p rend="center">
-                  <hi rend="pre-print">
-                     <rs type="place" ref="#43440">Irrgarten (Labyrinth)</rs> D<hi rend="superscript">ir</hi>
-                     <space unit="chars" quantity="1"/>
-                     <rs type="person" ref="#43439">G. D.’Ouvenou</rs>.</hi>
-               </p>
-               <salute>Lieber Dr. Schnitzler!</salute>
-            </opener>
-            <p>Soeben lesen wir <rs ref="#12816" type="person">Speidel</rs>s <rs type="work" ref="#42512" subtype="implied">Kritik</rs> und freuen uns riesig über Ihren
-                    Erfolg. Fahren Sie so weiter, junger Ma<c rendition="#gemination-n"/>, und
-                    vergeſsen Sie im Glücke nicht »<rs type="work" ref="#42545" subtype="implied">derer, die am Wege sterben</rs>«.</p>
-            <closer>Herzlichst<lb/>
-               <lb/>
-               <signed>
-                  <handShift scribe="#42508"/>Jenny Nordegg</signed>
-               <lb/>
-               <handShift scribe="#2450"/>und <signed>Friedr. M. Fels</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-10-22">Angelegt</change><change who="MAM" when="2019-10-22">Index check</change><change who="GHS" when="2019-12-28">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.2956_0041"/><graphic url="HS.NZ85.1.2956_0042"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="HS.NZ85.1.2956_0042"/>Herrn Dr. med. Arthur Schnitzler</addrLine><addrLine>Schriftsteller</addrLine><addrLine><rs ref="#pmb50" type="place">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">IX, Frankga<c rendition="#langesS">s</c>se 1</rs></addrLine><addrLine><rs ref="#pmb41240" type="place">Österreich</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="HS.NZ85.1.2956_0041"/><hi rend="pre-print"><rs type="place" ref="#pmb43437">Grand Restaurant et Café Metropol Zurich Auböck <c rendition="#kaufmannsund"/> Ziegler Pr.</rs></hi></p><p rend="center"><hi rend="pre-print"><rs type="place" ref="#pmb43440">Irrgarten (Labyrinth)</rs> D<hi rend="superscript">ir</hi><space unit="chars" quantity="1"/><rs type="person" ref="#pmb43439">G. D.’Ouvenou</rs>.</hi></p><salute>Lieber Dr. Schnitzler!</salute></opener><p>Soeben lesen wir <rs ref="#pmb12816" type="person">Speidel</rs>s <rs type="work" ref="#pmb42512" subtype="implied">Kritik</rs> und freuen uns riesig über Ihren Erfolg. Fahren Sie so weiter, junger Ma<c rendition="#gemination-n"/>, und verge<c rendition="#langesS">s</c>sen Sie im Glücke nicht »<rs type="work" ref="#pmb42545" subtype="implied">derer, die am Wege sterben</rs>«.</p><closer>Herzlichst<lb/><lb/><signed><handShift scribe="#pmb42508"/>Jenny Nordegg</signed><lb/><handShift scribe="#pmb2450"/>und <signed>Friedr. M. Fels</signed></closer></div></body><back><listPerson><person xml:id="pmb2450">
+                  <tei:persName>
+                     <tei:surname>Fels</tei:surname>
+                     <tei:forename>Friedrich M.</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1864-07-01">1864</tei:date>
+                     <tei:placeName ref="#pmb41882">Bad Dürkheim</tei:placeName>
+                  </tei:birth>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127899537/</idno>
+               </person><person xml:id="pmb42508">
+                  <tei:persName>
+                     <tei:surname>Nordegg</tei:surname>
+                     <tei:forename>Jenny</tei:forename>
+                  </tei:persName>
+                  <occupation code="108">Schauspieler*in</occupation>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb43439">
+                  <tei:persName>
+                     <tei:surname>D’Ouvenou</tei:surname>
+                     <tei:forename>Gésa</tei:forename>
+                  </tei:persName>
+                  <occupation code="961">Schausteller*in</occupation>
+               </person><person xml:id="pmb12816">
+                  <tei:persName>
+                     <tei:surname>Speidel</tei:surname>
+                     <tei:forename>Ludwig</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1830-04-11">11. 4. 1830</tei:date>
+                     <tei:placeName ref="#pmb39966">Ulm</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1906-02-03">3. 2. 1906</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117482684/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20243</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb42512">
+                  <tei:author ref="pmb12816" role="author">
+                     <tei:surname>Speidel</tei:surname>
+                     <tei:forename>Ludwig</tei:forename>
+                  </tei:author>
+                  <tei:title>[Burgtheater.] Liebelei</tei:title>
+                  <tei:date when="1895-10-10" when-custom="10.10.1895">10. 10. 1895</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>6031</tei:note>
+                  <tei:note>6032</tei:note>
+               </bibl><bibl xml:id="pmb42545">
+                  <tei:author ref="pmb11555" role="author">
+                     <tei:surname>Gutzkow</tei:surname>
+                     <tei:forename>Karl</tei:forename>
+                  </tei:author>
+                  <tei:title>Uriel Acosta Trauerspiel in fünf Aufzügen</tei:title>
+                  <tei:date when="1846-07-02" when-custom="1846">1846</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb484">
+                  <tei:placeName>Zürich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.37174 8.54226</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2657896/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q72/</idno>
+               </place><place xml:id="pmb59">
+                  <tei:placeName>IX., Alsergrund</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb397">
+                  <tei:placeName>Frankgasse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb41240">
+                  <tei:placeName>Österreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb43437">
+                  <tei:placeName>Café Metropol</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1894-07-02" from-custom="1894-07-02">2. 7. 1894</tei:date>
+                     <tei:gloss ana="i20">Kaffeehaus</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.36814 8.541785</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb43440">
+                  <tei:placeName>Irrgarten (Irrgänge)</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1894-07-02" from-custom="1894-07-02">2. 7. 1894</tei:date>
+                     <tei:gloss ana="i56">Vergnügungspark</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.368121 8.54177</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg/></back></text></TEI>

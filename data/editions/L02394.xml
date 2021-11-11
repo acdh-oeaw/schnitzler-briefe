@@ -1,266 +1,241 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02394"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Thomas Mann, 28. 12. 1922</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02394</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02394" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Thomas Mann, 28. 12. 1922</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02394</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>Marbach am Neckar</settlement>
-                        <repository>Deutsches Literaturarchiv</repository>
-                        <idno>A:Schnitzler, 85.1.1371,1</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc type="reproduktion" subtype="durchschlag"/>
-                           <desc n="1" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="roter_buntstift" style="lateinische-kurrent">
-                              <p>eine Klammer, Unterstreichungen, Beschriftung: »<quote>Ma<c
-                                       rendition="#gemination-n"/>
-                                 </quote>« und »<quote>K<supplied>opie</supplied>
-                                 </quote>«</p>
-                           </handNote>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Schreibmaschine</p>
-                        </typeDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>Der grammatikalisch unvollständige Satz »<quote>Und es ist alles
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-747A-7</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, 85.1.1371,1</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc type="reproduktion" subtype="durchschlag"/><desc n="1" type="_seiten"/></objectDesc><handDesc><handNote medium="roter_buntstift" style="lateinische-kurrent"><p>eine Klammer, Unterstreichungen, Beschriftung: »<quote>Ma<c rendition="#gemination-n"/></quote>« und »<quote>K<supplied>opie</supplied></quote>«</p></handNote></handDesc><typeDesc><p>Schreibmaschine</p></typeDesc><additions><incident type="archival"><desc>Der grammatikalisch unvollständige Satz »<quote>Und es ist alles
                                     eher…</quote> wurde durch Ergänzung »<quote>wenn ich
-                                    finde,</quote>« von unbekannter Hand (<rs ref="#12692"
-                                    type="person">Heinrich Schnitzler</rs>?) richtiggestellt</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASB2">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefe 1913–1931</title>
-                     <editor>Braunwarth, Peter Michael</editor>
-                     <editor>Miklin, Richard</editor>
-                     <editor>Pertlik, Susanne</editor>
-                     <editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1984">1984</date>
-                     </imprint>
-                     <biblScope unit="pp">298–299</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct>
-                  <analytic>
-                     <title level="a">Arthur Schnitzler – Thomas Mann: Briefe</title>
-                     <author>Krotkoff, Hertha</author>
-                  </analytic>
-                  <monogr>
-                     <title level="j">Modern Austrian Literature</title>
-                     <biblScope unit="jg">7</biblScope>
-                     <biblScope unit="nr">1/2</biblScope>
-                     <imprint>
-                        <date when="1974">1974</date>
-                     </imprint>
-                     <biblScope unit="pp">19–20</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1922-12-28" n="01">28. 12. 1922</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#12176">Mann, Thomas</persName>
-               <placeName ref="#45258">München</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#12176">Mann, Thomas</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02393">Schnitzler an
-                  Hauptmann, 14. 11. 1922</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L02395">Schnitzler an
-                  Hofmannsthal, 15. 1. 1923</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L02392">Mann an
-                  Schnitzler, 4. 9. 1922</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L02397">Mann an
-                  Schnitzler, 20. 2. 1923</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                                    finde,</quote>« von unbekannter Hand (<rs ref="#pmb12692" type="person">Heinrich Schnitzler</rs>?) richtiggestellt</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASB2"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefe 1913–1931</title><editor>Braunwarth, Peter Michael</editor><editor>Miklin, Richard</editor><editor>Pertlik, Susanne</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1984">1984</date></imprint><biblScope unit="pp">298–299</biblScope></monogr></biblStruct><biblStruct><analytic><title level="a">Arthur Schnitzler – Thomas Mann: Briefe</title><author>Krotkoff, Hertha</author></analytic><monogr><title level="j">Modern Austrian Literature</title><biblScope unit="jg">7</biblScope><biblScope unit="nr">1/2</biblScope><imprint><date when="1974">1974</date></imprint><biblScope unit="pp">19–20</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1922-12-28" n="01">28. 12. 1922</date></correspAction><correspAction type="received"><persName ref="#pmb12176">Mann, Thomas</persName><placeName ref="#pmb45258">München</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb12176">Mann, Thomas</ref><ref subtype="previous_letter" type="withinCollection" target="L02393">Schnitzler an
+                  Hauptmann, 14. 11. 1922</ref><ref subtype="next_letter" type="withinCollection" target="L02395">Schnitzler an
+                  Hofmannsthal, 15. 1. 1923</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02392">Mann an
+                  Schnitzler, 4. 9. 1922</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02397">Mann an
+                  Schnitzler, 20. 2. 1923</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2019-11-12">Angelegt aus Briefe II. Dort als
-            Briefdurchschlag</change>
-         <change who="MAM" when="2019-11-25">Durchsicht mit Kopie aus DLA</change>
-         <change who="MAM" when="2019-11-25">Index check</change>
-         <change who="GHS" when="2020-09-17">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="85.1.1371,1_0001"/>
-      <graphic url="85.1.1371,1_0002"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="85.1.1371,1_0001"/>
-                  <date>28. 12. 1922</date>.</dateline>
-               <salute>Sehr verehrter Herr Thomas Mann. </salute>
-            </opener>
-            <p>Das Jahr darf doch nicht zu Ende gehen, ohne dass ich Ihnen – recht sehr verspätet –
-               für Ihren lieben Brief vom <date>4. September d. J.</date> danke. Ihre freundlichen
-               Worte über »<rs ref="#30971" type="work">Casanovas Heimfahrt</rs>« haben mich sehr
-               gefreut. Indess hat auch dieses Werk sein Schicksal oder wenigstens seine kleine
-               Affaire gehabt <add place="inline">(</add>
-               <anchor xml:id="T_L02394_1" type="textConst"/>ich<note xml:id="T_L02394_1h"
-                  type="textConst">Die Vorlage hat: »<quote>cih</quote>«.</note> bin dergleichen
-               ziemlich gewöhnt; –<add place="inline">)</add> in <rs ref="#43406" type="place"
-                  >Amerika</rs> hat die <rs ref="#42889" type="org">Gesellschaft zur Bekämpfung des
-                  Lasters</rs> die Konfiskation der englischen Uebersetzung beantragt, der <rs
-                  type="person" ref="#24825" subtype="implied">Verleger</rs> wurde in Anklagezustand
-               versetzt, ich glaube sogar verhaftet, aber die Angelegenheit endete diesmal mit einer
-               erheblichen Blamage der Tugendbolde und für mich hatt<supplied>e</supplied> die Sache
-               überdies den Vorteil, dass der <rs type="person" ref="#24825" subtype="implied"
-                  >Verleger</rs> in Erwartung künftiger Geschäfte mir einen Teil des Geldes zahlte,
-               das er mir noch schuldig war.</p>
-            <p>Ich höre – fällt mir in diesem Zusammenhang ein – dass Sie in <rs ref="#43406"
-                  type="place">Amerika</rs> von <rs ref="#29586" type="org">Kirpatrik <c
-                     rendition="#kaufmannsund"/> Brandt</rs>, den Agenten des Verlag <rs
-                  ref="#29639" type="org">Fischer</rs>, vertreten werden. Wäre es sehr indiskret Sie
-               zu fragen, ob Sie mit den Leuten gute Erfahrungen gemacht haben?</p>
-            <p>Ihren <rs type="work" ref="#33600" subtype="implied">Artikel</rs> in der <rs
-                  ref="#36156" type="work">Neuen Rundschau</rs>, auf den Sie mich schon vor
-               Erscheinen aufmerksam zu machen so gütig waren, habe ich natürlich mit dem grössten
-               Interesse gelesen. Er ist, da Sie das Wort nun einmal lieben, im schönsten Sinne
-               human. Aber ganz abgesehen von allem Inhaltlichen, selbst wenn ich nicht ganz
-               einverstanden wäre, Ihrer wunderbaren Prosa würde ich mich immer erfreuen, wie mich
-               eine <pb facs="85.1.1371,1_0002"/>edle Stimme entzückte, auch wenn sie Vokalisen
-               sänge. Und es ist alles eher als eine Einwendung gegen den tieferen Sinn Ihrer Worte,
-               wenn mir persönlich für die innere und äussere Entwicklung eines Volkes die Frage der
-               Staatsform von einer ziemlich nebensächlichen Bedeutung erscheint, und dass sich jede
-               grosse politische Führernatur selbst die Form zu schaffen pflegt, innerhalb deren sie
-               sich betätigt und wirkt, ob er nun Kaiser, König, Präsident oder Kanzler heissen mag.
-               Zu einem Menschen kann ich mich zuweilen bekennen, kaum je ohne Vorbehalt, zu einer
-               Staatsform als solcher nie. Das wäre vielleicht sehr republikanisch gedacht, wenn
-               jede Republik – wenn jemals eine Republik – wenn überhaupt jemals irgend eine Form
-               ihre eigene, ihre imanente<!-- so! --> Idee zu erfüllen fähig wäre. Aber ich gerate
-               ins Allgemeine, in einen Essay, das ist meine Sache nicht, ich brächte doch keinen zu
-               Ende, er müsste auf dem Wege sterben an der Menge von Parenthesen, die ich immer
-               wieder für unerlässlich hielte.</p>
-            <p>Sie kommen im <date>Jänner</date> nach <rs ref="#50" type="place">Wien</rs>, da werde
-               ich Sie ja hoffentlich sehen. Ich bin im Herbst in der <rs ref="#43430 #34478"
-                  type="place">Cechoslowakei</rs> gewesen (in <rs ref="#34478" type="place"
-                  >Teplitz</rs> machten sich die Hakenkreuzler peinlich bemerkbar), im
-                  <date>März</date>
-               <space unit="chars" quantity="1"/>soll ich wieder hin, diesmal nach östlicheren
-               Gegenden, im Frühjahr fahre ich vielleicht nach <rs ref="#43570" type="place"
-                  >Dänemark</rs> und <rs ref="#44335" type="place">Schweden</rs>. Ihr <rs
-                  type="work" ref="#33247" subtype="implied">Roman</rs>
-               <space unit="chars" quantity="1"/>schreitet hoffentlich seiner Vollendung entgegen.
-               Ich freue mich ihm und Ihnen entgegen.</p>
-            <closer>Seien Sie vielmals und herzlichst gegrüsst von<lb/>Ihrem ergebenen</closer>
-            <p>
-               <space dim="vertical" unit="line" quantity="1"/>
-            </p>
-            <postscript>
-               <p>Herrn Thomas Mann<lb/>
-               </p>
-               <p>
-                  <rs ref="#45258" type="place">München</rs>
-               </p>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-11-12">Angelegt aus Briefe II. Dort als
+            Briefdurchschlag</change><change who="MAM" when="2019-11-25">Durchsicht mit Kopie aus DLA</change><change who="MAM" when="2019-11-25">Index check</change><change who="GHS" when="2020-09-17">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="85.1.1371,1_0001"/><graphic url="85.1.1371,1_0002"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="85.1.1371,1_0001"/><date>28. 12. 1922</date>.</dateline><salute>Sehr verehrter Herr Thomas Mann. </salute></opener><p>Das Jahr darf doch nicht zu Ende gehen, ohne dass ich Ihnen – recht sehr verspätet – für Ihren lieben Brief vom <date>4. September d. J.</date> danke. Ihre freundlichen Worte über »<rs ref="#pmb30971" type="work">Casanovas Heimfahrt</rs>« haben mich sehr gefreut. Indess hat auch dieses Werk sein Schicksal oder wenigstens seine kleine Affaire gehabt <add place="inline">(</add><anchor xml:id="T_L02394_1" type="textConst"/>ich<note xml:id="T_L02394_1h" type="textConst">Die Vorlage hat: »<quote>cih</quote>«.</note> bin dergleichen ziemlich gewöhnt; –<add place="inline">)</add> in <rs ref="#pmb43406" type="place">Amerika</rs> hat die <rs ref="#pmb42889" type="org">Gesellschaft zur Bekämpfung des Lasters</rs> die Konfiskation der englischen Uebersetzung beantragt, der <rs type="person" ref="#pmb24825" subtype="implied">Verleger</rs> wurde in Anklagezustand versetzt, ich glaube sogar verhaftet, aber die Angelegenheit endete diesmal mit einer erheblichen Blamage der Tugendbolde und für mich hatt<supplied>e</supplied> die Sache überdies den Vorteil, dass der <rs type="person" ref="#pmb24825" subtype="implied">Verleger</rs> in Erwartung künftiger Geschäfte mir einen Teil des Geldes zahlte, das er mir noch schuldig war.</p><p>Ich höre – fällt mir in diesem Zusammenhang ein – dass Sie in <rs ref="#pmb43406" type="place">Amerika</rs> von <rs ref="#pmb29586" type="org">Kirpatrik <c rendition="#kaufmannsund"/> Brandt</rs>, den Agenten des Verlag <rs ref="#pmb29639" type="org">Fischer</rs>, vertreten werden. Wäre es sehr indiskret Sie zu fragen, ob Sie mit den Leuten gute Erfahrungen gemacht haben?</p><p>Ihren <rs type="work" ref="#pmb33600" subtype="implied">Artikel</rs> in der <rs ref="#pmb36156" type="work">Neuen Rundschau</rs>, auf den Sie mich schon vor Erscheinen aufmerksam zu machen so gütig waren, habe ich natürlich mit dem grössten Interesse gelesen. Er ist, da Sie das Wort nun einmal lieben, im schönsten Sinne human. Aber ganz abgesehen von allem Inhaltlichen, selbst wenn ich nicht ganz einverstanden wäre, Ihrer wunderbaren Prosa würde ich mich immer erfreuen, wie mich eine <pb facs="85.1.1371,1_0002"/>edle Stimme entzückte, auch wenn sie Vokalisen sänge. Und es ist alles eher als eine Einwendung gegen den tieferen Sinn Ihrer Worte, wenn mir persönlich für die innere und äussere Entwicklung eines Volkes die Frage der Staatsform von einer ziemlich nebensächlichen Bedeutung erscheint, und dass sich jede grosse politische Führernatur selbst die Form zu schaffen pflegt, innerhalb deren sie sich betätigt und wirkt, ob er nun Kaiser, König, Präsident oder Kanzler heissen mag. Zu einem Menschen kann ich mich zuweilen bekennen, kaum je ohne Vorbehalt, zu einer Staatsform als solcher nie. Das wäre vielleicht sehr republikanisch gedacht, wenn jede Republik – wenn jemals eine Republik – wenn überhaupt jemals irgend eine Form ihre eigene, ihre imanente<!-- so! --> Idee zu erfüllen fähig wäre. Aber ich gerate ins Allgemeine, in einen Essay, das ist meine Sache nicht, ich brächte doch keinen zu Ende, er müsste auf dem Wege sterben an der Menge von Parenthesen, die ich immer wieder für unerlässlich hielte.</p><p>Sie kommen im <date>Jänner</date> nach <rs ref="#pmb50" type="place">Wien</rs>, da werde ich Sie ja hoffentlich sehen. Ich bin im Herbst in der <rs ref="#pmb43430 #pmb34478" type="place">Cechoslowakei</rs> gewesen (in <rs ref="#pmb34478" type="place">Teplitz</rs> machten sich die Hakenkreuzler peinlich bemerkbar), im <date>März</date><space unit="chars" quantity="1"/>soll ich wieder hin, diesmal nach östlicheren Gegenden, im Frühjahr fahre ich vielleicht nach <rs ref="#pmb43570" type="place">Dänemark</rs> und <rs ref="#pmb44335" type="place">Schweden</rs>. Ihr <rs type="work" ref="#pmb33247" subtype="implied">Roman</rs><space unit="chars" quantity="1"/>schreitet hoffentlich seiner Vollendung entgegen. Ich freue mich ihm und Ihnen entgegen.</p><closer>Seien Sie vielmals und herzlichst gegrüsst von<lb/>Ihrem ergebenen</closer><p><space dim="vertical" unit="line" quantity="1"/></p><postscript><p>Herrn Thomas Mann<lb/></p><p><rs ref="#pmb45258" type="place">München</rs></p></postscript></div></body><back><listPerson><person xml:id="pmb12692">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Heinrich</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1902-08-09">9. 8. 1902</tei:date>
+                     <tei:placeName ref="#pmb75">Hinterbrühl</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1982-07-12">12. 7. 1982</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848510/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19822</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12176">
+                  <tei:persName>
+                     <tei:surname>Mann</tei:surname>
+                     <tei:forename>Thomas</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-06-06">6. 6. 1875</tei:date>
+                     <tei:placeName ref="#pmb884">Lübeck</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1955-08-12">12. 8. 1955</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118577166/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17838</idno>
+               </person><person xml:id="pmb24825">
+                  <tei:persName>
+                     <tei:surname>Seltzer</tei:surname>
+                     <tei:forename>Thomas</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-02-22">22. 2. 1875</tei:date>
+                     <tei:placeName ref="#pmb48508">Poltava</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1943-09-11">11. 9. 1943</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="116">Übersetzer*in</occupation>
+                  <occupation code="144">Verleger*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20054</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30971">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Casanovas Heimfahrt</tei:title>
+                  <tei:date from="1918-07-01" from-custom="1.7.1918" to="1918-09-01" to-custom="1.9.1918">1. 7. 1918–1. 9. 1918</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+                  <tei:note>2970</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q946444/</idno>
+               </bibl><bibl xml:id="pmb33600">
+                  <tei:author ref="pmb12176" role="author">
+                     <tei:surname>Mann</tei:surname>
+                     <tei:forename>Thomas</tei:forename>
+                  </tei:author>
+                  <tei:title>Von deutscher Republik. Gerhart Hauptmann zum sechzigsten Geburtstag</tei:title>
+                  <tei:date from="1922-11-01" from-custom="01.11.1922">1. 11. 1922</tei:date>
+                  <tei:gloss type="w1154">Aufsatz</tei:gloss>
+                  <tei:note>3407</tei:note>
+                  <tei:note>6133</tei:note>
+                  <tei:note>6134</tei:note>
+               </bibl><bibl xml:id="pmb36156">
+                  <tei:title>Die neue Rundschau</tei:title>
+                  <tei:date from="1904-01-01" from-custom="1904">1904</tei:date>
+                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
+               </bibl><bibl xml:id="pmb33247">
+                  <tei:author ref="pmb12176" role="author">
+                     <tei:surname>Mann</tei:surname>
+                     <tei:forename>Thomas</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Zauberberg. Roman</tei:title>
+                  <tei:date from="1924-01-01" from-custom="1924">1924</tei:date>
+                  <tei:gloss type="w1060">Roman</tei:gloss>
+                  <tei:note>6135</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb45258">
+                  <tei:placeName>München</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2867714/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4127793-4/</idno>
+               </place><place xml:id="pmb43406">
+                  <tei:placeName>Vereinigte Staaten von Amerika (USA)</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">39.76 -98.5</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/6252001/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q30/</idno>
+               </place><place xml:id="pmb43430">
+                  <tei:placeName>Tschechische Republik</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">49.75 15.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3077311/</idno>
+               </place><place xml:id="pmb34478">
+                  <tei:placeName>Slowakei (Slowakische Republik)</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.66667 19.5</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3057568/</idno>
+               </place><place xml:id="pmb43570">
+                  <tei:placeName>Dänemark</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">56.0 10.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2623032/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q35/</idno>
+               </place><place xml:id="pmb44335">
+                  <tei:placeName>Schweden</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">62.0 15.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2661886/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q34/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb42889">
+                  <tei:orgName>The New York Society for the Suppression of Vice</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1873-01-01" from-custom="1873" to="1950-01-01" to-custom="1950">1873–1950</tei:date>
+                     <tei:gloss ana="i1027">Vereinigung</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb44053">
+                     <tei:placeName>New York City</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">40.71427 -74.00597</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb29586">
+                  <tei:orgName>Brandt &amp; Kirkpatrick</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb44053">
+                     <tei:placeName>New York City</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">40.71427 -74.00597</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb29639">
+                  <tei:orgName>S. Fischer Verlag</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1886-01-01" from-custom="1886">1886</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb146">
+                     <tei:placeName>Frankfurt am Main</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb659">
+                     <tei:placeName>Bülowstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.49737 13.36385</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

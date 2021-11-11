@@ -1,278 +1,278 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01376"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Hermann Bahr, 22. 2. 1904</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L01376</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01376" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, 22. 2. 1904</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L01376</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Theatermuseum</repository>
-                        <idno>HS AM 23367 Ba</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="2" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="7" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="DASB">
-                  <analytic>
-                     <title level="a">22. 2. 1904</title>
-                  </analytic>
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
-                     <editor>Edited, annotated, and with an introduction, by Donald G.
-                        Daviau</editor>
-                     <imprint>
-                        <pubPlace>Chapel Hill</pubPlace>
-                        <publisher>The University of North Carolina Press</publisher>
-                        <date when="1978">1978</date>
-                     </imprint>
-                     <biblScope unit="pp">84–85</biblScope>
-                  </monogr>
-                  <series>
-                     <title level="s">University of North Carolina studies in the Germanic languages
-                        and literatures</title>
-                     <biblScope unit="nr">89</biblScope>
-                  </series>
-               </biblStruct>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">303–304</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1904-02-22" n="01">22. 2. 1904</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10815">Bahr, Hermann</persName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01375">Hofmannsthal
-                  an Schnitzler, 20. 2. 1904</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01377">Bahr an
-                  Schnitzler, [5.] 3. 1904</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L01373">Bahr an
-                  Schnitzler, 15. 2. 1904</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01377">Bahr an
-                  Schnitzler, [5.] 3. 1904</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7080-2</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 23367 Ba</idno></msIdentifier><physDesc><objectDesc><desc n="2" type="_blaetter"/><desc type="brief"/><desc n="7" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="DASB"><analytic><title level="a">22. 2. 1904</title></analytic><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title><editor>Edited, annotated, and with an introduction, by Donald G.
+                        Daviau</editor><imprint><pubPlace>Chapel Hill</pubPlace><publisher>The University of North Carolina Press</publisher><date when="1978">1978</date></imprint><biblScope unit="pp">84–85</biblScope></monogr><series><title level="s">University of North Carolina studies in the Germanic languages
+                        and literatures</title><biblScope unit="nr">89</biblScope></series></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">303–304</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1904-02-22" n="01">22. 2. 1904</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01375">Hofmannsthal
+                  an Schnitzler, 20. 2. 1904</ref><ref subtype="next_letter" type="withinCollection" target="L01377">Bahr an
+                  Schnitzler, [5.] 3. 1904</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01373">Bahr an
+                  Schnitzler, 15. 2. 1904</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01377">Bahr an
+                  Schnitzler, [5.] 3. 1904</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-10-01">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-08">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-         <change who="GHS" when="2020-01-22">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="HS_AM23367Ba_1"/>
-      <graphic url="HS_AM23367Ba_1_R"/>
-      <graphic url="HS_AM23367Ba_2"/>
-      <graphic url="HS_AM23367Ba_2_R"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>
-                  <rs ref="#50" type="place">Wien</rs>, <date>22. 2. 904</date>
-               </dateline>
-            </opener>
-            <p>
-               <salute>mein lieber Hermann, </salute>wir waren eben in <rs ref="#63" type="place"
-                  >Hietzing</rs>, mit <rs ref="#2292 #11740" type="person">Hugo’s</rs> u <rs
-                  ref="#10860 #10863" type="person">Richards</rs> u <rs ref="#2219" type="person"
-                  >Karg</rs> zuſammen, u da hab ich mit großer Freude gehört, daſs du dich viel
-               wohler befindeſt. Nun möchte ich aber gern recht bald ein Wort von dir ſelbſt
-               vernehmen, und wiſſen, wie es mit deinen Plänen für die nächſte Zeit ſteht. Ich bin
-               seit <anchor xml:id="K_L01376_1" type="commentary"/>Freitag Abend<note
-                  xml:id="K_L01376_1h" type="commentary">eigentlich schon seit dem
-                     <ref target="1904-02-19" subtype="date-only" type="schnitzlerDiary"/> abends (einem Donnerstag)</note> wieder in <rs ref="#50"
-                  type="place">Wien</rs>; wir (<rs ref="#2173" type="person">Olga</rs> u ich) waren
-                  <pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>auf der Rückreise
-               einen Tag in <rs ref="#866" type="place">Dresden</rs> und haben allzukurze Stunden in
-               der <rs ref="#5" type="place">Galerie</rs> verbracht.</p>
-            <p>Über den <rs ref="#29985" type="work">Einſamen Weg</rs> haſt du wohl, ſoweit es ſich
-               um den äußerlichen Verlauf des erſten Abends handelt, das weſentliche geleſen. Es war
-               ein leidlicher Abfall, Huſten und Unruhe von Anbeginn, matter Beifall nach 2. u 3.
-               Akt mit Widerſpruch; Gelächter und ſtarker Beifall nach dem 4. Akt, viel Applaus und
-               viel Ziſchen am <pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"
-               />Schluſs. Der 2. Abend, ausverkauft, ging beträchtlich beſſer – und nun ſcheint
-               ſich, wie ich aus <rs ref="#168" type="place">Berlin</rs> höre, das Stück, das bei
-               einem Theil der Kritik ſehr lebhafte Anerkennung fand, doch einige Zeit halten zu
-               wollen. In <rs ref="#50" type="place">Wien</rs> war eigentlich nur das <rs
-                  ref="#11485" type="person">Goldmann</rs>’ſche <anchor xml:id="K_L01376_2"
-                  type="commentary"/>
-               <rs type="work" ref="#31277" subtype="implied">Telegra<c rendition="#gemination-m"/>
-               </rs>
-               <note xml:id="K_L01376_2h" type="commentary">
-                  <bibl>[O. V.:] <rs ref="#31277" type="work">Schnitzlers »Einsamer Weg« (Telegramm
-                        der »Neuen Freien Presse«)</rs>. In: <rs ref="#36374" type="work">Neue Freie
-                        Presse</rs>, Nr. 14178, <date>14. 2. 1904</date>, S. 12</bibl>.</note>
-               wirklich ſchlecht – was er mir perſönlich über das <rs type="work" ref="#29985"
-                  subtype="implied">Stück</rs> zu ſagen wußte, waren nur die folgenden Worte, als
-               ich ihn ein paar Tage nach der Première zum Abſchied <pb
-                  facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>beſuchte<subst>
-                  <del rend="overwritten">,</del>
-                  <add place="inline">:</add>
-               </subst> »Ich ſchreibe eben das <anchor xml:id="K_L01376_3" type="commentary"/>
-               <rs type="work" ref="#31281" subtype="implied">Feuillet</rs>
-               <note xml:id="K_L01376_3h" type="commentary">
-                  <bibl>
-                     <rs ref="#11485" type="person">Paul Goldmann</rs>: <rs ref="#31281" type="work"
-                        >Berliner Theater. »Der einsame Weg«. Von Arthur Schnitzler</rs>. In: <rs
-                        ref="#36374" type="work">Neue Freie Presse</rs>, Nr. 14187,
-                        <date>23. 2. 1904</date>, S. 1–3</bibl>.</note> über den <rs ref="#29985"
-                  type="work">E. W.</rs> – Du wirſt keine Freude daran haben.« – Die Fehler des <rs
-                  type="work" ref="#29985" subtype="implied">Stücks</rs>
-               <space unit="chars" quantity="1"/>ſpür ich jetzt wie mir vorko<c
-                  rendition="#gemination-m"/>t ſehr genau: Das Verhältnis zwiſchen <rs type="work"
-                  ref="#29985" subtype="implied">Sala</rs> u <hi rend="latintype"
-                     >Johann<unclear>a</unclear>
-               </hi> müßte ſchon zu Beginn völlig declarirt sein – das iſt ein techniſcher Fehler, de<subst>
-                  <del rend="overwritten">r</del>
-                  <add place="inline">n</add>
-               </subst> gutzumachen in meinen Kräften ſtände. Andres aber dürfte in den Mängeln
-               meiner Begabung begründet ſein – ſo insbeſondre eine gewiſſe Steifigkeit im Weſen <pb
-                  facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>Julians. Immerhin
-               bleibt es eine ſchwierige Sache von einer Perſon die Meinung verbreiten zu wollen –
-               ſie ſei einmal ein Genie geweſen. Ja we<c rendition="#gemination-n"/> man das Bild
-               ins Foyer hängen könnte, das <rs type="work" ref="#29985" subtype="implied"
-                  >Julian</rs> vor 25 Jahren gemalt und das ihn berühmt gemacht hat! Übrigens –
-               vielleicht wäre es auch im Augenblick vergeſſen, da man ſich wieder ins Parket
-               begibt.</p>
-            <p>Was ich ſelbſt an dem <rs type="work" ref="#29985" subtype="implied">Stück</rs>
-               wirklich liebe, iſt der fünfte Akt und die <pb
-                  facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>Geſtalt des <rs
-                  type="work" ref="#29985" subtype="implied">Sala</rs>, der gegenüber ich mich,
-               eigentlich das erſte Mal in meinem Leben, als eine Art von Schöpfer fühle. Und der
-               fünfte Akt bedeutet mir zuweilen etwas mehr als der Abschluſs eines Dramas – ja nicht
-               viel weniger als der Abschluſs von 42 ſelbſt gelebten Jahren. <add place="inline"
-                  >–</add> Nun ſeh ich mancherlei vor mir, was mir, wenn ich etwas weniger faul,
-               etwas weniger zerſtreut, und mit <del rend="strikethrough">
-                  <gap unit="chars" quantity="4" reason="illegible"/>-</del> wahrer Intenſität
-               begabt wäre, nach dem ſonſtigen Stande meines Innern, eigentlich gelingen
-               müßte. –</p>
-            <p>
-               <pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>– Wir haben in <rs
-                  ref="#168" type="place">Berlin</rs> oft von dir geſprochen und alle Leute die du
-               kennſt laſſen dich grüßen. Meine <rs ref="#451" type="place">sicilianiſchen</rs> und
-                  <rs ref="#41212" type="place">korfioliſchen</rs> Pläne weben weiter – wirſt du
-               auch  ſüdlicher wandern und werden wir uns ſehen? Meine <rs type="person" ref="#2173"
-                  subtype="implied">Frau</rs> grüßt dich herzlich, ich desgleichen und wir wären
-               ſehr froh, wenn wir bald noch beſſeres, ganz gutes von dir hörten.</p>
-            <closer>Dein<lb/>
-               <signed>Arthur</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-08">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-01-22">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23367Ba_1"/><graphic url="HS_AM23367Ba_1_R"/><graphic url="HS_AM23367Ba_2"/><graphic url="HS_AM23367Ba_2_R"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/><rs ref="#pmb50" type="place">Wien</rs>, <date>22. 2. 904</date></dateline></opener><p><salute>mein lieber Hermann, </salute>wir waren eben in <rs ref="#pmb63" type="place">Hietzing</rs>, mit <rs ref="#pmb2292 #pmb11740" type="person">Hugo’s</rs> u <rs ref="#pmb10860 #pmb10863" type="person">Richards</rs> u <rs ref="#pmb2219" type="person">Karg</rs> zu<c rendition="#langesS">s</c>ammen, u da hab ich mit großer Freude gehört, da<c rendition="#langesS">s</c>s du dich viel wohler befinde<c rendition="#langesS">s</c>t. Nun möchte ich aber gern recht bald ein Wort von dir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t vernehmen, und wi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en, wie es mit deinen Plänen für die näch<c rendition="#langesS">s</c>te Zeit<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>teht. Ich bin seit <anchor xml:id="K_L01376_1" type="commentary"/>Freitag Abend<note xml:id="K_L01376_1h" type="commentary">eigentlich schon seit dem <ref target="1904-02-19" subtype="date-only" type="schnitzlerDiary"/> abends (einem Donnerstag)</note> wieder in <rs ref="#pmb50" type="place">Wien</rs>; wir (<rs ref="#pmb2173" type="person">Olga</rs> u ich) waren <pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>auf der Rückreise einen Tag in <rs ref="#pmb866" type="place">Dresden</rs> und haben allzukurze Stunden in der <rs ref="#pmb5" type="place">Galerie</rs> verbracht.</p><p>Über den <rs ref="#pmb29985" type="work">Ein<c rendition="#langesS">s</c>amen Weg</rs> ha<c rendition="#langesS">s</c>t du wohl,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oweit es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich um den äußerlichen Verlauf des er<c rendition="#langesS">s</c>ten Abends handelt, das we<c rendition="#langesS">s</c>entliche gele<c rendition="#langesS">s</c>en. Es war ein leidlicher Abfall, Hu<c rendition="#langesS">s</c>ten und Unruhe von Anbeginn, matter Beifall nach 2. u 3. Akt mit Wider<c rendition="#langesS">s</c>pruch; Gelächter und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tarker Beifall nach dem 4. Akt, viel Applaus und viel Zi<c rendition="#langesS">s</c>chen am <pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>Schlu<c rendition="#langesS">s</c>s. Der 2. Abend, ausverkauft, ging beträchtlich be<c rendition="#langesS">s</c><c rendition="#langesS">s</c>er – und nun<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>cheint<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich, wie ich aus <rs ref="#pmb168" type="place">Berlin</rs> höre, das Stück, das bei einem Theil der Kritik<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr lebhafte Anerkennung fand, doch einige Zeit halten zu wollen. In <rs ref="#pmb50" type="place">Wien</rs> war eigentlich nur das <rs ref="#pmb11485" type="person">Goldmann</rs>’<c rendition="#langesS">s</c>che <anchor xml:id="K_L01376_2" type="commentary"/><rs type="work" ref="#pmb31277" subtype="implied">Telegra<c rendition="#gemination-m"/></rs><note xml:id="K_L01376_2h" type="commentary"><bibl>[O. V.:] <rs ref="#pmb31277" type="work">Schnitzlers »Einsamer Weg« (Telegramm der »Neuen Freien Presse«)</rs>. In: <rs ref="#pmb36374" type="work">Neue Freie Presse</rs>, Nr. 14178, <date>14. 2. 1904</date>, S. 12</bibl>.</note> wirklich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chlecht – was er mir per<c rendition="#langesS">s</c>önlich über das <rs type="work" ref="#pmb29985" subtype="implied">Stück</rs> zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen wußte, waren nur die folgenden Worte, als ich ihn ein paar Tage nach der Première zum Ab<c rendition="#langesS">s</c>chied <pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>be<c rendition="#langesS">s</c>uchte<subst><del rend="overwritten">,</del><add place="inline">:</add></subst> »Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreibe eben das <anchor xml:id="K_L01376_3" type="commentary"/><rs type="work" ref="#pmb31281" subtype="implied">Feuillet</rs><note xml:id="K_L01376_3h" type="commentary"><bibl><rs ref="#pmb11485" type="person">Paul Goldmann</rs>: <rs ref="#pmb31281" type="work">Berliner Theater. »Der einsame Weg«. Von Arthur Schnitzler</rs>. In: <rs ref="#pmb36374" type="work">Neue Freie Presse</rs>, Nr. 14187, <date>23. 2. 1904</date>, S. 1–3</bibl>.</note> über den <rs ref="#pmb29985" type="work">E. W.</rs> – Du wir<c rendition="#langesS">s</c>t keine Freude daran haben.« – Die Fehler des <rs type="work" ref="#pmb29985" subtype="implied">Stücks</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>pür ich jetzt wie mir vorko<c rendition="#gemination-m"/>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr genau: Das Verhältnis zwi<c rendition="#langesS">s</c>chen <rs type="work" ref="#pmb29985" subtype="implied">Sala</rs> u <hi rend="latintype">Johann<unclear>a</unclear></hi> müßte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon zu Beginn völlig declarirt sein – das i<c rendition="#langesS">s</c>t ein techni<c rendition="#langesS">s</c>cher Fehler, de<subst><del rend="overwritten">r</del><add place="inline">n</add></subst> gutzumachen in meinen Kräften<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tände. Andres aber dürfte in den Mängeln meiner Begabung begründet<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein –<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o insbe<c rendition="#langesS">s</c>ondre eine gewi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e Steifigkeit im We<c rendition="#langesS">s</c>en <pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>Julians. Immerhin bleibt es eine<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chwierige Sache von einer Per<c rendition="#langesS">s</c>on die Meinung verbreiten zu wollen –<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ei einmal ein Genie gewe<c rendition="#langesS">s</c>en. Ja we<c rendition="#gemination-n"/> man das Bild ins Foyer hängen könnte, das <rs type="work" ref="#pmb29985" subtype="implied">Julian</rs> vor 25 Jahren gemalt und das ihn berühmt gemacht hat! Übrigens – vielleicht wäre es auch im Augenblick verge<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en, da man<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich wieder ins Parket begibt.</p><p>Was ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t an dem <rs type="work" ref="#pmb29985" subtype="implied">Stück</rs> wirklich liebe, i<c rendition="#langesS">s</c>t der fünfte Akt und die <pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>Ge<c rendition="#langesS">s</c>talt des <rs type="work" ref="#pmb29985" subtype="implied">Sala</rs>, der gegenüber ich mich, eigentlich das er<c rendition="#langesS">s</c>te Mal in meinem Leben, als eine Art von Schöpfer fühle. Und der fünfte Akt bedeutet mir zuweilen etwas mehr als der Abschlu<c rendition="#langesS">s</c>s eines Dramas – ja nicht viel weniger als der Abschlu<c rendition="#langesS">s</c>s von 42<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t gelebten Jahren. <add place="inline">–</add> Nun<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eh ich mancherlei vor mir, was mir, wenn ich etwas weniger faul, etwas weniger zer<c rendition="#langesS">s</c>treut, und mit <del rend="strikethrough"><gap unit="chars" quantity="4" reason="illegible"/>-</del> wahrer Inten<c rendition="#langesS">s</c>ität begabt wäre, nach dem<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>on<c rendition="#langesS">s</c>tigen Stande meines Innern, eigentlich gelingen müßte. –</p><p><pb facs="https://www.theatermuseum.at/de/object/368b9b6dc0/"/>– Wir haben in <rs ref="#pmb168" type="place">Berlin</rs> oft von dir ge<c rendition="#langesS">s</c>prochen und alle Leute die du kenn<c rendition="#langesS">s</c>t la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en dich grüßen. Meine <rs ref="#pmb451" type="place">siciliani<c rendition="#langesS">s</c>chen</rs> und <rs ref="#pmb41212" type="place">korfioli<c rendition="#langesS">s</c>chen</rs> Pläne weben weiter – wir<c rendition="#langesS">s</c>t du auch  <c rendition="#langesS">s</c>üdlicher wandern und werden wir uns<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehen? Meine <rs type="person" ref="#pmb2173" subtype="implied">Frau</rs> grüßt dich herzlich, ich desgleichen und wir wären<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr froh, wenn wir bald noch be<c rendition="#langesS">s</c><c rendition="#langesS">s</c>eres, ganz gutes von dir hörten.</p><closer>Dein<lb/><signed>Arthur</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2292">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Gertrude von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1880-03-16">16. 3. 1880</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1959-11-09">9. 11. 1959</tei:date>
+                     <tei:placeName ref="#pmb46885">Paddington</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/116952199/</idno>
+               </person><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb10860">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Paula</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1879-02-25">25. 2. 1879</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-10-30">30. 10. 1939</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/119044994/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13550</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2219">
+                  <tei:persName>
+                     <tei:surname>Karg-Bebenburg</tei:surname>
+                     <tei:forename>Edgar von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1872-12-22">22. 12. 1872</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1905-06-23">23. 6. 1905</tei:date>
+                     <tei:placeName ref="#pmb30">Salzburg</tei:placeName>
+                  </tei:death>
+                  <occupation code="122">Marineoffizier</occupation>
+                  <occupation code="123">Militär</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/12061278X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16717</idno>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb11485">
+                  <tei:persName>
+                     <tei:surname>Goldmann</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1865-01-31">31. 1. 1865</tei:date>
+                     <tei:placeName ref="#pmb677">Breslau</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1935-09-25">25. 9. 1935</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116755105/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15529</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29985">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der einsame Weg. Schauspiel in fünf Akten</tei:title>
+                  <tei:date from="1904-01-01" from-custom="1904">1904</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>7001</tei:note>
+                  <tei:note>7002</tei:note>
+                  <tei:note>9863</tei:note>
+                  <tei:note>9864</tei:note>
+                  <tei:note>9865</tei:note>
+                  <tei:note>9866</tei:note>
+                  <tei:note>9867</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1198519/</idno>
+               </bibl><bibl xml:id="pmb31277">
+                  <tei:author ref="pmb11485" role="author">
+                     <tei:surname>Goldmann</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:author>
+                  <tei:title>Schnitzlers »Einsamer Weg« (Telegramm der »Neuen Freien Presse«)</tei:title>
+                  <tei:date from="1904-02-14" from-custom="14.02.1904">14. 2. 1904</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>3007</tei:note>
+               </bibl><bibl xml:id="pmb36374">
+                  <tei:title>Neue Freie Presse</tei:title>
+                  <tei:date from="1864-01-01" from-custom="1864" to="1939-01-01" to-custom="1939">1864–1939</tei:date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <tei:note>3479</tei:note>
+               </bibl><bibl xml:id="pmb31281">
+                  <tei:author ref="pmb11485" role="author">
+                     <tei:surname>Goldmann</tei:surname>
+                     <tei:forename>Paul</tei:forename>
+                  </tei:author>
+                  <tei:title>Berliner Theater. »Der einsame Weg«. Von Arthur Schnitzler</tei:title>
+                  <tei:date from="1904-02-23" from-custom="23.02.1904">23. 2. 1904</tei:date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <tei:note>3008</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb63">
+                  <tei:placeName>XIII., Hietzing</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.17547 16.29101</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2776420/</idno>
+               </place><place xml:id="pmb866">
+                  <tei:placeName>Dresden</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.0833 13.7666</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2935020/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1731/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4012995-0/</idno>
+               </place><place xml:id="pmb5">
+                  <tei:placeName>Gemäldegalerie Alte Meister</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i6">Gallerie</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.053528 13.734861</tei:geo>
+                  </tei:location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q4890/</idno>
+               </place><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb451">
+                  <tei:placeName>Sizilien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i47">Region</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">37.75 14.25</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2523119/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q4951156/</idno>
+               </place><place xml:id="pmb41212">
+                  <tei:placeName>Korfu</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i57">Insel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">39.598055 19.852222</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2463678/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q121378/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4073728-7/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

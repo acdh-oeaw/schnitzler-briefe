@@ -1,222 +1,184 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01007"
-   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 24. 12. 1899</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01007</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01007" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 24. 12. 1899</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01007</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="1" type="_blaetter"/>
-                           <desc n="3" type="_seiten"/>
-                           <desc type="umschlag"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#59">Wien 9/1</placeName>
-                                    <date>2<supplied>4. 12. 1899</supplied>
-                                    </date>
-                                    <time>5–6V</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASBH">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <author ref="#10863">Beer-Hofmann, Richard</author>
-                     <title level="m">Briefwechsel 1891–1931</title>
-                     <editor>Hg. Konstanze Fliedl</editor>
-                     <imprint>
-                        <pubPlace>Wien, Zürich</pubPlace>
-                        <publisher>Europaverlag</publisher>
-                        <date when="1992">1992</date>
-                     </imprint>
-                     <biblScope unit="pp">140</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1899-12-24" n="01">24. 12. 1899</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01006">Schnitzler an
-                  Beer-Hofmann, 19. 12. 1899</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01008">Schnitzler an
-                  Beer-Hofmann, 25. 12. 1899</ref>
-               <ref subtype="previous_letter" type="withinCorrespondence" target="L01006">Schnitzler
-                  an Beer-Hofmann, 19. 12. 1899</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01008">Schnitzler an
-                  Beer-Hofmann, 25. 12. 1899</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6F10-4</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="3" type="_seiten"/><desc type="umschlag"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb59">Wien 9/1</placeName><date>2<supplied>4. 12. 1899</supplied></date><time>5–6V</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">140</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1899-12-24" n="01">24. 12. 1899</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01006">Schnitzler an
+                  Beer-Hofmann, 19. 12. 1899</ref><ref subtype="next_letter" type="withinCollection" target="L01008">Schnitzler an
+                  Beer-Hofmann, 25. 12. 1899</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01006">Schnitzler
+                  an Beer-Hofmann, 19. 12. 1899</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01008">Schnitzler an
+                  Beer-Hofmann, 25. 12. 1899</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change>
-         <change who="GHS" when="2019-12-15">überprüft am Faksimile</change>
-         <change who="MAM" when="2020-01-14">Index check</change>
-         <change who="MAM" when="2020-10-01">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1899_AS_RBH_3_00050"/>
-      <graphic url="1899_AS_RBH_3_00051"/>
-      <graphic url="1899_AS_RBH_3_00052"/>
-      <graphic url="1899_AS_RBH_3_00053"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="1899_AS_RBH_3_00050"/>Herrn <hi rend="latintype">Dr. Richard
-                     Beer-Hofmann</hi>
-               </addrLine>
-               <addrLine>
-                  <rs ref="#50" type="place">Wien</rs>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs ref="#338" type="place">I. Wollzeile 15</rs>
-                  </hi>.</addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="1899_AS_RBH_3_00052"/>
-                  <date when="1899-12-24">24. 12. 99</date>
-               </dateline>
-               <salute>mein lieber Richard,</salute>
-            </opener>
-            <p>ich ka<c rendition="#gemination-n"/> nur ſagen, es iſt geradezu feinſinnig, was
-               diesmal keine Beleidigung bedeuten ſoll, und ich bin (wiſſen Sie kein andres Wort?)
-               beſchämt, befangen – und verſuche mich mit einem Witz aus der Affaire zu <pb
-                  facs="1899_AS_RBH_3_00053"/>ziehen – z. B. daſs ich immer auf einen der <rs
-                  type="work" ref="#32562">3 Einakter</rs> verzichten muſs – bei Ihrem Geſchenk auf
-               die <rs type="work" ref="#29845">Gefährtin</rs> – aber ich will (was gleich ein
-               zweiter Witz iſt) die Schachtel ſelbſt als Gefährtin anſehen da sie (dritter Witz)
-               keine alte iſt.</p>
-            <p>
-               <pb facs="1899_AS_RBH_3_00053"/>Also herzlichen Dank und Gruſs; auf Wiederſehen
-                  <anchor xml:id="K_L01007_1" type="commentary"/>
-               <rs ref="#42614" subtype="implied" type="work">morgen</rs>
-               <note xml:id="K_L01007_1h" type="commentary">Am <rs type="org"
-                  ref="#39689">Theater in der Josefstadt</rs> wurde am <ref target="1899-12-25"
-                     subtype="date-only" type="schnitzlerDiary"/>  
-                  <space unit="chars" quantity="1"/>
-                  <rs type="work" ref="#42614">Gläubiger</rs> von <rs type="person" ref="#12877"
-                     >August Strindberg</rs> und <rs type="work" ref="#43165">Die
-                     Mondscheinsonate</rs> von <rs type="person" ref="#13159">Ludwig Wolff</rs>
-                  gegeben.</note>, wohl ſchon in der <rs type="place" ref="#40">Joſefſtadt</rs>.</p>
-            <closer>Ihr <signed>Arthur</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-12-15">überprüft am Faksimile</change><change who="MAM" when="2020-01-14">Index check</change><change who="MAM" when="2020-10-01">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="1899_AS_RBH_3_00050"/><graphic url="1899_AS_RBH_3_00051"/><graphic url="1899_AS_RBH_3_00052"/><graphic url="1899_AS_RBH_3_00053"/></facsimile><text type="letter"><body><div type="address"><address><addrLine><pb facs="1899_AS_RBH_3_00050"/>Herrn <hi rend="latintype">Dr. Richard Beer-Hofmann</hi></addrLine><addrLine><rs ref="#pmb50" type="place">Wien</rs></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb338" type="place">I. Wollzeile 15</rs></hi>.</addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="1899_AS_RBH_3_00052"/><date when="1899-12-24">24. 12. 99</date></dateline><salute>mein lieber Richard,</salute></opener><p>ich ka<c rendition="#gemination-n"/> nur<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen, es i<c rendition="#langesS">s</c>t geradezu fein<c rendition="#langesS">s</c>innig, was diesmal keine Beleidigung bedeuten<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll, und ich bin (wi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Sie kein andres Wort?) be<c rendition="#langesS">s</c>chämt, befangen – und ver<c rendition="#langesS">s</c>uche mich mit einem Witz aus der Affaire zu <pb facs="1899_AS_RBH_3_00053"/>ziehen – z. B. da<c rendition="#langesS">s</c>s ich immer auf einen der <rs type="work" ref="#pmb32562">3 Einakter</rs> verzichten mu<c rendition="#langesS">s</c>s – bei Ihrem Ge<c rendition="#langesS">s</c>chenk auf die <rs type="work" ref="#pmb29845">Gefährtin</rs> – aber ich will (was gleich ein zweiter Witz i<c rendition="#langesS">s</c>t) die Schachtel<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t als Gefährtin an<c rendition="#langesS">s</c>ehen da sie (dritter Witz) keine alte i<c rendition="#langesS">s</c>t.</p><p><pb facs="1899_AS_RBH_3_00053"/>Also herzlichen Dank und Gru<c rendition="#langesS">s</c>s; auf Wieder<c rendition="#langesS">s</c>ehen <anchor xml:id="K_L01007_1" type="commentary"/><rs ref="#pmb42614" subtype="implied" type="work">morgen</rs><note xml:id="K_L01007_1h" type="commentary">Am <rs type="org" ref="#pmb39689">Theater in der Josefstadt</rs> wurde am <ref target="1899-12-25" subtype="date-only" type="schnitzlerDiary"/><space unit="chars" quantity="1"/><rs type="work" ref="#pmb42614">Gläubiger</rs> von <rs type="person" ref="#pmb12877">August Strindberg</rs> und <rs type="work" ref="#pmb43165">Die Mondscheinsonate</rs> von <rs type="person" ref="#pmb13159">Ludwig Wolff</rs> gegeben.</note>, wohl<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon in der <rs type="place" ref="#pmb40">Jo<c rendition="#langesS">s</c>ef<c rendition="#langesS">s</c>tadt</rs>.</p><closer>Ihr <signed>Arthur</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb12877">
+                  <tei:persName>
+                     <tei:surname>Strindberg</tei:surname>
+                     <tei:forename>August</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1849-01-22">22. 1. 1849</tei:date>
+                     <tei:placeName ref="#pmb1119">Stockholm</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1912-05-14">14. 5. 1912</tei:date>
+                     <tei:placeName ref="#pmb1119">Stockholm</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118619314/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20530</idno>
+               </person><person xml:id="pmb13159">
+                  <tei:persName>
+                     <tei:surname>Wolff</tei:surname>
+                     <tei:forename>Ludwig</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1876-03-07">7. 3. 1876</tei:date>
+                     <tei:placeName ref="#pmb48098">Bielsko-Biała</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date>nach 1958</tei:date>
+                     <tei:placeName ref="#pmb43406">Vereinigte Staaten von Amerika (USA)</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="115">Dramaturg*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/104298170/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21448</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb32562">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</tei:title>
+                  <tei:date when="1899-03-01" when-custom="1.3.1899">1. 3. 1899</tei:date>
+                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
+               </bibl><bibl xml:id="pmb29845">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Gefährtin</tei:title>
+                  <tei:date from="1899-03-01" from-custom="1899-03-01">1. 3. 1899</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>9024</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1212860/</idno>
+               </bibl><bibl xml:id="pmb42614">
+                  <tei:author ref="pmb12877" role="author">
+                     <tei:surname>Strindberg</tei:surname>
+                     <tei:forename>August</tei:forename>
+                  </tei:author>
+                  <tei:title>Gläubiger</tei:title>
+                  <tei:date from="1892-01-01" from-custom="1892">1892</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+               </bibl><bibl xml:id="pmb43165">
+                  <tei:author ref="pmb13159" role="author">
+                     <tei:surname>Wolff</tei:surname>
+                     <tei:forename>Ludwig</tei:forename>
+                  </tei:author>
+                  <tei:title>Die Mondscheinsonate. Komödie in einem Akt</tei:title>
+                  <tei:date when="1899-07-02" when-custom="1899">1899</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb59">
+                  <tei:placeName>IX., Alsergrund</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb338">
+                  <tei:placeName>Wollzeile</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.20852 16.37592</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb40">
+                  <tei:placeName>Theater in der Josefstadt</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1788-01-01" from-custom="1788-01-01">1. 1. 1788</tei:date>
+                     <tei:gloss ana="i4">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.209583 16.351111</tei:geo>
+                  </tei:location>
+               </place></listPlace><listOrg><org xml:id="pmb39689">
+                  <tei:orgName>Theater in der Josefstadt</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1788-01-01" from-custom="1788">1788</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb58">
+                     <tei:placeName>VIII., Josefstadt</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.21126 16.34706</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb40">
+                     <tei:placeName>Theater in der Josefstadt</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.209583 16.351111</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb51915">
+                     <tei:placeName>Josefstädter Straße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.20995865037859 16.347448769410484</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/251387-0/</idno>
+               </org></listOrg></back></text></TEI>

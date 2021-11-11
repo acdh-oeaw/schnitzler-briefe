@@ -1,227 +1,171 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01606"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur und Olga Schnitzler an Richard Beer-Hofmann,
-               3. 7. 1906</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <author ref="#2173">Schnitzler, Olga</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L01606</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01606" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur und Olga Schnitzler an Richard Beer-Hofmann,
+               3. 7. 1906</title><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb2173">Schnitzler, Olga</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01606</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="bildpostkarte"/>
-                        </objectDesc>
-                        <handDesc hands="2">
-                           <handNote medium="bleistift" corresp="#2121" style="deutsche-kurrent"/>
-                           <handNote medium="bleistift" corresp="#2173" style="nicht_anzuwenden"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <date>3. 7. 06</date>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASBH">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <author ref="#10863">Beer-Hofmann, Richard</author>
-                     <title level="m">Briefwechsel 1891–1931</title>
-                     <editor>Hg. Konstanze Fliedl</editor>
-                     <imprint>
-                        <pubPlace>Wien, Zürich</pubPlace>
-                        <publisher>Europaverlag</publisher>
-                        <date when="1992">1992</date>
-                     </imprint>
-                     <biblScope unit="pp">178</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <persName ref="#2173">Schnitzler, Olga</persName>
-               <placeName ref="#959">Marienlyst</placeName>
-               <date when="1906-07-03" n="01">3. 7. 1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <placeName ref="#173">Rodaun</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01605">Hofmannsthal an Schnitzler, [zwischen 24. und 27. 6. 1906]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01607">Bahr an Schnitzler, 4. 7. 1906</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01603">Schnitzler an Beer-Hofmann, 24. 6. 1906</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01611">Beer-Hofmann an Schnitzler, 13. 7. 1906</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7166-0</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc hands="2"><handNote medium="bleistift" corresp="#pmb2121" style="deutsche-kurrent"/><handNote medium="bleistift" corresp="#pmb2173" style="nicht_anzuwenden"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><date>3. 7. 06</date></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">178</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><persName ref="#pmb2173">Schnitzler, Olga</persName><placeName ref="#pmb959">Marienlyst</placeName><date when="1906-07-03" n="01">3. 7. 1906</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb173">Rodaun</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01605">Hofmannsthal an Schnitzler, [zwischen 24. und 27. 6. 1906]</ref><ref subtype="next_letter" type="withinCollection" target="L01607">Bahr an Schnitzler, 4. 7. 1906</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01603">Schnitzler an Beer-Hofmann, 24. 6. 1906</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01611">Beer-Hofmann an Schnitzler, 13. 7. 1906</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change>
-         <change who="MAM" when="2020-06-16">Index check</change>
-         <change who="GHS" when="2020-08-05">Durchsicht</change>
-         <change who="MAM" when="2021-01-13">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1906_AS_RBH_1_00008"/>
-      <graphic url="1906_AS_RBH_1_00009"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="1906_AS_RBH_1_00008"/>
-                  <hi rend="latintype">Dr. Richard Beer Hofmann</hi>
-               </addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs ref="#173" type="place">Rodaun</rs> b/<rs type="place" ref="#50">Wien</rs>
-                  </hi>
-               </addrLine>
-               <addrLine>
-                  <rs type="place" ref="#40101">
-                     <hi rend="latintype">Liesingerstr</hi>. 2</rs>.</addrLine>
-               <addrLine>
-                  <hi rend="latintype">
-                     <rs ref="#41240" type="place">Austria</rs>
-                  </hi>
-               </addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="center">
-                  <pb facs="1906_AS_RBH_1_00009"/>
-                  <hi rend="pre-print">Hilsen fra <rs type="place" ref="#959">Marienlyst</rs>.</hi>
-               </p>
-               <dateline rend="right">
-                  <rs ref="#41010" type="place">
-                     <hi rend="latintype">Marienlyst, Kurhaus</hi>
-                  </rs>,
-                     <date when="1906-07-03">3/7. 9<unclear>06</unclear>
-                  </date>
-               </dateline>
-            </opener>
-            <p>Wunderſchön hier. Dürften längre Zeit bleiben. Habe geſtern <rs ref="#10992" type="person">Brandes</rs> beſucht, der im <rs ref="#1109" type="place">
-                  <hi rend="latintype">Co<c rendition="#gemination-m"/>une Hospital</hi>
-               </rs> wieder
-               mit ſeiner Venenentzündung krank liegt aber friſch iſt wie je.</p>
-            <p>Laſſen Sie von ſich und den Ihren hören. Herzlichſt,</p>
-            <closer>Ihr <signed>A.</signed>
-               <lb/>
-               <signed>
-                  <handShift scribe="#2173"/>O. S.</signed>
-            </closer>
-            <p>
-               <handShift scribe="#2121"/>
-               <rs ref="#30233" type="work">
-                  <hi rend="latintype">Charolais</hi>
-               </rs> wird im Herbſt in <rs ref="#36300" type="place">
-                  <hi rend="latintype">Kopenhagen</hi>
-               </rs> aufgeführt.</p>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="MAM" when="2020-06-16">Index check</change><change who="GHS" when="2020-08-05">Durchsicht</change><change who="MAM" when="2021-01-13">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="1906_AS_RBH_1_00008"/><graphic url="1906_AS_RBH_1_00009"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="1906_AS_RBH_1_00008"/><hi rend="latintype">Dr. Richard Beer Hofmann</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb173" type="place">Rodaun</rs> b/<rs type="place" ref="#pmb50">Wien</rs></hi></addrLine><addrLine><rs type="place" ref="#pmb40101"><hi rend="latintype">Liesingerstr</hi>. 2</rs>.</addrLine><addrLine><hi rend="latintype"><rs ref="#pmb41240" type="place">Austria</rs></hi></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="1906_AS_RBH_1_00009"/><hi rend="pre-print">Hilsen fra <rs type="place" ref="#pmb959">Marienlyst</rs>.</hi></p><dateline rend="right"><rs ref="#pmb41010" type="place"><hi rend="latintype">Marienlyst, Kurhaus</hi></rs>, <date when="1906-07-03">3/7. 9<unclear>06</unclear></date></dateline></opener><p>Wunder<c rendition="#langesS">s</c>chön hier. Dürften längre Zeit bleiben. Habe ge<c rendition="#langesS">s</c>tern <rs ref="#pmb10992" type="person">Brandes</rs> be<c rendition="#langesS">s</c>ucht, der im <rs ref="#pmb1109" type="place"><hi rend="latintype">Co<c rendition="#gemination-m"/>une Hospital</hi></rs> wieder mit<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>einer Venenentzündung krank liegt aber fri<c rendition="#langesS">s</c>ch i<c rendition="#langesS">s</c>t wie je.</p><p>La<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Sie von<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich und den Ihren hören. Herzlich<c rendition="#langesS">s</c>t,</p><closer>Ihr <signed>A.</signed><lb/><signed><handShift scribe="#pmb2173"/>O. S.</signed></closer><p><handShift scribe="#pmb2121"/><rs ref="#pmb30233" type="work"><hi rend="latintype">Charolais</hi></rs> wird im Herb<c rendition="#langesS">s</c>t in <rs ref="#pmb36300" type="place"><hi rend="latintype">Kopenhagen</hi></rs> aufgeführt.</p></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb10992">
+                  <tei:persName>
+                     <tei:surname>Brandes</tei:surname>
+                     <tei:forename>Georg</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:death>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514326/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13920</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30233">
+                  <tei:author ref="pmb10863" role="author">
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:author>
+                  <tei:title>Der Graf von Charolais. Ein Trauerspiel</tei:title>
+                  <tei:date when="1904-12-23" when-custom="1904-12-23">23. 12. 1904</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>6195</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb959">
+                  <tei:placeName>Marienlyst</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i41">Schloss</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">56.042028 12.601917</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2617052/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q359027/</idno>
+               </place><place xml:id="pmb173">
+                  <tei:placeName>Rodaun</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2767332/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb40101">
+                  <tei:placeName>Liesingerstraße</tei:placeName>
+                  <tei:desc>
+                     <tei:date to="1957-07-02" to-custom="1957-07-02">2. 7. 1957</tei:date>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.1332 16.25864</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb41240">
+                  <tei:placeName>Österreich</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1107">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb41010">
+                  <tei:placeName>Kurhotellet</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">56.044988 12.603924</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb1109">
+                  <tei:placeName>Kommunehospitalet</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i23">Krankenhaus</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.684556 12.570783</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb36300">
+                  <tei:placeName>Kopenhagen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2618425/copenhagen.html/</idno>
+                  <idno type="geonames">https://www.geonames.org/2618425/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1748/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4032399-7/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

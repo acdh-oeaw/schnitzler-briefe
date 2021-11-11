@@ -1,181 +1,253 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00884"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Arthur Schnitzler an Ludwig Ganghofer, 4. 2. 1899</title>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00884</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00884" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Ludwig Ganghofer, 4. 2. 1899</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00884</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>D</country>
-                        <settlement>München</settlement>
-                        <repository>Monacensia</repository>
-                        <idno>Nachl. Ludwig Ganghofer, B 170</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="3" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1899-02-04" n="01">4. 2. 1899</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#11402">Ganghofer, Ludwig</persName>
-               <placeName ref="#45258">München</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11402">Ganghofer, Ludwig</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00883">Hofmannsthal an Schnitzler, 2. 2. 1899</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00885">Schnitzler an Beer-Hofmann, 7. 2. 1899</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                            Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6E95-F</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>München</settlement><repository>Monacensia</repository><idno>Nachl. Ludwig Ganghofer, B 170</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1899-02-04" n="01">4. 2. 1899</date></correspAction><correspAction type="received"><persName ref="#pmb11402">Ganghofer, Ludwig</persName><placeName ref="#pmb45258">München</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11402">Ganghofer, Ludwig</ref><ref subtype="previous_letter" type="withinCollection" target="L00883">Hofmannsthal an Schnitzler, 2. 2. 1899</ref><ref subtype="next_letter" type="withinCollection" target="L00885">Schnitzler an Beer-Hofmann, 7. 2. 1899</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2020-10-13">Angelegt</change>
-         <change who="MAM" when="2020-11-18">Index check</change>
-         <change who="GHS" when="2021-02-08">Durchsicht</change>
-         <change who="MAM" when="2021-02-23">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="SchnitzlerArthur_LG_B_170_ad"/>
-      <graphic url="SchnitzlerArthur_LG_B_170_bc"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <p>
-               <pb facs="SchnitzlerArthur_LG_B_170_ad"/>
-               <salute>Sehr geehrter Herr, </salute>mein Telegramm hat Ihnen bereits
-                    mitgetheilt, dſs der »<rs type="work" ref="#29843">grüne Kakadu</rs>« (mit
-                    einigen Strichen natürlich) am <rs type="org" ref="#36247">Burgtheater</rs> zur
-                    Aufführg kommt. Das ſoll zu <anchor xml:id="K_L00884_1" type="commentary"/>
-               <date>Anfang März</date>
-               <note xml:id="K_L00884_1h" type="commentary">Die Uraufführung fand am <ref type="schnitzlerDiary" target="1899-03-01" subtype="date-only"/>
-                        statt.</note> geſchehen. Nun habe ich auch mit <rs type="person" ref="#11391">
-                  <hi rend="latintype">Fulda</hi>
-               </rs>, der eben in <rs type="place" ref="#50">Wien</rs> iſt, wegen der <rs type="place" ref="#168">Berlin</rs>er Prem. früher geſprochen, und die
-                    Zuſage erhalten, daſs der »<rs type="work" ref="#29843">Kakadu</rs>« <pb facs="SchnitzlerArthur_LG_B_170_bc"/>
-               <anchor xml:id="K_L00884_2" type="commentary"/>
-               <date>Anfang April</date>
-               <note xml:id="K_L00884_2h" type="commentary">Die Premiere am <rs type="org" ref="#35597">Deutschen Theater</rs> fand am <date>29. 4. 1899</date>
-                        statt.</note>, ſpäteſtens <date>10.</date> in <rs type="place" ref="#168">Berlin</rs> geſpielt werden wird. Ich möchte Sie alſo bitten, das Stück
-                    nicht früher zu geben; mir wäre es am liebſten, we<c rendition="#gemination-n"/>
-                    Sie es etwa um den <date>15. April</date> herum herausbringen könnten, ſo daſs
-                    ich von <rs type="place" ref="#168">Berlin</rs> aus zu Ihren Proben reiſen
-                    könnte. Eine Aufführg in <rs type="place" ref="#45258">München</rs> vor <rs type="place" ref="#168">Berlin</rs> wäre mir in Hinblick auf frühere
-                    Verabredungen <pb facs="SchnitzlerArthur_LG_B_170_bc"/>mit <rs type="person" ref="#10986">Brahm</rs> und <rs type="person" ref="#11391">Fulda</rs>, <hi rend="underline" n="1">nicht</hi> erwünſcht und ich hoffe, es hat keine
-                    Schwierigkeiten für Sie, die <anchor xml:id="K_L00884_3" type="commentary"/>Aufführg bis <date>Mitte April</date>
-               <note xml:id="K_L00884_3h" type="commentary">Die Aufführung durch die <rs type="org" ref="#50639">Münchener Litterarische Gesellschaft</rs> fand
-                        am Tag der <rs type="place" ref="#168">Berlin</rs>er Premiere, am
-                        <date>29. 4. 1899</date>, im <rs type="org" ref="#48177">Residenztheater</rs> statt.</note> hinauszuſchieben.</p>
-            <p>Iſt ſchon eine Wahl in Hinſicht auf das <anchor type="commentary" xml:id="K_L00884-4"/>
-               <rs type="work" ref="#50633 #50636">Stück</rs>
-               <note type="commentary" xml:id="K_L00884-4h">Gegeben wurde es mit <rs type="work" ref="#50633">Traum eines Frühlingsmorgens</rs> von <rs type="person" ref="#2142">Gabriele D’Annunzio</rs> und <rs type="work" ref="#50636">Mein Fürst</rs> von <rs type="person" ref="#9756">Wilhelm von
-                            Scholz</rs>.</note> getroffen, das zum <rs type="work" ref="#29843">Kakadu</rs> gegeben werden ſoll?</p>
-            <closer>In beſondrer Hochſchätzg ergebenſt<lb/>
-               <signed>DrArthur Schnitzler</signed>
-            </closer>
-            <postscript>
-               <dateline>
-                  <rs type="place" ref="#50">Wien</rs>, <date>4. Feber 99</date>.</dateline>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-10-13">Angelegt</change><change who="MAM" when="2020-11-18">Index check</change><change who="GHS" when="2021-02-08">Durchsicht</change><change who="MAM" when="2021-02-23">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="SchnitzlerArthur_LG_B_170_ad"/><graphic url="SchnitzlerArthur_LG_B_170_bc"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="SchnitzlerArthur_LG_B_170_ad"/><salute>Sehr geehrter Herr, </salute>mein Telegramm hat Ihnen bereits mitgetheilt, d<c rendition="#langesS">s</c>s der »<rs type="work" ref="#pmb29843">grüne Kakadu</rs>« (mit einigen Strichen natürlich) am <rs type="org" ref="#pmb36247">Burgtheater</rs> zur Aufführg kommt. Das<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll zu <anchor xml:id="K_L00884_1" type="commentary"/><date>Anfang März</date><note xml:id="K_L00884_1h" type="commentary">Die Uraufführung fand am <ref type="schnitzlerDiary" target="1899-03-01" subtype="date-only"/> statt.</note> ge<c rendition="#langesS">s</c>chehen. Nun habe ich auch mit <rs type="person" ref="#pmb11391"><hi rend="latintype">Fulda</hi></rs>, der eben in <rs type="place" ref="#pmb50">Wien</rs> i<c rendition="#langesS">s</c>t, wegen der <rs type="place" ref="#pmb168">Berlin</rs>er Prem. früher ge<c rendition="#langesS">s</c>prochen, und die Zu<c rendition="#langesS">s</c>age erhalten, da<c rendition="#langesS">s</c>s der »<rs type="work" ref="#pmb29843">Kakadu</rs>« <pb facs="SchnitzlerArthur_LG_B_170_bc"/><anchor xml:id="K_L00884_2" type="commentary"/><date>Anfang April</date><note xml:id="K_L00884_2h" type="commentary">Die Premiere am <rs type="org" ref="#pmb35597">Deutschen Theater</rs> fand am <date>29. 4. 1899</date> statt.</note>,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>päte<c rendition="#langesS">s</c>tens <date>10.</date> in <rs type="place" ref="#pmb168">Berlin</rs> ge<c rendition="#langesS">s</c>pielt werden wird. Ich möchte Sie al<c rendition="#langesS">s</c>o bitten, das Stück nicht früher zu geben; mir wäre es am lieb<c rendition="#langesS">s</c>ten, we<c rendition="#gemination-n"/> Sie es etwa um den <date>15. April</date> herum herausbringen könnten,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o da<c rendition="#langesS">s</c>s ich von <rs type="place" ref="#pmb168">Berlin</rs> aus zu Ihren Proben rei<c rendition="#langesS">s</c>en könnte. Eine Aufführg in <rs type="place" ref="#pmb45258">München</rs> vor <rs type="place" ref="#pmb168">Berlin</rs> wäre mir in Hinblick auf frühere Verabredungen <pb facs="SchnitzlerArthur_LG_B_170_bc"/>mit <rs type="person" ref="#pmb10986">Brahm</rs> und <rs type="person" ref="#pmb11391">Fulda</rs>, <hi rend="underline" n="1">nicht</hi> erwün<c rendition="#langesS">s</c>cht und ich hoffe, es hat keine Schwierigkeiten für Sie, die <anchor xml:id="K_L00884_3" type="commentary"/>Aufführg bis <date>Mitte April</date><note xml:id="K_L00884_3h" type="commentary">Die Aufführung durch die <rs type="org" ref="#pmb50639">Münchener Litterarische Gesellschaft</rs> fand am Tag der <rs type="place" ref="#pmb168">Berlin</rs>er Premiere, am <date>29. 4. 1899</date>, im <rs type="org" ref="#pmb48177">Residenztheater</rs> statt.</note> hinauszu<c rendition="#langesS">s</c>chieben.</p><p>I<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon eine Wahl in Hin<c rendition="#langesS">s</c>icht auf das <anchor type="commentary" xml:id="K_L00884-4"/><rs type="work" ref="#pmb50633 #pmb50636">Stück</rs><note type="commentary" xml:id="K_L00884-4h">Gegeben wurde es mit <rs type="work" ref="#pmb50633">Traum eines Frühlingsmorgens</rs> von <rs type="person" ref="#pmb2142">Gabriele D’Annunzio</rs> und <rs type="work" ref="#pmb50636">Mein Fürst</rs> von <rs type="person" ref="#pmb9756">Wilhelm von Scholz</rs>.</note> getroffen, das zum <rs type="work" ref="#pmb29843">Kakadu</rs> gegeben werden<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll?</p><closer>In be<c rendition="#langesS">s</c>ondrer Hoch<c rendition="#langesS">s</c>chätzg ergeben<c rendition="#langesS">s</c>t<lb/><signed>DrArthur Schnitzler</signed></closer><postscript><dateline><rs type="place" ref="#pmb50">Wien</rs>, <date>4. Feber 99</date>.</dateline></postscript></div></body><back><listPerson><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11402">
+                  <tei:persName>
+                     <tei:surname>Ganghofer</tei:surname>
+                     <tei:forename>Ludwig</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1855-07-07">7. 7. 1855</tei:date>
+                     <tei:placeName ref="#pmb47256">Kaufbeuren</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1920-07-24">24. 7. 1920</tei:date>
+                     <tei:placeName ref="#pmb39752">Tegernsee</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118537490/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15336</idno>
+               </person><person xml:id="pmb11391">
+                  <tei:persName>
+                     <tei:surname>Fulda</tei:surname>
+                     <tei:forename>Ludwig</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-07-15">15. 7. 1862</tei:date>
+                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-03-30">30. 3. 1939</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="116">Übersetzer*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118840452/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15306</idno>
+               </person><person xml:id="pmb10986">
+                  <tei:persName>
+                     <tei:surname>Brahm</tei:surname>
+                     <tei:forename>Otto</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1856-02-05">5. 2. 1856</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1912-11-28">28. 11. 1912</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="278">Literarhistoriker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514245/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13913</idno>
+               </person><person xml:id="pmb2142">
+                  <tei:persName>
+                     <tei:surname>D’Annunzio</tei:surname>
+                     <tei:forename>Gabriele</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-03-12">12. 3. 1863</tei:date>
+                     <tei:placeName ref="#pmb49189">Pescara</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1938-03-01">1. 3. 1938</tei:date>
+                     <tei:placeName ref="#pmb50969">Cargnacco</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118503243/</idno>
+               </person><person xml:id="pmb9756">
+                  <tei:persName>
+                     <tei:surname>Scholz</tei:surname>
+                     <tei:forename>Wilhelm von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-07-15">15. 7. 1874</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1969-05-29">29. 5. 1969</tei:date>
+                     <tei:placeName ref="#pmb9758">Schloss Seeheim</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="474">Präsident der Sektion für Dichtkunst der Preußischen Akademie der
+                        Künste</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118610392/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19863</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29843">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der grüne Kakadu. Groteske in einem Akt</tei:title>
+                  <tei:date when="1899-03-01" when-custom="1.3.1899">1. 3. 1899</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>2840</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q2675124/</idno>
+               </bibl><bibl xml:id="pmb50633">
+                  <tei:author ref="pmb2142" role="author">
+                     <tei:surname>D’Annunzio</tei:surname>
+                     <tei:forename>Gabriele</tei:forename>
+                  </tei:author>
+                  <tei:title>Traum eines Frühlingsmorgens</tei:title>
+                  <tei:date from="1897-06-15" from-custom="1897-06-15">15. 6. 1897</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>10001</tei:note>
+               </bibl><bibl xml:id="pmb50636">
+                  <tei:author ref="pmb9756" role="author">
+                     <tei:surname>Scholz</tei:surname>
+                     <tei:forename>Wilhelm von</tei:forename>
+                  </tei:author>
+                  <tei:title>Mein Fürst</tei:title>
+                  <tei:date from="1898-01-01" from-custom="1898">1898</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb45258">
+                  <tei:placeName>München</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2867714/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4127793-4/</idno>
+               </place><place xml:id="pmb168">
+                  <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb36247">
+                  <tei:orgName>Burgtheater</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1852-01-01" from-custom="1852">1852</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb14">
+                     <tei:placeName>Burgtheater</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.210333 16.361139</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb44649">
+                     <tei:placeName>Schlosstheater Schönbrunn</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.186667 16.3125</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/38633-9/</idno>
+               </org><org xml:id="pmb35597">
+                  <tei:orgName>Deutsches Theater Berlin</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1849-01-01" from-custom="1849">1849</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb3">
+                     <tei:placeName>Deutsches Theater Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.524444 13.382222</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/4058252-8/</idno>
+               </org><org xml:id="pmb50639">
+                  <tei:orgName>Münchener Litterarische Gesellschaft</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1897-11-04" from-custom="1897-11-04" to="1900-01-01" to-custom="Frühjahr 1900&lt;1900-01-01&gt;">4. 11. 1897 – Frühjahr 1900</tei:date>
+                     <tei:gloss ana="i997">Literarische Vereinigung</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb45258">
+                     <tei:placeName>München</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org><org xml:id="pmb48177">
+                  <tei:orgName>Residenztheater München</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1753-01-01" from-custom="1753">1753</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb635">
+                     <tei:placeName>Residenztheater München</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.139944 11.578786</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb45258">
+                     <tei:placeName>München</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>

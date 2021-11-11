@@ -1,188 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00919"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 29. 5. 1899</title>
-            <author ref="#10863">Beer-Hofmann, Richard</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00919</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00919" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 29. 5. 1899</title><author ref="#pmb10863">Beer-Hofmann, Richard</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00919</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 8</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="briefkarte">Faltkarte</desc>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="bleistift" style="lateinische-kurrent"/>
-                        </handDesc>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="ASBH">
-                  <monogr>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <author ref="#10863">Beer-Hofmann, Richard</author>
-                     <title level="m">Briefwechsel 1891–1931</title>
-                     <editor>Hg. Konstanze Fliedl</editor>
-                     <imprint>
-                        <pubPlace>Wien, Zürich</pubPlace>
-                        <publisher>Europaverlag</publisher>
-                        <date when="1992">1992</date>
-                     </imprint>
-                     <biblScope unit="pp">127–128</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10863">Beer-Hofmann, Richard</persName>
-               <placeName ref="#40454">Villach</placeName>
-               <date when="1899-05-29" n="01">29. 5. 1899</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00918">Bahr an Schnitzler, 21. 5. 1899</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00920">Hofmannsthal an Schnitzler, 30. 5. 1899</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00913">Beer-Hofmann an Schnitzler, 28. 4. 1899</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00921">Schnitzler an Beer-Hofmann, 1. 6. 1899</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6EB8-8</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte">Faltkarte</desc></objectDesc><handDesc><handNote medium="bleistift" style="lateinische-kurrent"/></handDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">127–128</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb40454">Villach</placeName><date when="1899-05-29" n="01">29. 5. 1899</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00918">Bahr an Schnitzler, 21. 5. 1899</ref><ref subtype="next_letter" type="withinCollection" target="L00920">Hofmannsthal an Schnitzler, 30. 5. 1899</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00913">Beer-Hofmann an Schnitzler, 28. 4. 1899</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00921">Schnitzler an Beer-Hofmann, 1. 6. 1899</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change>
-         <change who="GHS" when="2019-11-29">überprüft am Faksimile</change>
-         <change who="MAM" when="2020-04-27">Index check</change>
-         <change who="MAM" when="2020-09-28">Durchsicht</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00286"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="center">
-                  <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00286"/>
-                  <hi rend="pre-print">Platz</hi>.</p>
-               <p rend="center">
-                  <hi rend="pre-print">
-                     <pb facs=""/>Besten Gruss aus <rs type="place" ref="#40454">Villach</rs> sendet</hi>
-               </p>
-               <salute rend="center">Lieber Arthur!</salute>
-            </opener>
-            <p>In <anchor xml:id="T_L00919_1" type="textConst"/>diesem
-                  Hause<note xml:id="T_L00919_1h" type="textConst">Ein Pfeil
-                  mit Bleistift markiert das Gebäude auf der gedruckten Abbildung.</note> lebte von
-                  <date>1502</date> bis zu seinem Tode <date>8 Sept 1534</date> als Stadtarzt von
-                  <rs type="place" ref="#40454">Villach</rs>, <rs ref="#42948" type="person">Wilhelm
-                  Bombast von Hohenheim</rs>; sein Sohn, der durch Sie — so <anchor xml:id="K_L00919_1" type="commentary"/>
-               <rs type="work" ref="#29843">berühmte</rs>
-               <note xml:id="K_L00919_1h" type="commentary">Anspielung auf <rs type="person" ref="#2121">Schnitzler</rs>s Einakter <rs type="work" ref="#29843">Paracelsus</rs>.</note>
-               <space unit="chars" quantity="1"/>
-               <rs type="person" ref="#42949">Paracelsus</rs> lebte hier von
-                  <date>1502</date>–<date>1516</date>, und Richard Beer-Hofmann trank am
-                  <date>29/V 1899</date> hier schwarzen Kaffee; das letzte kann natürlich heute noch
-               nicht auf der Gedenktafel stehen.</p>
-            <closer>Herzlichst<lb/>
-               <signed>Richard</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-11-29">überprüft am Faksimile</change><change who="MAM" when="2020-04-27">Index check</change><change who="MAM" when="2020-09-28">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00286"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00286"/><hi rend="pre-print">Platz</hi>.</p><p rend="center"><hi rend="pre-print"><pb facs=""/>Besten Gruss aus <rs type="place" ref="#pmb40454">Villach</rs> sendet</hi></p><salute rend="center">Lieber Arthur!</salute></opener><p>In <anchor xml:id="T_L00919_1" type="textConst"/>diesem Hause<note xml:id="T_L00919_1h" type="textConst">Ein Pfeil mit Bleistift markiert das Gebäude auf der gedruckten Abbildung.</note> lebte von <date>1502</date> bis zu seinem Tode <date>8 Sept 1534</date> als Stadtarzt von <rs type="place" ref="#pmb40454">Villach</rs>, <rs ref="#pmb42948" type="person">Wilhelm Bombast von Hohenheim</rs>; sein Sohn, der durch Sie — so <anchor xml:id="K_L00919_1" type="commentary"/><rs type="work" ref="#pmb29843">berühmte</rs><note xml:id="K_L00919_1h" type="commentary">Anspielung auf <rs type="person" ref="#pmb2121">Schnitzler</rs>s Einakter <rs type="work" ref="#pmb29843">Paracelsus</rs>.</note><space unit="chars" quantity="1"/><rs type="person" ref="#pmb42949">Paracelsus</rs> lebte hier von <date>1502</date>–<date>1516</date>, und Richard Beer-Hofmann trank am <date>29/V 1899</date> hier schwarzen Kaffee; das letzte kann natürlich heute noch nicht auf der Gedenktafel stehen.</p><closer>Herzlichst<lb/><signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb42948">
+                  <tei:persName>
+                     <tei:surname>Bombast von Hohenheim</tei:surname>
+                     <tei:forename>Wilhelm</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1457-07-02">1457</tei:date>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1534-07-02">1534</tei:date>
+                  </tei:death>
+               </person><person xml:id="pmb42949">
+                  <tei:persName>
+                     <tei:surname>Paracelsus</tei:surname>
+                     <tei:forename>Theofrastus Bombastus</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1493-01-01">1493/1494</tei:date>
+                     <tei:placeName ref="#pmb50025">Egg</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1541-09-24">24. 9. 1541</tei:date>
+                     <tei:placeName ref="#pmb30">Salzburg</tei:placeName>
+                  </tei:death>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <occupation code="154">Philosoph*in</occupation>
+                  <occupation code="196">Chemiker</occupation>
+                  <occupation code="288">Arzt/Ärztin</occupation>
+                  <occupation code="409">Naturforscher*in</occupation>
+                  <occupation code="1400">Naturwissenschaftler*in</occupation>
+                  <occupation code="1401">Philosoph*in</occupation>
+                  <occupation code="1402">Arzt/Ärztin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/10420852X/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/11859169X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18662</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29843">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Der grüne Kakadu. Groteske in einem Akt</tei:title>
+                  <tei:date when="1899-03-01" when-custom="1.3.1899">1. 3. 1899</tei:date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+                  <tei:note>2840</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q2675124/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb40454">
+                  <tei:placeName>Villach</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1124">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">46.61254 13.8529</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/7871492/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

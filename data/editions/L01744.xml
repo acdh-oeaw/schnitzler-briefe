@@ -1,233 +1,195 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L01744"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Hermann Bahr an Arthur Schnitzler, 23. 12. 1907</title>
-            <author ref="#10815">Bahr, Hermann</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Kurt Ifkovits</name>
-               <name>Martin Anton Müller</name>
-            </respStmt>
-            <idno type="asbw">L01744</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01744" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hermann Bahr an Arthur Schnitzler, 23. 12. 1907</title><author ref="#pmb10815">Bahr, Hermann</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L01744</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 5b</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="4" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="blaue_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift beschriftet: »<quote>Bahr</quote>«</desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit rotem Buntstift vereinzelte Unterstreichungen</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert:
-                              »<quote>153</quote>«</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct corresp="HBAS">
-                  <monogr>
-                     <author ref="#10815">Bahr, Hermann</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
-                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
-                     <imprint>
-                        <pubPlace>Göttingen</pubPlace>
-                        <publisher>Wallstein</publisher>
-                        <date when="2018">2018</date>
-                     </imprint>
-                     <biblScope unit="pp">400</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#10815">Bahr, Hermann</persName>
-               <placeName ref="#50">Wien</placeName>
-               <date when="1907-12-23" n="01">23. 12. 1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L01743">Schnitzler an Bahr, 20. 12. 1907</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01745">Hofmannsthal an Schnitzler, 24. 12. 1907</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L01743">Schnitzler an Bahr, 20. 12. 1907</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01750">Schnitzler an Bahr, 13. 1. 1908</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-71F0-3</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 5b</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="blaue_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote>Bahr</quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift vereinzelte Unterstreichungen</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
+                              »<quote>153</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">400</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName><date when="1907-12-23" n="01">23. 12. 1907</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01743">Schnitzler an Bahr, 20. 12. 1907</ref><ref subtype="next_letter" type="withinCollection" target="L01745">Hofmannsthal an Schnitzler, 24. 12. 1907</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01743">Schnitzler an Bahr, 20. 12. 1907</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01750">Schnitzler an Bahr, 13. 1. 1908</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="KI MAM" when="2015-12-16">Kollationiert</change>
-         <change who="KI MAM" when="2017-05-30">Kollationiert</change>
-         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
-         <change who="MAM" when="2019-01-20">Index check</change>
-         <change who="GHS" when="2020-03-08">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-B-00005-B-000-00269"/>
-      <graphic url="MS-B-00005-B-000-00270"/>
-      <graphic url="MS-B-00005-B-000-00271"/>
-      <graphic url="MS-B-00005-B-000-00272"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <dateline rend="right">
-                  <pb facs="MS-B-00005-B-000-00269"/>
-                  <date>23. 12. 07</date>
-               </dateline>
-               <salute rend="center">Lieber Arthur!</salute>
-            </opener>
-            <p>Danke ſchön für Deinen Brief. Ich möchte nicht, daß Du falſch deuteſt, was ich über
-                  <rs ref="#12504" type="person">Reinhardts</rs> Verhältnis zu Deinen Werken
-               ſchrieb. Er bemüht ſich ſehr, ihnen gerecht zu ſein, aber ich habe immer das Gefühl,
-               daß ihm das innere Verſtehen dafür fehlt; und es ist ſchon ſehr bös, wenn einer ſich
-               erſt bemühen muß. Aber am guten Willen fehlts ihm ſicher nicht. Nur daß dieſer dabei
-               leider ſchließlich gar nichts nützt. – Der <rs ref="#2303" type="person">Ritſcher</rs> müßte geſagt werden, daß ſie Anfang Mai oder im September hier ſein
-               ſoll. Die <rs ref="#10818" type="person">Mildenburg</rs>
-               <space unit="chars" quantity="1"/>
-               <pb facs="MS-B-00005-B-000-00270"/>hat eine merkwürdige Macht über ſie, ſodaß ſie
-               nicht blos aus ihr heraus holen, ſondern ſogar bis zu einem gewiſſen Grad in ſie
-               hinein pumpen kann. Ihr würde ich das Darſtelleriſche ganz überlaſſen, ohne ſelbſt
-               dreinzureden; bei zweien kommt nichts heraus. Ich aber würde mit großer Paſſion den
-                  <rs ref="#10065" type="person">Strakoſch</rs> machen und dem Mädel den Rhythmus
-               der Verſe ein<subst>
-                  <del rend="overwritten">t</del>
-                  <add place="inline">b</add>
-               </subst>läuen, wovon ich aus Erfahrung weiß, daß ichs kann. Wenn es ſchließlich
-               trotzdem ſcheußlich wird, können wir nichts <pb facs="MS-B-00005-B-000-00271"/>dafür.
-                  <hi rend="underline" n="1">Garantieren</hi> könnte ich für die <rs ref="#11791" type="person">Höflich</rs> ja auch nicht, die freilich einen vagen Schimmer von
-               Seele oder Poeſie oder wie man das nennt für die Rolle hätte, den das Chaotiſche, das
-               die <rs ref="#2303" type="person">Ritſcher</rs>
-               <space unit="chars" quantity="1"/>ſehr ſtark hat, vielleicht nicht
-               völlig erſetzen kann.</p>
-            <p>Ich ſelbſt habe vor Anſteckungen gar keine Furcht, muß aber auf meine <anchor xml:id="K_L01744_1" type="commentary"/>
-               <rs type="person" ref="#10818" subtype="implied">
-                  <rs type="person" cert="low" ref="#13682 #28618" subtype="implied">Frauen</rs>
-               </rs>
-               <note xml:id="K_L01744_1h" type="commentary">Gemeint ist in jedem Fall seine Partnerin
-                     <rs ref="#10818" type="person">Anna von Mildenburg</rs>, eventuell mit ihrer
-                  Gesellschafterin <rs ref="#28618" type="person">Eugenie Roth</rs>. Vielleicht
-                  inkludiert er auch seine erste Frau, <rs ref="#13682" type="person">Rosa</rs>, mit
-                  der er noch verheiratet war.</note> Rückſicht nehmen, hoffe jedoch, da ich
-               früheſtens erſt am <date>15. Januar</date> zu <rs ref="#12504" type="person">Reinhardt</rs> zurückkehre, daß Deine <pb facs="MS-B-00005-B-000-00272"/>liebe
-                  <rs type="person" ref="#2173" subtype="implied">Frau</rs>, der ich das Allerbeſte
-               wünſche, <subst>
-                  <del rend="overwritten">
-                     <unclear>ſ</unclear>
-                  </del>
-                  <add place="inline">n</add>
-               </subst>och vorher ſo weit <del rend="overwritten">ſ <unclear>e<gap quantity="1" reason="illegible" unit="chars"/>
-                  </unclear>h<gap quantity="1" reason="illegible" unit="chars"/>
-               </del>
-               <space unit="chars" quantity="1"/>ſein wird, daß ich zu Euch kann, was ich Dich bitte, mich gleich wiſſen zu
-               laſſen.</p>
-            <closer>Herzlichſt<lb/>mit den wärmſten Weihnachtswünſchen<lb/>Dein<lb/>
-               <signed>H</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-12-16">Kollationiert</change><change who="KI MAM" when="2017-05-30">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-03-08">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-B-00005-B-000-00269"/><graphic url="MS-B-00005-B-000-00270"/><graphic url="MS-B-00005-B-000-00271"/><graphic url="MS-B-00005-B-000-00272"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-B-00005-B-000-00269"/><date>23. 12. 07</date></dateline><salute rend="center">Lieber Arthur!</salute></opener><p>Danke<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön für Deinen Brief. Ich möchte nicht, daß Du fal<c rendition="#langesS">s</c>ch deute<c rendition="#langesS">s</c>t, was ich über <rs ref="#pmb12504" type="person">Reinhardts</rs> Verhältnis zu Deinen Werken<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chrieb. Er bemüht<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr, ihnen gerecht zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, aber ich habe immer das Gefühl, daß ihm das innere Ver<c rendition="#langesS">s</c>tehen dafür fehlt; und es ist<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr bös, wenn einer<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich er<c rendition="#langesS">s</c>t bemühen muß. Aber am guten Willen fehlts ihm<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>icher nicht. Nur daß die<c rendition="#langesS">s</c>er dabei leider<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chließlich gar nichts nützt. – Der <rs ref="#pmb2303" type="person">Rit<c rendition="#langesS">s</c>cher</rs> müßte ge<c rendition="#langesS">s</c>agt werden, daß<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie Anfang Mai oder im September hier<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll. Die <rs ref="#pmb10818" type="person">Mildenburg</rs><space unit="chars" quantity="1"/><pb facs="MS-B-00005-B-000-00270"/>hat eine merkwürdige Macht über<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>odaß<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie nicht blos aus ihr heraus holen,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ondern<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ogar bis zu einem gewi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Grad in<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie hinein pumpen kann. Ihr würde ich das Dar<c rendition="#langesS">s</c>telleri<c rendition="#langesS">s</c>che ganz überla<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en, ohne<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t dreinzureden; bei zweien kommt nichts heraus. Ich aber würde mit großer Pa<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ion den <rs ref="#pmb10065" type="person">Strako<c rendition="#langesS">s</c>ch</rs> machen und dem Mädel den Rhythmus der Ver<c rendition="#langesS">s</c>e ein<subst><del rend="overwritten">t</del><add place="inline">b</add></subst>läuen, wovon ich aus Erfahrung weiß, daß ichs kann. Wenn es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chließlich trotzdem<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>cheußlich wird, können wir nichts <pb facs="MS-B-00005-B-000-00271"/>dafür. <hi rend="underline" n="1">Garantieren</hi> könnte ich für die <rs ref="#pmb11791" type="person">Höflich</rs> ja auch nicht, die freilich einen vagen Schimmer von Seele oder Poe<c rendition="#langesS">s</c>ie oder wie man das nennt für die Rolle hätte, den das Chaoti<c rendition="#langesS">s</c>che, das die <rs ref="#pmb2303" type="person">Rit<c rendition="#langesS">s</c>cher</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>ehr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tark hat, vielleicht nicht völlig er<c rendition="#langesS">s</c>etzen kann.</p><p>Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t habe vor An<c rendition="#langesS">s</c>teckungen gar keine Furcht, muß aber auf meine <anchor xml:id="K_L01744_1" type="commentary"/><rs type="person" ref="#pmb10818" subtype="implied"><rs type="person" cert="low" ref="#pmb13682 #pmb28618" subtype="implied">Frauen</rs></rs><note xml:id="K_L01744_1h" type="commentary">Gemeint ist in jedem Fall seine Partnerin <rs ref="#pmb10818" type="person">Anna von Mildenburg</rs>, eventuell mit ihrer Gesellschafterin <rs ref="#pmb28618" type="person">Eugenie Roth</rs>. Vielleicht inkludiert er auch seine erste Frau, <rs ref="#pmb13682" type="person">Rosa</rs>, mit der er noch verheiratet war.</note> Rück<c rendition="#langesS">s</c>icht nehmen, hoffe jedoch, da ich frühe<c rendition="#langesS">s</c>tens er<c rendition="#langesS">s</c>t am <date>15. Januar</date> zu <rs ref="#pmb12504" type="person">Reinhardt</rs> zurückkehre, daß Deine <pb facs="MS-B-00005-B-000-00272"/>liebe <rs type="person" ref="#pmb2173" subtype="implied">Frau</rs>, der ich das Allerbe<c rendition="#langesS">s</c>te wün<c rendition="#langesS">s</c>che, <subst><del rend="overwritten"><unclear/></del><add place="inline">n</add></subst>och vorher<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o weit <del rend="overwritten"><c rendition="#langesS">s</c>  <unclear>e<gap quantity="1" reason="illegible" unit="chars"/></unclear>h<gap quantity="1" reason="illegible" unit="chars"/></del><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>ein wird, daß ich zu Euch kann, was ich Dich bitte, mich gleich wi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en zu la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en.</p><closer>Herzlich<c rendition="#langesS">s</c>t<lb/>mit den wärm<c rendition="#langesS">s</c>ten Weihnachtswün<c rendition="#langesS">s</c>chen<lb/>Dein<lb/><signed>H</signed></closer></div></body><back><listPerson><person xml:id="pmb10815">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Hermann</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
+                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
+                     <tei:placeName ref="#pmb45258">München</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12504">
+                  <tei:persName>
+                     <tei:surname>Reinhardt</tei:surname>
+                     <tei:forename>Max</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1873-09-09">9. 9. 1873</tei:date>
+                     <tei:placeName ref="#pmb662">Baden bei Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1943-10-30">30. 10. 1943</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="104">Regisseur*in</occupation>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118599380/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19154</idno>
+               </person><person xml:id="pmb2303">
+                  <tei:persName>
+                     <tei:surname>Ritscher</tei:surname>
+                     <tei:forename>Helene</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1888-07-01">1888</tei:date>
+                     <tei:placeName ref="#pmb49163">Eisenstadt</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1964-11-27">27. 11. 1964</tei:date>
+                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
+                  </tei:death>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1025099605/</idno>
+               </person><person xml:id="pmb10818">
+                  <tei:persName>
+                     <tei:surname>Bahr-Mildenburg</tei:surname>
+                     <tei:forename>Anna</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1872-11-29">29. 11. 1872</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1947-01-27">27. 1. 1947</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118646370/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13376</idno>
+               </person><person xml:id="pmb10065">
+                  <tei:persName>
+                     <tei:surname>Strakosch</tei:surname>
+                     <tei:forename>Alexander</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1846-12-03">3. 12. 1846</tei:date>
+                     <tei:placeName ref="#pmb10066">Sebes Šarišské Lúky</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1909-09-16">16. 9. 1909</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="105">Schauspieler*in</occupation>
+                  <occupation code="480">Sprachlehrer*in</occupation>
+                  <occupation code="481">Vortragslehrer*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117306207/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20467</idno>
+               </person><person xml:id="pmb11791">
+                  <tei:persName>
+                     <tei:surname>Höflich</tei:surname>
+                     <tei:forename>Lucie</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1883-02-20">20. 2. 1883</tei:date>
+                     <tei:placeName ref="#pmb890">Hannover</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1956-10-08">8. 10. 1956</tei:date>
+                     <tei:placeName ref="#pmb11793">Schmargendorf</tei:placeName>
+                  </tei:death>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118963805/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16255</idno>
+               </person><person xml:id="pmb13682">
+                  <tei:persName>
+                     <tei:surname>Bahr</tei:surname>
+                     <tei:forename>Rosa</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1871-10-26">26. 10. 1871</tei:date>
+                     <tei:placeName ref="#pmb652">Prag</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1940-02-17">17. 2. 1940</tei:date>
+                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
+                  </tei:death>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13375</idno>
+               </person><person xml:id="pmb28618">
+                  <tei:persName>
+                     <tei:surname>Roth</tei:surname>
+                     <tei:forename>Eugenie von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1877-07-02">1877</tei:date>
+                     <tei:placeName ref="#pmb40029">Levoča</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1971-07-02">1971</tei:date>
+                     <tei:placeName ref="#pmb44699">Perchtoldsdorf</tei:placeName>
+                  </tei:death>
+                  <occupation code="939">Haushälterin</occupation>
+                  <occupation code="940">Gesellschafterin</occupation>
+               </person><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

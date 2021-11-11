@@ -1,194 +1,233 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L02553"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Olga Schnitzler an Paula Beer-Hofmann, 23. 1. 1910</title>
-            <author ref="#2173">Schnitzler, Olga</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L02553</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02553" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Olga Schnitzler an Paula Beer-Hofmann, 23. 1. 1910</title><author ref="#pmb2173">Schnitzler, Olga</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02553</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>U.S.A.</country>
-                        <settlement>Yale</settlement>
-                        <repository>Beinecke Rare Book and Manuscript Library</repository>
-                        <idno>Yale Collection of German Literature, MSS 31</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="karte" subtype="bildpostkarte"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="postal">
-                              <desc>
-                                 <stamp n="1">
-                                    <placeName ref="#866">Dresden</placeName>
-                                    <date>23. 1. 10</date>
-                                    <time>5–6N</time>
-                                 </stamp>
-                              </desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#2173">Schnitzler, Olga</persName>
-               <date when="1910-01-23" n="01">23. 1. 1910</date>
-               <placeName ref="#866">Dresden</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#10860">Beer-Hofmann, Paula</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann Richard</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L02561">Schnitzler an Beer-Hofmann, [19. 1. 1910]</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L01912">Ehrenstein an Schnitzler, 10. 2. 1910</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L02561">Schnitzler an Beer-Hofmann, [19. 1. 1910]</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L01916">Beer-Hofmann an Schnitzler, 6. 3. 1910</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-7519-3</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb866">Dresden</placeName><date>23. 1. 10</date><time>5–6N</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2173">Schnitzler, Olga</persName><date when="1910-01-23" n="01">23. 1. 1910</date><placeName ref="#pmb866">Dresden</placeName></correspAction><correspAction type="received"><persName ref="#pmb10860">Beer-Hofmann, Paula</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L02561">Schnitzler an Beer-Hofmann, [19. 1. 1910]</ref><ref subtype="next_letter" type="withinCollection" target="L01912">Ehrenstein an Schnitzler, 10. 2. 1910</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02561">Schnitzler an Beer-Hofmann, [19. 1. 1910]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01916">Beer-Hofmann an Schnitzler, 6. 3. 1910</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2021-03-06">Angelegt</change>
-         <change who="MAM" when="2021-03-08">Durchsicht</change>
-         <change who="MAM" when="2021-03-08">Index check</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="1910_OS_RBH_1_00003"/>
-      <graphic url="1910_OS_RBH_1_00004"/>
-   </facsimile>
-   <text type="card">
-      <body>
-         <div type="address">
-            <address>
-               <addrLine>
-                  <pb facs="1910_OS_RBH_1_00004"/>Frau Paula Beer-Hofmann</addrLine>
-               <addrLine>
-                  <rs ref="#69" type="place">Wien XIX</rs>
-               </addrLine>
-               <addrLine>
-                  <rs type="place" ref="#383">Hasenauerstrasse 59</rs>.</addrLine>
-            </address>
-         </div>
-         <div type="writingSession" n="1">
-            <opener>
-               <p rend="center">
-                  <pb facs="1910_OS_RBH_1_00003"/>
-                  <hi rend="pre-print">
-                     <hi rend="small_caps">
-                        <rs ref="#53107" type="place">Hotel Bellevue</rs>, <rs type="place" ref="#866">Dresden</rs>
-                     </hi>
-                  </hi>
-               </p>
-               <p rend="center">
-                  <hi rend="pre-print">Great sitting-room<space unit="chars" quantity="3"/>Grosser Salon<space unit="chars" quantity="3"/>Grand
-                     Salon</hi>
-               </p>
-            </opener>
-            <p>
-               <salute>Liebe geliebte Paula</salute>, es war so schön hier, ungeheuer erfrischend.
-               Ein <anchor type="commentary" xml:id="K_mmL02553-1"/>grosser <rs ref="#30215" type="work" subtype="implied">Erfolg</rs>
-               <note type="commentary" xml:id="K_mmL02553-1h">die Uraufführung von <rs ref="#30215" type="work">Der
-                     Schleier der Pierrette</rs> am <ref target="1910-01-22" subtype="date-only" type="schnitzlerDiary"/></note>, <rs ref="#24537" type="person">Schuch</rs>
-               ist prachtvoll, die Musik entzückend. Wie schön wär’s gewesen wenn Ihr auch da
-               gewesen wärt. Von <rs type="person" ref="#11165">Dohnányi</rs> sind <rs type="person" ref="#14029" subtype="implied">Freunde</rs> sogar aus <rs ref="#43570" type="place">Dänemark</rs> hier. Schönes Wetter, freudige Stimmung.</p>
-            <closer>Leben Sie wol, auf Wiedersehen! Grüssen Sie den <rs subtype="implied" type="person" ref="#10863">Herrn D<hi rend="superscript">r</hi>
-               </rs> u. die <rs type="person" ref="#13923 #2668 #2534" subtype="implied">Kinder</rs>.<lb/>Ihre<signed>Olga.</signed>
-            </closer>
-            <p>
-               <date>23. 1. 10.</date>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-03-06">Angelegt</change><change who="MAM" when="2021-03-08">Durchsicht</change><change who="MAM" when="2021-03-08">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="1910_OS_RBH_1_00003"/><graphic url="1910_OS_RBH_1_00004"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="1910_OS_RBH_1_00004"/>Frau Paula Beer-Hofmann</addrLine><addrLine><rs ref="#pmb69" type="place">Wien XIX</rs></addrLine><addrLine><rs type="place" ref="#pmb383">Hasenauerstrasse 59</rs>.</addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="1910_OS_RBH_1_00003"/><hi rend="pre-print"><hi rend="small_caps"><rs ref="#pmb53107" type="place">Hotel Bellevue</rs>, <rs type="place" ref="#pmb866">Dresden</rs></hi></hi></p><p rend="center"><hi rend="pre-print">Great sitting-room<space unit="chars" quantity="3"/>Grosser Salon<space unit="chars" quantity="3"/>Grand Salon</hi></p></opener><p><salute>Liebe geliebte Paula</salute>, es war so schön hier, ungeheuer erfrischend. Ein <anchor type="commentary" xml:id="K_mmL02553-1"/>grosser <rs ref="#pmb30215" type="work" subtype="implied">Erfolg</rs><note type="commentary" xml:id="K_mmL02553-1h">die Uraufführung von <rs ref="#pmb30215" type="work">Der Schleier der Pierrette</rs> am <ref target="1910-01-22" subtype="date-only" type="schnitzlerDiary"/></note>, <rs ref="#pmb24537" type="person">Schuch</rs> ist prachtvoll, die Musik entzückend. Wie schön wär’s gewesen wenn Ihr auch da gewesen wärt. Von <rs type="person" ref="#pmb11165">Dohnányi</rs> sind <rs type="person" ref="#pmb14029" subtype="implied">Freunde</rs> sogar aus <rs ref="#pmb43570" type="place">Dänemark</rs> hier. Schönes Wetter, freudige Stimmung.</p><closer>Leben Sie wol, auf Wiedersehen! Grüssen Sie den <rs subtype="implied" type="person" ref="#pmb10863">Herrn D<hi rend="superscript">r</hi></rs> u. die <rs type="person" ref="#pmb13923 #pmb2668 #pmb2534" subtype="implied">Kinder</rs>.<lb/>Ihre<signed>Olga.</signed></closer><p><date>23. 1. 10.</date></p></div></body><back><listPerson><person xml:id="pmb2173">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Olga</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
+                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
+                  </tei:death>
+                  <occupation code="107">Sänger*in</occupation>
+                  <occupation code="108">Schauspieler*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb10860">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Paula</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1879-02-25">25. 2. 1879</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1939-10-30">30. 10. 1939</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/119044994/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13550</idno>
+               </person><person xml:id="pmb24537">
+                  <tei:persName>
+                     <tei:surname>Schuch</tei:surname>
+                     <tei:forename>Ernst von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1846-11-30">30. 11. 1846</tei:date>
+                     <tei:placeName ref="#pmb860">Graz</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1914-05-10">10. 5. 1914</tei:date>
+                     <tei:placeName ref="#pmb866">Dresden</tei:placeName>
+                  </tei:death>
+                  <occupation code="131">Dirigent*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19906</idno>
+               </person><person xml:id="pmb11165">
+                  <tei:persName>
+                     <tei:surname>Dohnányi</tei:surname>
+                     <tei:forename>Ernst von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1877-07-27">27. 7. 1877</tei:date>
+                     <tei:placeName ref="#pmb39615">Bratislava</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1960-02-09">9. 2. 1960</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="129">Komponist*in</occupation>
+                  <occupation code="181">Pianist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119110016/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14473</idno>
+               </person><person xml:id="pmb14029">
+                  <tei:persName>
+                     <tei:surname>Benzon</tei:surname>
+                     <tei:forename>Otto Carl Waldemar</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1856-01-17">17. 1. 1856</tei:date>
+                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1927-05-16">16. 5. 1927</tei:date>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="300">Fabrikant*in</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13608</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb13923">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Gabriel</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1901-01-09">9. 1. 1901</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1971-03-24">24. 3. 1971</tei:date>
+                     <tei:placeName ref="#pmb48322">St Albans</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="550">Filmagent</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1117494683/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13547</idno>
+               </person><person xml:id="pmb2668">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Mirjam</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1897-09-04">4. 9. 1897</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1984-12-24">24. 12. 1984</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/116787902/</idno>
+               </person><person xml:id="pmb2534">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Naëmah</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1898-12-20">20. 12. 1898</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1971-11-10">10. 11. 1971</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <idno type="gnd">https://d-nb.info/gnd/116108584/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13549</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30215">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:author ref="pmb11165" role="composer">
+                     <tei:surname>Dohnányi</tei:surname>
+                     <tei:forename>Ernst von</tei:forename>
+                     <tei:term>[Vertonung]</tei:term>
+                  </tei:author>
+                  <tei:title>Der Schleier der Pierrette</tei:title>
+                  <tei:date from="1910-01-22" from-custom="1910-01-22">22. 1. 1910</tei:date>
+                  <tei:gloss type="w1068">Tanzpantomime</tei:gloss>
+                  <tei:note>2522</tei:note>
+                  <tei:note>2523</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb866">
+                  <tei:placeName>Dresden</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.0833 13.7666</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2935020/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1731/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4012995-0/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb69">
+                  <tei:placeName>XIX., Döbling</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i25">Bezirk</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.25 16.33306</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2780893/</idno>
+               </place><place xml:id="pmb383">
+                  <tei:placeName>Hasenauerstraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.233816866614 16.337927920952</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb53107">
+                  <tei:placeName>Hotel Bellevue</tei:placeName>
+                  <tei:desc>
+                     <tei:date from="1853-07-02" from-custom="1853-07-02" to="1945-07-02" to-custom="1945-07-02">1853–1945</tei:date>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.0549041 13.736206</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb43570">
+                  <tei:placeName>Dänemark</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1411">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">56.0 10.0</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2623032/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q35/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

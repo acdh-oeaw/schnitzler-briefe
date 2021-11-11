@@ -1,254 +1,218 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00949"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 20. 7. [1899]</title>
-            <author ref="#11740">Hofmannsthal, Hugo von</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00949</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00949" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 20. 7. [1899]</title><author ref="#pmb11740">Hofmannsthal, Hugo von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00949</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 43</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc type="brief"/>
-                           <desc n="2" type="_blaetter"/>
-                           <desc n="7" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>
-                                    <del rend="strikethrough">154</del>
-                                 </quote>«</desc>
-                           </incident>
-                           <incident type="archival">
-                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                            Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6ED6-6</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 43</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="2" type="_blaetter"/><desc n="7" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote><del rend="strikethrough">154</del></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
                                                 »<quote>152.</quote>«. Diese Hand dürfte auch für
                                             die Paginierung der beiden Blätter mit
                                             »<quote>1</quote>« respektive »<quote>2</quote>«
-                                            verantwortlich sein</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-            <listBibl>
-               <biblStruct>
-                  <monogr>
-                     <author ref="#11740">Hofmannsthal, Hugo von</author>
-                     <title level="m">Briefe. 1890–1901</title>
-                     <imprint>
-                        <date when="1935">1935</date>
-                        <publisher>S. Fischer</publisher>
-                        <pubPlace>Berlin</pubPlace>
-                     </imprint>
-                     <biblScope unit="pp">288–289</biblScope>
-                  </monogr>
-               </biblStruct>
-               <biblStruct corresp="HvHAS">
-                  <monogr>
-                     <author ref="#11740">Hofmannsthal, Hugo von</author>
-                     <author ref="#2121">Schnitzler, Arthur</author>
-                     <title level="m">Briefwechsel</title>
-                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
-                     <imprint>
-                        <pubPlace>Frankfurt am Main</pubPlace>
-                        <publisher>S. Fischer</publisher>
-                        <date when="1964">1964</date>
-                     </imprint>
-                     <biblScope unit="pp">126–127</biblScope>
-                  </monogr>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
-               <placeName ref="#772">Marienbad</placeName>
-               <date when="1899-07-20" n="02">20. 7. [1899]</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00948">Schnitzler an Beer-Hofmann, 20. 7. 1899</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00950">Hauptmann an Schnitzler, [25.?] 7. 1899</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00947">Schnitzler an Hofmannsthal, 18. 7. 1899</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00951">Schnitzler an Hofmannsthal, 27. 7. 1899</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                                            verantwortlich sein</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><title level="m">Briefe. 1890–1901</title><imprint><date when="1935">1935</date><publisher>S. Fischer</publisher><pubPlace>Berlin</pubPlace></imprint><biblScope unit="pp">288–289</biblScope></monogr></biblStruct><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">126–127</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb772">Marienbad</placeName><date when="1899-07-20" n="02">20. 7. [1899]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L00948">Schnitzler an Beer-Hofmann, 20. 7. 1899</ref><ref subtype="next_letter" type="withinCollection" target="L00950">Hauptmann an Schnitzler, [25.?] 7. 1899</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00947">Schnitzler an Hofmannsthal, 18. 7. 1899</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00951">Schnitzler an Hofmannsthal, 27. 7. 1899</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2019-06-12">Angelegt</change>
-         <change who="MAM" when="2019-06-17">Durchsicht</change>
-         <change who="MAM" when="2019-07-17">Index check</change>
-         <change who="GHS" when="2019-12-09">finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00335"/>
-      <graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00336"/>
-      <graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00337"/>
-      <graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00338"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00335"/>
-                  <hi rend="pre-print">
-                     <anchor type="textConst" xml:id="T_L00949-1"/>hvH<note type="textConst" xml:id="T_L00949-1h">gedrucktes Monogramm mit Krone
-                                in blauer Farbe</note>
-                  </hi>
-               </p>
-               <dateline rend="right">
-                  <rs ref="#772" type="place">Marienbad</rs>
-               </dateline>
-               <p rend="right">
-                  <date>20 VII</date>
-               </p>
-               <salute>mein lieber Arthur</salute>
-            </opener>
-            <p>ich möchte Ihnen gern einen viel ausführlicheren Brief ſchreiben, möchte auch
-                    gern über <rs ref="#10863" type="person">Richard</rs> vieles ſagen, aber ich bin
-                    ſo unglaublich abgeſpannt, ſobald meine tägliche wie im Fieber eintretende
-                    Arbeitszeit vorüber iſt, daſs <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00336"/>ich kaum im Stand bin die Feder zu halten.</p>
-            <p>Ich war mit meinen Nerven noch nie ſo herunter: ein geräuschvoller Speiſeſaal
-                    macht mir heftige phyſiſche Schmerzen im Genick und lauter ſolche Dummheiten.
-                    Ich werde nach dem <date>28<hi rend="superscript">ten</hi>
-               </date> mindeſtens 14 Tage zu arbeiten aufhören <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00336"/>und das Landleben führen,
-                        da<del rend="strikethrough">ſ</del>s mir allein ganz wohl thut: <hi rend="latintype">tennys</hi> Bad und vielerlei harmloſe Geſellſchaft. Ich
-                    gehe daher nach <rs ref="#34401" type="place">Alt-Auſſee</rs> entweder zu den
-                        <rs ref="#3130 #11359" type="person">
-                  <hi rend="latintype">Franckensteins</hi>
-               </rs> oder zum <rs ref="#106" type="place">
-                  <hi rend="latintype">Seewirth</hi>
-               </rs>. Vor einer Radreiſe, <hi rend="underline" n="1">jetzt</hi>, hätte ich bei
-                    meinem übermäßig montirten und ruheloſen Zuſtand direct Angſt. <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00335"/>Ich werd mich ſchon wieder
-                    in Ordnung bringen.</p>
-            <p>Mein <rs type="work" ref="#32432" subtype="implied">Stück</rs> iſt ein
-                    fünfactiges märchenartiges Trauerſpiel, in Verſen. 2 Acte ſind nahezu fertig.
-                    Ich habe noch nie ſo gern an etwas gearbeitet. Fangen Sie nur auch zu arbeiten
-                    an.</p>
-            <p>Oder machen Sie jetzt mit <rs ref="#2167" type="person">Salten</rs> eine Radtour
-                        <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00337"/>und laſſen für mich und
-                    für <date>September</date> nur den Weg <rs ref="#5907" type="place">
-                  <hi rend="latintype">Passau</hi>
-               </rs> – <rs ref="#44172" type="place">
-                  <hi rend="latintype">Nürnberg</hi>
-               </rs> – <rs ref="#856" type="place">Rothenburg</rs> – <rs ref="#45258" type="place">München</rs> – <rs ref="#30" type="place">Salzburg</rs> in
-                    Reſerve. Das wäre ſchön!</p>
-            <p>Und um den <date>15. Auguſt</date> träfen wir uns bei <rs ref="#10863" type="person">Richard</rs>, verbrächten immer den halben Tag arbeitend,
-                    gingen dann <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00338"/>nach <rs ref="#30" type="place">Salzburg</rs>, noch mehr arbeitend und träten
-                        <date>Anfang September</date> die Reiſe an. Mir folgen, ich bin der
-                    Geſcheidtere!</p>
-            <closer>Herzlich Ihr<lb/>
-               <signed>Hugo</signed>
-            </closer>
-            <postscript>
-               <p>
-                  <hi rend="latintype">P. S.</hi>
-               </p>
-               <p>Es iſt nicht ernſt, daſs ich der Geſcheidtere bin. Sonſt sind Sie vielleicht
-                        beleidigt.</p>
-               <p rend="center">
-                  <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00338"/>Immer ſchreiben!</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-06-12">Angelegt</change><change who="MAM" when="2019-06-17">Durchsicht</change><change who="MAM" when="2019-07-17">Index check</change><change who="GHS" when="2019-12-09">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00335"/><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00336"/><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00337"/><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00338"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00335"/><hi rend="pre-print"><anchor type="textConst" xml:id="T_L00949-1"/>hvH<note type="textConst" xml:id="T_L00949-1h">gedrucktes Monogramm mit Krone in blauer Farbe</note></hi></p><dateline rend="right"><rs ref="#pmb772" type="place">Marienbad</rs></dateline><p rend="right"><date>20 VII</date></p><salute>mein lieber Arthur</salute></opener><p>ich möchte Ihnen gern einen viel ausführlicheren Brief<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben, möchte auch gern über <rs ref="#pmb10863" type="person">Richard</rs> vieles<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen, aber ich bin<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o unglaublich abge<c rendition="#langesS">s</c>pannt,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>obald meine tägliche wie im Fieber eintretende Arbeitszeit vorüber i<c rendition="#langesS">s</c>t, da<c rendition="#langesS">s</c>s <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00336"/>ich kaum im Stand bin die Feder zu halten.</p><p>Ich war mit meinen Nerven noch nie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o herunter: ein geräuschvoller Spei<c rendition="#langesS">s</c>e<c rendition="#langesS">s</c>aal macht mir heftige phy<c rendition="#langesS">s</c>i<c rendition="#langesS">s</c>che Schmerzen im Genick und lauter<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olche Dummheiten. Ich werde nach dem <date>28<hi rend="superscript">ten</hi></date> minde<c rendition="#langesS">s</c>tens 14 Tage zu arbeiten aufhören <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00336"/>und das Landleben führen, da<del rend="strikethrough"/>s mir allein ganz wohl thut: <hi rend="latintype">tennys</hi> Bad und vielerlei harmlo<c rendition="#langesS">s</c>e Ge<c rendition="#langesS">s</c>ell<c rendition="#langesS">s</c>chaft. Ich gehe daher nach <rs ref="#pmb34401" type="place">Alt-Au<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ee</rs> entweder zu den <rs ref="#pmb3130 #pmb11359" type="person"><hi rend="latintype">Franckensteins</hi></rs> oder zum <rs ref="#pmb106" type="place"><hi rend="latintype">Seewirth</hi></rs>. Vor einer Radrei<c rendition="#langesS">s</c>e, <hi rend="underline" n="1">jetzt</hi>, hätte ich bei meinem übermäßig montirten und ruhelo<c rendition="#langesS">s</c>en Zu<c rendition="#langesS">s</c>tand direct Ang<c rendition="#langesS">s</c>t. <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00335"/>Ich werd mich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon wieder in Ordnung bringen.</p><p>Mein <rs type="work" ref="#pmb32432" subtype="implied">Stück</rs> i<c rendition="#langesS">s</c>t ein fünfactiges märchenartiges Trauer<c rendition="#langesS">s</c>piel, in Ver<c rendition="#langesS">s</c>en. 2 Acte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind nahezu fertig. Ich habe noch nie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o gern an etwas gearbeitet. Fangen Sie nur auch zu arbeiten an.</p><p>Oder machen Sie jetzt mit <rs ref="#pmb2167" type="person">Salten</rs> eine Radtour <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00337"/>und la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en für mich und für <date>September</date> nur den Weg <rs ref="#pmb5907" type="place"><hi rend="latintype">Passau</hi></rs> – <rs ref="#pmb44172" type="place"><hi rend="latintype">Nürnberg</hi></rs> – <rs ref="#pmb856" type="place">Rothenburg</rs> – <rs ref="#pmb45258" type="place">München</rs> – <rs ref="#pmb30" type="place">Salzburg</rs> in Re<c rendition="#langesS">s</c>erve. Das wäre<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön!</p><p>Und um den <date>15. Augu<c rendition="#langesS">s</c>t</date> träfen wir uns bei <rs ref="#pmb10863" type="person">Richard</rs>, verbrächten immer den halben Tag arbeitend, gingen dann <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00338"/>nach <rs ref="#pmb30" type="place">Salzburg</rs>, noch mehr arbeitend und träten <date>Anfang September</date> die Rei<c rendition="#langesS">s</c>e an. Mir folgen, ich bin der Ge<c rendition="#langesS">s</c>cheidtere!</p><closer>Herzlich Ihr<lb/><signed>Hugo</signed></closer><postscript><p><hi rend="latintype">P. S.</hi></p><p>Es i<c rendition="#langesS">s</c>t nicht ern<c rendition="#langesS">s</c>t, da<c rendition="#langesS">s</c>s ich der Ge<c rendition="#langesS">s</c>cheidtere bin. Son<c rendition="#langesS">s</c>t sind Sie vielleicht beleidigt.</p><p rend="center"><pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00338"/>Immer<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben!</p></postscript></div></body><back><listPerson><person xml:id="pmb11740">
+                  <tei:persName>
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
+                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
+                  <tei:persName>
+                     <tei:surname>Beer-Hofmann</tei:surname>
+                     <tei:forename>Richard</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
+                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb3130">
+                  <tei:persName>
+                     <tei:surname>Franckenstein</tei:surname>
+                     <tei:forename>Clemens von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1875-07-14">14. 7. 1875</tei:date>
+                     <tei:placeName ref="#pmb54943">Wiesentheid</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1942-08-19">19. 8. 1942</tei:date>
+                     <tei:placeName ref="#pmb54945">Hechendorf am Pilsensee</tei:placeName>
+                  </tei:death>
+                  <occupation code="103">Theaterleiter*in</occupation>
+                  <occupation code="129">Komponist*in</occupation>
+                  <occupation code="131">Dirigent*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119049252/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15115</idno>
+               </person><person xml:id="pmb11359">
+                  <tei:persName>
+                     <tei:surname>Franckenstein</tei:surname>
+                     <tei:forename>Georg von</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1878-03-18">18. 3. 1878</tei:date>
+                     <tei:placeName ref="#pmb866">Dresden</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1953-10-14">14. 10. 1953</tei:date>
+                     <tei:placeName ref="#pmb11361">Kelsterbach</tei:placeName>
+                  </tei:death>
+                  <occupation code="267">Diplomat*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127621636/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15116</idno>
+               </person><person xml:id="pmb2167">
+                  <tei:persName>
+                     <tei:surname>Salten</tei:surname>
+                     <tei:forename>Felix</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1869-09-06">6. 9. 1869</tei:date>
+                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1945-10-08">8. 10. 1945</tei:date>
+                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="99">Journalist*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb32432">
+                  <tei:author ref="pmb11740" role="author">
+                     <tei:surname>Hofmannsthal</tei:surname>
+                     <tei:forename>Hugo von</tei:forename>
+                  </tei:author>
+                  <tei:title>Das Bergwerk zu Falun</tei:title>
+                  <tei:date from="1900-01-01" from-custom="1900" to="1933-01-01" to-custom="1933">1900–1933</tei:date>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
+                  <tei:note>6197</tei:note>
+               </bibl></listBibl><listPlace><place xml:id="pmb772">
+                  <tei:placeName>Marienbad</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">49.96115 12.72872</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/11428205/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q523469/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb34401">
+                  <tei:placeName>Altaussee</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1124">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.6698 13.78453</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/7872434/</idno>
+               </place><place xml:id="pmb106">
+                  <tei:placeName>Seewirt</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i22">Lokal</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.6417 13.77189</tei:geo>
+                  </tei:location>
+               </place><place xml:id="pmb5907">
+                  <tei:placeName>Passau</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.573333 13.456944</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2855328/</idno>
+               </place><place xml:id="pmb44172">
+                  <tei:placeName>Nürnberg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">49.45421 11.07752</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2861650/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4042742-0/</idno>
+               </place><place xml:id="pmb856">
+                  <tei:placeName>Rothenburg ob der Tauber</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">49.37885 10.18711</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2844056/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q153494/</idno>
+               </place><place xml:id="pmb45258">
+                  <tei:placeName>München</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2867714/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4127793-4/</idno>
+               </place><place xml:id="pmb30">
+                  <tei:placeName>Salzburg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.80067 13.04532</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2766818/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

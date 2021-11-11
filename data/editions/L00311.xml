@@ -1,212 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
-     xml:id="L00311"
-     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
-            <title level="a">Fedor Mamroth an Arthur Schnitzler, 4. 4. 1894</title>
-            <author ref="#4986">Mamroth, Fedor</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>ASBW</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Susen, Gerd-Hermann</name>
-            </respStmt>
-            <idno type="asbw">L00311</idno>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00311" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Fedor Mamroth an Arthur Schnitzler, 4. 4. 1894</title><author ref="#pmb4986">Mamroth, Fedor</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00311</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <seriesStmt>
-            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>GB</country>
-                        <settlement>Cambridge</settlement>
-                        <repository>University Library</repository>
-                        <idno>Schnitzler, B 68</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <desc n="1" type="_blaetter"/>
-                           <desc type="brief"/>
-                           <desc n="1" type="_seiten"/>
-                        </objectDesc>
-                        <handDesc>
-                           <handNote medium="schwarze_tinte"
-                                     style="deutsche-kurrent"
-                                     corresp="schreibkraft"/>
-                        </handDesc>
-                        <additions>
-                           <incident type="receiver">
-                              <desc>mit Bleistift nummeriert: »<quote>6</quote>« und </desc>
-                           </incident>
-                           <incident type="receiver">
-                              <desc>mit rotem Buntstift
-            beschriftet: »<hi rend="latintype">Mam</hi>« und zwei Unterstreichungen</desc>
-                           </incident>
-                        </additions>
-                     </physDesc>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#4986">Mamroth, Fedor</persName>
-               <placeName ref="#146">Frankfurt</placeName>
-               <date when="1894-04-04" n="01">4. 4. 1894</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#2121">Schnitzler, Arthur</persName>
-               <placeName ref="#50">Wien</placeName>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#4986">Mamroth, Fedor</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="L00310">Bahr an Schnitzler, 2. 4. 1894</ref>
-               <ref subtype="next_letter" type="withinCollection" target="L00312">Beer-Hofmann an Schnitzler, [5. 4. 1894?]</ref>
-               <ref subtype="previous_letter"
-                    type="withinCorrespondence"
-                    target="L00216">Mamroth an Schnitzler, 4. 6. 1893</ref>
-               <ref subtype="next_letter" type="withinCorrespondence" target="L00409">Schnitzler an Mamroth, 7. 12. 1894</ref>
-            </correspContext>
-         </correspDesc>
-      </profileDesc>
-      <encodingDesc>
-         <refsDecl>
-            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p></licence></availability><idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6C58-7</idno></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 68</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="1" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent" corresp="schreibkraft"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift nummeriert: »<quote>6</quote>« und </desc></incident><incident type="receiver"><desc>mit rotem Buntstift
+            beschriftet: »<hi rend="latintype">Mam</hi>« und zwei Unterstreichungen</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb4986">Mamroth, Fedor</persName><placeName ref="#pmb146">Frankfurt</placeName><date when="1894-04-04" n="01">4. 4. 1894</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb4986">Mamroth, Fedor</ref><ref subtype="previous_letter" type="withinCollection" target="L00310">Bahr an Schnitzler, 2. 4. 1894</ref><ref subtype="next_letter" type="withinCollection" target="L00312">Beer-Hofmann an Schnitzler, [5. 4. 1894?]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00216">Mamroth an Schnitzler, 4. 6. 1893</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00409">Schnitzler an Mamroth, 7. 12. 1894</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab>
-         </refsDecl>
-      </encodingDesc>
-      <revisionDesc status="approved">
-         <change who="GHS" when="2019-06-14">Angelegt</change>
-         <change who="MAM" when="2019-06-14">Durchsicht</change>
-         <change who="MAM" when="2019-06-14">Index check</change>
-         <change who="GHS" when="2019-08-19">facs aktualisiert, korrigiert, finalisiert</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="MS-SCHNITZLER-B-00068-000-00013"/>
-   </facsimile>
-   <text type="letter">
-      <body>
-         <div type="writingSession" n="1">
-            <opener>
-               <p>
-                  <seg rend="left">
-                     <pb facs="MS-SCHNITZLER-B-00068-000-00013"/>
-                     <rs ref="#29442" type="org">
-                        <hi rend="pre-print">
-                           <rs ref="#29442" type="org">Frankfurter Zeitung</rs>
-                        </hi>
-                     </rs>
-                  </seg>
-                  <seg rend="right">
-                     <hi rend="pre-print">
-                        <rs ref="#146" type="place">Frankfurt a. M.</rs>,</hi>
-                     <space unit="chars" quantity="1"/>
-                     <date>4/4 <hi rend="pre-print">189</hi>4</date>.</seg>
-               </p>
-               <p>
-                  <hi rend="pre-print">und</hi>
-                  <lb/>
-                  <hi rend="pre-print">Handelsblatt.</hi>
-               </p>
-               <p>
-                  <hi rend="pre-print">Redaction.<footNote xml:id="FT2813-1">
-                        <p>
-                           <hi rend="pre-print">Für die Redaktion bestimmte Briefe und
-                                        Sendungen wolle man <hi rend="spaced_out">nicht</hi> an die
-                                        Perſon eines Redakteurs, ſondern ſtets <hi rend="bold">an
-                                            die Redaktion der Frankfurter Zeitung</hi>
-                                        adreſſiren</hi>.</p>
-                     </footNote>
-                  </hi>
-               </p>
-               <p>
-                  <hi rend="pre-print">Telegramm-Adreſſe:</hi>
-               </p>
-               <p>
-                  <hi rend="pre-print">
-                     <rs ref="#29442" type="org">Zeitung Frankfurt Main</rs>.</hi>
-               </p>
-               <salute rend="inline">Hochgeehrter Herr Doktor.</salute>
-            </opener>
-            <p>Ich veröffentliche gegenwärtig einen großen <rs type="work" ref="#34992" subtype="implied">Roman</rs>, dem ſich unmittelbar ein <anchor xml:id="K_L00311_1" type="commentary"/>anderer<note xml:id="K_L00311_1h" type="commentary">Das war dann nicht der Fall,
-                    in Folge erschienen Novellen und Erzählungen verschiedener Autoren.</note> von <rs ref="#9386" type="person">
-                  <hi rend="latintype">M. Prevost</hi>
-               </rs> anreihen wird. Ich bin deshalb auf lange Zeit hinaus außer ſtande,
-                    für kleine novelliſtiſche Arbeiten Raum zu finden u. muß Ihnen deßhalb Ihr ſehr
-                    ſchönes <rs type="work" ref="#30453" subtype="implied">
-                  <hi rend="latintype">Pastell</hi>
-               </rs> zu meinem lebhaften Bedauern retournieren. Ich empfehle mich mit
-                    herzlichem Gruß.</p>
-            <closer>Hochachtungsvoll<lb/>Ihr ergebener<lb/>per<lb/>
-               <signed>D<hi rend="superscript">r.</hi> F. Mamroth</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-06-14">Angelegt</change><change who="MAM" when="2019-06-14">Durchsicht</change><change who="MAM" when="2019-06-14">Index check</change><change who="GHS" when="2019-08-19">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00068-000-00013"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-00068-000-00013"/><rs ref="#pmb29442" type="org"><hi rend="pre-print"><rs ref="#pmb29442" type="org">Frankfurter Zeitung</rs></hi></rs></seg><seg rend="right"><hi rend="pre-print"><rs ref="#pmb146" type="place">Frankfurt a. M.</rs>,</hi><space unit="chars" quantity="1"/><date>4/4 <hi rend="pre-print">189</hi>4</date>.</seg></p><p><hi rend="pre-print">und</hi><lb/><hi rend="pre-print">Handelsblatt.</hi></p><p><hi rend="pre-print">Redaction.<footNote xml:id="FT2813-1"><p><hi rend="pre-print">Für die Redaktion bestimmte Briefe und Sendungen wolle man <hi rend="spaced_out">nicht</hi> an die Per<c rendition="#langesS">s</c>on eines Redakteurs,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ondern<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tets <hi rend="bold">an die Redaktion der Frankfurter Zeitung</hi> adre<c rendition="#langesS">s</c><c rendition="#langesS">s</c>iren</hi>.</p></footNote></hi></p><p><hi rend="pre-print">Telegramm-Adre<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e:</hi></p><p><hi rend="pre-print"><rs ref="#pmb29442" type="org">Zeitung Frankfurt Main</rs>.</hi></p><salute rend="inline">Hochgeehrter Herr Doktor.</salute></opener><p>Ich veröffentliche gegenwärtig einen großen <rs type="work" ref="#pmb34992" subtype="implied">Roman</rs>, dem<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich unmittelbar ein <anchor xml:id="K_L00311_1" type="commentary"/>anderer<note xml:id="K_L00311_1h" type="commentary">Das war dann nicht der Fall, in Folge erschienen Novellen und Erzählungen verschiedener Autoren.</note> von <rs ref="#pmb9386" type="person"><hi rend="latintype">M. Prevost</hi></rs> anreihen wird. Ich bin deshalb auf lange Zeit hinaus außer<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tande, für kleine novelli<c rendition="#langesS">s</c>ti<c rendition="#langesS">s</c>che Arbeiten Raum zu finden u. muß Ihnen deßhalb Ihr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chönes <rs type="work" ref="#pmb30453" subtype="implied"><hi rend="latintype">Pastell</hi></rs> zu meinem lebhaften Bedauern retournieren. Ich empfehle mich mit herzlichem Gruß.</p><closer>Hochachtungsvoll<lb/>Ihr ergebener<lb/>per<lb/><signed>D<hi rend="superscript">r.</hi> F. Mamroth</signed></closer></div></body><back><listPerson><person xml:id="pmb4986">
+                  <tei:persName>
+                     <tei:surname>Mamroth</tei:surname>
+                     <tei:forename>Fedor</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1851-02-21">21. 2. 1851</tei:date>
+                     <tei:placeName ref="#pmb677">Breslau</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1907-06-25">25. 6. 1907</tei:date>
+                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
+                  </tei:death>
+                  <occupation code="99">Journalist*in</occupation>
+                  <occupation code="100">Kritiker*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116724919/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17801</idno>
+               </person><person xml:id="pmb2121">
+                  <tei:persName>
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
+                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <occupation code="97">Mediziner*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb9386">
+                  <tei:persName>
+                     <tei:surname>Prévost</tei:surname>
+                     <tei:forename>Marcel</tei:forename>
+                  </tei:persName>
+                  <tei:birth>
+                     <tei:date when="1862-05-01">1. 5. 1862</tei:date>
+                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
+                  </tei:birth>
+                  <tei:death>
+                     <tei:date when="1941-04-08">8. 4. 1941</tei:date>
+                     <tei:placeName ref="#pmb44347">Vianne</tei:placeName>
+                  </tei:death>
+                  <occupation code="90">Schriftsteller*in</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11864176X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18961</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb34992">
+                  <tei:author ref="pmb3386" role="author">
+                     <tei:surname>Mauthner</tei:surname>
+                     <tei:forename>Fritz</tei:forename>
+                  </tei:author>
+                  <tei:title>Kraft</tei:title>
+                  <tei:date when="1894-07-02" when-custom="1894">1894</tei:date>
+                  <tei:gloss type="w1349">Kriminalroman</tei:gloss>
+               </bibl><bibl xml:id="pmb30453">
+                  <tei:author ref="pmb2121" role="author">
+                     <tei:surname>Schnitzler</tei:surname>
+                     <tei:forename>Arthur</tei:forename>
+                  </tei:author>
+                  <tei:title>Blumen</tei:title>
+                  <tei:date from="1894-08-01" from-custom="01.08.1894">1. 8. 1894</tei:date>
+                  <tei:gloss type="w1054">Erzählung</tei:gloss>
+                  <tei:note>2934</tei:note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q886176/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb146">
+                  <tei:placeName>Frankfurt am Main</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2925533/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1794/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4018118-2/</idno>
+               </place><place xml:id="pmb50">
+                  <tei:placeName>Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29442">
+                  <tei:orgName>Frankfurter Zeitung</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1856-01-01" from-custom="1856" to="1943-01-01" to-custom="1943">1856–1943</tei:date>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb146">
+                     <tei:placeName>Frankfurt am Main</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org></listOrg></back></text></TEI>
