@@ -23,7 +23,7 @@
                   Mann, 5. 1. 1925</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
                'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-11-12">Angelegt aus Briefe II. Dort als
-            Briefdurchschlag</change><change who="MAM" when="2019-11-25">Durchsicht mit Kopie aus DLA</change><change who="MAM" when="2019-11-25">Index check</change><change who="GHS" when="2020-09-18">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="85.1.1371,2_0001"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="85.1.1371,2_0001"/><date>6. 11. 1924</date>.</dateline><salute>Lieber und verehrter Herr Thomas Mann.</salute></opener><p>Die guten Worte, die Sie mir über die »<rs ref="#pmb30205" type="work">Komödie der Verführung</rs>« sagen, erfreuen mich herzlich. Hier bewährt sich das Stück weiter gut im Repertoir<!-- so! -->; Ihre Befürchtung, dass man es in <rs ref="#pmb45258" type="place">München</rs> nicht gut genug darstellen würde, ist vorläufig unbegründet, da man dort kaum daran denkt es aufzuführen. Bisher hat sich in <rs ref="#pmb151" type="place">Deutschland</rs> nur <rs ref="#pmb883" type="place">Wiesbaden</rs> daran gewagt mit sehr gutem Erfolg, <rs ref="#pmb145" type="place">Köln</rs> folgt bald, <rs ref="#pmb890" type="place">Hannover</rs> und <rs ref="#pmb42763" type="place">Danzig</rs> glaube ich haben es angenommen. Ueber die Kritik wollen wir lieber nicht reden. Das frühere Totschlage-Wort von der »grossen Zeit« ist nun durch das neue von der »versunkenen Welt« ersetzt worden. Es ist, als wäre die Weltgeschichte überhaupt nur dazu da, um den Rezensenten neue falsche Massstäbe an die Hand zu geben.</p><p>Der Zusendung des »<rs ref="#pmb33247" type="work">Zauberbergs</rs>« sehe ich mit freudiger Ungeduld entgegen. Ich hoffe Sie haben in <rs ref="#pmb42768" type="place">Sestri-Levante</rs><space unit="chars" quantity="1"/>schöne Tage, – helle, arbeitsfreudige, lebensfrohe.</p><closer>Seien Sie sehr herzlich gegrüsst<lb/>von Ihrem aufrichtig ergebenen</closer><postscript><p>Herrn Thomas Mann<lb/><rs ref="#pmb42768" type="place">Sestri-Levante</rs>,<lb/><rs ref="#pmb40306" type="place">Italien</rs>.</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb2121">
+            Briefdurchschlag</change><change who="MAM" when="2019-11-25">Durchsicht mit Kopie aus DLA</change><change who="MAM" when="2019-11-25">Index check</change><change who="GHS" when="2020-09-18">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="85.1.1371,2_0001"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="85.1.1371,2_0001"/><date>6. 11. 1924</date>.</dateline><salute>Lieber und verehrter Herr Thomas Mann.</salute></opener><p>Die guten Worte, die Sie mir über die »<rs ref="#pmb30205" type="work">Komödie der Verführung</rs>« sagen, erfreuen mich herzlich. Hier bewährt sich das Stück weiter gut im Repertoir<!-- so! -->; Ihre Befürchtung, dass man es in <rs ref="#pmb45258" type="place">München</rs> nicht gut genug darstellen würde, ist vorläufig unbegründet, da man dort kaum daran denkt es aufzuführen. Bisher hat sich in <rs ref="#pmb151" type="place">Deutschland</rs> nur <rs ref="#pmb883" type="place">Wiesbaden</rs> daran gewagt mit sehr gutem Erfolg, <rs ref="#pmb145" type="place">Köln</rs> folgt bald, <rs ref="#pmb890" type="place">Hannover</rs> und <rs ref="#pmb42763" type="place">Danzig</rs> glaube ich haben es angenommen. Ueber die Kritik wollen wir lieber nicht reden. Das frühere Totschlage-Wort von der »grossen Zeit« ist nun durch das neue von der »versunkenen Welt« ersetzt worden. Es ist, als wäre die Weltgeschichte überhaupt nur dazu da, um den Rezensenten neue falsche Massstäbe an die Hand zu geben.</p><p>Der Zusendung des »<rs ref="#pmb33247" type="work">Zauberbergs</rs>« sehe ich mit freudiger Ungeduld entgegen. Ich hoffe Sie haben in <rs ref="#pmb42768" type="place">Sestri-Levante</rs><space unit="chars" quantity="1"/>schöne Tage, – helle, arbeitsfreudige, lebensfrohe.</p><closer>Seien Sie sehr herzlich gegrüsst<lb/>von Ihrem aufrichtig ergebenen</closer><postscript><p>Herrn Thomas Mann<lb/><rs ref="#pmb42768" type="place">Sestri-Levante</rs>,<lb/><rs ref="#pmb40306" type="place">Italien</rs>.</p></postscript></div></body><back><listPerson><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -38,7 +38,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12176">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12176">
                   <tei:persName>
                      <tei:surname>Mann</tei:surname>
                      <tei:forename>Thomas</tei:forename>
@@ -52,7 +53,9 @@
                      <tei:placeName ref="#pmb484">Zürich</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30205">
+                  <idno type="gnd">https://d-nb.info/gnd/118577166/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17838</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30205">
                   <tei:author ref="pmb2121" role="author">
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -62,7 +65,7 @@
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
                   <tei:note>9218</tei:note>
                   <tei:note>9219</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb33247">
+               </bibl><bibl xml:id="pmb33247">
                   <tei:author ref="pmb12176" role="author">
                      <tei:surname>Mann</tei:surname>
                      <tei:forename>Thomas</tei:forename>
@@ -71,7 +74,7 @@
                   <tei:date from="1924-01-01" from-custom="1924">1924</tei:date>
                   <tei:gloss type="w1060">Roman</tei:gloss>
                   <tei:note>6135</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -79,7 +82,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb42768">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb42768">
                   <tei:placeName>Sestri Levante</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1128">Besiedelter Ort</tei:gloss>
@@ -87,7 +92,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">44.27317 9.39683</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb45258">
+                  <idno type="geonames">https://www.geonames.org/3166595/</idno>
+               </place><place xml:id="pmb45258">
                   <tei:placeName>München</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1415">Land</tei:gloss>
@@ -95,7 +101,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb151">
+                  <idno type="geonames">https://www.geonames.org/2867714/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4127793-4/</idno>
+               </place><place xml:id="pmb151">
                   <tei:placeName>Deutschland</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i38">Land</tei:gloss>
@@ -103,7 +111,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">51.5 10.5</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb883">
+                  <idno type="geonames">https://www.geonames.org/2921044/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q183/</idno>
+               </place><place xml:id="pmb883">
                   <tei:placeName>Wiesbaden</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -111,7 +121,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">50.08258 8.24932</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb145">
+                  <idno type="geonames">https://www.geonames.org/2809346/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1721/</idno>
+               </place><place xml:id="pmb145">
                   <tei:placeName>Köln</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -119,7 +131,10 @@
                   <tei:location>
                      <tei:geo decls="LatLng">50.93835 6.95427</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb890">
+                  <idno type="geonames">https://www.geonames.org/6553049/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q365/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4031483-2/</idno>
+               </place><place xml:id="pmb890">
                   <tei:placeName>Hannover</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -127,7 +142,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.37052 9.73322</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb42763">
+                  <idno type="geonames">https://www.geonames.org/2910831/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1715/</idno>
+               </place><place xml:id="pmb42763">
                   <tei:placeName>Danzig</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1124">Besiedelter Ort</tei:gloss>
@@ -135,7 +152,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">54.3611 18.6897</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb40306">
+                  <idno type="geonames">https://www.geonames.org/3099434/</idno>
+                  <idno type="geonames">https://www.geonames.org/7531890/</idno>
+               </place><place xml:id="pmb40306">
                   <tei:placeName>Italien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1107">Land</tei:gloss>
@@ -143,4 +162,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">42.83333 12.83333</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/3175395/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

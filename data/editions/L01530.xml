@@ -19,7 +19,7 @@
                      beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">214</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><persName ref="#pmb2292">Hofmannsthal, Gerty von</persName><placeName ref="#pmb48393">Kremsmünster</placeName><date when="1905-07-16" n="02">[16. 7. 1905?]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L01529">Schnitzler an Beer-Hofmann, 28. 6. 1905</ref><ref subtype="next_letter" type="withinCollection" target="L01531">Schnitzler an Beer-Hofmann, 17. 7. 1905</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01522">Hofmannsthal an Schnitzler, [1. 6. 1905]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01536">Hofmannsthal an Schnitzler, [3. 8. 1905?]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="MAM" when="2020-09-10">Index check</change><change who="MAM" when="2020-09-10">Durchsicht</change><change who="GHS" when="2021-04-30">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="Hofmannsthal–Schnitzler_214"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="Hofmannsthal–Schnitzler_214"/><supplied>Ansichtskarte</supplied></seg><seg rend="right"><supplied><rs type="place" ref="#pmb48393"><anchor xml:id="K_L01530_1" type="commentary"/>Kremsmünster<note xml:id="K_L01530_1h" type="commentary">Dieser Besuch fand, als Tagesausflug von <rs type="place" ref="#pmb44397">Wels</rs>, am <date>16. 7. 1905</date> statt.</note></rs>, <date>1905</date></supplied></seg></p></opener><p>Einen solchen <anchor xml:id="K_L01530_2" type="commentary"/>Gang<note xml:id="K_L01530_2h" type="commentary">Gemeint dürfte der Arkadengang des <rs type="place" ref="#pmb48395">Stiftes Kremsmünster</rs> sein.</note> wünschen Ihnen <signed>Hugo</signed><space unit="chars" quantity="1"/><signed><handShift scribe="#pmb2292"/>– Gerty.</signed></p></div></body><back><listPerson><tei:person xml:id="pmb11740">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="MAM" when="2020-09-10">Index check</change><change who="MAM" when="2020-09-10">Durchsicht</change><change who="GHS" when="2021-04-30">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="Hofmannsthal–Schnitzler_214"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="Hofmannsthal–Schnitzler_214"/><supplied>Ansichtskarte</supplied></seg><seg rend="right"><supplied><rs type="place" ref="#pmb48393"><anchor xml:id="K_L01530_1" type="commentary"/>Kremsmünster<note xml:id="K_L01530_1h" type="commentary">Dieser Besuch fand, als Tagesausflug von <rs type="place" ref="#pmb44397">Wels</rs>, am <date>16. 7. 1905</date> statt.</note></rs>, <date>1905</date></supplied></seg></p></opener><p>Einen solchen <anchor xml:id="K_L01530_2" type="commentary"/>Gang<note xml:id="K_L01530_2h" type="commentary">Gemeint dürfte der Arkadengang des <rs type="place" ref="#pmb48395">Stiftes Kremsmünster</rs> sein.</note> wünschen Ihnen <signed>Hugo</signed><space unit="chars" quantity="1"/><signed><handShift scribe="#pmb2292"/>– Gerty.</signed></p></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -33,7 +33,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2292">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2292">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Gertrude von</tei:forename>
@@ -46,7 +48,8 @@
                      <tei:date when="1959-11-09">9. 11. 1959</tei:date>
                      <tei:placeName ref="#pmb46885">Paddington</tei:placeName>
                   </tei:death>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/116952199/</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -61,7 +64,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb48393">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb48393">
                   <tei:placeName>Kremsmünster</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1434">Besiedelter Ort</tei:gloss>
@@ -69,7 +73,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.05301 14.12842</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2773538/</idno>
+                  <idno type="geonames">https://www.geonames.org/7871034/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -77,7 +83,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb44397">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb44397">
                   <tei:placeName>Wels</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1419">Besiedelter Ort</tei:gloss>
@@ -85,7 +93,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.16667 14.03333</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb48395">
+                  <idno type="geonames">https://www.geonames.org/2761524/</idno>
+               </place><place xml:id="pmb48395">
                   <tei:placeName>Stift Kremsmünster</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i34">Kloster</tei:gloss>
@@ -93,4 +102,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.054498 14.128969</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

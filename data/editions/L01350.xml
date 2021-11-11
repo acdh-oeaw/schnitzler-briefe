@@ -25,13 +25,13 @@
                   Schnitzler, 15. 11. 1903</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01351">Schnitzler,
                   Schnitzler, Hofmannsthal, Hofmannsthal, Beer-Hofmann an Bahr, 14. 12. 1903</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-08">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-01-19">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23362Ba"/></facsimile><text type="telegram"><body><div type="address"><address><addrLine><pb facs="https://www.theatermuseum.at/de/object/9b0ce65ed6/"/>hermann bahr <rs ref="#pmb3" type="place">berlin deutsches theater</rs></addrLine></address></div><div type="writingSession" n="1"><p><pb facs="https://www.theatermuseum.at/de/object/9b0ce65ed6/"/><hi rend="pre-print">Telegramm</hi> fr <rs type="place" ref="#pmb50">wien</rs> 110+ 466 <date>12 13</date><space unit="chars" quantity="1"/><time>11 m</time><space unit="chars" quantity="1"/><hi rend="pre-print">W.</hi><space unit="chars" quantity="1"/><date><hi rend="pre-print">190</hi>3</date></p><p>herzlichen <anchor xml:id="K_L01350_1" type="commentary"/>glueckwunsch<note xml:id="K_L01350_1h" type="commentary">am <date>12. 12. 1903</date> Uraufführung von <rs ref="#pmb29983" type="work">Der Meister</rs> im <rs ref="#pmb3" type="place">Deutschen Theater</rs> in <rs ref="#pmb168" type="place">Berlin</rs>.</note> und gruss dein arthur schnitzler</p></div></body><back><listPerson><tei:person xml:id="pmb27690">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-08">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-01-19">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23362Ba"/></facsimile><text type="telegram"><body><div type="address"><address><addrLine><pb facs="https://www.theatermuseum.at/de/object/9b0ce65ed6/"/>hermann bahr <rs ref="#pmb3" type="place">berlin deutsches theater</rs></addrLine></address></div><div type="writingSession" n="1"><p><pb facs="https://www.theatermuseum.at/de/object/9b0ce65ed6/"/><hi rend="pre-print">Telegramm</hi> fr <rs type="place" ref="#pmb50">wien</rs> 110+ 466 <date>12 13</date><space unit="chars" quantity="1"/><time>11 m</time><space unit="chars" quantity="1"/><hi rend="pre-print">W.</hi><space unit="chars" quantity="1"/><date><hi rend="pre-print">190</hi>3</date></p><p>herzlichen <anchor xml:id="K_L01350_1" type="commentary"/>glueckwunsch<note xml:id="K_L01350_1h" type="commentary">am <date>12. 12. 1903</date> Uraufführung von <rs ref="#pmb29983" type="work">Der Meister</rs> im <rs ref="#pmb3" type="place">Deutschen Theater</rs> in <rs ref="#pmb168" type="place">Berlin</rs>.</note> und gruss dein arthur schnitzler</p></div></body><back><listPerson><person xml:id="pmb27690">
                   <tei:persName>
                      <tei:surname>Schott</tei:surname>
                      <tei:forename/>
                   </tei:persName>
                   <occupation code="831">Briefträger</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -46,7 +46,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10815">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
                   <tei:persName>
                      <tei:surname>Bahr</tei:surname>
                      <tei:forename>Hermann</tei:forename>
@@ -61,7 +62,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="100">Kritiker*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb29983">
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29983">
                   <tei:author ref="pmb10815" role="author">
                      <tei:surname>Bahr</tei:surname>
                      <tei:forename>Hermann</tei:forename>
@@ -69,7 +72,7 @@
                   <tei:title>Der Meister</tei:title>
                   <tei:date from="1903-01-01" from-custom="1903">1903</tei:date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb215">
+               </bibl></listBibl><listPlace><place xml:id="pmb215">
                   <tei:placeName>Hotel de Rome</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
@@ -77,7 +80,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.51664 13.38774</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
+               </place><place xml:id="pmb168">
                   <tei:placeName>Berlin</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -85,7 +88,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -93,7 +98,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb3">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb3">
                   <tei:placeName>Deutsches Theater Berlin</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i4">Theater</tei:gloss>
@@ -101,4 +108,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.524444 13.382222</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q703955/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

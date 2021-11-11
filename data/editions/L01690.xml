@@ -20,7 +20,7 @@
                   September 1907]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-23">Durchsicht</change><change who="MAM" when="2020-06-23">Durchsicht</change><change who="MAM" when="2020-06-23">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00249"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00250"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00249"/><hi rend="latintype">Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb723" type="place">Wildbad Waldbrunn</rs></hi></addrLine><addrLine><hi rend="latintype"><rs type="place" ref="#pmb428">Welsberg</rs></hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb724" type="place">Pusterthal</rs></hi></addrLine></address></div><div type="writingSession" n="1"><opener><dateline><seg rend="left"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00250"/><rs ref="#pmb34199" type="place"><hi rend="latintype">Cort.</hi></rs></seg><seg rend="right"><date>Donnerstag</date></seg></dateline></opener><p>Sie arbeiten von <time>2</time>–<time>5</time>? Gut. Ich werde von <anchor xml:id="K_L01690_1" type="commentary"/><time>¼ 3</time> bis <time>¾ 5</time><note xml:id="K_L01690_1h" type="commentary">von 14:15 Uhr bis 16:45 Uhr</note><space unit="chars" quantity="1"/><rs type="work" subtype="implied" ref="#pmb43478">arbeiten</rs> und dafür das doppelte Honorar verlangen.</p><p>Wir sind <date><hi rend="underline" n="1">Sonntag</hi></date><space unit="chars" quantity="1"/><time>1<hi rend="superscript">h</hi>10</time> nachmittags bei Ihnen. Freuen uns<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr.</p><closer>Von Herzen<lb/><signed>Hugo.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11740">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-23">Durchsicht</change><change who="MAM" when="2020-06-23">Durchsicht</change><change who="MAM" when="2020-06-23">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00249"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00250"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00249"/><hi rend="latintype">Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb723" type="place">Wildbad Waldbrunn</rs></hi></addrLine><addrLine><hi rend="latintype"><rs type="place" ref="#pmb428">Welsberg</rs></hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb724" type="place">Pusterthal</rs></hi></addrLine></address></div><div type="writingSession" n="1"><opener><dateline><seg rend="left"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00250"/><rs ref="#pmb34199" type="place"><hi rend="latintype">Cort.</hi></rs></seg><seg rend="right"><date>Donnerstag</date></seg></dateline></opener><p>Sie arbeiten von <time>2</time>–<time>5</time>? Gut. Ich werde von <anchor xml:id="K_L01690_1" type="commentary"/><time>¼ 3</time> bis <time>¾ 5</time><note xml:id="K_L01690_1h" type="commentary">von 14:15 Uhr bis 16:45 Uhr</note><space unit="chars" quantity="1"/><rs type="work" subtype="implied" ref="#pmb43478">arbeiten</rs> und dafür das doppelte Honorar verlangen.</p><p>Wir sind <date><hi rend="underline" n="1">Sonntag</hi></date><space unit="chars" quantity="1"/><time>1<hi rend="superscript">h</hi>10</time> nachmittags bei Ihnen. Freuen uns<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr.</p><closer>Von Herzen<lb/><signed>Hugo.</signed></closer></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb43478">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb43478">
                   <tei:author ref="pmb11740" role="author">
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -57,7 +60,7 @@
                   <tei:title>Silvia im »Stern«</tei:title>
                   <tei:date from="1909-01-01" from-custom="1909">1909</tei:date>
                   <tei:gloss type="w1350">Dramenfragment</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb34199">
+               </bibl></listBibl><listPlace><place xml:id="pmb34199">
                   <tei:placeName>Cortina d'Ampezzo</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -65,7 +68,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.5369 12.13903</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb428">
+                  <idno type="geonames">https://www.geonames.org/3177952/</idno>
+               </place><place xml:id="pmb428">
                   <tei:placeName>Welsberg-Taisten</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -73,7 +77,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.75774 12.10556</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb723">
+                  <idno type="geonames">https://www.geonames.org/3173140/</idno>
+               </place><place xml:id="pmb723">
                   <tei:placeName>Wildbad Waldbrunn</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
@@ -81,7 +86,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.751211 12.101269</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb724">
+               </place><place xml:id="pmb724">
                   <tei:placeName>Pustertal</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i47">Region</tei:gloss>
@@ -89,4 +94,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.75 12.33333</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/3169744/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q698451/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

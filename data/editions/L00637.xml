@@ -21,7 +21,7 @@
                   3. 12. 1897?]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-10-31">überprüft am Faksimile</change><change who="MAM" when="2020-01-21">Durchsicht</change><change who="MAM" when="2020-01-21">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00201"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00201"/><date when="1897-01-14">14/I 97</date></dateline></opener><p><salute>Lieber Arthur! </salute>Wenn Sie morgen – <date>Freitag</date> – irgendwann zwischen <time>4</time> und <time>8</time><space unit="chars" quantity="1"/><hi n="1" rend="underline">Zeit haben</hi> – nur dann – bitte<del rend="strikethrough">n</del> schauen Sie ein wenig zu mir. <rs ref="#pmb10860" type="person">Paula</rs> klagt über Stechen und Schmerzen<supplied>.</supplied> Herzlichst</p><closer>Ihr <signed>Richard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-10-31">überprüft am Faksimile</change><change who="MAM" when="2020-01-21">Durchsicht</change><change who="MAM" when="2020-01-21">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00201"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00201"/><date when="1897-01-14">14/I 97</date></dateline></opener><p><salute>Lieber Arthur! </salute>Wenn Sie morgen – <date>Freitag</date> – irgendwann zwischen <time>4</time> und <time>8</time><space unit="chars" quantity="1"/><hi n="1" rend="underline">Zeit haben</hi> – nur dann – bitte<del rend="strikethrough">n</del> schauen Sie ein wenig zu mir. <rs ref="#pmb10860" type="person">Paula</rs> klagt über Stechen und Schmerzen<supplied>.</supplied> Herzlichst</p><closer>Ihr <signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10860">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10860">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Paula</tei:forename>
@@ -63,4 +66,6 @@
                      <tei:date when="1939-10-30">30. 10. 1939</tei:date>
                      <tei:placeName ref="#pmb484">Zürich</tei:placeName>
                   </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace/><listOrg/></back></text></TEI>
+                  <idno type="gnd">https://d-nb.info/gnd/119044994/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13550</idno>
+               </person></listPerson><listBibl/><listPlace/><listOrg/></back></text></TEI>

@@ -20,7 +20,7 @@
                                     nummeriert: »<quote>2</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10762">Andreas-Salomé, Lou</persName><placeName ref="#pmb50">Wien</placeName><date when="1895-04-28" n="01">28. 4. 1895</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10762">Andreas-Salomé, Lou</ref><ref subtype="previous_letter" type="withinCollection" target="L00432">Kraus an Schnitzler, 25. 4. 1895</ref><ref subtype="next_letter" type="withinCollection" target="L00434">Hofmannsthal an Schnitzler, [28. 4. 1895]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00337">Schnitzler an Andreas-Salomé, 13. 6. 1894</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00435">Andreas-Salomé an Schnitzler, [1. 5. 1895]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-02">Angelegt</change><change who="MAM" when="2018-08-08">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-06-21">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00003-000-00009"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00003-000-00009"/>Sehr geehrter Herr <hi rend="latintype">D<hi rend="superscript">r</hi></hi>,</salute></opener><p>ich bin für kurze Zeit in <rs ref="#pmb50" type="place"><hi rend="latintype">Wien</hi></rs>; kann ich Sie per<c rendition="#langesS">s</c>önlich kennen lernen?</p><closer>In ausgezeichneter Hochachtung<lb/><signed>Lou Andreas-Salomé.</signed></closer><postscript><p><hi rend="latintype"><rs ref="#pmb1101" type="place">Hôtel Royal</rs></hi></p><p><hi rend="latintype">am <rs ref="#pmb1105" type="place">Stephansplatz</rs>.</hi></p><dateline><date>28. IV. 95</date></dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb10762">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-02">Angelegt</change><change who="MAM" when="2018-08-08">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-06-21">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00003-000-00009"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00003-000-00009"/>Sehr geehrter Herr <hi rend="latintype">D<hi rend="superscript">r</hi></hi>,</salute></opener><p>ich bin für kurze Zeit in <rs ref="#pmb50" type="place"><hi rend="latintype">Wien</hi></rs>; kann ich Sie per<c rendition="#langesS">s</c>önlich kennen lernen?</p><closer>In ausgezeichneter Hochachtung<lb/><signed>Lou Andreas-Salomé.</signed></closer><postscript><p><hi rend="latintype"><rs ref="#pmb1101" type="place">Hôtel Royal</rs></hi></p><p><hi rend="latintype">am <rs ref="#pmb1105" type="place">Stephansplatz</rs>.</hi></p><dateline><date>28. IV. 95</date></dateline></postscript></div></body><back><listPerson><person xml:id="pmb10762">
                   <tei:persName>
                      <tei:surname>Andreas-Salomé</tei:surname>
                      <tei:forename>Lou</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb42325">Göttingen</tei:placeName>
                   </tei:death>
                   <occupation code="91">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118502921/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13196</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -57,7 +60,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1101">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb1101">
                   <tei:placeName>Hotel Royal</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
@@ -65,7 +70,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2078844 16.3723234</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1105">
+               </place><place xml:id="pmb1105">
                   <tei:placeName>Stephansplatz</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i21">Platz</tei:gloss>
@@ -73,4 +78,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.20907 16.37271</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

@@ -22,7 +22,7 @@
                                     darauf hin, dass damit das Manuskript retour gesandt wurde</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1915-07-13" n="01">13. [7. 1915?]</date></correspAction><correspAction type="received"><persName ref="#pmb12438">Adam, Robert</persName><placeName ref="#pmb44400">Zistersdorf</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb12438">Adam, Robert</ref><ref subtype="previous_letter" type="withinCollection" target="L02213">Schnitzler an Adam, 11. 7. 1915</ref><ref subtype="next_letter" type="withinCollection" target="L02215">Adam an Schnitzler, 16. 7. 1915</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02213">Schnitzler an Adam, 11. 7. 1915</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02215">Adam an Schnitzler, 16. 7. 1915</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-10-30">Angelegt</change><change who="MAM" when="2020-10-30">Index check</change><change who="MAM" when="2020-10-30">Durchsicht</change><change who="GHS" when="2021-07-10">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="96.34.2_0079"/></facsimile><text type="letter"><body><div type="address"><address><addrLine><pb facs="96.34.2_0079"/>Ab<c rendition="#langesS">s</c>ender</addrLine><addrLine><hi rend="latintype">Dr Arthur Schnitzler.</hi><space unit="chars" quantity="1"/><rs type="place" ref="#pmb68">Wien XVIII</rs></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb150" type="place">Sternwartestr 71.</rs></hi></addrLine></address><address><addrLine>Herrn Dr. <hi rend="latintype">Robert Adam Pollak</hi></addrLine><addrLine>Bezirksrichter in</addrLine><addrLine><hi rend="latintype"><rs ref="#pmb44400" type="place">Zistersdorf</rs></hi></addrLine><addrLine><rs ref="#pmb1003" type="place"><hi rend="latintype">N. Oe.</hi></rs> – </addrLine><addrLine>Druck<c rendition="#langesS">s</c>ache</addrLine></address></div></body><back><listPerson><tei:person xml:id="pmb2121">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-10-30">Angelegt</change><change who="MAM" when="2020-10-30">Index check</change><change who="MAM" when="2020-10-30">Durchsicht</change><change who="GHS" when="2021-07-10">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="96.34.2_0079"/></facsimile><text type="letter"><body><div type="address"><address><addrLine><pb facs="96.34.2_0079"/>Ab<c rendition="#langesS">s</c>ender</addrLine><addrLine><hi rend="latintype">Dr Arthur Schnitzler.</hi><space unit="chars" quantity="1"/><rs type="place" ref="#pmb68">Wien XVIII</rs></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb150" type="place">Sternwartestr 71.</rs></hi></addrLine></address><address><addrLine>Herrn Dr. <hi rend="latintype">Robert Adam Pollak</hi></addrLine><addrLine>Bezirksrichter in</addrLine><addrLine><hi rend="latintype"><rs ref="#pmb44400" type="place">Zistersdorf</rs></hi></addrLine><addrLine><rs ref="#pmb1003" type="place"><hi rend="latintype">N. Oe.</hi></rs> – </addrLine><addrLine>Druck<c rendition="#langesS">s</c>ache</addrLine></address></div></body><back><listPerson><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -37,7 +37,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12438">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12438">
                   <tei:persName>
                      <tei:surname>Adam</tei:surname>
                      <tei:forename>Robert</tei:forename>
@@ -52,7 +53,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="160">Richter*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb68">
+                  <idno type="gnd">https://d-nb.info/gnd/1020823992/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18893</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb68">
                   <tei:placeName>XVIII., Währing</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -60,7 +63,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2762091/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -68,7 +72,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb44400">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb44400">
                   <tei:placeName>Zistersdorf</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1434">Besiedelter Ort</tei:gloss>
@@ -76,7 +82,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.53585 16.75613</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb150">
+                  <idno type="geonames">https://www.geonames.org/2760510/</idno>
+                  <idno type="geonames">https://www.geonames.org/7871748/</idno>
+               </place><place xml:id="pmb150">
                   <tei:placeName>Sternwartestraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -84,7 +92,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1003">
+               </place><place xml:id="pmb1003">
                   <tei:placeName>Niederösterreich</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i38">Land</tei:gloss>
@@ -92,4 +100,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.33333 15.75</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2770542/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q42497/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

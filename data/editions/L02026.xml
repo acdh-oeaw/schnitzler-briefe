@@ -21,7 +21,7 @@
                               »<quote>263</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">215</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb415">Bad Aussee</placeName><date when="1911-09-10" n="01">[10.? 9. 1911]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L02025">Burckhard an Schnitzler, 23. 8. 1911</ref><ref subtype="next_letter" type="withinCollection" target="L02027">Hofmannsthal an Schnitzler, 11. 9. 1911</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02023">Beer-Hofmann an Schnitzler, 15. 6. 1911</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02034">Beer-Hofmann an Schnitzler, 9. 10. 1911</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="MAM" when="2019-09-18">Durchsicht mit Faksimile</change><change who="MAM" when="2020-05-25">Index check</change><change who="MAM" when="2020-05-25">Durchsicht</change><change who="GHS" when="2021-01-26">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00230"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><opener><dateline><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00230"/><rs ref="#pmb415" type="place">badaussee</rs> 496 44 <time>11/40</time></dateline></opener><p>bitte uebermitteln sye ihrem <rs type="person" ref="#pmb12698" subtype="implied">bruder</rs> u ihrer <rs type="person" ref="#pmb2461" subtype="implied">schwester</rs> mein aufrichtigstes <anchor xml:id="K_L02026_1" type="commentary"/>bejlejd<note xml:id="K_L02026_1h" type="commentary">Die Mutter <rs ref="#pmb12701" type="person">Louise Schnitzler</rs> war am <date>9. 9. 1911</date> gestorben.</note> sye selbst lieber arthur wiszen denke ich dasz ich heute wie immer an allem was sye an gutem und boesem trifft von herzen antejl nehme <signed>richard .+</signed></p></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="MAM" when="2019-09-18">Durchsicht mit Faksimile</change><change who="MAM" when="2020-05-25">Index check</change><change who="MAM" when="2020-05-25">Durchsicht</change><change who="GHS" when="2021-01-26">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00230"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><opener><dateline><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00230"/><rs ref="#pmb415" type="place">badaussee</rs> 496 44 <time>11/40</time></dateline></opener><p>bitte uebermitteln sye ihrem <rs type="person" ref="#pmb12698" subtype="implied">bruder</rs> u ihrer <rs type="person" ref="#pmb2461" subtype="implied">schwester</rs> mein aufrichtigstes <anchor xml:id="K_L02026_1" type="commentary"/>bejlejd<note xml:id="K_L02026_1h" type="commentary">Die Mutter <rs ref="#pmb12701" type="person">Louise Schnitzler</rs> war am <date>9. 9. 1911</date> gestorben.</note> sye selbst lieber arthur wiszen denke ich dasz ich heute wie immer an allem was sye an gutem und boesem trifft von herzen antejl nehme <signed>richard .+</signed></p></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12698">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12698">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Julius</tei:forename>
@@ -64,7 +67,9 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="364">Chirurg*in</occupation>
-               </tei:person><tei:person xml:id="pmb2461">
+                  <idno type="gnd">https://d-nb.info/gnd/116848693/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19827</idno>
+               </person><person xml:id="pmb2461">
                   <tei:persName>
                      <tei:surname>Hajek</tei:surname>
                      <tei:forename>Gisela</tei:forename>
@@ -77,7 +82,9 @@
                      <tei:date when="1953-02-03">3. 2. 1953</tei:date>
                      <tei:placeName ref="#pmb893">Cambridge</tei:placeName>
                   </tei:death>
-               </tei:person><tei:person xml:id="pmb12701">
+                  <idno type="gnd">https://d-nb.info/gnd/1011705532/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15854</idno>
+               </person><person xml:id="pmb12701">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Louise</tei:forename>
@@ -90,7 +97,9 @@
                      <tei:date when="1911-09-09">9. 9. 1911</tei:date>
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb415">
+                  <idno type="gnd">https://d-nb.info/gnd/1141930552/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19831</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb415">
                   <tei:placeName>Bad Aussee</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -98,7 +107,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2782070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q251065/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -106,4 +117,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

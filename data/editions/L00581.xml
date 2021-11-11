@@ -20,7 +20,7 @@
                   21. 8. 1896]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00585">Beer-Hofmann an Schnitzler, 5. 9. 1896</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-10-25">angelegt aus Faksimile</change><change who="MAM" when="2019-10-28">Durchsicht</change><change who="MAM" when="2019-10-28">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00175"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00176"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00175"/>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb50" type="place">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">IX. Frankgasse 1</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00176"/>Gruss aus dem <rs ref="#pmb42678" type="place">Zoolog. Garten</rs> in <rs ref="#pmb864" type="place">Leipzig</rs>, d.</hi><space unit="chars" quantity="1"/><date>30/VIII 96</date></p><p rend="center"><hi rend="pre-print">Besitzer <rs ref="#pmb42680" type="person">E. Pinkert</rs></hi></p><p rend="center"><hi rend="pre-print">Bären-Zwinger.</hi><space unit="chars" quantity="3"/><hi rend="pre-print">Raubthierhaus.</hi><space unit="chars" quantity="3"/><hi rend="pre-print">Antilopen-Haus.</hi><space unit="chars" quantity="4"/><hi rend="pre-print">Teich m. Büffel u. Kameel-Haus.</hi></p></opener><p><salute>Lieber! </salute>Da man den »<rs ref="#pmb42691" type="work">Doppeladler</rs>« spielt <hi rend="underline" n="1">muß</hi> ich doch Ihnen schreiben. – Ich bin <time>Donnerstag</time> in <rs ref="#pmb662" type="place">Baden</rs>.</p><closer>Herzlichst<lb/>Ihr <signed>Richard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-10-25">angelegt aus Faksimile</change><change who="MAM" when="2019-10-28">Durchsicht</change><change who="MAM" when="2019-10-28">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00175"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00176"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00175"/>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb50" type="place">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">IX. Frankgasse 1</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00176"/>Gruss aus dem <rs ref="#pmb42678" type="place">Zoolog. Garten</rs> in <rs ref="#pmb864" type="place">Leipzig</rs>, d.</hi><space unit="chars" quantity="1"/><date>30/VIII 96</date></p><p rend="center"><hi rend="pre-print">Besitzer <rs ref="#pmb42680" type="person">E. Pinkert</rs></hi></p><p rend="center"><hi rend="pre-print">Bären-Zwinger.</hi><space unit="chars" quantity="3"/><hi rend="pre-print">Raubthierhaus.</hi><space unit="chars" quantity="3"/><hi rend="pre-print">Antilopen-Haus.</hi><space unit="chars" quantity="4"/><hi rend="pre-print">Teich m. Büffel u. Kameel-Haus.</hi></p></opener><p><salute>Lieber! </salute>Da man den »<rs ref="#pmb42691" type="work">Doppeladler</rs>« spielt <hi rend="underline" n="1">muß</hi> ich doch Ihnen schreiben. – Ich bin <time>Donnerstag</time> in <rs ref="#pmb662" type="place">Baden</rs>.</p><closer>Herzlichst<lb/>Ihr <signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb42680">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb42680">
                   <tei:persName>
                      <tei:surname>Pinkert</tei:surname>
                      <tei:forename>Ernst</tei:forename>
@@ -64,7 +67,8 @@
                   </tei:death>
                   <occupation code="688">Gastwirt</occupation>
                   <occupation code="1393">Zoodirektor*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb42691">
+                  <idno type="gnd">https://d-nb.info/gnd/1081564806/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb42691">
                   <tei:author ref="pmb42688" role="author">
                      <tei:surname>Wagner</tei:surname>
                      <tei:forename>Joseph Franz</tei:forename>
@@ -72,7 +76,7 @@
                   <tei:title>Unter dem Doppel-Adler</tei:title>
                   <tei:date from="1893-01-01" from-custom="1893">1893</tei:date>
                   <tei:gloss type="w1394">Marsch</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb864">
+               </bibl></listBibl><listPlace><place xml:id="pmb864">
                   <tei:placeName>Leipzig</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -80,7 +84,10 @@
                   <tei:location>
                      <tei:geo decls="LatLng">51.33962 12.37129</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb59">
+                  <idno type="geonames">https://www.geonames.org/2879139/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q2079/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4035206-7/</idno>
+               </place><place xml:id="pmb59">
                   <tei:placeName>IX., Alsergrund</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -88,7 +95,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -96,7 +104,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb397">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb397">
                   <tei:placeName>Frankgasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -104,7 +114,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb42678">
+               </place><place xml:id="pmb42678">
                   <tei:placeName>Zoo</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i52">Zoo</tei:gloss>
@@ -112,7 +122,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">51.348889 12.369167</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb662">
+               </place><place xml:id="pmb662">
                   <tei:placeName>Baden bei Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -120,4 +130,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.00543 16.23264</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2782067/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q486450/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

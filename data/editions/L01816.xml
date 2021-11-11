@@ -20,7 +20,7 @@
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
         </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2021-01-19">Durchsicht</change><change who="MAM" when="2021-02-04">Durchsicht. Getrennt vom Brief
-            9. 10. 1911</change><change who="MAM" when="2021-02-04">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00272"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><table><row><cell><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00272"/><anchor xml:id="KLL01816_OS-1" type="commentary"/>Ein fürstliches<note xml:id="KLL01816_OS-1h" type="commentary">Die Speisekarte ist undatiert. Sie fügt sich als mögliche Antwort auf die Frage <rs type="person" ref="#pmb2173">Olga Schnitzler</rs>s nach dem Speiseplan ein und wird entsprechend an diese Stelle gereiht.</note>:</cell><cell>Gansleberragout</cell></row><row><cell>Königliche:</cell><cell>Perlhühner</cell></row><row><cell>Päbstliche:</cell><cell>kleine Bäckerei</cell></row><row><cell>Göttliche Gesellschaft!</cell></row></table><closer><signed>Der Koch – nein – Küchen-Chef</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+            9. 10. 1911</change><change who="MAM" when="2021-02-04">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00272"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><table><row><cell><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00272"/><anchor xml:id="KLL01816_OS-1" type="commentary"/>Ein fürstliches<note xml:id="KLL01816_OS-1h" type="commentary">Die Speisekarte ist undatiert. Sie fügt sich als mögliche Antwort auf die Frage <rs type="person" ref="#pmb2173">Olga Schnitzler</rs>s nach dem Speiseplan ein und wird entsprechend an diese Stelle gereiht.</note>:</cell><cell>Gansleberragout</cell></row><row><cell>Königliche:</cell><cell>Perlhühner</cell></row><row><cell>Päbstliche:</cell><cell>kleine Bäckerei</cell></row><row><cell>Göttliche Gesellschaft!</cell></row></table><closer><signed>Der Koch – nein – Küchen-Chef</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb2173">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2173">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Olga</tei:forename>
@@ -64,7 +67,8 @@
                   </tei:death>
                   <occupation code="107">Sänger*in</occupation>
                   <occupation code="108">Schauspieler*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -72,4 +76,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

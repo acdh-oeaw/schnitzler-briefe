@@ -20,7 +20,7 @@
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
         </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-09-09">Microfiche-Faksimimle abgeglichen</change><change who="MAM" when="2019-09-13">Durchsicht und finalisiert mit farbigem
-            Faksimile</change><change who="MAM" when="2020-05-24">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00011"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00012"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><salute rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00011"/>Lieber Arthur!</salute></opener><p>Zwei uns befreundete <rs type="person" ref="#pmb41124 #pmb41128" subtype="implied">Damen</rs> – nicht aus <rs ref="#pmb50" type="place">Wien</rs> – wollen nach <rs ref="#pmb50" type="place">Wien</rs> von hier aus, um Professor <rs ref="#pmb8322" type="person">Kraft-Ebing</rs> zu consultiren. Ist <rs ref="#pmb8322" type="person">Kraft-Ebing</rs> aber jetzt in <rs ref="#pmb50" type="place">Wien</rs>? Wenn nicht, ist bekannt, wann er zurückkehrt? Bitte antworten Sie mir bald. Bez. meiner Wenigkeit ist noch kein Entschluss gefasst, <rs ref="#pmb50" type="place">Wien</rs> – <rs ref="#pmb44278" type="place">Pörtschach</rs> – <rs ref="#pmb415" type="place">Aussee</rs> – alles noch ungewiss.</p><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00012"/>Was haben Sie beschlossen?</p><p>Grüßen Sie mir herzlich <rs ref="#pmb2167" type="person">Salten</rs>.</p><closer>Ihr<lb/>treuer<lb/><signed>Richard</signed></closer><postscript><dateline><date>21. Aug. 91</date>.</dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb10863">
+            Faksimile</change><change who="MAM" when="2020-05-24">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00011"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00012"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><salute rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00011"/>Lieber Arthur!</salute></opener><p>Zwei uns befreundete <rs type="person" ref="#pmb41124 #pmb41128" subtype="implied">Damen</rs> – nicht aus <rs ref="#pmb50" type="place">Wien</rs> – wollen nach <rs ref="#pmb50" type="place">Wien</rs> von hier aus, um Professor <rs ref="#pmb8322" type="person">Kraft-Ebing</rs> zu consultiren. Ist <rs ref="#pmb8322" type="person">Kraft-Ebing</rs> aber jetzt in <rs ref="#pmb50" type="place">Wien</rs>? Wenn nicht, ist bekannt, wann er zurückkehrt? Bitte antworten Sie mir bald. Bez. meiner Wenigkeit ist noch kein Entschluss gefasst, <rs ref="#pmb50" type="place">Wien</rs> – <rs ref="#pmb44278" type="place">Pörtschach</rs> – <rs ref="#pmb415" type="place">Aussee</rs> – alles noch ungewiss.</p><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00012"/>Was haben Sie beschlossen?</p><p>Grüßen Sie mir herzlich <rs ref="#pmb2167" type="person">Salten</rs>.</p><closer>Ihr<lb/>treuer<lb/><signed>Richard</signed></closer><postscript><dateline><date>21. Aug. 91</date>.</dateline></postscript></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,29 +51,18 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb41124">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb41124">
                   <tei:persName>
                      <tei:surname>?? [Befreundete Frau 1]</tei:surname>
                      <tei:forename/>
                   </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1891-08-21">21. 8. 1891</tei:date>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1891-08-21">21. 8. 1891</tei:date>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb41128">
+               </person><person xml:id="pmb41128">
                   <tei:persName>
                      <tei:surname>?? [Befreundete Frau 2]</tei:surname>
                      <tei:forename/>
                   </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1891-08-21">21. 8. 1891</tei:date>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1891-08-21">21. 8. 1891</tei:date>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb8322">
+               </person><person xml:id="pmb8322">
                   <tei:persName>
                      <tei:surname>Krafft-Ebing</tei:surname>
                      <tei:forename>Richard von</tei:forename>
@@ -86,7 +77,9 @@
                   </tei:death>
                   <occupation code="373">Sexualforscher*in</occupation>
                   <occupation code="386">Psychiater</occupation>
-               </tei:person><tei:person xml:id="pmb2167">
+                  <idno type="gnd">https://d-nb.info/gnd/118715399/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17076</idno>
+               </person><person xml:id="pmb2167">
                   <tei:persName>
                      <tei:surname>Salten</tei:surname>
                      <tei:forename>Felix</tei:forename>
@@ -101,7 +94,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="99">Journalist*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb415">
+                  <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb415">
                   <tei:placeName>Bad Aussee</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -109,7 +103,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2782070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q251065/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -117,7 +113,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb44278">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb44278">
                   <tei:placeName>Pörtschach</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
@@ -125,4 +123,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.02251 14.47783</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2768497/</idno>
+                  <idno type="geonames">https://www.geonames.org/2768499/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

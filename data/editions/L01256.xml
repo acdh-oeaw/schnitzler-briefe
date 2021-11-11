@@ -22,7 +22,7 @@
                   an Hofmannsthal, [25.? 11. 1902]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01257">Hofmannsthal
                   an Schnitzler, 18. 12. 1902</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2016-03-11">Angelegt aus OCR</change><change who="MAM" when="2017-03-16">Durchgesehen mit Original in CUL</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-04-11">finalisiert</change><change who="MAM" when="2020-10-19">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00185"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00186"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00185"/><rs ref="#pmb10815" type="person">Bahr</rs> hat Blinddarmentzündung bin in großer Unruhe ob nichts ver<c rendition="#langesS">s</c>äumt wird</p><closer><signed>Hugo.</signed></closer></div></body><back><listPerson><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb11740">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2016-03-11">Angelegt aus OCR</change><change who="MAM" when="2017-03-16">Durchgesehen mit Original in CUL</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-04-11">finalisiert</change><change who="MAM" when="2020-10-19">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00185"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00186"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00185"/><rs ref="#pmb10815" type="person">Bahr</rs> hat Blinddarmentzündung bin in großer Unruhe ob nichts ver<c rendition="#langesS">s</c>äumt wird</p><closer><signed>Hugo.</signed></closer></div></body><back><listPerson><person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -36,7 +36,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -51,7 +53,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb10815">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb10815">
                   <tei:persName>
                      <tei:surname>Bahr</tei:surname>
                      <tei:forename>Hermann</tei:forename>
@@ -66,7 +69,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="100">Kritiker*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person></listPerson><listBibl/><listPlace><place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -74,4 +79,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

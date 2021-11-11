@@ -18,7 +18,7 @@
                      beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="telegramm"/></objectDesc><typeDesc><p>maschinell</p></typeDesc><additions><incident type="postal"><desc>Stempel des Telegrafenbeamten, der Telegrafenbeamtin: »<quote>W. 106 <unclear>Graser</unclear></quote>« und wohl von derselben Schreibkraft mit Bleistift: »<quote><date>5/8</date><space unit="chars" quantity="1"/><time>11<hi rend="superscript">10</hi></time></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">112</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1897-08-05" n="01">5. 8. 1897</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb213">Bad Ischl</placeName><date when="1897-08-05">5. 8. 1897</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00712">Schnitzler an Beer-Hofmann, 4. 8. 1897</ref><ref subtype="next_letter" type="withinCollection" target="L00714">Beer-Hofmann an Schnitzler, 7. 8. 1897</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00712">Schnitzler an Beer-Hofmann, 4. 8. 1897</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00714">Beer-Hofmann an Schnitzler, 7. 8. 1897</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-11-05">überprüft am Faksimile</change><change who="MAM" when="2020-01-22">Durchsicht</change><change who="MAM" when="2020-01-21">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="1897_AS_RBH_2_00055"/><graphic url="1897_AS_RBH_2_00056"/></facsimile><text type="telegram"><body><div type="address"><address><addrLine><pb facs="1897_AS_RBH_2_00055"/>richard beer-hofman <rs ref="#pmb213" type="place">ischl</rs><space unit="chars" quantity="1"/><rs ref="#pmb766" type="place">eglmoos 22</rs></addrLine></address></div><div type="writingSession" n="1"><p>fr. <rs type="place" ref="#pmb50">wien</rs> 62+ 330 30 <date>5/8</date><space unit="chars" quantity="1"/><time>9 35</time></p><p>bitte <rs type="person" ref="#pmb16560" subtype="implied">sagen</rs> sie lieber dass ein derartiger wunsch fuer den absolut kein grund ersichtlich widersinnig und zerstoerend scheint. brief bringt ihnen aufklaerung herzlich <signed>arthur</signed></p></div></body><back><listPerson><tei:person xml:id="pmb2121">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-11-05">überprüft am Faksimile</change><change who="MAM" when="2020-01-22">Durchsicht</change><change who="MAM" when="2020-01-21">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="1897_AS_RBH_2_00055"/><graphic url="1897_AS_RBH_2_00056"/></facsimile><text type="telegram"><body><div type="address"><address><addrLine><pb facs="1897_AS_RBH_2_00055"/>richard beer-hofman <rs ref="#pmb213" type="place">ischl</rs><space unit="chars" quantity="1"/><rs ref="#pmb766" type="place">eglmoos 22</rs></addrLine></address></div><div type="writingSession" n="1"><p>fr. <rs type="place" ref="#pmb50">wien</rs> 62+ 330 30 <date>5/8</date><space unit="chars" quantity="1"/><time>9 35</time></p><p>bitte <rs type="person" ref="#pmb16560" subtype="implied">sagen</rs> sie lieber dass ein derartiger wunsch fuer den absolut kein grund ersichtlich widersinnig und zerstoerend scheint. brief bringt ihnen aufklaerung herzlich <signed>arthur</signed></p></div></body><back><listPerson><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -33,7 +33,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -47,7 +48,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb16560">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb16560">
                   <tei:persName>
                      <tei:surname>Freudenthal</tei:surname>
                      <tei:forename>Rosa</tei:forename>
@@ -59,7 +62,8 @@
                      <tei:date when="1905-06-18">18. 6. 1905</tei:date>
                      <tei:placeName ref="#pmb168">Berlin</tei:placeName>
                   </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15178</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -67,7 +71,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb213">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb213">
                   <tei:placeName>Bad Ischl</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -75,7 +81,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb766">
+                  <idno type="geonames">https://www.geonames.org/2782052/</idno>
+               </place><place xml:id="pmb766">
                   <tei:placeName>Eglmoosgasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -83,4 +90,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.713083 13.61758</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

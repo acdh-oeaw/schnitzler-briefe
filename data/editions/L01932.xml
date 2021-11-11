@@ -19,7 +19,7 @@
                               »<quote>231</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">208</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb50">Wien</placeName><date when="1910-05-17" n="02">[17. 5. 1910]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1910-05-17">[17. 5. 1910]</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01931">Schnitzler an Beer-Hofmann, [17. 5. 1910?]</ref><ref subtype="next_letter" type="withinCollection" target="L02556">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 18. 5. 1910</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01931">Schnitzler an Beer-Hofmann, [17. 5. 1910?]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02556">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 18. 5. 1910</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="MAM" when="2020-07-14">Index check</change><change who="GHS" when="2021-01-14">Durchsicht</change><change who="MAM" when="2021-03-09">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00158"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00159"/></facsimile><text type="letter"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00158"/>Herrn D<hi rend="superscript">r</hi></addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb133" type="place">Spöttelgasse 7</rs></addrLine></address></div><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00158"/>Lieber Arthur!</salute></opener><p>Unerwarteterweise ist <time>Nachmittags</time> die <rs ref="#pmb11636" type="person">Heims</rs> (und <rs ref="#pmb5082" type="person">Reinhardt junior</rs>) zu uns geko<c rendition="#gemination-m"/>en. Jetzt – im Momente Ihrer Abreise – wollen wir nicht <pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00159"/>mehr hinüber zu ihnen – also schriftlich – alles Gute und Schöne mit auf Ihren Weg.</p><closer>Von Herzen<lb/><signed>Richard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="MAM" when="2020-07-14">Index check</change><change who="GHS" when="2021-01-14">Durchsicht</change><change who="MAM" when="2021-03-09">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00158"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00159"/></facsimile><text type="letter"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00158"/>Herrn D<hi rend="superscript">r</hi></addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb133" type="place">Spöttelgasse 7</rs></addrLine></address></div><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00158"/>Lieber Arthur!</salute></opener><p>Unerwarteterweise ist <time>Nachmittags</time> die <rs ref="#pmb11636" type="person">Heims</rs> (und <rs ref="#pmb5082" type="person">Reinhardt junior</rs>) zu uns geko<c rendition="#gemination-m"/>en. Jetzt – im Momente Ihrer Abreise – wollen wir nicht <pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00159"/>mehr hinüber zu ihnen – also schriftlich – alles Gute und Schöne mit auf Ihren Weg.</p><closer>Von Herzen<lb/><signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -33,7 +33,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -48,7 +50,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11636">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11636">
                   <tei:persName>
                      <tei:surname>Heims</tei:surname>
                      <tei:forename>Else</tei:forename>
@@ -62,7 +65,9 @@
                      <tei:placeName ref="#pmb45685">Santa Monica</tei:placeName>
                   </tei:death>
                   <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb5082">
+                  <idno type="gnd">https://d-nb.info/gnd/116421983/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16042</idno>
+               </person><person xml:id="pmb5082">
                   <tei:persName>
                      <tei:surname>Reinhardt</tei:surname>
                      <tei:forename>Wolfgang</tei:forename>
@@ -76,7 +81,8 @@
                      <tei:placeName ref="#pmb445">Rom</tei:placeName>
                   </tei:death>
                   <occupation code="346">Filmproduzent</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/139065636/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -84,7 +90,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb133">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
                   <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -92,4 +100,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

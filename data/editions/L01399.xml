@@ -20,7 +20,7 @@
                   Schnitzler an Beer-Hofmann, 16. 5. 1904</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01394">Hofmannsthal an Schnitzler, 25. 4. 1904</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01401">Schnitzler,
                   Schnitzler an Hofmannsthal, 16. 5. 1904</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="MAM" when="2020-09-10">Index check</change><change who="MAM" when="2020-09-10">Durchsicht</change><change who="GHS" when="2021-05-02">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="Hofmannsthal–Schnitzler_186"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="Hofmannsthal–Schnitzler_186"/><date>7. Mai 1904</date></dateline></opener><p>»<rs type="work" ref="#pmb34308">Ital. Reise</rs>. <rs type="work" subtype="implied" ref="#pmb34308"><rs ref="#pmb462" type="place">Venedig</rs>, <date>7. October</date><space unit="chars" quantity="1"/><c rendition="#dots" n="3"/> Nur betrug sie sich von <anchor xml:id="K_L01399_1" type="commentary"/>Anfang bis zu Ende<note xml:id="K_L01399_1h" type="commentary">In <rs type="person" ref="#pmb11461">Goethe</rs>s <rs type="work" ref="#pmb34308">Italienischer Reise</rs> steht »<quote>Anfang bis zum Ende</quote>«.</note> toll, wie es leider die Rolle verlangt</rs>« Sehn Sie!</p><closer> Herzl. Grüße.<lb/><signed>Olga</signed><lb/><handShift scribe="#pmb2121"/>Herzlichst <signed>Arthur</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2173">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="MAM" when="2020-09-10">Index check</change><change who="MAM" when="2020-09-10">Durchsicht</change><change who="GHS" when="2021-05-02">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="Hofmannsthal–Schnitzler_186"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="Hofmannsthal–Schnitzler_186"/><date>7. Mai 1904</date></dateline></opener><p>»<rs type="work" ref="#pmb34308">Ital. Reise</rs>. <rs type="work" subtype="implied" ref="#pmb34308"><rs ref="#pmb462" type="place">Venedig</rs>, <date>7. October</date><space unit="chars" quantity="1"/><c rendition="#dots" n="3"/> Nur betrug sie sich von <anchor xml:id="K_L01399_1" type="commentary"/>Anfang bis zu Ende<note xml:id="K_L01399_1h" type="commentary">In <rs type="person" ref="#pmb11461">Goethe</rs>s <rs type="work" ref="#pmb34308">Italienischer Reise</rs> steht »<quote>Anfang bis zum Ende</quote>«.</note> toll, wie es leider die Rolle verlangt</rs>« Sehn Sie!</p><closer> Herzl. Grüße.<lb/><signed>Olga</signed><lb/><handShift scribe="#pmb2121"/>Herzlichst <signed>Arthur</signed></closer></div></body><back><listPerson><person xml:id="pmb2173">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Olga</tei:forename>
@@ -35,7 +35,8 @@
                   </tei:death>
                   <occupation code="107">Sänger*in</occupation>
                   <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -64,7 +66,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb11461">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb11461">
                   <tei:persName>
                      <tei:surname>Goethe</tei:surname>
                      <tei:forename>Johann Wolfgang von</tei:forename>
@@ -78,7 +82,9 @@
                      <tei:placeName ref="#pmb197">Weimar</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb34308">
+                  <idno type="gnd">https://d-nb.info/gnd/118540238/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15499</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb34308">
                   <tei:author ref="pmb11461" role="author">
                      <tei:surname>Goethe</tei:surname>
                      <tei:forename>Johann Wolfgang von</tei:forename>
@@ -86,7 +92,7 @@
                   <tei:title>Italienische Reise</tei:title>
                   <tei:date from="1816-01-01" from-custom="1816" to="1817-01-01" to-custom="1817">1816–1817</tei:date>
                   <tei:gloss type="w1164">Reisebericht</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb445">
+               </bibl></listBibl><listPlace><place xml:id="pmb445">
                   <tei:placeName>Rom</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -94,7 +100,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">41.89193 12.51133</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/3169070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q220/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -102,7 +110,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb462">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb462">
                   <tei:placeName>Venedig</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -110,4 +120,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.43713 12.33265</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/3164603/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

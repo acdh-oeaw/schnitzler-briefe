@@ -20,7 +20,7 @@
                   Beer-Hofmann, 22. 6. 1893</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00218">Hofmannsthal an Schnitzler, 7. 6. 1893</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00233">Schnitzler an
                   Hofmannsthal, 5. 7. 1893</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-02-21">Angelegt</change><change who="MAM" when="2019-03-12">Durchsicht</change><change who="MAM" when="2019-03-13">Durchsicht mit CUL-Scan</change><change who="MAM" when="2019-03-13">Index check</change><change who="GHS" when="2019-09-27">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00097"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00097"/>Lieber Arthur.</salute></opener><p>Heute geht nicht. Möchte morgen auf ganzen Tag, außer Regen. Schreiben Sie pneumati<c rendition="#langesS">s</c>ch, ob recht i<c rendition="#langesS">s</c>t. Wenn Sie nicht auf <hi n="1" rend="underline">viele</hi> Zeit nach <anchor xml:id="K_L00225_1" type="commentary"/><rs ref="#pmb662" type="place">Baden</rs><note xml:id="K_L00225_1h" type="commentary">Traut man der die Datierung <rs ref="#pmb2121" type="person">Schnitzler</rs>s mit »<quote><date>Juni 93</date></quote>«, so dürfte dieses Korrespondenzstück am Vortag des einzigen Besuchs <rs ref="#pmb2121" type="person">Schnitzler</rs>s in <rs ref="#pmb662" type="place">Baden</rs> verfasst sein. Zu einem Treffen kam es laut <rs ref="#pmb2121" type="person">Schnitzler</rs>s <rs type="work" ref="#pmb33243" subtype="implied">Tagebuch</rs> dann aber nicht.</note> mü<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tehts ja doch dafür. Vielleicht <rs ref="#pmb2167" type="person"><hi rend="underline" n="1">Salten</hi></rs> auch.</p><closer><signed>Hugo.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11740">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-02-21">Angelegt</change><change who="MAM" when="2019-03-12">Durchsicht</change><change who="MAM" when="2019-03-13">Durchsicht mit CUL-Scan</change><change who="MAM" when="2019-03-13">Index check</change><change who="GHS" when="2019-09-27">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00097"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00097"/>Lieber Arthur.</salute></opener><p>Heute geht nicht. Möchte morgen auf ganzen Tag, außer Regen. Schreiben Sie pneumati<c rendition="#langesS">s</c>ch, ob recht i<c rendition="#langesS">s</c>t. Wenn Sie nicht auf <hi n="1" rend="underline">viele</hi> Zeit nach <anchor xml:id="K_L00225_1" type="commentary"/><rs ref="#pmb662" type="place">Baden</rs><note xml:id="K_L00225_1h" type="commentary">Traut man der die Datierung <rs ref="#pmb2121" type="person">Schnitzler</rs>s mit »<quote><date>Juni 93</date></quote>«, so dürfte dieses Korrespondenzstück am Vortag des einzigen Besuchs <rs ref="#pmb2121" type="person">Schnitzler</rs>s in <rs ref="#pmb662" type="place">Baden</rs> verfasst sein. Zu einem Treffen kam es laut <rs ref="#pmb2121" type="person">Schnitzler</rs>s <rs type="work" ref="#pmb33243" subtype="implied">Tagebuch</rs> dann aber nicht.</note> mü<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tehts ja doch dafür. Vielleicht <rs ref="#pmb2167" type="person"><hi rend="underline" n="1">Salten</hi></rs> auch.</p><closer><signed>Hugo.</signed></closer></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb2167">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2167">
                   <tei:persName>
                      <tei:surname>Salten</tei:surname>
                      <tei:forename>Felix</tei:forename>
@@ -64,7 +67,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="99">Journalist*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb33243">
+                  <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb33243">
                   <tei:author ref="pmb2121" role="author">
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -73,7 +77,7 @@
                   <tei:date from="1981-01-01" from-custom="1981" to="2000-01-01" to-custom="2000">1981–2000</tei:date>
                   <tei:gloss type="w1356">Tagebuch</tei:gloss>
                   <tei:note>6297</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb662">
+               </bibl></listBibl><listPlace><place xml:id="pmb662">
                   <tei:placeName>Baden bei Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -81,4 +85,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.00543 16.23264</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2782067/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q486450/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

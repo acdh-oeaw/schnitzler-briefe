@@ -21,7 +21,7 @@
                                     nummeriert: »<quote>9</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb189">Semmering</placeName><date when="1909-01-26" n="02">26. 1. 1909</date></correspAction><correspAction type="received"><persName ref="#pmb11230">Ehrenstein, Albert</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11230">Ehrenstein, Albert</ref><ref subtype="previous_letter" type="withinCollection" target="L01827">Schnitzler an Beer-Hofmann, 26. 1. 1909</ref><ref subtype="next_letter" type="withinCollection" target="L01829">Schnitzler an Seligmann, 12. 2. 1909</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01826">Ehrenstein an Schnitzler, 24. 1. 1909</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01835">Ehrenstein an Schnitzler, 27. 3. 1909</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-11-02">Angelegt</change><change who="MAM" when="2018-11-05">Index check</change><change who="GHS" when="2020-09-03">Durchsicht</change><change who="GHS" when="2020-09-08">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="NLJ0009r"/><graphic url="NLJ0009v"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="NLJ0009r"/>Hrn <hi rend="latintype">Albert Ehrenstein</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb64" type="place">Wien XIV</rs></hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb300" type="place">Ottakringerstr. 114</rs></hi></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="NLJ0009v"/><rs ref="#pmb413" type="place">Semmering.<space unit="chars" quantity="3"/>Südbahnhotel.</rs></hi></p></opener><p><pb facs="NLJ0009r"/>Zu mündlicher Erkärung in <rs ref="#pmb50" type="place">Wien</rs>, etwa in 10–14 Tagen, gern bereit.</p><closer>Be<c rendition="#langesS">s</c>tens grüßend<lb/>bis dahin Ihr<lb/><signed>Arth. Sch.</signed></closer><postscript><dateline><date>26. 1. 09</date>.</dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb2121">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-11-02">Angelegt</change><change who="MAM" when="2018-11-05">Index check</change><change who="GHS" when="2020-09-03">Durchsicht</change><change who="GHS" when="2020-09-08">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="NLJ0009r"/><graphic url="NLJ0009v"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="NLJ0009r"/>Hrn <hi rend="latintype">Albert Ehrenstein</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb64" type="place">Wien XIV</rs></hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb300" type="place">Ottakringerstr. 114</rs></hi></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="NLJ0009v"/><rs ref="#pmb413" type="place">Semmering.<space unit="chars" quantity="3"/>Südbahnhotel.</rs></hi></p></opener><p><pb facs="NLJ0009r"/>Zu mündlicher Erkärung in <rs ref="#pmb50" type="place">Wien</rs>, etwa in 10–14 Tagen, gern bereit.</p><closer>Be<c rendition="#langesS">s</c>tens grüßend<lb/>bis dahin Ihr<lb/><signed>Arth. Sch.</signed></closer><postscript><dateline><date>26. 1. 09</date>.</dateline></postscript></div></body><back><listPerson><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -36,7 +36,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11230">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11230">
                   <tei:persName>
                      <tei:surname>Ehrenstein</tei:surname>
                      <tei:forename>Albert</tei:forename>
@@ -50,7 +51,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb189">
+                  <idno type="gnd">https://d-nb.info/gnd/118688227/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14643</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb189">
                   <tei:placeName>Semmering</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -58,7 +61,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.64224 15.8241</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/7873001/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -66,7 +70,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb64">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb64">
                   <tei:placeName>XIV., Penzing</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -74,7 +80,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2 16.3</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb300">
+                  <idno type="geonames">https://www.geonames.org/2769121/</idno>
+               </place><place xml:id="pmb300">
                   <tei:placeName>Ottakringerstraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -82,7 +89,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.214134550754 16.321028123618</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb413">
+               </place><place xml:id="pmb413">
                   <tei:placeName>Südbahnhotel</tei:placeName>
                   <tei:desc>
                      <tei:date from="1882-07-02" from-custom="1882-07-02">2. 7. 1882</tei:date>
@@ -91,4 +98,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.647222 15.83</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1610900/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

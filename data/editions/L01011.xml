@@ -20,7 +20,7 @@
                 Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb994">Geno<supplied>va</supplied></placeName><date><supplied>7. 2.</supplied> 00</date></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb59">Wien 9/3</placeName><date>9. 2. 00</date><time>V</time></stamp></desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>228</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><date when="1900-02-07" n="01">[7.?] 2. 1900</date><placeName ref="#pmb994">Genua</placeName></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1900-02-09">9. 2. 1900</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01010">Beer-Hofmann an Schnitzler, 4. 2. 1900</ref><ref subtype="next_letter" type="withinCollection" target="L01012">Schnitzler an Brandes, 11. 2. 1900</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01010">Beer-Hofmann an Schnitzler, 4. 2. 1900</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01013">Beer-Hofmann an Schnitzler, 15. 2. 1900</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-09">Angelegt aus Faksimile</change><change who="MAM" when="2021-01-27">Index check</change><change who="MAM" when="2021-01-27">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00152"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00153"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00152"/>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">IX Frankgasse 1</rs></addrLine><addrLine><rs ref="#pmb41240" type="place">Austria</rs></addrLine></address></div><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00153"/><hi rend="pre-print"><rs type="place" ref="#pmb994">Genova</rs><space unit="chars" quantity="3"/><rs ref="#pmb51767" type="place"><hi rend="capitals">Porta S. Andrea</hi></rs>.</hi></p><p>Bis auf Weiteres: <hi n="1" rend="underline"><rs ref="#pmb41022" type="place">Pegli</rs><space unit="chars" quantity="1"/><rs type="place" ref="#pmb46344">Grand Hôtel Méditerranée</rs></hi></p><closer>Herzlichst<signed>Richard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-09">Angelegt aus Faksimile</change><change who="MAM" when="2021-01-27">Index check</change><change who="MAM" when="2021-01-27">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00152"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00153"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00152"/>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">IX Frankgasse 1</rs></addrLine><addrLine><rs ref="#pmb41240" type="place">Austria</rs></addrLine></address></div><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00153"/><hi rend="pre-print"><rs type="place" ref="#pmb994">Genova</rs><space unit="chars" quantity="3"/><rs ref="#pmb51767" type="place"><hi rend="capitals">Porta S. Andrea</hi></rs>.</hi></p><p>Bis auf Weiteres: <hi n="1" rend="underline"><rs ref="#pmb41022" type="place">Pegli</rs><space unit="chars" quantity="1"/><rs type="place" ref="#pmb46344">Grand Hôtel Méditerranée</rs></hi></p><closer>Herzlichst<signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb994">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb994">
                   <tei:placeName>Genua</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -57,7 +60,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">44.40478 8.94439</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb59">
+                  <idno type="geonames">https://www.geonames.org/3176219/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1449/</idno>
+               </place><place xml:id="pmb59">
                   <tei:placeName>IX., Alsergrund</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -65,7 +70,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -73,7 +79,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb397">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb397">
                   <tei:placeName>Frankgasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -81,7 +89,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb41240">
+               </place><place xml:id="pmb41240">
                   <tei:placeName>Österreich</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1107">Land</tei:gloss>
@@ -89,7 +97,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb51767">
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb51767">
                   <tei:placeName>Porta Soprana</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
@@ -97,7 +106,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">44.405583 8.934667</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb41022">
+               </place><place xml:id="pmb41022">
                   <tei:placeName>Pegli</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1234">Ortsteil</tei:gloss>
@@ -105,7 +114,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">44.42445 8.81213</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb46344">
+                  <idno type="geonames">https://www.geonames.org/3171309/</idno>
+               </place><place xml:id="pmb46344">
                   <tei:placeName>Grand Hotel Mediterranée</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
@@ -113,4 +123,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">44.42504 8.81345</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

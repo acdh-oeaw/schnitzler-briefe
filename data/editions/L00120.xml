@@ -23,7 +23,7 @@
                   an Beer-Hofmann, 19. 9. 1892</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00125">Beer-Hofmann
                   an Schnitzler, 1. 10. 1892</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-10-13">Angelegt</change><change who="GHS" when="2020-10-16">Durchsicht</change><change who="MAM" when="2020-10-19">Index check</change><change who="MAM" when="2020-10-19">Durchsicht</change></revisionDesc></teiHeader><text type="card"><body><div type="address"><address><addrLine><pb facs="1900_AS_RBH_3_00033"/>Hrn <hi rend="latintype">Dr. Rich. Beer-Hofmann</hi></addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><hi rend="latintype"><rs type="place" ref="#pmb338">I. <anchor xml:id="K_L00120_1" type="commentary"/>Wollzeile 15<note xml:id="K_L00120_1h" type="commentary">Das Korrespondenzstück ist undatiert. Durch die Übersiedlung <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>s im <date>September 1892</date> in die <rs type="place" ref="#pmb338">Wollzeile</rs>, wo er bis <date>Ende April 1901</date> wohnte, ist eine grobe Zuordnung möglich.</note></rs>.</hi></addrLine></address></div><div type="writingSession" n="1"><p><pb facs="1900_AS_RBH_3_00034"/><salute>lieber Richard, </salute> hier i<c rendition="#langesS">s</c>t der <rs type="person" ref="#pmb49374" subtype="implied">Herr</rs> mit dem Winterrock, <hi rend="latintype">resp.</hi> ohne den Winterrock.</p><closer>Ihr <signed>Arthur.</signed></closer><postscript><p><pb facs="1900_AS_RBH_3_00035"/>Vielleicht geben Sie ihm auch ein paar Kreuzer. Er fährt nach <rs type="place" ref="#pmb332">Linz</rs>.</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb2121">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-10-13">Angelegt</change><change who="GHS" when="2020-10-16">Durchsicht</change><change who="MAM" when="2020-10-19">Index check</change><change who="MAM" when="2020-10-19">Durchsicht</change></revisionDesc></teiHeader><text type="card"><body><div type="address"><address><addrLine><pb facs="1900_AS_RBH_3_00033"/>Hrn <hi rend="latintype">Dr. Rich. Beer-Hofmann</hi></addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><hi rend="latintype"><rs type="place" ref="#pmb338">I. <anchor xml:id="K_L00120_1" type="commentary"/>Wollzeile 15<note xml:id="K_L00120_1h" type="commentary">Das Korrespondenzstück ist undatiert. Durch die Übersiedlung <rs type="person" ref="#pmb10863">Beer-Hofmann</rs>s im <date>September 1892</date> in die <rs type="place" ref="#pmb338">Wollzeile</rs>, wo er bis <date>Ende April 1901</date> wohnte, ist eine grobe Zuordnung möglich.</note></rs>.</hi></addrLine></address></div><div type="writingSession" n="1"><p><pb facs="1900_AS_RBH_3_00034"/><salute>lieber Richard, </salute> hier i<c rendition="#langesS">s</c>t der <rs type="person" ref="#pmb49374" subtype="implied">Herr</rs> mit dem Winterrock, <hi rend="latintype">resp.</hi> ohne den Winterrock.</p><closer>Ihr <signed>Arthur.</signed></closer><postscript><p><pb facs="1900_AS_RBH_3_00035"/>Vielleicht geben Sie ihm auch ein paar Kreuzer. Er fährt nach <rs type="place" ref="#pmb332">Linz</rs>.</p></postscript></div></body><back><listPerson><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -38,7 +38,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -52,12 +53,14 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb49374">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb49374">
                   <tei:persName>
                      <tei:surname>?? [Mann ohne Winterrock]</tei:surname>
                      <tei:forename/>
                   </tei:persName>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -65,7 +68,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb338">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb338">
                   <tei:placeName>Wollzeile</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -73,7 +78,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.20852 16.37592</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb332">
+               </place><place xml:id="pmb332">
                   <tei:placeName>Linz</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -81,4 +86,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.3 14.28333</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2772395/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q41329/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4074255-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

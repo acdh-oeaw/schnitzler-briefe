@@ -22,7 +22,7 @@
                   an Schnitzler, [19. 11.? 1897]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00763">Burckhard an
                   Schnitzler, [16. 1. 1898]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-10-18">Angelegt</change><change who="MAM" when="2018-10-18">Index check</change><change who="GHS" when="2019-11-06">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00020-000-00025"/><graphic url="MS-SCHNITZLER-B-00020-000-00026"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-00020-000-00026"/><hi rend="pre-print"><hi rend="small_caps">D<hi rend="superscript">r.</hi> Max Eugen Burckhard</hi></hi></p><p rend="center"><hi rend="pre-print"><hi rend="small_caps">K. u. K. Director des K. K. <rs ref="#pmb14" type="place">Hofburgtheaters</rs></hi></hi></p><salute><pb facs="MS-SCHNITZLER-B-00020-000-00025"/>Sehr verehrter Herr Doctor! </salute></opener><p>Ich komme um <time>½ 3</time> zum Spei<c rendition="#langesS">s</c>en nachhause – würde es Ihnen <hi rend="underline" n="1">nach Tisch</hi><space unit="chars" quantity="1"/><add place="inline">(</add>also <del rend="strikethrough">(</del>circa <time>¼ 4</time>) genehm<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o komme ich <anchor xml:id="K_L00753_1" type="commentary"/>um diese Stunde<note xml:id="K_L00753_1h" type="commentary">Im <date>Dezember 1897</date> notiert sich <rs ref="#pmb2121" type="person">Schnitzler</rs> nur ein Treffen mit <rs ref="#pmb11036" type="person">Burckhard</rs>. Dieses fand am <ref target="1897-12-27" subtype="date-only" type="schnitzlerDiary"/> am <time>Nachmittag</time> statt. Beim Treffen las er <rs ref="#pmb30219" type="work">Das Vermächtnis</rs> vor.</note> hinab – oder Sie zu mir wie es Ihnen lieber ist.</p><closer>Herzlichst<lb/><signed>DrBurc<unclear>hard</unclear></signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11036">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-10-18">Angelegt</change><change who="MAM" when="2018-10-18">Index check</change><change who="GHS" when="2019-11-06">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00020-000-00025"/><graphic url="MS-SCHNITZLER-B-00020-000-00026"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-00020-000-00026"/><hi rend="pre-print"><hi rend="small_caps">D<hi rend="superscript">r.</hi> Max Eugen Burckhard</hi></hi></p><p rend="center"><hi rend="pre-print"><hi rend="small_caps">K. u. K. Director des K. K. <rs ref="#pmb14" type="place">Hofburgtheaters</rs></hi></hi></p><salute><pb facs="MS-SCHNITZLER-B-00020-000-00025"/>Sehr verehrter Herr Doctor! </salute></opener><p>Ich komme um <time>½ 3</time> zum Spei<c rendition="#langesS">s</c>en nachhause – würde es Ihnen <hi rend="underline" n="1">nach Tisch</hi><space unit="chars" quantity="1"/><add place="inline">(</add>also <del rend="strikethrough">(</del>circa <time>¼ 4</time>) genehm<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o komme ich <anchor xml:id="K_L00753_1" type="commentary"/>um diese Stunde<note xml:id="K_L00753_1h" type="commentary">Im <date>Dezember 1897</date> notiert sich <rs ref="#pmb2121" type="person">Schnitzler</rs> nur ein Treffen mit <rs ref="#pmb11036" type="person">Burckhard</rs>. Dieses fand am <ref target="1897-12-27" subtype="date-only" type="schnitzlerDiary"/> am <time>Nachmittag</time> statt. Beim Treffen las er <rs ref="#pmb30219" type="work">Das Vermächtnis</rs> vor.</note> hinab – oder Sie zu mir wie es Ihnen lieber ist.</p><closer>Herzlichst<lb/><signed>DrBurc<unclear>hard</unclear></signed></closer></div></body><back><listPerson><person xml:id="pmb11036">
                   <tei:persName>
                      <tei:surname>Burckhard</tei:surname>
                      <tei:forename>Max Eugen</tei:forename>
@@ -38,7 +38,9 @@
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="102">Rechtswissenschaftler*in</occupation>
                   <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/117161144/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14065</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -53,7 +55,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30219">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30219">
                   <tei:author ref="pmb2121" role="author">
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -62,7 +65,8 @@
                   <tei:date from="1898-01-01" from-custom="1898">1898</tei:date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
                   <tei:note>5719</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1170678/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -70,7 +74,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb14">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb14">
                   <tei:placeName>Burgtheater</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i4">Theater</tei:gloss>
@@ -78,4 +84,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.210333 16.361139</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

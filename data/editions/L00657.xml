@@ -21,7 +21,7 @@
                   Bahr, 23. 3. 1897</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00650">Hofmannsthal an Schnitzler, [12. 3. 1897]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00663">Hofmannsthal
                   an Schnitzler, 25. 3. 1897</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-04-05">Angelegt</change><change who="MAM" when="2019-07-10">Index check</change><change who="GHS" when="2019-10-31">finalisiert</change><change who="MAM" when="2020-06-03">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00155"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00155"/><hi rend="pre-print"><anchor type="textConst" xml:id="T_L00657-1"/>hvH<note type="textConst" xml:id="T_L00657-1h">gedrucktes Monogramm mit Krone in blauer Farbe</note></hi></p><salute>lieber Arthur</salute></opener><p><rs ref="#pmb11701" type="person">Hirschfeld</rs> mu<c rendition="#langesS">s</c>s mit mir nachtmahlen. Wir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind beide um <time>10</time> im <rs ref="#pmb104" type="place">Arkadencafé</rs>.</p><closer><signed>Hugo.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11740">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-04-05">Angelegt</change><change who="MAM" when="2019-07-10">Index check</change><change who="GHS" when="2019-10-31">finalisiert</change><change who="MAM" when="2020-06-03">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00155"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00155"/><hi rend="pre-print"><anchor type="textConst" xml:id="T_L00657-1"/>hvH<note type="textConst" xml:id="T_L00657-1h">gedrucktes Monogramm mit Krone in blauer Farbe</note></hi></p><salute>lieber Arthur</salute></opener><p><rs ref="#pmb11701" type="person">Hirschfeld</rs> mu<c rendition="#langesS">s</c>s mit mir nachtmahlen. Wir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind beide um <time>10</time> im <rs ref="#pmb104" type="place">Arkadencafé</rs>.</p><closer><signed>Hugo.</signed></closer></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11701">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11701">
                   <tei:persName>
                      <tei:surname>Hirschfeld</tei:surname>
                      <tei:forename>Georg</tei:forename>
@@ -64,7 +67,9 @@
                      <tei:placeName ref="#pmb45258">München</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/101708122/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16222</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -72,7 +77,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb104">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb104">
                   <tei:placeName>Café Arkaden</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i20">Kaffeehaus</tei:gloss>
@@ -80,4 +87,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2139714 16.3589854</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

@@ -21,7 +21,7 @@
                                     ergänzte Information: »<quote>= 455782-B</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11036">Burckhard, Max</persName><placeName ref="#pmb50">Wien</placeName><date when="1907-12-27" n="01">27. 12. 1907</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11036">Burckhard, Max</ref><ref subtype="previous_letter" type="withinCollection" target="L01745">Hofmannsthal an Schnitzler, 24. 12. 1907</ref><ref subtype="next_letter" type="withinCollection" target="L01747">Burckhard an Schnitzler, 31. 12. 1907</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01734">Burckhard an Schnitzler, 23. 11. 1907</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01747">Burckhard an Schnitzler, 31. 12. 1907</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-09-14">Angelegt</change><change who="MAM" when="2020-09-16">Index check</change><change who="GHS" when="2020-10-30">Durchsicht</change><change who="MAM" when="2020-11-04">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="Widmungsexemplare_Seite_075"/><graphic url="Widmungsexemplare_Seite_076"/><graphic url="Widmungsexemplare_Seite_077"/></facsimile><text type="dedication"><body><div type="writingSession" n="1"><p><pb facs="Widmungsexemplare_Seite_077"/>Arthur Schnitzler<lb/>in herzlicher Verehrung</p><closer><signed>D<hi rend="superscript">r</hi>Burckhard</signed></closer><postscript><dateline><rs type="place" ref="#pmb50">Wien</rs><space unit="chars" quantity="1"/><date>27. XII. 07</date></dateline></postscript></div><div type="writingSession" n="2"><p><space dim="vertical" unit="line" quantity="1"/></p><p rend="center"><pb facs="Widmungsexemplare_Seite_075"/><hi rend="pre-print"><hi rend="capitals"><rs type="work" ref="#pmb48443">Das Theater</rs></hi></hi></p><p rend="center"><hi rend="pre-print"><hi rend="capitals">Von</hi></hi><lb/><hi rend="pre-print"><hi rend="capitals">Max Burckhard</hi></hi>.</p><p><space dim="vertical" unit="line" quantity="1"/></p><p rend="center"><hi rend="pre-print"><rs type="place" ref="#pmb146"><hi rend="capitals">Frankfurt am Main</hi></rs></hi></p><p rend="center"><hi rend="pre-print"><hi rend="capitals">Literarische Anstalt</hi></hi></p><p rend="center"><hi rend="pre-print">: <rs type="org" ref="#pmb29309"><hi rend="capitals">Rütten <c rendition="#kaufmannsund"/> Loening</hi></rs> :</hi></p></div></body><back><listPerson><tei:person xml:id="pmb11036">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-09-14">Angelegt</change><change who="MAM" when="2020-09-16">Index check</change><change who="GHS" when="2020-10-30">Durchsicht</change><change who="MAM" when="2020-11-04">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="Widmungsexemplare_Seite_075"/><graphic url="Widmungsexemplare_Seite_076"/><graphic url="Widmungsexemplare_Seite_077"/></facsimile><text type="dedication"><body><div type="writingSession" n="1"><p><pb facs="Widmungsexemplare_Seite_077"/>Arthur Schnitzler<lb/>in herzlicher Verehrung</p><closer><signed>D<hi rend="superscript">r</hi>Burckhard</signed></closer><postscript><dateline><rs type="place" ref="#pmb50">Wien</rs><space unit="chars" quantity="1"/><date>27. XII. 07</date></dateline></postscript></div><div type="writingSession" n="2"><p><space dim="vertical" unit="line" quantity="1"/></p><p rend="center"><pb facs="Widmungsexemplare_Seite_075"/><hi rend="pre-print"><hi rend="capitals"><rs type="work" ref="#pmb48443">Das Theater</rs></hi></hi></p><p rend="center"><hi rend="pre-print"><hi rend="capitals">Von</hi></hi><lb/><hi rend="pre-print"><hi rend="capitals">Max Burckhard</hi></hi>.</p><p><space dim="vertical" unit="line" quantity="1"/></p><p rend="center"><hi rend="pre-print"><rs type="place" ref="#pmb146"><hi rend="capitals">Frankfurt am Main</hi></rs></hi></p><p rend="center"><hi rend="pre-print"><hi rend="capitals">Literarische Anstalt</hi></hi></p><p rend="center"><hi rend="pre-print">: <rs type="org" ref="#pmb29309"><hi rend="capitals">Rütten <c rendition="#kaufmannsund"/> Loening</hi></rs> :</hi></p></div></body><back><listPerson><person xml:id="pmb11036">
                   <tei:persName>
                      <tei:surname>Burckhard</tei:surname>
                      <tei:forename>Max Eugen</tei:forename>
@@ -37,7 +37,9 @@
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="102">Rechtswissenschaftler*in</occupation>
                   <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/117161144/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14065</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -52,7 +54,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb48443">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb48443">
                   <tei:author ref="pmb11036" role="author">
                      <tei:surname>Burckhard</tei:surname>
                      <tei:forename>Max Eugen</tei:forename>
@@ -60,7 +63,7 @@
                   <tei:title>Das Theater</tei:title>
                   <tei:date when="1907-11-30" when-custom="1907-11-30">30. 11. 1907</tei:date>
                   <tei:gloss type="w1333">Sachbuch</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -68,7 +71,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb146">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb146">
                   <tei:placeName>Frankfurt am Main</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -76,7 +81,10 @@
                   <tei:location>
                      <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29309">
+                  <idno type="geonames">https://www.geonames.org/2925533/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1794/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4018118-2/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29309">
                   <tei:orgName>Rütten &amp; Loening</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i975">Verlag</tei:gloss>
@@ -87,4 +95,4 @@
                         <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

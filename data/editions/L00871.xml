@@ -19,7 +19,7 @@
                 Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>125</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">126</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb50">Wien</placeName><date when="1898-12-24" n="01">24. 12. 1898</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00870">Schnitzler an Beer-Hofmann, 23. 12. 1898</ref><ref subtype="next_letter" type="withinCollection" target="L00872">Hofmannsthal an Schnitzler, 25. 12. 1898</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00870">Schnitzler an Beer-Hofmann, 23. 12. 1898</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00875">Schnitzler an Beer-Hofmann, 5. 1. 1899</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-11-11">überprüft am Faksimile</change><change who="MAM" when="2020-01-14">Index check</change><change who="MAM" when="2020-09-25">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00278"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00278"/><date when="1898-12-24">24/XII 98</date></dateline></opener><p>Da Sie mir die Wahl lassen, lieber Arthur – so betrachte ich es als Hochzeitsgeschenk damit ich erst bei Ihrer Hochzeit Ihnen ein Geschenk machen muß, als Geschmacklosigkeit, »no ja weil’s wahr ist«. Diese Vase ist <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00278"/>»<rs type="person" ref="#pmb43282">Clement Massier</rs>. <rs type="place" ref="#pmb45860">Golf St. Juan</rs> bei <rs type="place" ref="#pmb926">Nizza</rs>, Reflêt metallic (que?)<supplied>«</supplied>. Sie müßen aber nicht glauben daß das was Besonderes ist.</p><closer>Von Herzen Ihr<lb/><signed>Richard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-11-11">überprüft am Faksimile</change><change who="MAM" when="2020-01-14">Index check</change><change who="MAM" when="2020-09-25">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00278"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00278"/><date when="1898-12-24">24/XII 98</date></dateline></opener><p>Da Sie mir die Wahl lassen, lieber Arthur – so betrachte ich es als Hochzeitsgeschenk damit ich erst bei Ihrer Hochzeit Ihnen ein Geschenk machen muß, als Geschmacklosigkeit, »no ja weil’s wahr ist«. Diese Vase ist <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00278"/>»<rs type="person" ref="#pmb43282">Clement Massier</rs>. <rs type="place" ref="#pmb45860">Golf St. Juan</rs> bei <rs type="place" ref="#pmb926">Nizza</rs>, Reflêt metallic (que?)<supplied>«</supplied>. Sie müßen aber nicht glauben daß das was Besonderes ist.</p><closer>Von Herzen Ihr<lb/><signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -33,7 +33,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -48,7 +50,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb43282">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb43282">
                   <tei:persName>
                      <tei:surname>Massier</tei:surname>
                      <tei:forename>Clément</tei:forename>
@@ -60,7 +63,8 @@
                      <tei:date when="1917-03-24">24. 3. 1917</tei:date>
                   </tei:death>
                   <occupation code="357">Keramiker*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/122223667/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -68,7 +72,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb45860">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb45860">
                   <tei:placeName>Golfe-Juan</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
@@ -76,7 +82,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">43.56812 7.07744</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb926">
+                  <idno type="geonames">https://www.geonames.org/3015737/</idno>
+               </place><place xml:id="pmb926">
                   <tei:placeName>Nizza</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -84,4 +91,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">43.70313 7.26608</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2990440/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q33959/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

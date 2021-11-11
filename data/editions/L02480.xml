@@ -19,7 +19,7 @@
                   an Schnitzler, 12. 10. 1926</ref><ref subtype="next_letter" type="withinCollection" target="L02481">Hofmannsthal an
                   Schnitzler, 18. 2. 1927</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-11-18">Angelegt</change><change who="MAM" when="2021-02-12">Index check</change><change who="MAM" when="2021-02-12">Durchsicht</change><change who="GHS" when="2021-07-07">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00062-000-00002"/><graphic url="MS-SCHNITZLER-B-00062-000-00001"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00062-000-00002"/>Herrn</addrLine><addrLine>Dr. Arthur Schnitzler</addrLine><addrLine>Adr. <rs type="org" ref="#pmb29639">S. Fischer Verlag</rs></addrLine><addrLine><rs type="place" ref="#pmb659">90, Bülowstr. 90</rs></addrLine><addrLine><rs type="place" ref="#pmb168">Berlin W. 57</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-00062-000-00001"/><hi rend="pre-print"><supplied type="image-description">Statue eines Bogenschützens mit Blick auf eine <rs type="place" ref="#pmb50619">Brissago-Insel</rs></supplied></hi></p></opener><p>Dankbar für hochinteressantes <rs type="work" ref="#pmb30051" subtype="implied">Diagramm</rs>, </p><closer>grüsst Sie Ihr verehrungsvoll ergebener<lb/><signed>Ludwig</signed></closer><postscript><dateline><rs type="place" ref="#pmb49872">Ascona</rs>. <date>3. 2.</date></dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb12126">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-11-18">Angelegt</change><change who="MAM" when="2021-02-12">Index check</change><change who="MAM" when="2021-02-12">Durchsicht</change><change who="GHS" when="2021-07-07">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00062-000-00002"/><graphic url="MS-SCHNITZLER-B-00062-000-00001"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00062-000-00002"/>Herrn</addrLine><addrLine>Dr. Arthur Schnitzler</addrLine><addrLine>Adr. <rs type="org" ref="#pmb29639">S. Fischer Verlag</rs></addrLine><addrLine><rs type="place" ref="#pmb659">90, Bülowstr. 90</rs></addrLine><addrLine><rs type="place" ref="#pmb168">Berlin W. 57</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-00062-000-00001"/><hi rend="pre-print"><supplied type="image-description">Statue eines Bogenschützens mit Blick auf eine <rs type="place" ref="#pmb50619">Brissago-Insel</rs></supplied></hi></p></opener><p>Dankbar für hochinteressantes <rs type="work" ref="#pmb30051" subtype="implied">Diagramm</rs>, </p><closer>grüsst Sie Ihr verehrungsvoll ergebener<lb/><signed>Ludwig</signed></closer><postscript><dateline><rs type="place" ref="#pmb49872">Ascona</rs>. <date>3. 2.</date></dateline></postscript></div></body><back><listPerson><person xml:id="pmb12126">
                   <tei:persName>
                      <tei:surname>Ludwig</tei:surname>
                      <tei:forename>Emil</tei:forename>
@@ -34,7 +34,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118780778/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17726</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30051">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30051">
                   <tei:author ref="pmb2121" role="author">
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -57,7 +60,7 @@
                   <tei:title>Der Geist im Wort und der Geist in der Tat</tei:title>
                   <tei:date from="1927-01-01" from-custom="1927">1927</tei:date>
                   <tei:gloss type="w1064">Typologische Studie</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb49872">
+               </bibl></listBibl><listPlace><place xml:id="pmb49872">
                   <tei:placeName>Ascona</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
@@ -65,7 +68,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.15451 8.77327</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
+                  <idno type="geonames">https://www.geonames.org/2661698/</idno>
+               </place><place xml:id="pmb168">
                   <tei:placeName>Berlin</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -73,7 +77,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -81,7 +87,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb659">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb659">
                   <tei:placeName>Bülowstraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -89,7 +97,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.49737 13.36385</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50619">
+               </place><place xml:id="pmb50619">
                   <tei:placeName>Isole di Brissago</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1593">Inseln</tei:gloss>
@@ -97,7 +105,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.13228 8.73545</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29639">
+                  <idno type="geonames">https://www.geonames.org/2661387/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29639">
                   <tei:orgName>S. Fischer Verlag</tei:orgName>
                   <tei:desc>
                      <tei:date from="1886-01-01" from-custom="1886">1886</tei:date>
@@ -121,4 +130,4 @@
                         <tei:geo decls="LatLng">52.49737 13.36385</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

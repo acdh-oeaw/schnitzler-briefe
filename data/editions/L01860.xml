@@ -22,7 +22,7 @@
                                        1909</date> aus <rs type="place" ref="#pmb470">Edlach</rs></quote>«</desc></incident><incident type="additional-information"><desc>Original nicht nachweisbar</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb470">Edlach</placeName><date when="1909-07-24" n="02">24. 7. 1909</date></correspAction><correspAction type="received"><persName ref="#pmb5822">Liliencron, Anna von</persName><date when="1909-07-24">24. 7. 1909</date><placeName ref="#pmb506">Hamburg</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb12071">Liliencron Detlev von</ref><ref subtype="previous_letter" type="withinCollection" target="L01859">Schnitzler an Ehrenstein, 24. 7. 1909</ref><ref subtype="next_letter" type="withinCollection" target="L01861">Burckhard an Schnitzler, 29. 7. 1909</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01735">Wymetal, Liliencron, Stefan, Kurzweil, Markowitz, Goldschmied an Schnitzler, 27. 11. [1907]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-12-18">Angelegt</change><change who="MAM" when="2018-12-28">Index check</change><change who="GHS" when="2020-04-29">Durchsicht</change><change who="MAM" when="2020-09-22">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="OGL_LiliencronAnna"/></facsimile><text type="telegram"><body><div type="address"><address><addrLine><pb facs="OGL_LiliencronAnna"/>Baronin Liliencron</addrLine><addrLine><rs ref="#pmb1260" type="place"><hi rend="stamp">Altrahlstedt</hi> b. Hmb</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="OGL_LiliencronAnna"/><hi rend="pre-print">Telegramm aus</hi><space unit="chars" quantity="1"/><rs type="place" ref="#pmb470">Edlach</rs></seg><seg rend="right">21 <hi rend="pre-print">W. den</hi><space unit="chars" quantity="1"/><date>24/7</date><space unit="chars" quantity="1"/><hi rend="pre-print">um</hi><space unit="chars" quantity="1"/><time>3 <hi rend="pre-print">Uhr</hi> 20 <hi rend="pre-print">Min.</hi><space unit="chars" quantity="1"/>n</time></seg></p></opener><p><del rend="strikethrough">Lei</del> Innig<c rendition="#langesS">s</c>ter Teilnahme an dem Hin<c rendition="#langesS">s</c>cheiden Ihres Gatten des verehrten und geliebten <rs type="person" ref="#pmb12071" subtype="implied">Dichters</rs> ver<c rendition="#langesS">s</c>ichert Sie</p><closer><signed>Arthur Schnitzler</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb12071">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-12-18">Angelegt</change><change who="MAM" when="2018-12-28">Index check</change><change who="GHS" when="2020-04-29">Durchsicht</change><change who="MAM" when="2020-09-22">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="OGL_LiliencronAnna"/></facsimile><text type="telegram"><body><div type="address"><address><addrLine><pb facs="OGL_LiliencronAnna"/>Baronin Liliencron</addrLine><addrLine><rs ref="#pmb1260" type="place"><hi rend="stamp">Altrahlstedt</hi> b. Hmb</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="OGL_LiliencronAnna"/><hi rend="pre-print">Telegramm aus</hi><space unit="chars" quantity="1"/><rs type="place" ref="#pmb470">Edlach</rs></seg><seg rend="right">21 <hi rend="pre-print">W. den</hi><space unit="chars" quantity="1"/><date>24/7</date><space unit="chars" quantity="1"/><hi rend="pre-print">um</hi><space unit="chars" quantity="1"/><time>3 <hi rend="pre-print">Uhr</hi> 20 <hi rend="pre-print">Min.</hi><space unit="chars" quantity="1"/>n</time></seg></p></opener><p><del rend="strikethrough">Lei</del> Innig<c rendition="#langesS">s</c>ter Teilnahme an dem Hin<c rendition="#langesS">s</c>cheiden Ihres Gatten des verehrten und geliebten <rs type="person" ref="#pmb12071" subtype="implied">Dichters</rs> ver<c rendition="#langesS">s</c>ichert Sie</p><closer><signed>Arthur Schnitzler</signed></closer></div></body><back><listPerson><person xml:id="pmb12071">
                   <tei:persName>
                      <tei:surname>Liliencron</tei:surname>
                      <tei:forename>Detlev von</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:date when="1909-07-22">22. 7. 1909</tei:date>
                      <tei:placeName ref="#pmb12073">Alt-Rahlstedt</tei:placeName>
                   </tei:death>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118572954/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17547</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb5822">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb5822">
                   <tei:persName>
                      <tei:surname>Liliencron</tei:surname>
                      <tei:forename>Anna von</tei:forename>
@@ -63,7 +66,8 @@
                      <tei:date when="1945-11-25">25. 11. 1945</tei:date>
                      <tei:placeName ref="#pmb1260">Hamburg-Rahlstedt</tei:placeName>
                   </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb151">
+                  <idno type="gnd">https://d-nb.info/gnd/117005320/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb151">
                   <tei:placeName>Deutschland</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i38">Land</tei:gloss>
@@ -71,7 +75,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">51.5 10.5</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1260">
+                  <idno type="geonames">https://www.geonames.org/2921044/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q183/</idno>
+               </place><place xml:id="pmb1260">
                   <tei:placeName>Hamburg-Rahlstedt</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -79,7 +85,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">53.601944 10.156667</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb506">
+                  <idno type="geonames">https://www.geonames.org/2850872/</idno>
+               </place><place xml:id="pmb506">
                   <tei:placeName>Hamburg</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -87,7 +94,10 @@
                   <tei:location>
                      <tei:geo decls="LatLng">53.57532 10.01534</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb470">
+                  <idno type="geonames">https://www.geonames.org/2911298/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1055/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4023118-5/</idno>
+               </place><place xml:id="pmb470">
                   <tei:placeName>Edlach</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -95,4 +105,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.69255 15.80915</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2780428/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

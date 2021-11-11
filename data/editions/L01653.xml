@@ -20,7 +20,7 @@
                   3.–7. 2. 1907]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-24">Durchsicht</change><change who="MAM" when="2020-06-23">Index check</change><change who="MAM" when="2020-06-23">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00275"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00276"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00275"/>Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb133" type="place">XVII Spöttelgasse 7</rs></addrLine><addrLine>näch<c rendition="#langesS">s</c>t <rs type="place" ref="#pmb43882">Türkenschanzstrasse</rs></addrLine></address></div><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00276"/>Wir möchten morgen <add place="above"><date>Sonntag</date></add> für den <time>späteren Nachmittag</time> noch lieber für den Abend zu Euch. Hoffentlich passt es diesmal. Ohne Telephon ist es für uns so furchtbar schwer und man sieht sich ja nie!!<space unit="chars" quantity="3"/>Die Antwort bitte pneumatisch oder telephonisch (229) an die <rs ref="#pmb795" type="place"><hi rend="underline" n="1">Elisabethstrasse</hi></rs></p><closer><signed>Hugo.</signed></closer><postscript><p><anchor xml:id="T_L01653_1" type="textConst"/><date>Samstag</date>. <time>4<hi rend="superscript">h</hi></time>. <note xml:id="T_L01653_1h" type="textConst">nachträglich unten rechts eingefügt</note></p></postscript></div></body><back><listPerson><tei:person xml:id="pmb11740">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-24">Durchsicht</change><change who="MAM" when="2020-06-23">Index check</change><change who="MAM" when="2020-06-23">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00275"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00276"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00275"/>Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb133" type="place">XVII Spöttelgasse 7</rs></addrLine><addrLine>näch<c rendition="#langesS">s</c>t <rs type="place" ref="#pmb43882">Türkenschanzstrasse</rs></addrLine></address></div><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00276"/>Wir möchten morgen <add place="above"><date>Sonntag</date></add> für den <time>späteren Nachmittag</time> noch lieber für den Abend zu Euch. Hoffentlich passt es diesmal. Ohne Telephon ist es für uns so furchtbar schwer und man sieht sich ja nie!!<space unit="chars" quantity="3"/>Die Antwort bitte pneumatisch oder telephonisch (229) an die <rs ref="#pmb795" type="place"><hi rend="underline" n="1">Elisabethstrasse</hi></rs></p><closer><signed>Hugo.</signed></closer><postscript><p><anchor xml:id="T_L01653_1" type="textConst"/><date>Samstag</date>. <time>4<hi rend="superscript">h</hi></time>. <note xml:id="T_L01653_1h" type="textConst">nachträglich unten rechts eingefügt</note></p></postscript></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb51">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb51">
                   <tei:placeName>I., Innere Stadt</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -57,7 +60,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb68">
+                  <idno type="geonames">https://www.geonames.org/2775259/</idno>
+               </place><place xml:id="pmb68">
                   <tei:placeName>XVIII., Währing</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -65,7 +69,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2762091/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -73,7 +78,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb133">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
                   <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -81,7 +88,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb43882">
+               </place><place xml:id="pmb43882">
                   <tei:placeName>Türkenschanzstrasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -89,7 +96,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23237 16.33624</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb795">
+               </place><place xml:id="pmb795">
                   <tei:placeName>Elisabethstraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -97,4 +104,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.202505409168 16.365996258067</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

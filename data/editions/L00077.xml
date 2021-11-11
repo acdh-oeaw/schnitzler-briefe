@@ -23,7 +23,7 @@
                   an Schnitzler, 16. 1. 1892</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00110">Blumenthal an
                   Schnitzler, 1. 8. 1892</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-06-16">Angelegt</change><change who="MAM" when="2019-06-17">Durchsicht</change><change who="MAM" when="2019-06-17">Index check</change><change who="GHS" when="2019-09-11">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00015-000-00007"/></facsimile><text type="card"><body><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-00015-000-00007"/><hi rend="pre-print">Dr. Oscar Blumenthal</hi><lb/><hi rend="pre-print">Direktor des <rs ref="#pmb35053" type="org">Lessingtheaters</rs>.</hi></p><p>bittet <anchor xml:id="K_L00077_1" type="commentary"/>morgen, <date>Montag</date><note xml:id="K_L00077_1h" type="commentary">Das Treffen fand am <ref target="1892-03-07" type="schnitzlerDiary" subtype="date-only"/> statt.</note>, <time>4 Uhr</time> um Ihren freundlichen Be<c rendition="#langesS">s</c>uch <rs ref="#pmb29" type="place"><hi rend="latintype">Hôtel</hi><space unit="chars" quantity="1"/>Sacher</rs></p></div></body><back><listPerson><tei:person xml:id="pmb14328">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-06-16">Angelegt</change><change who="MAM" when="2019-06-17">Durchsicht</change><change who="MAM" when="2019-06-17">Index check</change><change who="GHS" when="2019-09-11">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00015-000-00007"/></facsimile><text type="card"><body><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-00015-000-00007"/><hi rend="pre-print">Dr. Oscar Blumenthal</hi><lb/><hi rend="pre-print">Direktor des <rs ref="#pmb35053" type="org">Lessingtheaters</rs>.</hi></p><p>bittet <anchor xml:id="K_L00077_1" type="commentary"/>morgen, <date>Montag</date><note xml:id="K_L00077_1h" type="commentary">Das Treffen fand am <ref target="1892-03-07" type="schnitzlerDiary" subtype="date-only"/> statt.</note>, <time>4 Uhr</time> um Ihren freundlichen Be<c rendition="#langesS">s</c>uch <rs ref="#pmb29" type="place"><hi rend="latintype">Hôtel</hi><space unit="chars" quantity="1"/>Sacher</rs></p></div></body><back><listPerson><person xml:id="pmb14328">
                   <tei:persName>
                      <tei:surname>Blumenthal</tei:surname>
                      <tei:forename>Oskar</tei:forename>
@@ -39,7 +39,9 @@
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="99">Journalist*in</occupation>
                   <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118659111/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13808</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -54,7 +56,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -62,7 +65,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb29">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb29">
                   <tei:placeName>Hotel Sacher</tei:placeName>
                   <tei:desc>
                      <tei:date from="1876-01-01" from-custom="1876-01-01">1. 1. 1876</tei:date>
@@ -71,10 +76,10 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.203889 16.369444</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb35053">
+               </place></listPlace><listOrg><org xml:id="pmb35053">
                   <tei:orgName>Lessing-Theater</tei:orgName>
                   <tei:desc>
-                     <tei:date from="1888-01-01" from-custom="1888" to="1945-04-18" to-custom="4.1945 &lt;1945-04&gt;">1888 – 4.1945 </tei:date>
+                     <tei:date from="1888-01-01" from-custom="1888" to-custom="4.1945 &lt;1945-04&gt;">1888 – 4.1945 </tei:date>
                      <tei:gloss ana="i1047">Theaterunternehmen</tei:gloss>
                   </tei:desc>
                   <tei:place corresp="pmb18">
@@ -95,4 +100,4 @@
                         <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

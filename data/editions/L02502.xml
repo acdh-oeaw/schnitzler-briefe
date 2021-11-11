@@ -21,7 +21,7 @@
                   Schnitzler, 10. 7. [1928]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02496">Hofmannsthal an Schnitzler, 29. 12. 1927</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02503">Hofmannsthal
                   an Schnitzler, 10. 7. [1928]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-12-15">Angelegt</change><change who="MAM" when="2020-12-15">Index check</change><change who="MAM" when="2020-12-15">Durchsicht</change><change who="GHS" when="2021-07-06">Durchsicht</change><!-- Bild nicht mehr gefunden --></revisionDesc></teiHeader><facsimile><graphic url=""/></facsimile><text type="card"><body><div type="writingSession" n="1"><p><pb facs=""/>Herr und Frau von Hofmannsthal geben Nachricht von der Vermälung<!-- sic! --> ihrer Tochter <rs type="person" ref="#pmb3220">Christiane</rs> mit D<hi rend="superscript">r</hi> <rs type="person" ref="#pmb13183">Heinrich Zimmer</rs>, Professor der indischen Philologie an der <rs type="org" ref="#pmb51306">Universität Heidelberg</rs>.</p><postscript><dateline><rs type="place" ref="#pmb173">Rodaun</rs>, im <anchor xml:id="K_L02502_1" type="commentary"/><date>Juni 1928</date><note xml:id="K_L02502_1h" type="commentary">Die Hochzeit fand am <date>14. 6. 1928</date> statt.</note>.</dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb11740">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-12-15">Angelegt</change><change who="MAM" when="2020-12-15">Index check</change><change who="MAM" when="2020-12-15">Durchsicht</change><change who="GHS" when="2021-07-06">Durchsicht</change><!-- Bild nicht mehr gefunden --></revisionDesc></teiHeader><facsimile><graphic url=""/></facsimile><text type="card"><body><div type="writingSession" n="1"><p><pb facs=""/>Herr und Frau von Hofmannsthal geben Nachricht von der Vermälung<!-- sic! --> ihrer Tochter <rs type="person" ref="#pmb3220">Christiane</rs> mit D<hi rend="superscript">r</hi> <rs type="person" ref="#pmb13183">Heinrich Zimmer</rs>, Professor der indischen Philologie an der <rs type="org" ref="#pmb51306">Universität Heidelberg</rs>.</p><postscript><dateline><rs type="place" ref="#pmb173">Rodaun</rs>, im <anchor xml:id="K_L02502_1" type="commentary"/><date>Juni 1928</date><note xml:id="K_L02502_1h" type="commentary">Die Hochzeit fand am <date>14. 6. 1928</date> statt.</note>.</dateline></postscript></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2292">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2292">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Gertrude von</tei:forename>
@@ -48,7 +50,8 @@
                      <tei:date when="1959-11-09">9. 11. 1959</tei:date>
                      <tei:placeName ref="#pmb46885">Paddington</tei:placeName>
                   </tei:death>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/116952199/</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -63,7 +66,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb3220">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb3220">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Christiane von</tei:forename>
@@ -76,7 +80,8 @@
                      <tei:date when="1987-01-05">5. 1. 1987</tei:date>
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
-               </tei:person><tei:person xml:id="pmb13183">
+                  <idno type="gnd">https://d-nb.info/gnd/118975803/</idno>
+               </person><person xml:id="pmb13183">
                   <tei:persName>
                      <tei:surname>Zimmer</tei:surname>
                      <tei:forename>Heinrich</tei:forename>
@@ -90,7 +95,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="261">Indologe/in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/119211351/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21566</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -98,7 +105,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb173">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb173">
                   <tei:placeName>Rodaun</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
@@ -106,7 +115,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb51306">
+                  <idno type="geonames">https://www.geonames.org/2767332/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb51306">
                   <tei:orgName>Ruprecht-Karls-Universität Heidelberg</tei:orgName>
                   <tei:desc>
                      <tei:date from="1386-01-01" from-custom="1386">1386</tei:date>
@@ -118,4 +128,4 @@
                         <tei:geo decls="LatLng">49.40768 8.69079</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

@@ -21,7 +21,7 @@
                   Schnitzler, [Ende 1892?]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00153">Fels an
                   Schnitzler, [1. 1. 1893?]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-10-07">Angelegt</change><change who="MAM" when="2019-10-10">Index check</change><change who="MAM" when="2019-10-01">Finalisiert</change><change who="GHS" when="2020-01-20">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.2956_0004"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="HS.NZ85.1.2956_0004"/><salute>Lieber Dr </salute><space unit="chars" quantity="3"/>Wie man sich bisweilen irren ka<c rendition="#gemination-n"/>: Gestern kam ich gar nicht ins Café, sondern um <time>5 Uhr</time> lag ich im Bett. – Warum sah ich sie heute Frühe nicht? Und es wäre grade so dringend gewesen! Ich mu<c rendition="#langesS">s</c>s vielleicht heute noch <anchor xml:id="K_L00152_1" type="commentary"/>ausziehen<note xml:id="K_L00152_1h" type="commentary">Da <rs type="person" ref="#pmb2450">Fels</rs> am <date>1. 1. 1893</date> sich für eine neue Wohnung entscheidet, dürfte es sich bei dieser um die vorhergehende Adresse in der <rs ref="#pmb52" type="place">Leopoldstadt</rs> handeln.</note>: das hätte mit Ihnen gesprochen.</p><p>– Bitte, <hi rend="underline" n="1">nach 5 Uhr</hi> auf <hi rend="underline" n="1">einen Augenblick ins <rs ref="#pmb262" type="place">Central</rs></hi>, nicht ins gro<c rendition="#langesS">s</c>se Lokal, sondern ins erste der langen Reihe. Ich bitte Sie so dringend wie herzlich darum.</p><closer><signed>Fels</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2450">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-10-07">Angelegt</change><change who="MAM" when="2019-10-10">Index check</change><change who="MAM" when="2019-10-01">Finalisiert</change><change who="GHS" when="2020-01-20">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.2956_0004"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="HS.NZ85.1.2956_0004"/><salute>Lieber Dr </salute><space unit="chars" quantity="3"/>Wie man sich bisweilen irren ka<c rendition="#gemination-n"/>: Gestern kam ich gar nicht ins Café, sondern um <time>5 Uhr</time> lag ich im Bett. – Warum sah ich sie heute Frühe nicht? Und es wäre grade so dringend gewesen! Ich mu<c rendition="#langesS">s</c>s vielleicht heute noch <anchor xml:id="K_L00152_1" type="commentary"/>ausziehen<note xml:id="K_L00152_1h" type="commentary">Da <rs type="person" ref="#pmb2450">Fels</rs> am <date>1. 1. 1893</date> sich für eine neue Wohnung entscheidet, dürfte es sich bei dieser um die vorhergehende Adresse in der <rs ref="#pmb52" type="place">Leopoldstadt</rs> handeln.</note>: das hätte mit Ihnen gesprochen.</p><p>– Bitte, <hi rend="underline" n="1">nach 5 Uhr</hi> auf <hi rend="underline" n="1">einen Augenblick ins <rs ref="#pmb262" type="place">Central</rs></hi>, nicht ins gro<c rendition="#langesS">s</c>se Lokal, sondern ins erste der langen Reihe. Ich bitte Sie so dringend wie herzlich darum.</p><closer><signed>Fels</signed></closer></div></body><back><listPerson><person xml:id="pmb2450">
                   <tei:persName>
                      <tei:surname>Fels</tei:surname>
                      <tei:forename>Friedrich M.</tei:forename>
@@ -31,7 +31,8 @@
                      <tei:placeName ref="#pmb41882">Bad Dürkheim</tei:placeName>
                   </tei:birth>
                   <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/127899537/</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -46,7 +47,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -54,7 +56,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb52">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb52">
                   <tei:placeName>II., Leopoldstadt</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -62,7 +66,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.21667 16.4</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb262">
+                  <idno type="geonames">https://www.geonames.org/2772614/</idno>
+               </place><place xml:id="pmb262">
                   <tei:placeName>Café Central</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i20">Kaffeehaus</tei:gloss>
@@ -70,4 +75,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.210278 16.365278</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q694757/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

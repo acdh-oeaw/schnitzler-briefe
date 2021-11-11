@@ -21,7 +21,7 @@
                                     »<quote>247</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><persName ref="#pmb10860">Beer-Hofmann, Paula</persName><placeName ref="#pmb44374">St. Moritz</placeName><date when="1912-07-16" n="02">16. 7. 1912</date></correspAction><correspAction type="transmitted"><placeName ref="#pmb44374">St. Moritz</placeName><date when="1912-07-17">17. 7. 1912</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L02077">Beer-Hofmann an Schnitzler, 16. 7. 1912</ref><ref subtype="next_letter" type="withinCollection" target="L02079">Schnitzler an Beer-Hofmann, 19. 7. 1912</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02077">Beer-Hofmann an Schnitzler, 16. 7. 1912</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02079">Schnitzler an Beer-Hofmann, 19. 7. 1912</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-25">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-03">Index check</change><change who="MAM" when="2021-02-03">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00200"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00201"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00200"/>S. H.</addrLine><addrLine>Herrn</addrLine><addrLine>Arthur Schnitzler.</addrLine><addrLine><rs ref="#pmb68" type="place">Wien XVIII</rs>. </addrLine><addrLine><rs ref="#pmb150" type="place">Sternwartestrasse</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00201"/><hi rend="pre-print"><rs type="place" ref="#pmb52028">Hahnensee</rs> (<rs ref="#pmb1061" type="place">Ober-Engadin</rs>) 2159 m ü. M.</hi></p><dateline><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00200"/><anchor xml:id="KLL02078_AS-1" type="commentary"/><date when="1912-07-16">16. VIII. 12</date><note xml:id="KLL02078_AS-1h" type="commentary">Schreibfehler, der durch den Poststempel korrigiert werden kann.</note>.</dateline></opener><closer>Herzliche Grüsse.<lb/><signed>Richard</signed><lb/><signed><handShift scribe="#pmb10860"/>Paula</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-25">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-03">Index check</change><change who="MAM" when="2021-02-03">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00200"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00201"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00200"/>S. H.</addrLine><addrLine>Herrn</addrLine><addrLine>Arthur Schnitzler.</addrLine><addrLine><rs ref="#pmb68" type="place">Wien XVIII</rs>. </addrLine><addrLine><rs ref="#pmb150" type="place">Sternwartestrasse</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00201"/><hi rend="pre-print"><rs type="place" ref="#pmb52028">Hahnensee</rs> (<rs ref="#pmb1061" type="place">Ober-Engadin</rs>) 2159 m ü. M.</hi></p><dateline><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00200"/><anchor xml:id="KLL02078_AS-1" type="commentary"/><date when="1912-07-16">16. VIII. 12</date><note xml:id="KLL02078_AS-1h" type="commentary">Schreibfehler, der durch den Poststempel korrigiert werden kann.</note>.</dateline></opener><closer>Herzliche Grüsse.<lb/><signed>Richard</signed><lb/><signed><handShift scribe="#pmb10860"/>Paula</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb10860">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb10860">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Paula</tei:forename>
@@ -48,7 +50,9 @@
                      <tei:date when="1939-10-30">30. 10. 1939</tei:date>
                      <tei:placeName ref="#pmb484">Zürich</tei:placeName>
                   </tei:death>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/119044994/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13550</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -63,7 +67,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb52256">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb52256">
                   <tei:placeName>Restaurant Hahnensee</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i17">Gastgewerbegebäude</tei:gloss>
@@ -71,7 +76,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.46813067431456 9.828982142182769</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb44374">
+               </place><place xml:id="pmb44374">
                   <tei:placeName>Sankt Moritz</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
@@ -79,7 +84,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.49937 9.84327</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2658813/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -87,7 +93,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb68">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb68">
                   <tei:placeName>XVIII., Währing</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -95,7 +103,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb150">
+                  <idno type="geonames">https://www.geonames.org/2762091/</idno>
+               </place><place xml:id="pmb150">
                   <tei:placeName>Sternwartestraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -103,7 +112,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb52028">
+               </place><place xml:id="pmb52028">
                   <tei:placeName>Hahnensee</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i44">See</tei:gloss>
@@ -111,7 +120,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.466667 9.833333</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1061">
+               </place><place xml:id="pmb1061">
                   <tei:placeName>Engadin</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i13">Teil eines Landes</tei:gloss>
@@ -119,4 +128,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.601337 9.965973</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2660904/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

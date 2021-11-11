@@ -21,7 +21,7 @@
                                                   Bahn<unclear>hof</unclear></placeName></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb173">Rodaun</placeName><date><supplied>1.</supplied> 7. 02</date><time>9–<unclear>12</unclear>V</time></stamp></desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand datiert: »<quote><date>30. 6.</date></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb30">Salzburg</placeName><date when="1902-06-30" n="01">30. 6. 1902</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb173">Rodaun</placeName><date when="1902-07-01">1. 7. 1902</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01225">Hofmannsthal an Schnitzler, 26. 6. 1902</ref><ref subtype="next_letter" type="withinCollection" target="L01227">Hofmannsthal, Schnitzler an Bahr, 3. 7. 1902</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01193">Schnitzler an Beer-Hofmann, [16. 6. 1902?]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01228">Hofmannsthal, Schnitzler an Beer-Hofmann, 3. 7. 1902</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-10-13">Angelegt</change><change who="MAM" when="2021-01-29">Index check</change><change who="MAM" when="2021-03-15">Durchsicht</change><change who="GHS" when="2021-05-03">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="1902_AS_RBH_1_00034"/><graphic url="1902_AS_RBH_1_00033"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="1902_AS_RBH_1_00034"/>Herrn D<hi rend="superscript">r</hi> Richard Beer Hofmann </addrLine><addrLine><rs ref="#pmb173" type="place">Rodaun beim Liesing </rs></addrLine><addrLine><rs type="place" ref="#pmb1003">N. Ö.</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="1902_AS_RBH_1_00033"/><rs type="place" ref="#pmb30">Salzburg</rs>.</hi></p></opener><closer><signed>Hugo</signed></closer></div><div type="writingSession" n="2"><closer><handShift scribe="#pmb2121"/>Herzl Gru<c rendition="#langesS">s</c>s<lb/><signed>Arthur</signed></closer><postscript><dateline><date>30. 6. 902</date></dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb11740">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-10-13">Angelegt</change><change who="MAM" when="2021-01-29">Index check</change><change who="MAM" when="2021-03-15">Durchsicht</change><change who="GHS" when="2021-05-03">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="1902_AS_RBH_1_00034"/><graphic url="1902_AS_RBH_1_00033"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="1902_AS_RBH_1_00034"/>Herrn D<hi rend="superscript">r</hi> Richard Beer Hofmann </addrLine><addrLine><rs ref="#pmb173" type="place">Rodaun beim Liesing </rs></addrLine><addrLine><rs type="place" ref="#pmb1003">N. Ö.</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="1902_AS_RBH_1_00033"/><rs type="place" ref="#pmb30">Salzburg</rs>.</hi></p></opener><closer><signed>Hugo</signed></closer></div><div type="writingSession" n="2"><closer><handShift scribe="#pmb2121"/>Herzl Gru<c rendition="#langesS">s</c>s<lb/><signed>Arthur</signed></closer><postscript><dateline><date>30. 6. 902</date></dateline></postscript></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -64,7 +67,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50792">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50792">
                   <tei:placeName>Hauptbahnhof Salzburg</tei:placeName>
                   <tei:desc>
                      <tei:date from="1860-07-01" from-custom="1860-07-01">1. 7. 1860</tei:date>
@@ -73,7 +78,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.813139 13.045769</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb173">
+               </place><place xml:id="pmb173">
                   <tei:placeName>Rodaun</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
@@ -81,7 +86,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb30">
+                  <idno type="geonames">https://www.geonames.org/2767332/</idno>
+               </place><place xml:id="pmb30">
                   <tei:placeName>Salzburg</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -89,7 +95,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.80067 13.04532</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1003">
+                  <idno type="geonames">https://www.geonames.org/2766818/</idno>
+               </place><place xml:id="pmb1003">
                   <tei:placeName>Niederösterreich</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i38">Land</tei:gloss>
@@ -97,4 +104,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.33333 15.75</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2770542/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q42497/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

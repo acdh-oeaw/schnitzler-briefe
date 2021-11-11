@@ -19,7 +19,7 @@
                 Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="blauer_buntstift" style="lateinische-kurrent"/></handDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>12</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">40</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb50">Wien</placeName><date when="1892-11-09" n="02">9. 11. 1892</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00133">Schnitzler an Hofmannsthal, 9. 11. 1892</ref><ref subtype="next_letter" type="withinCollection" target="L00135">Mamroth an Schnitzler, 17. 11. 1892</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00131">Schnitzler an Beer-Hofmann, 3. 11. 1892</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00136">Beer-Hofmann an Schnitzler, [1892–1894?]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-09-12">Faksimile Abgleich</change><change who="MAM" when="2019-10-07">Index check</change><change who="MAM" when="2019-10-22">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00025"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00026"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00025"/>Lieber Arthur!</salute></opener><p>Ich reise heute nach <rs ref="#pmb833" type="place">Brünn</rs>, ein <rs type="person" ref="#pmb40394" subtype="implied">Onkel</rs> von mir ist gestorben.</p><p><date>Freitag</date> bin ich wahrscheinlich zurück; ich kann Ihnen also – (falls <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00026"/>Sie mir im Laufe des heutigen Nachmittages drum schreiben sollten) – Karten zu <rs ref="#pmb31971" type="work">Musotte</rs> nicht besorgen.</p><closer>Herzlichst<lb/><signed>Richard</signed></closer><postscript><dateline><date>9/XI 92</date>.</dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-09-12">Faksimile Abgleich</change><change who="MAM" when="2019-10-07">Index check</change><change who="MAM" when="2019-10-22">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00025"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00026"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00025"/>Lieber Arthur!</salute></opener><p>Ich reise heute nach <rs ref="#pmb833" type="place">Brünn</rs>, ein <rs type="person" ref="#pmb40394" subtype="implied">Onkel</rs> von mir ist gestorben.</p><p><date>Freitag</date> bin ich wahrscheinlich zurück; ich kann Ihnen also – (falls <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00026"/>Sie mir im Laufe des heutigen Nachmittages drum schreiben sollten) – Karten zu <rs ref="#pmb31971" type="work">Musotte</rs> nicht besorgen.</p><closer>Herzlichst<lb/><signed>Richard</signed></closer><postscript><dateline><date>9/XI 92</date>.</dateline></postscript></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -33,7 +33,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -48,7 +50,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb40394">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb40394">
                   <tei:persName>
                      <tei:surname>Schwarz</tei:surname>
                      <tei:forename>Moritz E.</tei:forename>
@@ -62,7 +65,7 @@
                      <tei:placeName ref="#pmb833">Brünn</tei:placeName>
                   </tei:death>
                   <occupation code="152">Industrielle/r</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb31971">
+               </person></listPerson><listBibl><bibl xml:id="pmb31971">
                   <tei:author ref="pmb12201" role="author">
                      <tei:surname>Maupassant</tei:surname>
                      <tei:forename>Guy de</tei:forename>
@@ -74,7 +77,7 @@
                   <tei:title>Musotte</tei:title>
                   <tei:date from="1891-01-01" from-custom="1891">1891</tei:date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -82,7 +85,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb833">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb833">
                   <tei:placeName>Brünn</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -90,4 +95,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">49.19522 16.60796</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/3078610/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q14960/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

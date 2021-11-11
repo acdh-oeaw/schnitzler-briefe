@@ -19,7 +19,7 @@
                               »<quote>222</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><date when="1909-08-16" n="01">16. 8. 1909</date><placeName ref="#pmb462">Venedig</placeName></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb470">Edlach</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01864">Schnitzler an Beer-Hofmann, 12. 8. 1909</ref><ref subtype="next_letter" type="withinCollection" target="L01866">Beer-Hofmann an Schnitzler, 21. 8. 1909</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01864">Schnitzler an Beer-Hofmann, 12. 8. 1909</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01866">Beer-Hofmann an Schnitzler, 21. 8. 1909</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-12">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-02">Index check</change><change who="MAM" when="2021-02-02">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00137"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00138"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00137"/>Herrn</addrLine><addrLine>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb470">Edlach</rs></addrLine><addrLine> bei <rs ref="#pmb483" type="place">Reichenau</rs></addrLine><addrLine><rs ref="#pmb1003" type="place">N. Ö.</rs></addrLine><addrLine><rs ref="#pmb41240" type="place">Austria</rs></addrLine></address></div><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00138"/><hi rend="pre-print"><rs ref="#pmb462" type="place"><hi rend="capitals">Venezia</hi></rs> – <rs type="place" ref="#pmb259"><hi rend="capitals">Lido</hi></rs> – <rs ref="#pmb51732" type="place">Villa Elena</rs></hi></p><p><anchor xml:id="TLL01865_AS-1" type="textConst"/>mein Zi<c rendition="#gemination-m"/>er<note xml:id="TLL01865_AS-1h" type="textConst">Ein Pfeil weist von einem Fenster links von der Eingangstüre auf den Text.</note></p><closer>Herzliche Grüsse von <signed>Richard u. <rs type="person" ref="#pmb10860">Paula</rs></signed></closer><postscript><p><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00137"/>Heiss aber schön.</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-12">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-02">Index check</change><change who="MAM" when="2021-02-02">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00137"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00138"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00137"/>Herrn</addrLine><addrLine>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb470">Edlach</rs></addrLine><addrLine> bei <rs ref="#pmb483" type="place">Reichenau</rs></addrLine><addrLine><rs ref="#pmb1003" type="place">N. Ö.</rs></addrLine><addrLine><rs ref="#pmb41240" type="place">Austria</rs></addrLine></address></div><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00138"/><hi rend="pre-print"><rs ref="#pmb462" type="place"><hi rend="capitals">Venezia</hi></rs> – <rs type="place" ref="#pmb259"><hi rend="capitals">Lido</hi></rs> – <rs ref="#pmb51732" type="place">Villa Elena</rs></hi></p><p><anchor xml:id="TLL01865_AS-1" type="textConst"/>mein Zi<c rendition="#gemination-m"/>er<note xml:id="TLL01865_AS-1h" type="textConst">Ein Pfeil weist von einem Fenster links von der Eingangstüre auf den Text.</note></p><closer>Herzliche Grüsse von <signed>Richard u. <rs type="person" ref="#pmb10860">Paula</rs></signed></closer><postscript><p><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00137"/>Heiss aber schön.</p></postscript></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -33,7 +33,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -48,7 +50,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10860">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10860">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Paula</tei:forename>
@@ -61,7 +64,9 @@
                      <tei:date when="1939-10-30">30. 10. 1939</tei:date>
                      <tei:placeName ref="#pmb484">Zürich</tei:placeName>
                   </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb462">
+                  <idno type="gnd">https://d-nb.info/gnd/119044994/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13550</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb462">
                   <tei:placeName>Venedig</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -69,7 +74,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.43713 12.33265</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb470">
+                  <idno type="geonames">https://www.geonames.org/3164603/</idno>
+               </place><place xml:id="pmb470">
                   <tei:placeName>Edlach</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -77,7 +83,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.69255 15.80915</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb483">
+                  <idno type="geonames">https://www.geonames.org/2780428/</idno>
+               </place><place xml:id="pmb483">
                   <tei:placeName>Reichenau an der Rax</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -85,7 +92,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.7 15.83333</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1003">
+                  <idno type="geonames">https://www.geonames.org/2767775/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q665243/</idno>
+               </place><place xml:id="pmb1003">
                   <tei:placeName>Niederösterreich</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i38">Land</tei:gloss>
@@ -93,7 +102,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.33333 15.75</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb41240">
+                  <idno type="geonames">https://www.geonames.org/2770542/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q42497/</idno>
+               </place><place xml:id="pmb41240">
                   <tei:placeName>Österreich</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1107">Land</tei:gloss>
@@ -101,7 +112,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb259">
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb259">
                   <tei:placeName>Lido</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
@@ -109,7 +121,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.38333 12.35</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb51732">
+                  <idno type="geonames">https://www.geonames.org/3174749/</idno>
+               </place><place xml:id="pmb51732">
                   <tei:placeName>Villa Elena</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i42">Beherbergungsgebäude</tei:gloss>
@@ -117,4 +130,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.414872 12.375877</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

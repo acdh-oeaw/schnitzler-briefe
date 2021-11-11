@@ -22,7 +22,7 @@
                   an Beer-Hofmann, 5. 8. 1912</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02087">Schnitzler,
                   Schnitzler an Beer-Hofmann, Beer-Hofmann, 30. 8. 1912</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-25">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-03">Index check</change><change who="MAM" when="2021-02-03">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00198"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00199"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00198"/>Herrn</addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine>Insel <rs type="place" ref="#pmb45260">Brioni</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00199"/><hi rend="pre-print"><rs ref="#pmb213" type="place">Bad Ischl</rs> mit <rs type="place" ref="#pmb45943">Dachstein</rs> vom <rs ref="#pmb52258" type="place">Gassner</rs>.</hi></p><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00199"/><rs type="place" ref="#pmb655">Hôtel Kaiserkrone</rs></seg><seg rend="right"><date>17./VIII 12</date></seg></p></opener><p><salute>Lieber Arthur! </salute>Wir sind seit <date>13</date>. hier, und wissen noch nicht, – das Wetter ist scheusslich – ob wir bleiben – oder nach Hause fahren.</p><closer>Herzliche Grüsse Ihnen, Ihrer <rs ref="#pmb2173" type="person" subtype="implied">Frau</rs>, und den <rs type="person" ref="#pmb12692 #pmb2238" subtype="implied">Kindern</rs> von uns Allen. <signed>Richard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-25">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-03">Index check</change><change who="MAM" when="2021-02-03">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00198"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00199"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00198"/>Herrn</addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine>Insel <rs type="place" ref="#pmb45260">Brioni</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00199"/><hi rend="pre-print"><rs ref="#pmb213" type="place">Bad Ischl</rs> mit <rs type="place" ref="#pmb45943">Dachstein</rs> vom <rs ref="#pmb52258" type="place">Gassner</rs>.</hi></p><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00199"/><rs type="place" ref="#pmb655">Hôtel Kaiserkrone</rs></seg><seg rend="right"><date>17./VIII 12</date></seg></p></opener><p><salute>Lieber Arthur! </salute>Wir sind seit <date>13</date>. hier, und wissen noch nicht, – das Wetter ist scheusslich – ob wir bleiben – oder nach Hause fahren.</p><closer>Herzliche Grüsse Ihnen, Ihrer <rs ref="#pmb2173" type="person" subtype="implied">Frau</rs>, und den <rs type="person" ref="#pmb12692 #pmb2238" subtype="implied">Kindern</rs> von uns Allen. <signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -36,7 +36,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -51,7 +53,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb2173">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2173">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Olga</tei:forename>
@@ -66,7 +69,8 @@
                   </tei:death>
                   <occupation code="107">Sänger*in</occupation>
                   <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb12692">
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb12692">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Heinrich</tei:forename>
@@ -81,7 +85,9 @@
                   </tei:death>
                   <occupation code="104">Regisseur*in</occupation>
                   <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb2238">
+                  <idno type="gnd">https://d-nb.info/gnd/116848510/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19822</idno>
+               </person><person xml:id="pmb2238">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Lili</tei:forename>
@@ -94,7 +100,8 @@
                      <tei:date when="1928-07-26">26. 7. 1928</tei:date>
                      <tei:placeName ref="#pmb462">Venedig</tei:placeName>
                   </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb213">
+                  <idno type="gnd">https://d-nb.info/gnd/131362089/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb213">
                   <tei:placeName>Bad Ischl</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -102,7 +109,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb45260">
+                  <idno type="geonames">https://www.geonames.org/2782052/</idno>
+               </place><place xml:id="pmb45260">
                   <tei:placeName>Brijuni</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
@@ -110,7 +118,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">44.91417 13.76222</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb45943">
+                  <idno type="geonames">https://www.geonames.org/3203301/</idno>
+               </place><place xml:id="pmb45943">
                   <tei:placeName>Dachstein</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i28">Berg</tei:gloss>
@@ -118,7 +127,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.475153 13.605774</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb52258">
+               </place><place xml:id="pmb52258">
                   <tei:placeName>Gassnerwiese</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i62">Ausflugsziel</tei:gloss>
@@ -126,7 +135,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.717449542169284 13.627452601606</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb655">
+               </place><place xml:id="pmb655">
                   <tei:placeName>Hotel Kaiserkrone</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
@@ -134,4 +143,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.71356 13.61926</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

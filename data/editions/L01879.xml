@@ -22,7 +22,7 @@
                   an Schnitzler, 15. 9. 1909</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01922">Burckhard an
                   Schnitzler, 8. 4. 1910</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-10-17">Angelegt</change><change who="MAM" when="2018-10-17">Index check</change><change who="MAM" when="2020-04-08">Durchsicht</change><change who="GHS" when="2020-09-01">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00020-000-00067"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00020-000-00067"/>Ich hatte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t bitten wollen bin nur in der Hetzjagd noch nicht in die <rs ref="#pmb133" type="place">Spöttelga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e</rs> gekommen. ich teile Ihnen die <anchor xml:id="K_L01879_1" type="commentary"/>directoriale Zu<c rendition="#langesS">s</c>timmung<note xml:id="K_L01879_1h" type="commentary">zur Teilnahme an der Generalprobe von <rs type="work" ref="#pmb30289">Jene Asra</rs> am <ref type="schnitzlerDiary" subtype="date-only" target="1909-10-15"/></note> mit und meine herzlich<c rendition="#langesS">s</c>te Freude mit Gruß <signed>Doktor Burckhard +</signed></p></div></body><back><listPerson><tei:person xml:id="pmb11036">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-10-17">Angelegt</change><change who="MAM" when="2018-10-17">Index check</change><change who="MAM" when="2020-04-08">Durchsicht</change><change who="GHS" when="2020-09-01">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00020-000-00067"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00020-000-00067"/>Ich hatte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t bitten wollen bin nur in der Hetzjagd noch nicht in die <rs ref="#pmb133" type="place">Spöttelga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e</rs> gekommen. ich teile Ihnen die <anchor xml:id="K_L01879_1" type="commentary"/>directoriale Zu<c rendition="#langesS">s</c>timmung<note xml:id="K_L01879_1h" type="commentary">zur Teilnahme an der Generalprobe von <rs type="work" ref="#pmb30289">Jene Asra</rs> am <ref type="schnitzlerDiary" subtype="date-only" target="1909-10-15"/></note> mit und meine herzlich<c rendition="#langesS">s</c>te Freude mit Gruß <signed>Doktor Burckhard +</signed></p></div></body><back><listPerson><person xml:id="pmb11036">
                   <tei:persName>
                      <tei:surname>Burckhard</tei:surname>
                      <tei:forename>Max Eugen</tei:forename>
@@ -38,7 +38,9 @@
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="102">Rechtswissenschaftler*in</occupation>
                   <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/117161144/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14065</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -53,7 +55,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30289">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30289">
                   <tei:author ref="pmb11036" role="author">
                      <tei:surname>Burckhard</tei:surname>
                      <tei:forename>Max Eugen</tei:forename>
@@ -61,7 +64,7 @@
                   <tei:title>Jene Asra,… Komödie in 4 Akten</tei:title>
                   <tei:date from="1909-01-01" from-custom="1909">1909</tei:date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -69,7 +72,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb133">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
                   <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -77,4 +82,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

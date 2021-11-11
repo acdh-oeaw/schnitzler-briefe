@@ -21,7 +21,7 @@
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
         </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-11-29">Angelegt</change><change who="MAM" when="2018-11-30">Index check</change><change who="GHS" when="2019-05-26">Korrektur gelesen, facs aktualisiert,
-                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00022-000-00003"/><graphic url="MS-SCHNITZLER-B-00022-000-00004"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00022-000-00003"/>Herrn Dr. Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb51">Wien I.</rs></addrLine><addrLine><rs ref="#pmb542" type="place">Gi<c rendition="#langesS">s</c>ela<c rendition="#langesS">s</c>tr. 11</rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline><pb facs="MS-SCHNITZLER-B-00022-000-00004"/><rs ref="#pmb45258" type="place">München</rs>, <date>14. 11. 90</date>.</dateline></opener><p>Das <rs ref="#pmb30151" type="work" subtype="implied">Gedicht</rs> wird in der »<rs ref="#pmb35919" type="work">Ge<c rendition="#langesS">s</c>ell<c rendition="#langesS">s</c>chaft</rs>« abgedruckt. Dank und Gruß!</p><closer><signed>Dr. Conrad.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11098">
+                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00022-000-00003"/><graphic url="MS-SCHNITZLER-B-00022-000-00004"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00022-000-00003"/>Herrn Dr. Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb51">Wien I.</rs></addrLine><addrLine><rs ref="#pmb542" type="place">Gi<c rendition="#langesS">s</c>ela<c rendition="#langesS">s</c>tr. 11</rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline><pb facs="MS-SCHNITZLER-B-00022-000-00004"/><rs ref="#pmb45258" type="place">München</rs>, <date>14. 11. 90</date>.</dateline></opener><p>Das <rs ref="#pmb30151" type="work" subtype="implied">Gedicht</rs> wird in der »<rs ref="#pmb35919" type="work">Ge<c rendition="#langesS">s</c>ell<c rendition="#langesS">s</c>chaft</rs>« abgedruckt. Dank und Gruß!</p><closer><signed>Dr. Conrad.</signed></closer></div></body><back><listPerson><person xml:id="pmb11098">
                   <tei:persName>
                      <tei:surname>Conrad</tei:surname>
                      <tei:forename>Michael Georg</tei:forename>
@@ -36,7 +36,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118669915/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14265</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -51,7 +53,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30151">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30151">
                   <tei:author ref="pmb2121" role="author">
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -61,7 +64,7 @@
                   <tei:gloss type="w1067">Gedicht</tei:gloss>
                   <tei:note>2753</tei:note>
                   <tei:note>2898</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb35919">
+               </bibl><bibl xml:id="pmb35919">
                   <tei:author ref="pmb2121" role="contributor">
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -81,7 +84,7 @@
                   <tei:title>Die Gesellschaft. Monatsschrift</tei:title>
                   <tei:date from="1885-01-01" from-custom="1885" to="1902-01-01" to-custom="1902">1885–1902</tei:date>
                   <tei:gloss type="w1222">Monatsschrift</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb45258">
+               </bibl></listBibl><listPlace><place xml:id="pmb45258">
                   <tei:placeName>München</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1415">Land</tei:gloss>
@@ -89,7 +92,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2867714/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4127793-4/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -97,7 +102,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb51">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb51">
                   <tei:placeName>I., Innere Stadt</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -105,7 +112,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb542">
+                  <idno type="geonames">https://www.geonames.org/2775259/</idno>
+               </place><place xml:id="pmb542">
                   <tei:placeName>Bösendorferstraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -113,4 +121,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.201213 16.371141</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

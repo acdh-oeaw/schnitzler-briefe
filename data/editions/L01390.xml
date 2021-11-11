@@ -22,7 +22,7 @@
                   Schnitzler, 1[0?]. 4. 1904</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01389">Hofmannsthal an Schnitzler, [1. 4.? 1904]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01393">Hofmannsthal
                   an Schnitzler, 2[3.?] 4. 1904</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-08">Durchsicht</change><change who="MAM" when="2020-05-19">Durchsicht</change><change who="MAM" when="2020-05-19">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00135"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00135"/><salute>lieber, </salute><rs type="person" ref="#pmb11737" subtype="implied">Papa</rs> freut<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr über Ihre Freundlichkeit und wird mit Freude <anchor xml:id="K_L01390_1" type="commentary"/><date>Montag</date> abends<note xml:id="K_L01390_1h" type="commentary"><ref target="1904-04-11" type="schnitzlerDiary" subtype="cf"/></note> mitko<c rendition="#gemination-m"/>en.<space unit="chars" quantity="3"/>Allenfalls<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen Sie es vielleicht auch <rs ref="#pmb12740" type="person">S.kopf</rs>, mit dem <rs type="person" ref="#pmb11737" subtype="implied">Papa</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>ehr gut<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>teht <c rendition="#dots" n="3"/> ganz wie Sie gelaunt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind.</p><closer>Von Herzen Ihr<lb/><signed>Hugo.</signed></closer><postscript><dateline><date>Samstg</date><space unit="chars" quantity="1"/><time>abend</time>.</dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb11740">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-08">Durchsicht</change><change who="MAM" when="2020-05-19">Durchsicht</change><change who="MAM" when="2020-05-19">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00135"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00135"/><salute>lieber, </salute><rs type="person" ref="#pmb11737" subtype="implied">Papa</rs> freut<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr über Ihre Freundlichkeit und wird mit Freude <anchor xml:id="K_L01390_1" type="commentary"/><date>Montag</date> abends<note xml:id="K_L01390_1h" type="commentary"><ref target="1904-04-11" type="schnitzlerDiary" subtype="cf"/></note> mitko<c rendition="#gemination-m"/>en.<space unit="chars" quantity="3"/>Allenfalls<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen Sie es vielleicht auch <rs ref="#pmb12740" type="person">S.kopf</rs>, mit dem <rs type="person" ref="#pmb11737" subtype="implied">Papa</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>ehr gut<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>teht <c rendition="#dots" n="3"/> ganz wie Sie gelaunt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind.</p><closer>Von Herzen Ihr<lb/><signed>Hugo.</signed></closer><postscript><dateline><date>Samstg</date><space unit="chars" quantity="1"/><time>abend</time>.</dateline></postscript></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -36,7 +36,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -51,7 +53,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11737">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11737">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo August von</tei:forename>
@@ -65,7 +68,9 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="465">Bankdirektor*in</occupation>
-               </tei:person><tei:person xml:id="pmb12740">
+                  <idno type="gnd">https://d-nb.info/gnd/116952202/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16294</idno>
+               </person><person xml:id="pmb12740">
                   <tei:persName>
                      <tei:surname>Schwarzkopf</tei:surname>
                      <tei:forename>Gustav</tei:forename>
@@ -79,7 +84,9 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/1014997828/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19986</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -87,4 +94,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

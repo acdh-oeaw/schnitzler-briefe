@@ -22,7 +22,7 @@
                   1918]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02303">Brandes an Schnitzler, 18. 9. 1918</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02342">Brandes an Schnitzler, 13. 6. 1920</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-07-01">Angelegt</change><change who="MAM" when="2018-08-02">Durchsicht</change><change who="MAM" when="2018-10-01">Index check</change><change who="GHS" when="2019-08-18">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="Georg_Brandes_arkiv_183"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="Georg_Brandes_arkiv_183"/><rs ref="#pmb50" type="place">Wien</rs>, <date>30. 11. 918</date></dateline><salute>Lieber und verehrter Herr Brandes</salute></opener><p>Darf ich Sie bitten, Herrn <rs ref="#pmb5516" type="person">Sonne</rs>, der Ihnen die herzlichsten Grüße überbringt, freundlich aufzunehmen? Er reist in national-jüdischen Angelegenheiten nach <rs ref="#pmb36300" type="place">Kopenhagen</rs>, und von dort weiter, und wird Ihnen, wenn Sie es gestatten allerlei berichten, was Sie sehr interessiren wird. Jedenfalls werden Sie in ihm einen sehr klugen, höchst unterrichteten und in bestem Sinne thätigen Mann kennen lernen.</p><p>Lassen Sie mich Ihnen heute nur flüchtig für Ihren letzten Brief danken – in den nächsten Tagen soll es ausführlicher geschehn – und hoffentlich läßt sich bald schöneres erzählen als es heute möglich wäre. Die Meinen sind alle wohl; – und ich arbeite so gut es geht; – aber es geht nicht gut. Immerhin erhalten Sie eine neue <anchor xml:id="T_L02312_1" type="textConst"/><rs type="work" ref="#pmb30971" subtype="implied">Novelle</rs><note xml:id="T_L02312_1h" type="textConst">ab hier weiter am linken Rand</note> von mir zugeschickt! Von Herzen</p><closer>Ihr <signed>Arthur Schnitzler</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2121">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-07-01">Angelegt</change><change who="MAM" when="2018-08-02">Durchsicht</change><change who="MAM" when="2018-10-01">Index check</change><change who="GHS" when="2019-08-18">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="Georg_Brandes_arkiv_183"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="Georg_Brandes_arkiv_183"/><rs ref="#pmb50" type="place">Wien</rs>, <date>30. 11. 918</date></dateline><salute>Lieber und verehrter Herr Brandes</salute></opener><p>Darf ich Sie bitten, Herrn <rs ref="#pmb5516" type="person">Sonne</rs>, der Ihnen die herzlichsten Grüße überbringt, freundlich aufzunehmen? Er reist in national-jüdischen Angelegenheiten nach <rs ref="#pmb36300" type="place">Kopenhagen</rs>, und von dort weiter, und wird Ihnen, wenn Sie es gestatten allerlei berichten, was Sie sehr interessiren wird. Jedenfalls werden Sie in ihm einen sehr klugen, höchst unterrichteten und in bestem Sinne thätigen Mann kennen lernen.</p><p>Lassen Sie mich Ihnen heute nur flüchtig für Ihren letzten Brief danken – in den nächsten Tagen soll es ausführlicher geschehn – und hoffentlich läßt sich bald schöneres erzählen als es heute möglich wäre. Die Meinen sind alle wohl; – und ich arbeite so gut es geht; – aber es geht nicht gut. Immerhin erhalten Sie eine neue <anchor xml:id="T_L02312_1" type="textConst"/><rs type="work" ref="#pmb30971" subtype="implied">Novelle</rs><note xml:id="T_L02312_1h" type="textConst">ab hier weiter am linken Rand</note> von mir zugeschickt! Von Herzen</p><closer>Ihr <signed>Arthur Schnitzler</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -37,7 +37,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10992">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10992">
                   <tei:persName>
                      <tei:surname>Brandes</tei:surname>
                      <tei:forename>Georg</tei:forename>
@@ -51,7 +52,9 @@
                      <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
                   </tei:death>
                   <occupation code="278">Literarhistoriker*in</occupation>
-               </tei:person><tei:person xml:id="pmb5516">
+                  <idno type="gnd">https://d-nb.info/gnd/118514326/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13920</idno>
+               </person><person xml:id="pmb5516">
                   <tei:persName>
                      <tei:surname>Sonne</tei:surname>
                      <tei:forename>Abraham</tei:forename>
@@ -62,11 +65,13 @@
                   </tei:birth>
                   <tei:death>
                      <tei:date when="1950-03-29">29. 3. 1950</tei:date>
-                     <tei:placeName ref="#pmb5519">Hod haScharon</tei:placeName>
+                     <tei:placeName ref="#pmb48343">Hod HaSharon</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="277">Zionist</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30971">
+                  <idno type="gnd">https://d-nb.info/gnd/120891085/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20200</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30971">
                   <tei:author ref="pmb2121" role="author">
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -75,7 +80,8 @@
                   <tei:date from="1918-07-01" from-custom="1.7.1918" to="1918-09-01" to-custom="1.9.1918">1. 7. 1918–1. 9. 1918</tei:date>
                   <tei:gloss type="w1054">Erzählung</tei:gloss>
                   <tei:note>2970</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q946444/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -83,7 +89,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb36300">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb36300">
                   <tei:placeName>Kopenhagen</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -91,4 +99,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2618425/copenhagen.html/</idno>
+                  <idno type="geonames">https://www.geonames.org/2618425/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1748/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4032399-7/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

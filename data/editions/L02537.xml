@@ -20,7 +20,7 @@
                 Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc><handNote medium="blauer_buntstift" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb431">Mariazell</placeName><date>13. VI. 30</date></stamp></desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>276</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb431">Mariazell</placeName><date when="1930-06-13" n="01">13. 6. 1930</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L02536">Schnitzler an Adam, 12. 6. 1930</ref><ref subtype="next_letter" type="withinCollection" target="L02538">Adam an Schnitzler, 15. 6. 1930</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02521">Beer-Hofmann an Schnitzler, 28. 8. 1929</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02539">Beer-Hofmann, Beer-Hofmann an Schnitzler, 11. 9. 1930</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-30">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-12">Durchsicht</change><change who="MAM" when="2021-02-12">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00260"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00261"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00260"/>Herrn</addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb68" type="place">Wien XVIII</rs></addrLine><addrLine><rs ref="#pmb150" type="place">Sternwartstrasse 71</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00261"/><hi rend="pre-print"><rs ref="#pmb431" type="place">Mariazell</rs>, 862 m Seehöhe, <rs type="place" ref="#pmb17">Steiermark</rs><space unit="chars" quantity="3"/><rs ref="#pmb52179" type="place">Gnadenkirche</rs></hi></p><dateline rend="right"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00260"/><date>13. VI. 30</date></dateline></opener><p>Herzliche Grüsse von <rs type="person" ref="#pmb10860">Paula</rs> und mir!</p><closer>Ihr<signed>Richard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-30">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-12">Durchsicht</change><change who="MAM" when="2021-02-12">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00260"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00261"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00260"/>Herrn</addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb68" type="place">Wien XVIII</rs></addrLine><addrLine><rs ref="#pmb150" type="place">Sternwartstrasse 71</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00261"/><hi rend="pre-print"><rs ref="#pmb431" type="place">Mariazell</rs>, 862 m Seehöhe, <rs type="place" ref="#pmb17">Steiermark</rs><space unit="chars" quantity="3"/><rs ref="#pmb52179" type="place">Gnadenkirche</rs></hi></p><dateline rend="right"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00260"/><date>13. VI. 30</date></dateline></opener><p>Herzliche Grüsse von <rs type="person" ref="#pmb10860">Paula</rs> und mir!</p><closer>Ihr<signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10860">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10860">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Paula</tei:forename>
@@ -62,7 +65,9 @@
                      <tei:date when="1939-10-30">30. 10. 1939</tei:date>
                      <tei:placeName ref="#pmb484">Zürich</tei:placeName>
                   </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb431">
+                  <idno type="gnd">https://d-nb.info/gnd/119044994/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13550</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb431">
                   <tei:placeName>Mariazell</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -70,7 +75,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.77306 15.31639</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2771893/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q264201/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -78,7 +85,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb68">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb68">
                   <tei:placeName>XVIII., Währing</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -86,7 +95,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb150">
+                  <idno type="geonames">https://www.geonames.org/2762091/</idno>
+               </place><place xml:id="pmb150">
                   <tei:placeName>Sternwartestraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -94,7 +104,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb17">
+               </place><place xml:id="pmb17">
                   <tei:placeName>Steiermark</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i13">Teil eines Landes</tei:gloss>
@@ -102,7 +112,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.38 15.7925</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb52179">
+                  <idno type="geonames">https://www.geonames.org/2764581/</idno>
+               </place><place xml:id="pmb52179">
                   <tei:placeName>Basilika Mariä Geburt</tei:placeName>
                   <tei:desc>
                      <tei:date from="1200-07-01" from-custom="1200-07-01">1. 7. 1200</tei:date>
@@ -111,4 +122,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.772831 15.318656</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

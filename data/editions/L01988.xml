@@ -22,7 +22,7 @@
                   Schnitzler, 3. 5. 1893</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02153">Suttner an
                   Schnitzler, 22. 10. 1913</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2021-01-21">Angelegt</change><change who="MAM" when="2021-02-12">Index check</change><change who="MAM" when="2021-04-30">Durchsicht</change><change who="GHS" when="2021-07-09">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ66.198_0001"/><graphic url="HS.NZ66.198_0002"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="HS.NZ66.198_0001"/><date>Dezember 1910</date></dateline><salute>Geehrter Herr D<hi rend="superscript">r</hi> Schnitzler</salute></opener><p>Ich kann Ihnen Frl. <rs type="person" ref="#pmb51940"><hi rend="latintype"><unclear>Taussig</unclear></hi></rs> – die durch lange Zeiten mir vortreffliche und be<c rendition="#langesS">s</c>onders <hi rend="underline" n="1">intelligente</hi> Sekretärdien<c rendition="#langesS">s</c>te <pb facs="HS.NZ66.198_0002"/>gelei<c rendition="#langesS">s</c>tet hat, auf das wärm<c rendition="#langesS">s</c>te empfehlen.</p><closer>Es grüßt Sie eine Ihrer alten Bewunderinnen<lb/><signed>Bertha v. Suttner</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb12906">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2021-01-21">Angelegt</change><change who="MAM" when="2021-02-12">Index check</change><change who="MAM" when="2021-04-30">Durchsicht</change><change who="GHS" when="2021-07-09">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ66.198_0001"/><graphic url="HS.NZ66.198_0002"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="HS.NZ66.198_0001"/><date>Dezember 1910</date></dateline><salute>Geehrter Herr D<hi rend="superscript">r</hi> Schnitzler</salute></opener><p>Ich kann Ihnen Frl. <rs type="person" ref="#pmb51940"><hi rend="latintype"><unclear>Taussig</unclear></hi></rs> – die durch lange Zeiten mir vortreffliche und be<c rendition="#langesS">s</c>onders <hi rend="underline" n="1">intelligente</hi> Sekretärdien<c rendition="#langesS">s</c>te <pb facs="HS.NZ66.198_0002"/>gelei<c rendition="#langesS">s</c>tet hat, auf das wärm<c rendition="#langesS">s</c>te empfehlen.</p><closer>Es grüßt Sie eine Ihrer alten Bewunderinnen<lb/><signed>Bertha v. Suttner</signed></closer></div></body><back><listPerson><person xml:id="pmb12906">
                   <tei:persName>
                      <tei:surname>Suttner</tei:surname>
                      <tei:forename>Bertha von</tei:forename>
@@ -37,7 +37,9 @@
                   </tei:death>
                   <occupation code="91">Schriftsteller*in</occupation>
                   <occupation code="521">Pazifistin</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118620126/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20583</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -52,13 +54,14 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb51940">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb51940">
                   <tei:persName>
                      <tei:surname>Taussig</tei:surname>
                      <tei:forename/>
                   </tei:persName>
                   <occupation code="367">Sekretärin</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb49286">
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb49286">
                   <tei:placeName>Zedlitzgasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -66,4 +69,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.20724 16.37837</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

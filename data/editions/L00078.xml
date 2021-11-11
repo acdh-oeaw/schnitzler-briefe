@@ -21,7 +21,7 @@
                   Beer-Hofmann, 11. 3. 1892</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
                'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2016-04-05">Angelegt</change><change who="GHS" when="2019-09-12">Faksimile gecheckt.</change><change who="MAM" when="2019-09-27">Index check</change><change who="MAM" when="2019-10-18">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00019"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00020"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00019"/><hi rend="pre-print">RB</hi></p><salute>Lieber Arthur!</salute></opener><p>Ich wohne <hi rend="underline" n="1"><rs ref="#pmb756" type="place">Pension Quisisana</rs></hi>; was machen Sie, <rs ref="#pmb11740" type="person">Loris</rs>, <rs ref="#pmb2167" type="person">Salten</rs>?</p><p>Wird etwas aus der Vorstellung, hat <rs ref="#pmb2563" type="person">Kaffka</rs> Nachrichten von der »<rs ref="#pmb29781" type="org">freien Bühne</rs>« wegen »<rs ref="#pmb30177" type="work">Camelias</rs>«?</p><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00020"/>Ich faullenze und langweile mich; keine gesunde erquiquende ruhige Langeweile, sondern eine pretentiöse, lärmende mit Gesprächen, und Gesellschaft; ausserdem regnet es heute auch noch. Ist <anchor xml:id="K_L00078_1" type="commentary"/>mein Artikel<note xml:id="K_L00078_1h" type="commentary">Er hatte über <rs ref="#pmb11581" type="person">Maximilian Harden</rs> ein <rs type="work" ref="#pmb41603" subtype="implied">Feuilleton</rs> verfasst. Dieses erschien als <rs ref="#pmb41603" type="work">Maximilian Harden</rs> am <date>30. 4. 1892</date> in der <rs ref="#pmb39950" type="work">Wiener Allgemeinen Zeitung</rs>.</note> in der »<rs ref="#pmb36344" type="work">Frankfurter</rs>« erschienen? <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00020"/>Ich glaube nicht; schon wegen der <add place="above">letzten</add><space unit="chars" quantity="1"/><anchor xml:id="K_L00078_2" type="commentary"/>Confiscation<note xml:id="K_L00078_2h" type="commentary"> Die Morgenausgabe der <rs ref="#pmb36344" type="work">Frankfurter Zeitung</rs> vom <date>1. 3. 1893</date> war wegen des Beitrags <rs ref="#pmb41596" type="work">Gekrönte Worte</rs> von <rs ref="#pmb11581" type="person">Maximilian Harden</rs> beschlagnahmt worden. Dieser hatte sich darin abfällig über eine Rede des deutschen Kaisers <rs ref="#pmb2566" type="person">Wilhelm II.</rs> geäußert.</note><space unit="chars" quantity="1"/><rs ref="#pmb11581" type="person">Harden</rs>s nicht!</p><p><rs ref="#pmb2150" type="person">Julius Bauer</rs> ist seit 3 Tagen hier; und spielt Piquet. Wir bleiben mindestens eine Woche noch hier, dann vielleicht <rs ref="#pmb462" type="place">Venedig</rs>. Bitte schreiben Sie mir <hi n="1" rend="underline">recht viel</hi>; wissen Sie: »Glühende Kohlen«.</p><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00019"/>ich selbst bin hier mehr als je der launeverderbende »Miesmacher<supplied>«,</supplied> würde Hermann <rs type="person" ref="#pmb4517" subtype="implied">Cagliostro</rs> (<rs ref="#pmb10815" type="person">Bahr</rs>) sagen.</p><closer>Ich grüße Sie von Herzen.<!-- Unterstreichung als Überstreichung der Signatur gedeutet und nicht
-                wiedergegeben, vlg. 1.10.1892 --><lb/><signed>Richard</signed></closer><postscript><dateline><date>10/III 92</date><space unit="chars" quantity="1"/><rs ref="#pmb38096" type="place">Abbazia</rs></dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb10863">
+                wiedergegeben, vlg. 1.10.1892 --><lb/><signed>Richard</signed></closer><postscript><dateline><date>10/III 92</date><space unit="chars" quantity="1"/><rs ref="#pmb38096" type="place">Abbazia</rs></dateline></postscript></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -64,7 +67,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2167">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2167">
                   <tei:persName>
                      <tei:surname>Salten</tei:surname>
                      <tei:forename>Felix</tei:forename>
@@ -79,7 +84,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2563">
+                  <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+               </person><person xml:id="pmb2563">
                   <tei:persName>
                      <tei:surname>Kafka</tei:surname>
                      <tei:forename>Eduard Michael</tei:forename>
@@ -93,7 +99,8 @@
                      <tei:placeName ref="#pmb833">Brünn</tei:placeName>
                   </tei:death>
                   <occupation code="173">Redakteur*in</occupation>
-               </tei:person><tei:person xml:id="pmb11581">
+                  <idno type="gnd">https://d-nb.info/gnd/141477482/</idno>
+               </person><person xml:id="pmb11581">
                   <tei:persName>
                      <tei:surname>Harden</tei:surname>
                      <tei:forename>Maximilian</tei:forename>
@@ -108,7 +115,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="237">Publizist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2566">
+                  <idno type="gnd">https://d-nb.info/gnd/118545892/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15919</idno>
+               </person><person xml:id="pmb2566">
                   <tei:persName>
                      <tei:surname>Wilhelm II. von Preußen</tei:surname>
                      <tei:forename/>
@@ -122,7 +131,8 @@
                      <tei:placeName ref="#pmb41600">Gemeente Utrechtse Heuvelrug</tei:placeName>
                   </tei:death>
                   <occupation code="167">Kaiser*in</occupation>
-               </tei:person><tei:person xml:id="pmb2150">
+                  <idno type="gnd">https://d-nb.info/gnd/118632892/</idno>
+               </person><person xml:id="pmb2150">
                   <tei:persName>
                      <tei:surname>Bauer</tei:surname>
                      <tei:forename>Julius</tei:forename>
@@ -138,7 +148,9 @@
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="99">Journalist*in</occupation>
                   <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb4517">
+                  <idno type="gnd">https://d-nb.info/gnd/116085274/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13471</idno>
+               </person><person xml:id="pmb4517">
                   <tei:persName>
                      <tei:surname>Cagliostro</tei:surname>
                      <tei:forename>Alessandro von</tei:forename>
@@ -153,7 +165,8 @@
                   </tei:death>
                   <occupation code="228">Abenteurer*in</occupation>
                   <occupation code="318">Hochstapler</occupation>
-               </tei:person><tei:person xml:id="pmb10815">
+                  <idno type="gnd">https://d-nb.info/gnd/118518305/</idno>
+               </person><person xml:id="pmb10815">
                   <tei:persName>
                      <tei:surname>Bahr</tei:surname>
                      <tei:forename>Hermann</tei:forename>
@@ -168,7 +181,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="100">Kritiker*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30177">
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30177">
                   <tei:author ref="pmb10863" role="author">
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -176,7 +191,7 @@
                   <tei:title>Camelias</tei:title>
                   <tei:date from="1893-01-01" from-custom="1893">1893</tei:date>
                   <tei:gloss type="w1340">Novelle</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb41603">
+               </bibl><bibl xml:id="pmb41603">
                   <tei:author ref="pmb10863" role="author">
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -185,17 +200,17 @@
                   <tei:date when="1892-04-30" when-custom="30.4.1892">30. 4. 1892</tei:date>
                   <tei:gloss type="w1154">Aufsatz</tei:gloss>
                   <tei:note>5805</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb39950">
+               </bibl><bibl xml:id="pmb39950">
                   <tei:title>Wiener Allgemeine Zeitung</tei:title>
                   <tei:date from="1880-03-01" from-custom="1.3.1880" to="1934-02-11" to-custom="11.2.1934">1. 3. 1880–11. 2. 1934</tei:date>
                   <tei:gloss type="w1220">Tageszeitung</tei:gloss>
                   <tei:note>5804</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb36344">
+               </bibl><bibl xml:id="pmb36344">
                   <tei:title>Frankfurter Zeitung</tei:title>
                   <tei:date from="1856-01-01" from-custom="1856" to="1943-01-01" to-custom="1943">1856–1943</tei:date>
                   <tei:gloss type="w1220">Tageszeitung</tei:gloss>
                   <tei:note>3466</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb41596">
+               </bibl><bibl xml:id="pmb41596">
                   <tei:author ref="pmb11581" role="author">
                      <tei:surname>Harden</tei:surname>
                      <tei:forename>Maximilian</tei:forename>
@@ -203,7 +218,7 @@
                   <tei:title>Gekrönte Worte</tei:title>
                   <tei:date when="1892-03-01" when-custom="1.3.1892">1. 3. 1892</tei:date>
                   <tei:gloss type="w1154">Aufsatz</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb38096">
+               </bibl></listBibl><listPlace><place xml:id="pmb38096">
                   <tei:placeName>Opatija</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1134">Besiedelter Ort</tei:gloss>
@@ -211,7 +226,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.33771 14.30515</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/3194099/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -219,7 +235,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb756">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb756">
                   <tei:placeName>Pension Quisisana</tei:placeName>
                   <tei:desc>
                      <tei:date from="1883-07-02" from-custom="1883-07-02">2. 7. 1883</tei:date>
@@ -228,7 +246,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.333852 14.301821</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb462">
+               </place><place xml:id="pmb462">
                   <tei:placeName>Venedig</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -236,7 +254,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.43713 12.33265</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29781">
+                  <idno type="geonames">https://www.geonames.org/3164603/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29781">
                   <tei:orgName>Freie Bühne (Verein für modernes Leben)</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i997">Literarische Vereinigung</tei:gloss>
@@ -247,4 +266,4 @@
                         <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

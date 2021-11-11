@@ -21,7 +21,7 @@
                   20. 3.? 1904]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-09">Durchsicht</change><change who="MAM" when="2020-05-19">Durchsicht</change><change who="MAM" when="2020-05-19">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00151"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00152"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00151"/><hi rend="latintype">Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></addrLine><addrLine><rs type="place" ref="#pmb50"><hi rend="latintype">Wien</hi></rs></addrLine><addrLine><rs ref="#pmb133" type="place"><hi rend="latintype">XVIII Spöttelgasse 7</hi></rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00152"/><date>14.</date></dateline></opener><p><salute>Lieber, </salute>wir möchten lieber <date><hi rend="underline" n="1">Freitag</hi></date><time>abend</time> ko<c rendition="#gemination-m"/>en, um <time>7<hi rend="superscript">h</hi></time>,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind aber in der Zeit nicht gedrängt weil wir danach in der Stadt übernachten. Wenn Sie nicht antworten, i<c rendition="#langesS">s</c>t Ihnen der Tag recht.</p><closer>Von Herzen<lb/><signed>Hugo</signed></closer><postscript><p><hi rend="latintype">P. S.</hi> Laden Sie vielleicht einmal <rs ref="#pmb12740" type="person">S-kopf</rs> dazu? Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehe ihn monatelang nicht.</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb11740">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-09">Durchsicht</change><change who="MAM" when="2020-05-19">Durchsicht</change><change who="MAM" when="2020-05-19">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00151"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00152"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00151"/><hi rend="latintype">Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></addrLine><addrLine><rs type="place" ref="#pmb50"><hi rend="latintype">Wien</hi></rs></addrLine><addrLine><rs ref="#pmb133" type="place"><hi rend="latintype">XVIII Spöttelgasse 7</hi></rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00152"/><date>14.</date></dateline></opener><p><salute>Lieber, </salute>wir möchten lieber <date><hi rend="underline" n="1">Freitag</hi></date><time>abend</time> ko<c rendition="#gemination-m"/>en, um <time>7<hi rend="superscript">h</hi></time>,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind aber in der Zeit nicht gedrängt weil wir danach in der Stadt übernachten. Wenn Sie nicht antworten, i<c rendition="#langesS">s</c>t Ihnen der Tag recht.</p><closer>Von Herzen<lb/><signed>Hugo</signed></closer><postscript><p><hi rend="latintype">P. S.</hi> Laden Sie vielleicht einmal <rs ref="#pmb12740" type="person">S-kopf</rs> dazu? Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehe ihn monatelang nicht.</p></postscript></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12740">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12740">
                   <tei:persName>
                      <tei:surname>Schwarzkopf</tei:surname>
                      <tei:forename>Gustav</tei:forename>
@@ -64,7 +67,9 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb173">
+                  <idno type="gnd">https://d-nb.info/gnd/1014997828/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19986</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb173">
                   <tei:placeName>Rodaun</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
@@ -72,7 +77,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb68">
+                  <idno type="geonames">https://www.geonames.org/2767332/</idno>
+               </place><place xml:id="pmb68">
                   <tei:placeName>XVIII., Währing</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -80,7 +86,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2762091/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -88,7 +95,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb133">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
                   <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -96,4 +105,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

@@ -19,7 +19,7 @@
                 Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb985">Fulpmes</placeName><date>4. 8. 05</date></stamp></desc></incident><incident type="receiver"><desc>mit Bleistift datiert: »<quote><date>4. 8. 905</date></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>203</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb985">Fulpmes</placeName><date when="1905-08-04" n="01">4. 8. 1905</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01536">Hofmannsthal an Schnitzler, [3. 8. 1905?]</ref><ref subtype="next_letter" type="withinCollection" target="L01538">Bahr an Schnitzler, 5. 8. 1905</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01533">Schnitzler an Beer-Hofmann, 30. 7. 1905</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01542">Beer-Hofmann an Schnitzler, Mitte August 1905</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-12-21">Angelegt aus Faksimile</change><change who="MAM" when="2021-01-13">Index check</change><change who="MAM" when="2021-01-29">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00091"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00092"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00091"/>Herrn</addrLine><addrLine>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb133" type="place">XVIII. Spöttelgasse 7</rs></addrLine></address></div><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00092"/><hi rend="pre-print">Totalansicht <rs ref="#pmb985" type="place">Fulpmes</rs>, <rs ref="#pmb751" type="place">Hotel Stubai</rs></hi></p><p>bleibe ich bis auf Weiteres. Herzlichst <signed>R.</signed></p></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-12-21">Angelegt aus Faksimile</change><change who="MAM" when="2021-01-13">Index check</change><change who="MAM" when="2021-01-29">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00091"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00092"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00091"/>Herrn</addrLine><addrLine>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb133" type="place">XVIII. Spöttelgasse 7</rs></addrLine></address></div><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00092"/><hi rend="pre-print">Totalansicht <rs ref="#pmb985" type="place">Fulpmes</rs>, <rs ref="#pmb751" type="place">Hotel Stubai</rs></hi></p><p>bleibe ich bis auf Weiteres. Herzlichst <signed>R.</signed></p></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -33,7 +33,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -48,7 +50,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb985">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb985">
                   <tei:placeName>Fulpmes</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -56,7 +59,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.15202 11.34922</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2779143/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q669803/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -64,7 +69,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb133">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
                   <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -72,7 +79,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb751">
+               </place><place xml:id="pmb751">
                   <tei:placeName>Grand Hotel Stubai</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
@@ -80,4 +87,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.15563 11.35177</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

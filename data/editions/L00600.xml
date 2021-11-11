@@ -20,7 +20,7 @@
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
         </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-01">Angelegt</change><change who="MAM" when="2018-08-14">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-04-15">Korrektur gelesen, facs aktualisiert,
-                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00011"/><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00012"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00011"/>Herrn Dr. Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb397" type="place">Frankgasse 1</rs></addrLine><addrLine><rs type="place" ref="#pmb59">Wien IX</rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00012"/><rs ref="#pmb36300" type="place">Kopenhagen</rs><space unit="chars" quantity="1"/><date>6 Oct</date></dateline></opener><p><salute>Lieber Herr Schnitzler! </salute>Könnten Sie mir nicht ein Bischen zu Hülfe kommen. Mir wird ein Numero der <rs ref="#pmb29209" type="org"><hi n="1" rend="underline">Zeit</hi></rs> geschickt, worin als von mir eingesandt ein <rs type="work" ref="#pmb32063" subtype="implied">Bruchstück</rs> meines alten <rs type="work" ref="#pmb32065" subtype="implied">Buches</rs> über <rs ref="#pmb313" type="place">Polen</rs> sich findet. Es ist vor <hi n="1" rend="underline">10</hi> Jahren herausgegeben, und die Zeitangaben passen darauf; nun steht es da als von <hi n="1" rend="underline">heute</hi> stammend. Wenn ich doch wenigstens eine Correctur dieser Sachen sähe! Es wimmelt von Missverständnissen. Die Fehler sind derart dass das <rs ref="#pmb43570" type="place">dänische</rs> Wort <hi n="1" rend="underline">Rædsel</hi> (horror, horreur, Schrecken) übersetzt ist <hi n="1" rend="underline">Räthsel</hi>.<space unit="chars" quantity="10"/> Ich erfahre, dass kürzlich in <rs ref="#pmb168" type="place">Berlin</rs> ein Buch mit meinem Namen versehen erschienen ist <rs ref="#pmb33255" type="work"><hi n="1" rend="underline">Aus dem Reiche des Absolutismus</hi></rs> (!) Welcher Titel. Es sind wohl meine »<rs ref="#pmb33255" type="work">Eindrücke aus Rusland</rs>«. Es ist mir nicht geschickt worden. <add place="above">Es ist der 9<hi rend="superscript">te</hi> nicht autorisirte Band von mir in Einem Jahre.</add></p><closer>Ihr ergebener <signed>Georg Brandes</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10992">
+                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00011"/><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00012"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00011"/>Herrn Dr. Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb397" type="place">Frankgasse 1</rs></addrLine><addrLine><rs type="place" ref="#pmb59">Wien IX</rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00012"/><rs ref="#pmb36300" type="place">Kopenhagen</rs><space unit="chars" quantity="1"/><date>6 Oct</date></dateline></opener><p><salute>Lieber Herr Schnitzler! </salute>Könnten Sie mir nicht ein Bischen zu Hülfe kommen. Mir wird ein Numero der <rs ref="#pmb29209" type="org"><hi n="1" rend="underline">Zeit</hi></rs> geschickt, worin als von mir eingesandt ein <rs type="work" ref="#pmb32063" subtype="implied">Bruchstück</rs> meines alten <rs type="work" ref="#pmb32065" subtype="implied">Buches</rs> über <rs ref="#pmb313" type="place">Polen</rs> sich findet. Es ist vor <hi n="1" rend="underline">10</hi> Jahren herausgegeben, und die Zeitangaben passen darauf; nun steht es da als von <hi n="1" rend="underline">heute</hi> stammend. Wenn ich doch wenigstens eine Correctur dieser Sachen sähe! Es wimmelt von Missverständnissen. Die Fehler sind derart dass das <rs ref="#pmb43570" type="place">dänische</rs> Wort <hi n="1" rend="underline">Rædsel</hi> (horror, horreur, Schrecken) übersetzt ist <hi n="1" rend="underline">Räthsel</hi>.<space unit="chars" quantity="10"/> Ich erfahre, dass kürzlich in <rs ref="#pmb168" type="place">Berlin</rs> ein Buch mit meinem Namen versehen erschienen ist <rs ref="#pmb33255" type="work"><hi n="1" rend="underline">Aus dem Reiche des Absolutismus</hi></rs> (!) Welcher Titel. Es sind wohl meine »<rs ref="#pmb33255" type="work">Eindrücke aus Rusland</rs>«. Es ist mir nicht geschickt worden. <add place="above">Es ist der 9<hi rend="superscript">te</hi> nicht autorisirte Band von mir in Einem Jahre.</add></p><closer>Ihr ergebener <signed>Georg Brandes</signed></closer></div></body><back><listPerson><person xml:id="pmb10992">
                   <tei:persName>
                      <tei:surname>Brandes</tei:surname>
                      <tei:forename>Georg</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
                   </tei:death>
                   <occupation code="278">Literarhistoriker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118514326/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13920</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb32063">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb32063">
                   <tei:author ref="pmb10992" role="author">
                      <tei:surname>Brandes</tei:surname>
                      <tei:forename>Georg</tei:forename>
@@ -63,7 +66,7 @@
                   <tei:date from="1896-10-03" from-custom="03.10.1896">3. 10. 1896</tei:date>
                   <tei:gloss type="w1154">Aufsatz</tei:gloss>
                   <tei:note>3104</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb32065">
+               </bibl><bibl xml:id="pmb32065">
                   <tei:author ref="pmb10992" role="author">
                      <tei:surname>Brandes</tei:surname>
                      <tei:forename>Georg</tei:forename>
@@ -76,7 +79,7 @@
                   <tei:title>Polen</tei:title>
                   <tei:date from="1888-01-01" from-custom="1888">1888</tei:date>
                   <tei:gloss type="w1333">Sachbuch</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb33255">
+               </bibl><bibl xml:id="pmb33255">
                   <tei:author ref="pmb10992" role="author">
                      <tei:surname>Brandes</tei:surname>
                      <tei:forename>Georg</tei:forename>
@@ -84,7 +87,7 @@
                   <tei:title>Eindrücke aus Russland</tei:title>
                   <tei:date from="1888-01-01" from-custom="1888">1888</tei:date>
                   <tei:gloss type="w1055">Text</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb36300">
+               </bibl></listBibl><listPlace><place xml:id="pmb36300">
                   <tei:placeName>Kopenhagen</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -92,7 +95,11 @@
                   <tei:location>
                      <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb53">
+                  <idno type="geonames">https://www.geonames.org/2618425/copenhagen.html/</idno>
+                  <idno type="geonames">https://www.geonames.org/2618425/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1748/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4032399-7/</idno>
+               </place><place xml:id="pmb53">
                   <tei:placeName>III., Landstraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -100,7 +107,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.19811 16.39482</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2773040/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -108,7 +116,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb397">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb397">
                   <tei:placeName>Frankgasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -116,7 +126,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb59">
+               </place><place xml:id="pmb59">
                   <tei:placeName>IX., Alsergrund</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -124,7 +134,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb313">
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb313">
                   <tei:placeName>Polen</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i38">Land</tei:gloss>
@@ -132,7 +143,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.0 20.0</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb43570">
+                  <idno type="geonames">https://www.geonames.org/798544/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q36/</idno>
+               </place><place xml:id="pmb43570">
                   <tei:placeName>Dänemark</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1411">Land</tei:gloss>
@@ -140,7 +153,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">56.0 10.0</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
+                  <idno type="geonames">https://www.geonames.org/2623032/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q35/</idno>
+               </place><place xml:id="pmb168">
                   <tei:placeName>Berlin</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -148,7 +163,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29209">
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29209">
                   <tei:orgName>Die Zeit. Wiener Wochenschrift</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
@@ -165,4 +182,4 @@
                         <tei:geo decls="LatLng">48.216599877109 16.358330000258</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

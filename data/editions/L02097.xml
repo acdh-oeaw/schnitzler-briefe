@@ -20,7 +20,7 @@
                 Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 3</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><subst><del rend="overwritten">A</del><add place="inline">L</add></subst>ou Salom<unclear>e</unclear> Andr.</quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift eine Unterstreichung</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10762">Andreas-Salomé, Lou</persName><placeName ref="#pmb50">Wien</placeName><date when="1912-11-14" n="01">[vor dem 15. 11. 1912?]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10762">Andreas-Salomé, Lou</ref><ref subtype="previous_letter" type="withinCollection" target="L02096">Hofmannsthal an Schnitzler, 13. 11. 1912</ref><ref subtype="next_letter" type="withinCollection" target="L02098">Hofmannsthal an Schnitzler, [15. 11. 1912]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01772">Andreas-Salomé an Schnitzler, Juni 1908</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-02">Angelegt</change><change who="MAM" when="2018-08-08">Durchsicht</change><change who="MAM" when="2018-10-01">Index check</change><change who="GHS" when="2019-07-05">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00003-000-00041"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00003-000-00041"/>Lieber Herr Doktor,</salute></opener><p>ich bin mit einem jungen <anchor xml:id="K_L02097_1" type="commentary"/><rs type="person" ref="#pmb5416" subtype="implied">Mädchen</rs><note xml:id="K_L02097_1h" type="commentary">Die Datierung basiert auf der Annahme, dass es sich bei ihr um <rs ref="#pmb5416" type="person">Ellen Delp</rs> handelt. <ref type="schnitzlerDiary" target="1912-11-15" subtype="Cf"/>.</note> hier in <rs ref="#pmb50" type="place">Wien</rs>, und würde mich freuen, wenn wir Ihnen einen Be<c rendition="#langesS">s</c>uch ab<c rendition="#langesS">s</c>tatten dürften, falls dies keine Störung für Sie bedeutet? <date>Dienstag</date> oder <date>Donnerstag</date> oder <date>Freitag</date> brauchten Sie nur die Stunde zu be<c rendition="#langesS">s</c>timmen, wir halten uns frei.</p><closer>Mit herzlichem Gruß Ihre<lb/><signed>Lou Andreas-Salomé</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10762">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-02">Angelegt</change><change who="MAM" when="2018-08-08">Durchsicht</change><change who="MAM" when="2018-10-01">Index check</change><change who="GHS" when="2019-07-05">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00003-000-00041"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00003-000-00041"/>Lieber Herr Doktor,</salute></opener><p>ich bin mit einem jungen <anchor xml:id="K_L02097_1" type="commentary"/><rs type="person" ref="#pmb5416" subtype="implied">Mädchen</rs><note xml:id="K_L02097_1h" type="commentary">Die Datierung basiert auf der Annahme, dass es sich bei ihr um <rs ref="#pmb5416" type="person">Ellen Delp</rs> handelt. <ref type="schnitzlerDiary" target="1912-11-15" subtype="Cf"/>.</note> hier in <rs ref="#pmb50" type="place">Wien</rs>, und würde mich freuen, wenn wir Ihnen einen Be<c rendition="#langesS">s</c>uch ab<c rendition="#langesS">s</c>tatten dürften, falls dies keine Störung für Sie bedeutet? <date>Dienstag</date> oder <date>Donnerstag</date> oder <date>Freitag</date> brauchten Sie nur die Stunde zu be<c rendition="#langesS">s</c>timmen, wir halten uns frei.</p><closer>Mit herzlichem Gruß Ihre<lb/><signed>Lou Andreas-Salomé</signed></closer></div></body><back><listPerson><person xml:id="pmb10762">
                   <tei:persName>
                      <tei:surname>Andreas-Salomé</tei:surname>
                      <tei:forename>Lou</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb42325">Göttingen</tei:placeName>
                   </tei:death>
                   <occupation code="91">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118502921/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13196</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb5416">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb5416">
                   <tei:persName>
                      <tei:surname>Delp</tei:surname>
                      <tei:forename>Ellen</tei:forename>
@@ -63,7 +66,8 @@
                      <tei:placeName ref="#pmb45033">Insel Reichenau</tei:placeName>
                   </tei:death>
                   <occupation code="91">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/118827537/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -71,4 +75,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

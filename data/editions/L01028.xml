@@ -21,7 +21,7 @@
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
         </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-01">Angelegt</change><change who="MAM" when="2018-08-14">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-05-27">Korrektur gelesen, facs aktualisiert,
-                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00031"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00031"/><rs ref="#pmb38096" type="place">ragusa</rs> fr <rs ref="#pmb43471" type="place">budapest</rs> 6 245 21 <time>5 10</time>+</p><p>wie lange blejben<space unit="chars" quantity="1"/>sie liebster in <anchor xml:id="K_L01028_1" type="commentary"/><rs ref="#pmb38096" type="place">abbazia</rs><note xml:id="K_L01028_1h" type="commentary"><rs ref="#pmb2121" type="person">Schnitzler</rs> war vom <date>4. 4. 1900</date> bis <date>7. 4. 1900</date> in <rs ref="#pmb38096" type="place">Opatija</rs>. Da der Brief vom <date>3. 4. 1900</date> bereits einem gemeinsamen Treffen auf der Reise eine definitive Absage erteilt, dürfte das Telegramm unmittelbar zuvor, vermutlich ebenfalls am <date>3. 4. 1900</date> gelaufen sein.</note>? fuerchte naehmlich hier zu lange auf gehalten zu werden 1 <signed>brandes</signed></p></div></body><back><listPerson><tei:person xml:id="pmb10992">
+                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00031"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00031"/><rs ref="#pmb38096" type="place">ragusa</rs> fr <rs ref="#pmb43471" type="place">budapest</rs> 6 245 21 <time>5 10</time>+</p><p>wie lange blejben<space unit="chars" quantity="1"/>sie liebster in <anchor xml:id="K_L01028_1" type="commentary"/><rs ref="#pmb38096" type="place">abbazia</rs><note xml:id="K_L01028_1h" type="commentary"><rs ref="#pmb2121" type="person">Schnitzler</rs> war vom <date>4. 4. 1900</date> bis <date>7. 4. 1900</date> in <rs ref="#pmb38096" type="place">Opatija</rs>. Da der Brief vom <date>3. 4. 1900</date> bereits einem gemeinsamen Treffen auf der Reise eine definitive Absage erteilt, dürfte das Telegramm unmittelbar zuvor, vermutlich ebenfalls am <date>3. 4. 1900</date> gelaufen sein.</note>? fuerchte naehmlich hier zu lange auf gehalten zu werden 1 <signed>brandes</signed></p></div></body><back><listPerson><person xml:id="pmb10992">
                   <tei:persName>
                      <tei:surname>Brandes</tei:surname>
                      <tei:forename>Georg</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
                   </tei:death>
                   <occupation code="278">Literarhistoriker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118514326/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13920</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb43471">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb43471">
                   <tei:placeName>Budapest</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1418">Hauptstadt</tei:gloss>
@@ -58,7 +61,11 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.49835 19.04045</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb38096">
+                  <idno type="geonames">https://www.geonames.org/3054638/</idno>
+                  <idno type="geonames">https://www.geonames.org/3054643/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1781/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4008684-7/</idno>
+               </place><place xml:id="pmb38096">
                   <tei:placeName>Opatija</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1134">Besiedelter Ort</tei:gloss>
@@ -66,4 +73,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.33771 14.30515</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/3194099/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

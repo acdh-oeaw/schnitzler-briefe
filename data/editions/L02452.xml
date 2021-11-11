@@ -20,7 +20,7 @@
                   25. 9. 1925]</ref><ref subtype="next_letter" type="withinCollection" target="L02453">Schnitzler an Hofmannsthal, 9. 10. 1925</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02439">Hofmannsthal an Schnitzler, 11. 3. 1925</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02453">Schnitzler an Hofmannsthal, 9. 10. 1925</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-05-11">Durchsicht</change><change who="MAM" when="2020-09-09">Index check</change><change who="MAM" when="2020-09-09">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00167"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00168"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00167"/>Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb150" type="place">XVIII Sternwartestrasse 71</rs>.</addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00167"/><rs ref="#pmb415" type="place">Bad Aussee</rs></dateline><dateline rend="right"><date>8 X. 25</date></dateline><salute>Lieber Arthur </salute></opener><p>eine <anchor xml:id="K_L02452_1" type="commentary"/>Karte aus <rs ref="#pmb44248" type="place">Forte dei marmi</rs><note xml:id="K_L02452_1h" type="commentary">nicht erhalten</note> war mir sehr lieb als Zeichen Ihres Wohlseins <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00168"/>u. Gedenkens. – Ich bin jetzt hier u. arbeite. (Seit <date>Anfang September</date>.)</p><p>Geben Sie mir bitte nur durch Ihre Unterschrift auf einer Karte ein Zeichen, dass Sie dort sind, wo diese Karte Sie aufsucht, so geht der »<rs ref="#pmb33722" type="work">Turm</rs>« ebendahin ab.</p><closer>Alles Liebe! <lb/><signed>Hugo.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11740">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-05-11">Durchsicht</change><change who="MAM" when="2020-09-09">Index check</change><change who="MAM" when="2020-09-09">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00167"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00168"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00167"/>Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb150" type="place">XVIII Sternwartestrasse 71</rs>.</addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00167"/><rs ref="#pmb415" type="place">Bad Aussee</rs></dateline><dateline rend="right"><date>8 X. 25</date></dateline><salute>Lieber Arthur </salute></opener><p>eine <anchor xml:id="K_L02452_1" type="commentary"/>Karte aus <rs ref="#pmb44248" type="place">Forte dei marmi</rs><note xml:id="K_L02452_1h" type="commentary">nicht erhalten</note> war mir sehr lieb als Zeichen Ihres Wohlseins <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00168"/>u. Gedenkens. – Ich bin jetzt hier u. arbeite. (Seit <date>Anfang September</date>.)</p><p>Geben Sie mir bitte nur durch Ihre Unterschrift auf einer Karte ein Zeichen, dass Sie dort sind, wo diese Karte Sie aufsucht, so geht der »<rs ref="#pmb33722" type="work">Turm</rs>« ebendahin ab.</p><closer>Alles Liebe! <lb/><signed>Hugo.</signed></closer></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb33722">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb33722">
                   <tei:author ref="pmb11740" role="author">
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -58,7 +61,7 @@
                   <tei:date from="1925-01-01" from-custom="1925">1925</tei:date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
                   <tei:note>5732</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb415">
+               </bibl></listBibl><listPlace><place xml:id="pmb415">
                   <tei:placeName>Bad Aussee</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -66,7 +69,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2782070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q251065/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -74,7 +79,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb150">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb150">
                   <tei:placeName>Sternwartestraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -82,7 +89,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb44248">
+               </place><place xml:id="pmb44248">
                   <tei:placeName>Forte dei Marmi</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1410">Besiedelter Ort</tei:gloss>
@@ -90,4 +97,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">43.96388 10.17478</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/3176674/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

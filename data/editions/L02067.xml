@@ -22,7 +22,7 @@
                   Bahr, 25. 5. 1912</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
                'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2015-11-04">Angelegt aus der Abbildung im
-            Schnitzler-Bildband</change><change who="MAM" when="2016-04-27">Kollationiert am Original</change><change who="KI MAM" when="2016-05-09">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2020-04-21">Index check</change><change who="GHS" when="2020-08-16">Durchsicht</change></revisionDesc></teiHeader><text type="card"><body><div type="writingSession" n="1"><p><pb facs=""/>Alles Schönste, alles Beste wünscht Dir von Herzen zum heutigen Tage</p><closer>Dein mitalternder<lb/><signed>Hermann</signed></closer><postscript><dateline><date when="1912-05-15">15. 5. 12</date></dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb10815">
+            Schnitzler-Bildband</change><change who="MAM" when="2016-04-27">Kollationiert am Original</change><change who="KI MAM" when="2016-05-09">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2020-04-21">Index check</change><change who="GHS" when="2020-08-16">Durchsicht</change></revisionDesc></teiHeader><text type="card"><body><div type="writingSession" n="1"><p><pb facs=""/>Alles Schönste, alles Beste wünscht Dir von Herzen zum heutigen Tage</p><closer>Dein mitalternder<lb/><signed>Hermann</signed></closer><postscript><dateline><date when="1912-05-15">15. 5. 12</date></dateline></postscript></div></body><back><listPerson><person xml:id="pmb10815">
                   <tei:persName>
                      <tei:surname>Bahr</tei:surname>
                      <tei:forename>Hermann</tei:forename>
@@ -37,7 +37,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -52,7 +54,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -60,4 +63,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

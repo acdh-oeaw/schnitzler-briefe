@@ -19,7 +19,7 @@
                                     »<quote>252</quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>254a</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">211</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb173">Rodaun</placeName><date when="1905-06-01" n="01">[1. 6. 1905]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L01521">Hofmannsthal an Schnitzler, 29. 5. 1905</ref><ref subtype="next_letter" type="withinCollection" target="L01523">Schnitzler an Bahr, 6. 6. 1905</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01521">Hofmannsthal an Schnitzler, 29. 5. 1905</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01530">Hofmannsthal, Hofmannsthal an Schnitzler, [16. 7. 1905?]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-10">Durchsicht</change><change who="MAM" when="2020-06-05">Durchsicht</change><change who="MAM" when="2020-06-05">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00207"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00207"/>Do<c rendition="#gemination-n"/>erstg</dateline></opener><p>Mü<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en ausgerechnet <date>Samstag</date><space unit="chars" quantity="1"/><anchor xml:id="K_L01522_1" type="commentary"/><rs ref="#pmb34239" type="work">Sommernachtstraum</rs><note xml:id="K_L01522_1h" type="commentary">Sie besuchten ein Gastspiel des <rs type="org" ref="#pmb45430">Kleinen</rs> und des <rs type="org" ref="#pmb45434">Neuen Theaters</rs> im <rs type="place" ref="#pmb37">Theater an der Wien</rs>.</note> gehen. Erklärung mündlich. Erbitten morgen <time>Freitag</time> Depe<c rendition="#langesS">s</c>che ob <hi rend="latintype">rendezvous</hi><space unit="chars" quantity="1"/><time>7<hi rend="superscript">h</hi></time> morgen <date>Freitag</date> möglich. Andernfalls <date>Montag</date>??</p><closer><signed>Hugo.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11740">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-10">Durchsicht</change><change who="MAM" when="2020-06-05">Durchsicht</change><change who="MAM" when="2020-06-05">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00207"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00207"/>Do<c rendition="#gemination-n"/>erstg</dateline></opener><p>Mü<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en ausgerechnet <date>Samstag</date><space unit="chars" quantity="1"/><anchor xml:id="K_L01522_1" type="commentary"/><rs ref="#pmb34239" type="work">Sommernachtstraum</rs><note xml:id="K_L01522_1h" type="commentary">Sie besuchten ein Gastspiel des <rs type="org" ref="#pmb45430">Kleinen</rs> und des <rs type="org" ref="#pmb45434">Neuen Theaters</rs> im <rs type="place" ref="#pmb37">Theater an der Wien</rs>.</note> gehen. Erklärung mündlich. Erbitten morgen <time>Freitag</time> Depe<c rendition="#langesS">s</c>che ob <hi rend="latintype">rendezvous</hi><space unit="chars" quantity="1"/><time>7<hi rend="superscript">h</hi></time> morgen <date>Freitag</date> möglich. Andernfalls <date>Montag</date>??</p><closer><signed>Hugo.</signed></closer></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -33,7 +33,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -48,7 +50,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb34239">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb34239">
                   <tei:author ref="pmb2412" role="author">
                      <tei:surname>Shakespeare</tei:surname>
                      <tei:forename>William</tei:forename>
@@ -56,7 +59,7 @@
                   <tei:title>Ein Sommernachtstraum</tei:title>
                   <tei:date when="1596-01-01" when-custom="1596">1596</tei:date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb173">
+               </bibl></listBibl><listPlace><place xml:id="pmb173">
                   <tei:placeName>Rodaun</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
@@ -64,7 +67,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2767332/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -72,7 +76,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb37">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb37">
                   <tei:placeName>Theater an der Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i4">Theater</tei:gloss>
@@ -80,7 +86,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.19941 16.3642</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb45430">
+               </place></listPlace><listOrg><org xml:id="pmb45430">
                   <tei:orgName>Kleines Theater</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i1012">Theater</tei:gloss>
@@ -97,7 +103,7 @@
                         <tei:geo decls="LatLng">52.517222 13.389167</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org><tei:org xml:id="pmb45434">
+               </org><org xml:id="pmb45434">
                   <tei:orgName>Neues Theater</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i1012">Theater</tei:gloss>
@@ -114,4 +120,4 @@
                         <tei:geo decls="LatLng">52.521667 13.386111</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

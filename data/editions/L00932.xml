@@ -22,7 +22,7 @@
                   an Beer-Hofmann, 26. 6. 1899</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00933">Schnitzler an
                   Beer-Hofmann, 6. 7. 1899</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-11-29">überprüft am Faksimile</change><change who="MAM" when="2020-01-14">Index check</change><change who="MAM" when="2020-09-30">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00292"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00293"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00293"/>Herrn</addrLine><addrLine>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb50" type="place">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">IX Frankgasse 1</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00292"/>Gruss aus <rs ref="#pmb34824" type="place">Seeboden</rs>.</hi></p></opener><p><salute>Lieber Arthur! </salute>Im Vorhinein mit Ihren Plänen einverstanden. Bitte verständigen Sie auch gelegentlich <rs ref="#pmb21236" type="person">Mayer</rs>, dem ich übrigens auch schreiben werde. Das bewußte, heißt »<anchor xml:id="K_L00932_1" type="commentary"/>Sanitas<note xml:id="K_L00932_1h" type="commentary">In der Werbung wurde Sanitas als »<quote>Das neue antiseptische desinficirende und hygienische Mittel</quote>«, »<quote>Unentbehrlich für jeden Haushalt</quote>« angepriesen.</note>« erhältlich in d. großen <rs type="org" ref="#pmb40786" subtype="implied">Papiergeschäft</rs> am <rs ref="#pmb529" type="place">Hohen Markt</rs>. Herzlichst <signed>R.</signed></p></div></body><back><listPerson><tei:person xml:id="pmb10863">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-11-29">überprüft am Faksimile</change><change who="MAM" when="2020-01-14">Index check</change><change who="MAM" when="2020-09-30">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00292"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00293"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00293"/>Herrn</addrLine><addrLine>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb50" type="place">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">IX Frankgasse 1</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00292"/>Gruss aus <rs ref="#pmb34824" type="place">Seeboden</rs>.</hi></p></opener><p><salute>Lieber Arthur! </salute>Im Vorhinein mit Ihren Plänen einverstanden. Bitte verständigen Sie auch gelegentlich <rs ref="#pmb21236" type="person">Mayer</rs>, dem ich übrigens auch schreiben werde. Das bewußte, heißt »<anchor xml:id="K_L00932_1" type="commentary"/>Sanitas<note xml:id="K_L00932_1h" type="commentary">In der Werbung wurde Sanitas als »<quote>Das neue antiseptische desinficirende und hygienische Mittel</quote>«, »<quote>Unentbehrlich für jeden Haushalt</quote>« angepriesen.</note>« erhältlich in d. großen <rs type="org" ref="#pmb40786" subtype="implied">Papiergeschäft</rs> am <rs ref="#pmb529" type="place">Hohen Markt</rs>. Herzlichst <signed>R.</signed></p></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -36,7 +36,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -51,7 +53,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb21236">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb21236">
                   <tei:persName>
                      <tei:surname>Mayer</tei:surname>
                      <tei:forename>Oskar</tei:forename>
@@ -65,7 +68,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="101">Beamter/in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb34824">
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18021</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb34824">
                   <tei:placeName>Seeboden</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1124">Besiedelter Ort</tei:gloss>
@@ -73,7 +77,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">46.83649 13.52346</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb59">
+                  <idno type="geonames">https://www.geonames.org/7872791/</idno>
+               </place><place xml:id="pmb59">
                   <tei:placeName>IX., Alsergrund</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -81,7 +86,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -89,7 +95,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb397">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb397">
                   <tei:placeName>Frankgasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -97,7 +105,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb529">
+               </place><place xml:id="pmb529">
                   <tei:placeName>Hoher Markt</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i21">Platz</tei:gloss>
@@ -105,7 +113,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.210938925284 16.372730621508</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb40786">
+               </place></listPlace><listOrg><org xml:id="pmb40786">
                   <tei:orgName>Joseph Lustig &amp; Co.</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i1366">Papierhandlung</tei:gloss>
@@ -122,4 +130,4 @@
                         <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

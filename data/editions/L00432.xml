@@ -21,7 +21,7 @@
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
         </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-11-22">Angelegt</change><change who="MAM" when="2018-11-24">Index check</change><change who="GHS" when="2019-04-06">Korrektur gelesen, facs aktualisiert,
-                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00055-000-00023"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-00055-000-00023"/><hi rend="pre-print">KARL KRAUS</hi></seg><seg rend="right"><hi rend="pre-print"><rs ref="#pmb50" type="place"><hi rend="capitals">Wien</hi></rs></hi>, <date>25. 4. <hi rend="pre-print">189</hi>5</date>.</seg></p><p rend="right"><hi rend="pre-print"><hi rend="small_caps"><rs ref="#pmb1178" type="place">I. Maximilianstrasse 13</rs></hi></hi>.</p><salute rend="inline">Lieber Doktor,</salute></opener><p>zu un<c rendition="#langesS">s</c>erer Wette:</p><p>Ich erkundigte mich im Regiezimmer des <rs ref="#pmb14" type="place">Burgtheater</rs>s und Herr <rs ref="#pmb5688" type="person"><hi rend="latintype">Lorai</hi></rs> hat mir folgende Auskunft ertheilt:</p><p>»Herr <rs ref="#pmb12714" type="person">Schreiner</rs> hat den <rs ref="#pmb31071" type="work" subtype="implied">Ler<c rendition="#langesS">s</c>e</rs> in ›<rs ref="#pmb31071" type="work">Götz v. Berlichingen</rs>‹ <hi rend="underline" n="2"><c rendition="#langesS">s</c>ehr häufig</hi> ge<c rendition="#langesS">s</c>pielt.«</p><p>– »Das<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind die kurzen Sätze. Ich kann nichts dafür. – – – – –«</p><closer>Be<c rendition="#langesS">s</c>tens grüßend<lb/>Ihr ganz ergebener<lb/><signed>KarlKraus</signed></closer><postscript><p><hi rend="latintype">NB</hi>. Herr <rs ref="#pmb5688" type="person"><hi rend="latintype">Lorai</hi></rs> wird Ihnen die mir gegebenen Auskünfte gerne wiederholen.</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb11988">
+                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00055-000-00023"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-00055-000-00023"/><hi rend="pre-print">KARL KRAUS</hi></seg><seg rend="right"><hi rend="pre-print"><rs ref="#pmb50" type="place"><hi rend="capitals">Wien</hi></rs></hi>, <date>25. 4. <hi rend="pre-print">189</hi>5</date>.</seg></p><p rend="right"><hi rend="pre-print"><hi rend="small_caps"><rs ref="#pmb1178" type="place">I. Maximilianstrasse 13</rs></hi></hi>.</p><salute rend="inline">Lieber Doktor,</salute></opener><p>zu un<c rendition="#langesS">s</c>erer Wette:</p><p>Ich erkundigte mich im Regiezimmer des <rs ref="#pmb14" type="place">Burgtheater</rs>s und Herr <rs ref="#pmb5688" type="person"><hi rend="latintype">Lorai</hi></rs> hat mir folgende Auskunft ertheilt:</p><p>»Herr <rs ref="#pmb12714" type="person">Schreiner</rs> hat den <rs ref="#pmb31071" type="work" subtype="implied">Ler<c rendition="#langesS">s</c>e</rs> in ›<rs ref="#pmb31071" type="work">Götz v. Berlichingen</rs>‹ <hi rend="underline" n="2"><c rendition="#langesS">s</c>ehr häufig</hi> ge<c rendition="#langesS">s</c>pielt.«</p><p>– »Das<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind die kurzen Sätze. Ich kann nichts dafür. – – – – –«</p><closer>Be<c rendition="#langesS">s</c>tens grüßend<lb/>Ihr ganz ergebener<lb/><signed>KarlKraus</signed></closer><postscript><p><hi rend="latintype">NB</hi>. Herr <rs ref="#pmb5688" type="person"><hi rend="latintype">Lorai</hi></rs> wird Ihnen die mir gegebenen Auskünfte gerne wiederholen.</p></postscript></div></body><back><listPerson><person xml:id="pmb11988">
                   <tei:persName>
                      <tei:surname>Kraus</tei:surname>
                      <tei:forename>Karl</tei:forename>
@@ -36,7 +36,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="237">Publizist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118566288/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -51,21 +53,23 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb5688">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb5688">
                   <tei:persName>
                      <tei:surname>Lorey</tei:surname>
                      <tei:forename>Christian</tei:forename>
                   </tei:persName>
                   <tei:birth>
                      <tei:date when="1840-08-10">10. 8. 1840</tei:date>
-                     <tei:placeName ref="#pmb5689">Bad Salzungen</tei:placeName>
+                     <tei:placeName ref="#pmb58688">Bad Salzungen</tei:placeName>
                   </tei:birth>
                   <tei:death>
                      <tei:date when="1906-08-01">1. 8. 1906</tei:date>
                      <tei:placeName ref="#pmb5691">Emmersdorf</tei:placeName>
                   </tei:death>
                   <occupation code="374">Theateransager</occupation>
-               </tei:person><tei:person xml:id="pmb12714">
+                  <idno type="gnd">https://d-nb.info/gnd/117216844/</idno>
+               </person><person xml:id="pmb12714">
                   <tei:persName>
                      <tei:surname>Schreiner</tei:surname>
                      <tei:forename>Jakob</tei:forename>
@@ -79,7 +83,9 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="105">Schauspieler*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb31071">
+                  <idno type="gnd">https://d-nb.info/gnd/117045993/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19884</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb31071">
                   <tei:author ref="pmb11461" role="author">
                      <tei:surname>Goethe</tei:surname>
                      <tei:forename>Johann Wolfgang von</tei:forename>
@@ -87,7 +93,7 @@
                   <tei:title>Götz von Berlichingen</tei:title>
                   <tei:date from="1773-01-01" from-custom="1773">1773</tei:date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -95,7 +101,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1178">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb1178">
                   <tei:placeName>Mahlerstraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -103,7 +111,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.20282 16.371172</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb14">
+               </place><place xml:id="pmb14">
                   <tei:placeName>Burgtheater</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i4">Theater</tei:gloss>
@@ -111,4 +119,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.210333 16.361139</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

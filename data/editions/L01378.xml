@@ -21,7 +21,7 @@
                   an Dehmel, 22. 3. 1903</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01647">Dehmel an
                   Schnitzler, [1907]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-12-04">Angelegt</change><change who="MAM" when="2018-12-05">Index check</change><change who="MAM" when="2020-03-13">Durchsicht</change><change who="GHS" when="2020-05-06">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00026-000-00003"/></facsimile><text type="card"><body><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-00026-000-00003"/><hi rend="pre-print"><anchor xml:id="T_L01378_1" type="textConst"/>R⋅Dehmel<note xml:id="T_L01378_1h" type="textConst">Die Verwendung der »Behrensschrift« von <rs type="person" ref="#pmb10869">Peter Behrens</rs> stellt sicher, dass die Visitenkarte frühstens <date>1901</date> produziert wurde. Danach gibt es drei mögliche Begegnungen, im Vorfeld dessen diese Karte abgegeben worden sein kann: <ref target="1904-03-07" type="schnitzlerDiary" subtype="date-only"/>, <ref target="1908-11-15" type="schnitzlerDiary" subtype="date-only"/> und <ref target="1911-11-05" type="schnitzlerDiary" subtype="date-only"/>. Gegen <date>1908</date> scheint die briefliche Kommunikation zu sprechen, die das Treffen vorbereitet. <date>1911</date> ist ein geladenes Diner bei Dritten. Deshalb ist der Vortag zum stattgefundenen Treffen <date>1904</date> ein wahrscheinlicher Termin für die Abgabe dieser Karte. Es kann aber nicht ausgeschlossen werden, dass sie zu einem nicht durch schriftliche Dokumente feststellbaren Zeitpunkt übermittelt wurde.</note></hi></p><p rend="center">mit ergebenstem Gruß</p></div></body><back><listPerson><tei:person xml:id="pmb11148">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-12-04">Angelegt</change><change who="MAM" when="2018-12-05">Index check</change><change who="MAM" when="2020-03-13">Durchsicht</change><change who="GHS" when="2020-05-06">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00026-000-00003"/></facsimile><text type="card"><body><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-00026-000-00003"/><hi rend="pre-print"><anchor xml:id="T_L01378_1" type="textConst"/>R⋅Dehmel<note xml:id="T_L01378_1h" type="textConst">Die Verwendung der »Behrensschrift« von <rs type="person" ref="#pmb10869">Peter Behrens</rs> stellt sicher, dass die Visitenkarte frühstens <date>1901</date> produziert wurde. Danach gibt es drei mögliche Begegnungen, im Vorfeld dessen diese Karte abgegeben worden sein kann: <ref target="1904-03-07" type="schnitzlerDiary" subtype="date-only"/>, <ref target="1908-11-15" type="schnitzlerDiary" subtype="date-only"/> und <ref target="1911-11-05" type="schnitzlerDiary" subtype="date-only"/>. Gegen <date>1908</date> scheint die briefliche Kommunikation zu sprechen, die das Treffen vorbereitet. <date>1911</date> ist ein geladenes Diner bei Dritten. Deshalb ist der Vortag zum stattgefundenen Treffen <date>1904</date> ein wahrscheinlicher Termin für die Abgabe dieser Karte. Es kann aber nicht ausgeschlossen werden, dass sie zu einem nicht durch schriftliche Dokumente feststellbaren Zeitpunkt übermittelt wurde.</note></hi></p><p rend="center">mit ergebenstem Gruß</p></div></body><back><listPerson><person xml:id="pmb11148">
                   <tei:persName>
                      <tei:surname>Dehmel</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb1226">Blankenese</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118679236/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14383</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10869">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10869">
                   <tei:persName>
                      <tei:surname>Behrens</tei:surname>
                      <tei:forename>Peter</tei:forename>
@@ -64,4 +67,6 @@
                      <tei:placeName ref="#pmb168">Berlin</tei:placeName>
                   </tei:death>
                   <occupation code="185">Architekt</occupation>
-               </tei:person></listPerson><listBibl/><listPlace/><listOrg/></back></text></TEI>
+                  <idno type="gnd">https://d-nb.info/gnd/118508466/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13562</idno>
+               </person></listPerson><listBibl/><listPlace/><listOrg/></back></text></TEI>

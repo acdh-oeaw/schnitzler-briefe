@@ -20,7 +20,7 @@
                                 Dokumentation</title><editor>Hg. Reinhard Urbach</editor></analytic><monogr><title level="j">Literatur und Kritik</title><imprint><date when="1970-10">Oktober 1970</date></imprint><biblScope unit="vol">49</biblScope><biblScope unit="pp">521</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11988">Kraus, Karl</persName><placeName ref="#pmb936">Schliersee</placeName><date when="1894-07-02" n="03">2. 7. 1894</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11988">Kraus, Karl</ref><ref subtype="previous_letter" type="withinCollection" target="L00344">Burckhard an Schnitzler, 2. 7. 1894</ref><ref subtype="next_letter" type="withinCollection" target="L00346">Altenberg an Schnitzler, [5.? 7. 1894]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00308">Kraus an Schnitzler, 22. 3. 1894</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00348">Kraus an Schnitzler, 9. 7. 1894</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-11-29">Angelegt aus Urbach</change><change who="MAM" when="2018-11-29">Index check</change><change who="MAM" when="2020-03-13">Finalisiert mit DLA-Abschrift</change><change who="GHS" when="2020-06-23">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.3790_0005"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><dateline><pb facs="HS.NZ85.1.3790_0005"/><rs type="place" ref="#pmb936">Schliersee</rs>, <date>2. 7. 1894</date>.</dateline></opener><p>Herzliche Grüsse aus <rs ref="#pmb936" type="place">Schliersee</rs> von Ihrem <signed>K. K.</signed></p></div></body><back><listPerson><tei:person xml:id="pmb11988">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-11-29">Angelegt aus Urbach</change><change who="MAM" when="2018-11-29">Index check</change><change who="MAM" when="2020-03-13">Finalisiert mit DLA-Abschrift</change><change who="GHS" when="2020-06-23">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.3790_0005"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><dateline><pb facs="HS.NZ85.1.3790_0005"/><rs type="place" ref="#pmb936">Schliersee</rs>, <date>2. 7. 1894</date>.</dateline></opener><p>Herzliche Grüsse aus <rs ref="#pmb936" type="place">Schliersee</rs> von Ihrem <signed>K. K.</signed></p></div></body><back><listPerson><person xml:id="pmb11988">
                   <tei:persName>
                      <tei:surname>Kraus</tei:surname>
                      <tei:forename>Karl</tei:forename>
@@ -35,7 +35,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="237">Publizist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118566288/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb936">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb936">
                   <tei:placeName>Schliersee</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -58,7 +61,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.73621 11.85936</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2838502/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q260306/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -66,4 +71,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

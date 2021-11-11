@@ -23,7 +23,7 @@
                   Schnitzler, 29. 5. 1923</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02396">Hofmannsthal an Schnitzler, 16. 1. 1923</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02403">Schnitzler an
                   Hofmannsthal, 3. 9. 1923</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-05-11">Durchsicht</change><change who="MAM" when="2020-09-08">Durchsicht</change><change who="MAM" when="2020-09-08">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00151"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00152"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00151"/>Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb150" type="place">XVIII Sternwartestrasse 71</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00152"/><hi rend="pre-print">Nr. 6508 <rs ref="#pmb36477" type="place">Biel – Bienne</rs></hi></p><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00151"/><rs ref="#pmb36477" type="place">Biel</rs> den <date>15<hi rend="superscript">ten</hi> Mai</date></dateline><salute>mein lieber Arthur </salute></opener><p>hier sind wir nämlich vor 25 Jahren (am <anchor xml:id="K_L02399_1" type="commentary"/><date>20<hi rend="superscript">ten</hi></date> oder <date>21<hi rend="superscript">ten</hi> August 1898</date><note xml:id="K_L02399_1h" type="commentary">Es dürfte sich um den <date>13. 8. 1898</date> gehandelt haben, <ref target="1898-08-13" subtype="cf" type="schnitzlerDiary"/></note>) miteinander gesessen!</p><p>Das ist seltsam und geisterhaft.</p><p>Ich schicke Ihnen viele freundschaftliche Gedanken! </p><closer>Ihr<lb/><signed>Hugo</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb22728">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-05-11">Durchsicht</change><change who="MAM" when="2020-09-08">Durchsicht</change><change who="MAM" when="2020-09-08">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00151"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00152"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00151"/>Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb150" type="place">XVIII Sternwartestrasse 71</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00152"/><hi rend="pre-print">Nr. 6508 <rs ref="#pmb36477" type="place">Biel – Bienne</rs></hi></p><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00151"/><rs ref="#pmb36477" type="place">Biel</rs> den <date>15<hi rend="superscript">ten</hi> Mai</date></dateline><salute>mein lieber Arthur </salute></opener><p>hier sind wir nämlich vor 25 Jahren (am <anchor xml:id="K_L02399_1" type="commentary"/><date>20<hi rend="superscript">ten</hi></date> oder <date>21<hi rend="superscript">ten</hi> August 1898</date><note xml:id="K_L02399_1h" type="commentary">Es dürfte sich um den <date>13. 8. 1898</date> gehandelt haben, <ref target="1898-08-13" subtype="cf" type="schnitzlerDiary"/></note>) miteinander gesessen!</p><p>Das ist seltsam und geisterhaft.</p><p>Ich schicke Ihnen viele freundschaftliche Gedanken! </p><closer>Ihr<lb/><signed>Hugo</signed></closer></div></body><back><listPerson><person xml:id="pmb22728">
                   <tei:persName>
                      <tei:surname>Pollak</tei:surname>
                      <tei:forename>Frieda</tei:forename>
@@ -37,7 +37,8 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="367">Sekretärin</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18881</idno>
+               </person><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -51,7 +52,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -66,7 +69,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb45272">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb45272">
                   <tei:placeName>Magglingen</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
@@ -74,7 +78,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.139 7.21407</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2659791/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -82,7 +87,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb150">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb150">
                   <tei:placeName>Sternwartestraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -90,7 +97,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb36477">
+               </place><place xml:id="pmb36477">
                   <tei:placeName>Biel</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1134">Besiedelter Ort</tei:gloss>
@@ -98,4 +105,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.13713 7.24608</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2661513/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

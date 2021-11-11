@@ -21,7 +21,7 @@
                                        Spoettelgasse</hi></rs></p></quote>«</desc></incident><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Beerh.</hi></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>222</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><date when="1909-08-21" n="01">21. 8. 1909</date><placeName ref="#pmb462">Venedig</placeName></correspAction><correspAction type="redirected"><placeName ref="#pmb470">Edlach</placeName><date when="1909-08-25">25. 8. 1909</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01865">Beer-Hofmann an Schnitzler, 16. 8. 1909</ref><ref subtype="next_letter" type="withinCollection" target="L01867">Ehrenstein an Schnitzler, 24. 8. 1909</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01865">Beer-Hofmann an Schnitzler, 16. 8. 1909</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01870">Schnitzler an Beer-Hofmann, 28. 8. 1909</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-12">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-02">Index check</change><change who="MAM" when="2021-02-02">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00139"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00140"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00139"/>Herrn</addrLine><addrLine>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb470">Edlach</rs></addrLine><addrLine> bei <rs ref="#pmb483" type="place">Reichenau</rs></addrLine><addrLine><rs ref="#pmb41240" type="place">Austria</rs></addrLine></address></div><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00140"/><hi rend="pre-print"><rs ref="#pmb462" type="place">Venezia</rs> – Panorama dal Campanile di <rs ref="#pmb51734" type="place">S. Giorgio Maggiore</rs></hi></p><p><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00139"/>Herzliche Grüsse</p><closer><signed>Richard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2021-01-12">Angelegt aus Faksimile</change><change who="MAM" when="2021-02-02">Index check</change><change who="MAM" when="2021-02-02">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00139"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00140"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00139"/>Herrn</addrLine><addrLine>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb470">Edlach</rs></addrLine><addrLine> bei <rs ref="#pmb483" type="place">Reichenau</rs></addrLine><addrLine><rs ref="#pmb41240" type="place">Austria</rs></addrLine></address></div><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00140"/><hi rend="pre-print"><rs ref="#pmb462" type="place">Venezia</rs> – Panorama dal Campanile di <rs ref="#pmb51734" type="place">S. Giorgio Maggiore</rs></hi></p><p><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00139"/>Herzliche Grüsse</p><closer><signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb462">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb462">
                   <tei:placeName>Venedig</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -58,7 +61,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.43713 12.33265</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb470">
+                  <idno type="geonames">https://www.geonames.org/3164603/</idno>
+               </place><place xml:id="pmb470">
                   <tei:placeName>Edlach</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -66,7 +70,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.69255 15.80915</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2780428/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -74,7 +79,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb133">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
                   <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -82,7 +89,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb483">
+               </place><place xml:id="pmb483">
                   <tei:placeName>Reichenau an der Rax</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -90,7 +97,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.7 15.83333</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb41240">
+                  <idno type="geonames">https://www.geonames.org/2767775/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q665243/</idno>
+               </place><place xml:id="pmb41240">
                   <tei:placeName>Österreich</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1107">Land</tei:gloss>
@@ -98,7 +107,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb51734">
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb51734">
                   <tei:placeName>San Giorgio Maggiore</tei:placeName>
                   <tei:desc>
                      <tei:date from="1565-07-02" from-custom="1565-07-02">2. 7. 1565</tei:date>
@@ -107,4 +117,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.42942 12.34383</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

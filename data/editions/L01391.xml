@@ -27,7 +27,7 @@
                   an Schnitzler, 30. 11. 1898</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01839">Altenberg an
                   Schnitzler, [17. 4. 1909]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-12-28">Angelegt aus Abschrift</change><change who="MAM" when="2019-01-03">Index check</change><change who="GHS" when="2020-08-30">Durchsicht</change><change who="GHS" when="2020-08-31">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.3896_0002"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="HS.NZ85.1.3896_0002"/><rs ref="#pmb29596" type="org">Wiener Ansorge-Verein</rs>,<lb/><anchor xml:id="T_L01391_1" type="textConst"/><date>14. 4. 1904</date><note xml:id="T_L01391_1h" type="textConst">Die Veranstaltung – ein »<quote><rs ref="#pmb12071" type="person">Liliencron</rs>-Abend</quote>« mit Lesung des Dichters und <rs ref="#pmb2446" type="person">Devrient</rs>s fand am <date>10. 4. 1904</date> statt; in der Abschrift dürfte beim Datum ein Fehler unterlaufen sein.</note>.</dateline></opener><p>Wir bedauern, dass Sie nicht in unserer Mitte weilen:</p><closer>Ihr <signed>Liliencron.</signed><lb/><signed>Paul <anchor xml:id="T_L01391_2" type="textConst"/>Stefan<note xml:id="T_L01391_2h" type="textConst">korrigiert aus: »<quote>Atefan</quote>«</note></signed><lb/><signed>C. Horwitz</signed><lb/><signed>Erich Kahler</signed><lb/><signed>Peter Altenberg</signed><lb/><signed>Kraus, Karl</signed><lb/><signed>Wymetal</signed><lb/><signed>L. Loos</signed><lb/><signed>Webern</signed><lb/><signed>Max Devrient.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb12071">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-12-28">Angelegt aus Abschrift</change><change who="MAM" when="2019-01-03">Index check</change><change who="GHS" when="2020-08-30">Durchsicht</change><change who="GHS" when="2020-08-31">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.3896_0002"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="HS.NZ85.1.3896_0002"/><rs ref="#pmb29596" type="org">Wiener Ansorge-Verein</rs>,<lb/><anchor xml:id="T_L01391_1" type="textConst"/><date>14. 4. 1904</date><note xml:id="T_L01391_1h" type="textConst">Die Veranstaltung – ein »<quote><rs ref="#pmb12071" type="person">Liliencron</rs>-Abend</quote>« mit Lesung des Dichters und <rs ref="#pmb2446" type="person">Devrient</rs>s fand am <date>10. 4. 1904</date> statt; in der Abschrift dürfte beim Datum ein Fehler unterlaufen sein.</note>.</dateline></opener><p>Wir bedauern, dass Sie nicht in unserer Mitte weilen:</p><closer>Ihr <signed>Liliencron.</signed><lb/><signed>Paul <anchor xml:id="T_L01391_2" type="textConst"/>Stefan<note xml:id="T_L01391_2h" type="textConst">korrigiert aus: »<quote>Atefan</quote>«</note></signed><lb/><signed>C. Horwitz</signed><lb/><signed>Erich Kahler</signed><lb/><signed>Peter Altenberg</signed><lb/><signed>Kraus, Karl</signed><lb/><signed>Wymetal</signed><lb/><signed>L. Loos</signed><lb/><signed>Webern</signed><lb/><signed>Max Devrient.</signed></closer></div></body><back><listPerson><person xml:id="pmb12071">
                   <tei:persName>
                      <tei:surname>Liliencron</tei:surname>
                      <tei:forename>Detlev von</tei:forename>
@@ -40,7 +40,9 @@
                      <tei:date when="1909-07-22">22. 7. 1909</tei:date>
                      <tei:placeName ref="#pmb12073">Alt-Rahlstedt</tei:placeName>
                   </tei:death>
-               </tei:person><tei:person xml:id="pmb12826">
+                  <idno type="gnd">https://d-nb.info/gnd/118572954/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17547</idno>
+               </person><person xml:id="pmb12826">
                   <tei:persName>
                      <tei:surname>Stefan</tei:surname>
                      <tei:forename>Paul</tei:forename>
@@ -54,7 +56,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="397">Musikschriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb29184">
+                  <idno type="gnd">https://d-nb.info/gnd/117225789/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20339</idno>
+               </person><person xml:id="pmb29184">
                   <tei:persName>
                      <tei:surname>Horwitz</tei:surname>
                      <tei:forename>Charlotte</tei:forename>
@@ -62,10 +66,10 @@
                   <tei:birth>
                      <tei:date when="1860-11-01">November 1860</tei:date>
                   </tei:birth>
-               </tei:person><tei:person xml:id="pmb5830">
+               </person><person xml:id="pmb5830">
                   <tei:persName>
                      <tei:surname>Kahler</tei:surname>
-                     <tei:forename>Erich </tei:forename>
+                     <tei:forename>Erich</tei:forename>
                   </tei:persName>
                   <tei:birth>
                      <tei:date when="1885-10-14">14. 10. 1885</tei:date>
@@ -76,7 +80,8 @@
                      <tei:placeName ref="#pmb5832">Princeton</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2147">
+                  <idno type="gnd">https://d-nb.info/gnd/118891634/</idno>
+               </person><person xml:id="pmb2147">
                   <tei:persName>
                      <tei:surname>Altenberg</tei:surname>
                      <tei:forename>Peter</tei:forename>
@@ -90,7 +95,9 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb11988">
+                  <idno type="gnd">https://d-nb.info/gnd/118502255/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13162</idno>
+               </person><person xml:id="pmb11988">
                   <tei:persName>
                      <tei:surname>Kraus</tei:surname>
                      <tei:forename>Karl</tei:forename>
@@ -105,7 +112,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="237">Publizist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2725">
+                  <idno type="gnd">https://d-nb.info/gnd/118566288/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+               </person><person xml:id="pmb2725">
                   <tei:persName>
                      <tei:surname>Wymetal</tei:surname>
                      <tei:forename>Wilhelm von</tei:forename>
@@ -121,7 +130,9 @@
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="104">Regisseur*in</occupation>
                   <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb3004">
+                  <idno type="gnd">https://d-nb.info/gnd/128023325/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21486</idno>
+               </person><person xml:id="pmb3004">
                   <tei:persName>
                      <tei:surname>Loos</tei:surname>
                      <tei:forename>Lina</tei:forename>
@@ -135,7 +146,8 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb13064">
+                  <idno type="gnd">https://d-nb.info/gnd/119201046/</idno>
+               </person><person xml:id="pmb13064">
                   <tei:persName>
                      <tei:surname>Webern</tei:surname>
                      <tei:forename>Anton von</tei:forename>
@@ -149,7 +161,9 @@
                      <tei:placeName ref="#pmb13066">Mittersill</tei:placeName>
                   </tei:death>
                   <occupation code="129">Komponist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2446">
+                  <idno type="gnd">https://d-nb.info/gnd/118629786/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21124</idno>
+               </person><person xml:id="pmb2446">
                   <tei:persName>
                      <tei:surname>Devrient</tei:surname>
                      <tei:forename>Max</tei:forename>
@@ -164,7 +178,9 @@
                   </tei:death>
                   <occupation code="104">Regisseur*in</occupation>
                   <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/116089067/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14434</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -179,7 +195,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -187,7 +204,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29596">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg><org xml:id="pmb29596">
                   <tei:orgName>Ansorge-Verein</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i1038">Verein für Kunstpflege</tei:gloss>
@@ -198,4 +217,4 @@
                         <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

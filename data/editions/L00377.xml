@@ -20,7 +20,7 @@
                            von zweiter, unbekannter Hand die Nummerierung wiederholt</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb445">Rom</placeName><date when="1894-10-05" n="02">5. 10. 1894</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1894-10-08">8. 10. 1894</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00376">Schnitzler an Beer-Hofmann, 5. 10. 1894</ref><ref subtype="next_letter" type="withinCollection" target="L00378">Beer-Hofmann an Schnitzler, 7. 10. 1894</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00376">Schnitzler an Beer-Hofmann, 5. 10. 1894</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00378">Beer-Hofmann an Schnitzler, 7. 10. 1894</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-10-10">angelegt aus Faksimile</change><change who="MAM" when="2019-10-12">Durchsicht</change><change who="MAM" when="2019-10-12">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00097"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00098"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00098"/>Herrn</addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb41240" type="place">Austria</rs></addrLine><addrLine><rs ref="#pmb50" type="place">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">Frankga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e 1</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00097"/>Ricordo di <rs ref="#pmb263" type="place">Firenze</rs> – <rs ref="#pmb41957" type="place">Chiesa Santa Croce</rs></hi></p></opener><p><salute>Lieber! </salute>Gemäldegallerie 3 ist noch <hi rend="underline" n="1"><rs ref="#pmb263" type="place">Florenz</rs></hi>, ich aber bin in <rs ref="#pmb445" type="place">Rom</rs>. Bitte schreiben Sie. Herzlichst Ihr</p><closer><signed>Richard</signed></closer><p><rs ref="#pmb445" type="place">Rom</rs><space unit="chars" quantity="1"/><date>Freitag 5/X 94</date><space unit="chars" quantity="1"/><time>abends</time></p></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-10-10">angelegt aus Faksimile</change><change who="MAM" when="2019-10-12">Durchsicht</change><change who="MAM" when="2019-10-12">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00097"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00098"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00098"/>Herrn</addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb41240" type="place">Austria</rs></addrLine><addrLine><rs ref="#pmb50" type="place">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">Frankga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e 1</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00097"/>Ricordo di <rs ref="#pmb263" type="place">Firenze</rs> – <rs ref="#pmb41957" type="place">Chiesa Santa Croce</rs></hi></p></opener><p><salute>Lieber! </salute>Gemäldegallerie 3 ist noch <hi rend="underline" n="1"><rs ref="#pmb263" type="place">Florenz</rs></hi>, ich aber bin in <rs ref="#pmb445" type="place">Rom</rs>. Bitte schreiben Sie. Herzlichst Ihr</p><closer><signed>Richard</signed></closer><p><rs ref="#pmb445" type="place">Rom</rs><space unit="chars" quantity="1"/><date>Freitag 5/X 94</date><space unit="chars" quantity="1"/><time>abends</time></p></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb445">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb445">
                   <tei:placeName>Rom</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -57,7 +60,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">41.89193 12.51133</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb59">
+                  <idno type="geonames">https://www.geonames.org/3169070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q220/</idno>
+               </place><place xml:id="pmb59">
                   <tei:placeName>IX., Alsergrund</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -65,7 +70,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -73,7 +79,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb41240">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb41240">
                   <tei:placeName>Österreich</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1107">Land</tei:gloss>
@@ -81,7 +89,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb397">
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb397">
                   <tei:placeName>Frankgasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -89,7 +98,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb263">
+               </place><place xml:id="pmb263">
                   <tei:placeName>Florenz</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -97,7 +106,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">43.77925 11.24626</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb41957">
+                  <idno type="geonames">https://www.geonames.org/3176959/</idno>
+               </place><place xml:id="pmb41957">
                   <tei:placeName>Santa Croce</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
@@ -105,4 +115,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">43.768611 11.262222</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

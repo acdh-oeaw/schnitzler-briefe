@@ -21,7 +21,7 @@
                   an Adam, 11. 2. 1911</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02073">Schnitzler an
                   Adam, 4. 6. 1912</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-05-21">Angelegt</change><change who="MAM" when="2019-05-21">Index check</change><change who="GHS" when="2020-06-12">Durchsicht</change><change who="GHS" when="2020-08-24">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="96.34.2_0069"/><graphic url="96.34.2_0070"/><graphic url="96.34.2_0071"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="96.34.2_0070"/>Herrn Dr. Robert Adam</addrLine><addrLine><rs ref="#pmb62" type="place">Wien XII.</rs></addrLine><addrLine><rs ref="#pmb1239" type="place">Meidlinger Hauptstrasse 56</rs>.</addrLine></address></div><div type="writingSession" n="1"><p rend="center"><pb facs="96.34.2_0069"/><hi rend="pre-print"><hi rend="capitals">Arthur und Olga Schnitzler</hi></hi></p><p rend="center"><hi rend="capitals"><hi rend="pre-print">danken herzlichst für die ihnen erwiesene <anchor xml:id="K_L02030_1" type="commentary"/>Theilnahme<note xml:id="K_L02030_1h" type="commentary">zum Tod von <rs ref="#pmb2121" type="person">Schnitzler</rs>s Mutter <rs ref="#pmb12701" type="person">Luise</rs> am <ref target="1911-09-09" subtype="date-only" type="schnitzlerDiary"/></note>.</hi></hi></p></div></body><back><listPerson><tei:person xml:id="pmb2121">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-05-21">Angelegt</change><change who="MAM" when="2019-05-21">Index check</change><change who="GHS" when="2020-06-12">Durchsicht</change><change who="GHS" when="2020-08-24">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="96.34.2_0069"/><graphic url="96.34.2_0070"/><graphic url="96.34.2_0071"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="96.34.2_0070"/>Herrn Dr. Robert Adam</addrLine><addrLine><rs ref="#pmb62" type="place">Wien XII.</rs></addrLine><addrLine><rs ref="#pmb1239" type="place">Meidlinger Hauptstrasse 56</rs>.</addrLine></address></div><div type="writingSession" n="1"><p rend="center"><pb facs="96.34.2_0069"/><hi rend="pre-print"><hi rend="capitals">Arthur und Olga Schnitzler</hi></hi></p><p rend="center"><hi rend="capitals"><hi rend="pre-print">danken herzlichst für die ihnen erwiesene <anchor xml:id="K_L02030_1" type="commentary"/>Theilnahme<note xml:id="K_L02030_1h" type="commentary">zum Tod von <rs ref="#pmb2121" type="person">Schnitzler</rs>s Mutter <rs ref="#pmb12701" type="person">Luise</rs> am <ref target="1911-09-09" subtype="date-only" type="schnitzlerDiary"/></note>.</hi></hi></p></div></body><back><listPerson><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -36,7 +36,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb2173">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2173">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Olga</tei:forename>
@@ -51,7 +52,8 @@
                   </tei:death>
                   <occupation code="107">Sänger*in</occupation>
                   <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb12438">
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb12438">
                   <tei:persName>
                      <tei:surname>Adam</tei:surname>
                      <tei:forename>Robert</tei:forename>
@@ -66,7 +68,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="160">Richter*in</occupation>
-               </tei:person><tei:person xml:id="pmb12701">
+                  <idno type="gnd">https://d-nb.info/gnd/1020823992/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18893</idno>
+               </person><person xml:id="pmb12701">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Louise</tei:forename>
@@ -79,7 +83,9 @@
                      <tei:date when="1911-09-09">9. 9. 1911</tei:date>
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb51">
+                  <idno type="gnd">https://d-nb.info/gnd/1141930552/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19831</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb51">
                   <tei:placeName>I., Innere Stadt</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -87,7 +93,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2775259/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -95,7 +102,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb62">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb62">
                   <tei:placeName>XII., Meidling</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -103,7 +112,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.17192 16.32586</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1239">
+                  <idno type="geonames">https://www.geonames.org/2771704/</idno>
+               </place><place xml:id="pmb1239">
                   <tei:placeName>Meidlinger Hauptstraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -111,4 +121,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.178825 16.329918</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

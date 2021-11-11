@@ -23,7 +23,7 @@
                   an Bahr, 13. 1. 1908</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01766">Bahr an
                   Schnitzler, 17. 4. 1908</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-09">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-03-10">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23380Ba"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="https://www.theatermuseum.at/de/object/b218b5c11f/"/><hi rend="pre-print">Dr. Arthur Schnitzler</hi></seg><seg rend="right"><date>24. 1. 908</date>.</seg></p><p><hi rend="pre-print"><rs ref="#pmb133" type="place">Wien XVIII. Spoettelgasse 7</rs>.</hi></p><salute>lieber Hermann, </salute></opener><p>ich danke dir herzlich<c rendition="#langesS">s</c>t für deinen freundlichen <anchor xml:id="K_L01756_1" type="commentary"/>Glückwun<c rendition="#langesS">s</c>ch<note xml:id="K_L01756_1h" type="commentary">nicht überliefert; zur Zuerkennung des <rs ref="#pmb29677" type="org">Grillparzer-Preis</rs>es für <rs ref="#pmb29909" type="work">Das Zwischenspiel</rs>. Die Jurysitzung fand am <date when="1908-01-15">15. 1. 1908</date> statt, am Folgetag berichteten die Zeitungen darüber.</note>! Wie lang bi<c rendition="#langesS">s</c>t du noch in <rs ref="#pmb50" type="place">Wien</rs>?</p><closer>Dein<lb/><signed>Arthur</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2121">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-09">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-03-10">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23380Ba"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="https://www.theatermuseum.at/de/object/b218b5c11f/"/><hi rend="pre-print">Dr. Arthur Schnitzler</hi></seg><seg rend="right"><date>24. 1. 908</date>.</seg></p><p><hi rend="pre-print"><rs ref="#pmb133" type="place">Wien XVIII. Spoettelgasse 7</rs>.</hi></p><salute>lieber Hermann, </salute></opener><p>ich danke dir herzlich<c rendition="#langesS">s</c>t für deinen freundlichen <anchor xml:id="K_L01756_1" type="commentary"/>Glückwun<c rendition="#langesS">s</c>ch<note xml:id="K_L01756_1h" type="commentary">nicht überliefert; zur Zuerkennung des <rs ref="#pmb29677" type="org">Grillparzer-Preis</rs>es für <rs ref="#pmb29909" type="work">Das Zwischenspiel</rs>. Die Jurysitzung fand am <date when="1908-01-15">15. 1. 1908</date> statt, am Folgetag berichteten die Zeitungen darüber.</note>! Wie lang bi<c rendition="#langesS">s</c>t du noch in <rs ref="#pmb50" type="place">Wien</rs>?</p><closer>Dein<lb/><signed>Arthur</signed></closer></div></body><back><listPerson><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -38,7 +38,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10815">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
                   <tei:persName>
                      <tei:surname>Bahr</tei:surname>
                      <tei:forename>Hermann</tei:forename>
@@ -53,7 +54,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="100">Kritiker*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb29909">
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb29909">
                   <tei:author ref="pmb10815" role="author">
                      <tei:surname>Bahr</tei:surname>
                      <tei:forename>Hermann</tei:forename>
@@ -61,7 +64,7 @@
                   <tei:title>Unter sich. Ein Arme-Leut’-Stück</tei:title>
                   <tei:date from="1903-01-01" from-custom="1903">1903</tei:date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -69,7 +72,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb133">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
                   <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -77,7 +82,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29677">
+               </place></listPlace><listOrg><org xml:id="pmb29677">
                   <tei:orgName>Franz-Grillparzer-Preis</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i993">Literaturpreis</tei:gloss>
@@ -88,4 +93,4 @@
                         <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

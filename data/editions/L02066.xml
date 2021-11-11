@@ -18,7 +18,7 @@
                      beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="visitenkarte">Visitenkarte mit Trauerrand</desc></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit blauem Buntstift datiert: »<quote><date>15/5 12</date><space unit="chars" quantity="1"/><rs type="place" ref="#pmb462"><hi rend="latintype">Venedig</hi></rs></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb462">Venedig</placeName><date when="1912-05-15" n="01">15. 5. 1912</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb462">Venedig</placeName><date when="1912-05-15">15. 5. 1912</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L02065">Mell an Schnitzler, 14. 5. 1912</ref><ref subtype="next_letter" type="withinCollection" target="L02067">Bahr an Schnitzler, 15. 5. 1912</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02063">Schnitzler an Beer-Hofmann, 13. 5. 1912</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02069">Beer-Hofmann an Schnitzler, 23. 5. 1912</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2021-02-05">Angelegt</change><change who="MAM" when="2021-02-12">Index check</change><change who="MAM" when="2021-05-03">Durchsicht</change><change who="GHS" when="2021-05-04">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="1912_AS_RBH_1_00010"/><graphic url="1912_AS_RBH_1_00011"/></facsimile><text type="card"><body><div type="writingSession" n="1"><p><pb facs="1912_AS_RBH_1_00011"/>Bin<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon da. Wir wohnen <hi rend="underline" n="1"><rs type="place" ref="#pmb34050"><hi rend="latintype">Hotel Europe</hi></rs></hi>. Vorläufig <hi rend="latintype">provisor.</hi> Zimmer. Bitte holen Sie uns etwa um <time>10</time> ab oder<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chauen Sie vorbei oder telepho<pb facs="1912_AS_RBH_1_00010"/>niren Sie.</p><closer>Herzlich<c rendition="#langesS">s</c>t<lb/>Ihr</closer><p rend="center"><hi rend="pre-print">D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></p></div></body><back><listPerson><tei:person xml:id="pmb2121">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2021-02-05">Angelegt</change><change who="MAM" when="2021-02-12">Index check</change><change who="MAM" when="2021-05-03">Durchsicht</change><change who="GHS" when="2021-05-04">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="1912_AS_RBH_1_00010"/><graphic url="1912_AS_RBH_1_00011"/></facsimile><text type="card"><body><div type="writingSession" n="1"><p><pb facs="1912_AS_RBH_1_00011"/>Bin<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon da. Wir wohnen <hi rend="underline" n="1"><rs type="place" ref="#pmb34050"><hi rend="latintype">Hotel Europe</hi></rs></hi>. Vorläufig <hi rend="latintype">provisor.</hi> Zimmer. Bitte holen Sie uns etwa um <time>10</time> ab oder<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chauen Sie vorbei oder telepho<pb facs="1912_AS_RBH_1_00010"/>niren Sie.</p><closer>Herzlich<c rendition="#langesS">s</c>t<lb/>Ihr</closer><p rend="center"><hi rend="pre-print">D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></p></div></body><back><listPerson><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -33,7 +33,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -47,7 +48,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb462">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb462">
                   <tei:placeName>Venedig</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -55,7 +58,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.43713 12.33265</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb34050">
+                  <idno type="geonames">https://www.geonames.org/3164603/</idno>
+               </place><place xml:id="pmb34050">
                   <tei:placeName>Hotel de l'Europe</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
@@ -63,4 +67,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.432304 12.336899</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

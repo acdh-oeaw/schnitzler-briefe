@@ -23,7 +23,7 @@
                   an Hofmannsthal, 7. 10. 1902</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01243">Schnitzler an
                   Hofmannsthal, 21. 10. 1902</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-01">Durchsicht</change><change who="MAM" when="2020-05-06">Index check</change><change who="MAM" when="2020-05-06">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00061"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00062"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00061"/><hi rend="latintype">Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb41240" type="place">Austria</rs></hi></addrLine><addrLine><rs type="place" ref="#pmb50"><hi rend="latintype">Wien</hi></rs></addrLine><addrLine><rs ref="#pmb397" type="place"><hi rend="latintype">IX Franckgasse 1</hi></rs>.</addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00061"/><rs ref="#pmb445" type="place">Roma</rs><space unit="chars" quantity="1"/><rs type="place" ref="#pmb44225">Monte Pincio</rs> – passeggiata</hi></p><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00062"/><date>7/X.</date><lb/><rs ref="#pmb623" type="place"><hi rend="latintype">Hôtel Hassler</hi></rs>.</dateline></opener><p>Es fällt mir der<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chöne <anchor xml:id="K_L01239_1" type="commentary"/>Tag<note xml:id="K_L01239_1h" type="commentary"><ref target="1902-07-03" type="schnitzlerDiary" subtype="see"/></note> ein, wo wir durchs <rs type="place" ref="#pmb607">Stubaithal</rs> gegangen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o viel geredet haben. Wie gehts Ihnen?</p><closer>Ihr<lb/><signed>Hugo</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11740">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-01">Durchsicht</change><change who="MAM" when="2020-05-06">Index check</change><change who="MAM" when="2020-05-06">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00061"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00062"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00061"/><hi rend="latintype">Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb41240" type="place">Austria</rs></hi></addrLine><addrLine><rs type="place" ref="#pmb50"><hi rend="latintype">Wien</hi></rs></addrLine><addrLine><rs ref="#pmb397" type="place"><hi rend="latintype">IX Franckgasse 1</hi></rs>.</addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00061"/><rs ref="#pmb445" type="place">Roma</rs><space unit="chars" quantity="1"/><rs type="place" ref="#pmb44225">Monte Pincio</rs> – passeggiata</hi></p><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00062"/><date>7/X.</date><lb/><rs ref="#pmb623" type="place"><hi rend="latintype">Hôtel Hassler</hi></rs>.</dateline></opener><p>Es fällt mir der<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chöne <anchor xml:id="K_L01239_1" type="commentary"/>Tag<note xml:id="K_L01239_1h" type="commentary"><ref target="1902-07-03" type="schnitzlerDiary" subtype="see"/></note> ein, wo wir durchs <rs type="place" ref="#pmb607">Stubaithal</rs> gegangen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o viel geredet haben. Wie gehts Ihnen?</p><closer>Ihr<lb/><signed>Hugo</signed></closer></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -37,7 +37,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -52,7 +54,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb445">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb445">
                   <tei:placeName>Rom</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -60,7 +63,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">41.89193 12.51133</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb59">
+                  <idno type="geonames">https://www.geonames.org/3169070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q220/</idno>
+               </place><place xml:id="pmb59">
                   <tei:placeName>IX., Alsergrund</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -68,7 +73,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2782729/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -76,7 +82,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb41240">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb41240">
                   <tei:placeName>Österreich</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1107">Land</tei:gloss>
@@ -84,7 +92,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb397">
+                  <idno type="geonames">https://www.geonames.org/2782113/</idno>
+               </place><place xml:id="pmb397">
                   <tei:placeName>Frankgasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -92,7 +101,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb44225">
+               </place><place xml:id="pmb44225">
                   <tei:placeName>Monte Pincio</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i28">Berg</tei:gloss>
@@ -100,7 +109,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">41.911763 12.479653</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb623">
+               </place><place xml:id="pmb623">
                   <tei:placeName>Hôtel Hassler</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
@@ -108,7 +117,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">41.90627 12.4829</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb607">
+               </place><place xml:id="pmb607">
                   <tei:placeName>Stubaital</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i47">Region</tei:gloss>
@@ -116,4 +125,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.1 11.31667</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2764094/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q689532/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

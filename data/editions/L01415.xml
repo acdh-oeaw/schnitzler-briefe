@@ -20,7 +20,7 @@
                 Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc><handNote medium="bleistift" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb49759">Parsch</placeName></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb45105">Gaisbergspitze – F. Pflauder</placeName></stamp></desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>184</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb415">Bad Aussee</placeName><date when="1904-07-04" n="01">4. 7. 1904</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01414">Hofmannsthal an Schnitzler, 1. 7. 1904</ref><ref subtype="next_letter" type="withinCollection" target="L01416">Hofmannsthal an Schnitzler, 10. 7. 1904</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01413">Beer-Hofmann an Schnitzler, 1. 7. 1904</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01417">Beer-Hofmann, Kaufmann an Schnitzler, [23.? 7. 1904]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-05-21">Angelegt mit Mikrofilm</change><change who="MAM" when="2020-10-20">Index check</change><change who="MAM" when="2020-10-20">Durchsicht mit Farbfaksimile</change><change who="GHS" when="2020-12-15">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00051"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00052"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00051"/>Herrn</addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs type="place" ref="#pmb133">XVIII Spöttelgasse 7</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00052"/><hi rend="pre-print">Aussicht von der <rs type="place" ref="#pmb45105">Gaisbergspitze</rs>, 1286 m gegen <rs type="place" ref="#pmb30">Salzburg</rs></hi></p><dateline rend="right"><date>4/VII 04</date></dateline></opener><p>Herzliche Grüße</p><closer><signed>Richard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-05-21">Angelegt mit Mikrofilm</change><change who="MAM" when="2020-10-20">Index check</change><change who="MAM" when="2020-10-20">Durchsicht mit Farbfaksimile</change><change who="GHS" when="2020-12-15">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00051"/><graphic url="MS-SCHNITZLER-B-0008-B-00002-000-00052"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00051"/>Herrn</addrLine><addrLine>Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs type="place" ref="#pmb133">XVIII Spöttelgasse 7</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00002-000-00052"/><hi rend="pre-print">Aussicht von der <rs type="place" ref="#pmb45105">Gaisbergspitze</rs>, 1286 m gegen <rs type="place" ref="#pmb30">Salzburg</rs></hi></p><dateline rend="right"><date>4/VII 04</date></dateline></opener><p>Herzliche Grüße</p><closer><signed>Richard</signed></closer></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -34,7 +34,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -49,7 +51,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb49759">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb49759">
                   <tei:placeName>Parsch</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1519">Ortsteil</tei:gloss>
@@ -57,7 +60,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.8 13.06667</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb45105">
+                  <idno type="geonames">https://www.geonames.org/2769237/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q253035/</idno>
+               </place><place xml:id="pmb45105">
                   <tei:placeName>Gaisbergspitze</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i28">Berg</tei:gloss>
@@ -65,7 +70,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.805528 13.111944</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb415">
+               </place><place xml:id="pmb415">
                   <tei:placeName>Bad Aussee</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -73,7 +78,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2782070/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q251065/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -81,7 +88,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb133">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
                   <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -89,7 +98,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb30">
+               </place><place xml:id="pmb30">
                   <tei:placeName>Salzburg</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -97,4 +106,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.80067 13.04532</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2766818/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

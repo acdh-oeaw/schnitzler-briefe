@@ -22,13 +22,13 @@
                   Beer-Hofmann, 31. 7. 1894</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
                'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-10-05">kontrolliert am Faksimile (und Mikrofilm – ähnlich
-            ungünstig gefaltet)</change><change who="MAM" when="2019-10-08">Finalisiert</change><change who="MAM" when="2019-10-08">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00067"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><opener><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00067"/><rs ref="#pmb50" type="place">wien</rs> fr <anchor xml:id="T_L00360_1" type="textConst"/><rs ref="#pmb213" type="place">ischl</rs><note xml:id="T_L00360_1h" type="textConst">Das »<quote>i</quote>« von unbekannter Hand mit Bleistift ergänzt.</note> 5806 28 <time>12 20 n</time></p></opener><p>wir sind am <date>zwejten august</date><space unit="chars" quantity="1"/><time>vormittag</time> in <rs ref="#pmb230" type="place">salzburg oesterreichischer hof</rs> bitte es dem <anchor xml:id="K_L00360_1" type="commentary"/>suendentraum<note xml:id="K_L00360_1h" type="commentary">unklare Anspielung; eventuell auf <rs ref="#pmb2456" type="person">Richard Specht</rs>, dessen dramatische Dichtung <rs ref="#pmb41820" type="work">Sündentraum</rs><space unit="chars" quantity="1"/><date>1892</date> erschienen war, oder auf <rs type="person" ref="#pmb12618">Adele Sandrock</rs>?</note> der in <rs ref="#pmb50" type="place">wien</rs> ist nicht zu sagen herzlichst <signed>= richard +</signed></p></div></body><back><listPerson><tei:person xml:id="pmb41816">
+            ungünstig gefaltet)</change><change who="MAM" when="2019-10-08">Finalisiert</change><change who="MAM" when="2019-10-08">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00067"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><opener><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00067"/><rs ref="#pmb50" type="place">wien</rs> fr <anchor xml:id="T_L00360_1" type="textConst"/><rs ref="#pmb213" type="place">ischl</rs><note xml:id="T_L00360_1h" type="textConst">Das »<quote>i</quote>« von unbekannter Hand mit Bleistift ergänzt.</note> 5806 28 <time>12 20 n</time></p></opener><p>wir sind am <date>zwejten august</date><space unit="chars" quantity="1"/><time>vormittag</time> in <rs ref="#pmb230" type="place">salzburg oesterreichischer hof</rs> bitte es dem <anchor xml:id="K_L00360_1" type="commentary"/>suendentraum<note xml:id="K_L00360_1h" type="commentary">unklare Anspielung; eventuell auf <rs ref="#pmb2456" type="person">Richard Specht</rs>, dessen dramatische Dichtung <rs ref="#pmb41820" type="work">Sündentraum</rs><space unit="chars" quantity="1"/><date>1892</date> erschienen war, oder auf <rs type="person" ref="#pmb12618">Adele Sandrock</rs>?</note> der in <rs ref="#pmb50" type="place">wien</rs> ist nicht zu sagen herzlichst <signed>= richard +</signed></p></div></body><back><listPerson><person xml:id="pmb41816">
                   <tei:persName>
                      <tei:surname>Winter</tei:surname>
                      <tei:forename>Edmund</tei:forename>
                   </tei:persName>
                   <occupation code="577">Postbeamter/in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
+               </person><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -42,7 +42,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -57,7 +59,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb2456">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2456">
                   <tei:persName>
                      <tei:surname>Specht</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -74,7 +77,9 @@
                   <occupation code="99">Journalist*in</occupation>
                   <occupation code="100">Kritiker*in</occupation>
                   <occupation code="158">Musikwissenschaftler*in</occupation>
-               </tei:person><tei:person xml:id="pmb12618">
+                  <idno type="gnd">https://d-nb.info/gnd/117481947/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20238</idno>
+               </person><person xml:id="pmb12618">
                   <tei:persName>
                      <tei:surname>Sandrock</tei:surname>
                      <tei:forename>Adele</tei:forename>
@@ -88,7 +93,9 @@
                      <tei:placeName ref="#pmb168">Berlin</tei:placeName>
                   </tei:death>
                   <occupation code="108">Schauspieler*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb41820">
+                  <idno type="gnd">https://d-nb.info/gnd/118605429/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19564</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb41820">
                   <tei:author ref="pmb2456" role="author">
                      <tei:surname>Specht</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -96,7 +103,7 @@
                   <tei:title>Sündentraum</tei:title>
                   <tei:date when="1892-07-01" when-custom="1892">1892</tei:date>
                   <tei:gloss type="w1057">Einakter</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb213">
+               </bibl></listBibl><listPlace><place xml:id="pmb213">
                   <tei:placeName>Bad Ischl</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -104,7 +111,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2782052/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -112,7 +120,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb230">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb230">
                   <tei:placeName>Österreichischer Hof</tei:placeName>
                   <tei:desc>
                      <tei:date from="1866-07-02" from-custom="1866-07-02">2. 7. 1866</tei:date>
@@ -121,4 +131,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.802045 13.043401</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

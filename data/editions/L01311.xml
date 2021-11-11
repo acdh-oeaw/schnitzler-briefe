@@ -22,7 +22,7 @@
                </date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01310">Schnitzler an Beer-Hofmann, 19. 8. 1903</ref><ref subtype="next_letter" type="withinCollection" target="L01312">Schnitzler an Beer-Hofmann, 23. 8. 1903</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01304">Schnitzler an Bahr, 19. 7. 1903</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01325">Bahr an Schnitzler, 8. 10. 1903</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-12">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-01-15">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM60164Ba"/><graphic url="HS_AM60164Ba_R"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="https://www.theatermuseum.at/de/object/c3fe364058/"/>Herrn Hermann Bahr</addrLine><addrLine><rs ref="#pmb165" type="place">Wien-Ob St Veit</rs></addrLine><addrLine><rs ref="#pmb220" type="place">Veitli<c rendition="#langesS">s</c><c rendition="#langesS">s</c>enga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="https://www.theatermuseum.at/de/object/c3fe364058/"/><rs ref="#pmb461" type="place">Grand Hôtel, Lavarone</rs>, 1200 Meter über dem Meer</hi></p><dateline><pb facs="https://www.theatermuseum.at/de/object/c3fe364058/"/><date>20. 8. 903</date>.</dateline></opener><p>Herzlichen Gru<c rendition="#langesS">s</c>s <signed>Arthur</signed></p></div></body><back><listPerson><tei:person xml:id="pmb2121">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-12">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-01-15">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM60164Ba"/><graphic url="HS_AM60164Ba_R"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="https://www.theatermuseum.at/de/object/c3fe364058/"/>Herrn Hermann Bahr</addrLine><addrLine><rs ref="#pmb165" type="place">Wien-Ob St Veit</rs></addrLine><addrLine><rs ref="#pmb220" type="place">Veitli<c rendition="#langesS">s</c><c rendition="#langesS">s</c>enga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="https://www.theatermuseum.at/de/object/c3fe364058/"/><rs ref="#pmb461" type="place">Grand Hôtel, Lavarone</rs>, 1200 Meter über dem Meer</hi></p><dateline><pb facs="https://www.theatermuseum.at/de/object/c3fe364058/"/><date>20. 8. 903</date>.</dateline></opener><p>Herzlichen Gru<c rendition="#langesS">s</c>s <signed>Arthur</signed></p></div></body><back><listPerson><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -37,7 +37,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10815">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10815">
                   <tei:persName>
                      <tei:surname>Bahr</tei:surname>
                      <tei:forename>Hermann</tei:forename>
@@ -52,7 +53,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="100">Kritiker*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb461">
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb461">
                   <tei:placeName>Lavarone</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -60,7 +63,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">45.93632 11.27206</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/3175012/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q247734/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -68,7 +73,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb165">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb165">
                   <tei:placeName>Ober Sankt Veit</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i40">eingemeindeter Ort</tei:gloss>
@@ -76,7 +83,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.188056 16.266389</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb220">
+               </place><place xml:id="pmb220">
                   <tei:placeName>Veitlissengasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -84,4 +91,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.186622327678 16.259712159437</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

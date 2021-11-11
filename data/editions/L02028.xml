@@ -22,7 +22,7 @@
                   an Schnitzler, 23. 8. 1911</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02044">Burckhard an
                   Schnitzler, 8. 11. 1911</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-11-05">Angelegt</change><change who="MAM" when="2018-11-21">Durchsicht</change><change who="MAM" when="2018-11-21">Index check</change><change who="GHS" when="2020-03-25">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00020-000-00073"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-00020-000-00073"/><hi rend="pre-print">D<hi rend="superscript">r.</hi> Max Burckhard</hi></seg><seg rend="right"><hi rend="pre-print"><del rend="strikethrough"><rs type="place" ref="#pmb436">Wien, IX. Porzellangasse 48</rs></del><space unit="chars" quantity="1"/><c rendition="#dots" n="10"/></hi></seg></p><p rend="right"><hi rend="pre-print"><rs ref="#pmb33" type="place">St. Gilgen</rs></hi><space unit="chars" quantity="1"/><date>12. 9. 1911</date></p><salute>Lieb<c rendition="#langesS">s</c>ter verehrter Herr Doctor!</salute></opener><p>Erlauben Sie, da<c rendition="#langesS">s</c>s ich Ihnen und der verehrten Frau <rs type="person" ref="#pmb2173" subtype="implied">Gemahlin</rs> mein aufrichtig<c rendition="#langesS">s</c>tes <anchor xml:id="K_L02028_1" type="commentary"/><rs type="person" ref="#pmb12701" subtype="implied">Beileid</rs><note xml:id="K_L02028_1h" type="commentary">zum Tod von <rs ref="#pmb2121" type="person">Schnitzler</rs>s Mutter <rs ref="#pmb12701" type="person">Louise</rs> am <ref target="1911-09-09" subtype="date-only" type="schnitzlerDiary"/></note> zu dem bitteren Verlu<c rendition="#langesS">s</c>te, den Sie erlitten, aus<c rendition="#langesS">s</c>preche.</p><closer>In Treue Ihr<lb/><signed>D<hi rend="superscript">r</hi> Burckhard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11036">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-11-05">Angelegt</change><change who="MAM" when="2018-11-21">Durchsicht</change><change who="MAM" when="2018-11-21">Index check</change><change who="GHS" when="2020-03-25">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00020-000-00073"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-00020-000-00073"/><hi rend="pre-print">D<hi rend="superscript">r.</hi> Max Burckhard</hi></seg><seg rend="right"><hi rend="pre-print"><del rend="strikethrough"><rs type="place" ref="#pmb436">Wien, IX. Porzellangasse 48</rs></del><space unit="chars" quantity="1"/><c rendition="#dots" n="10"/></hi></seg></p><p rend="right"><hi rend="pre-print"><rs ref="#pmb33" type="place">St. Gilgen</rs></hi><space unit="chars" quantity="1"/><date>12. 9. 1911</date></p><salute>Lieb<c rendition="#langesS">s</c>ter verehrter Herr Doctor!</salute></opener><p>Erlauben Sie, da<c rendition="#langesS">s</c>s ich Ihnen und der verehrten Frau <rs type="person" ref="#pmb2173" subtype="implied">Gemahlin</rs> mein aufrichtig<c rendition="#langesS">s</c>tes <anchor xml:id="K_L02028_1" type="commentary"/><rs type="person" ref="#pmb12701" subtype="implied">Beileid</rs><note xml:id="K_L02028_1h" type="commentary">zum Tod von <rs ref="#pmb2121" type="person">Schnitzler</rs>s Mutter <rs ref="#pmb12701" type="person">Louise</rs> am <ref target="1911-09-09" subtype="date-only" type="schnitzlerDiary"/></note> zu dem bitteren Verlu<c rendition="#langesS">s</c>te, den Sie erlitten, aus<c rendition="#langesS">s</c>preche.</p><closer>In Treue Ihr<lb/><signed>D<hi rend="superscript">r</hi> Burckhard</signed></closer></div></body><back><listPerson><person xml:id="pmb11036">
                   <tei:persName>
                      <tei:surname>Burckhard</tei:surname>
                      <tei:forename>Max Eugen</tei:forename>
@@ -38,7 +38,9 @@
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="102">Rechtswissenschaftler*in</occupation>
                   <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/117161144/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14065</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -53,7 +55,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb2173">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb2173">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Olga</tei:forename>
@@ -68,7 +71,8 @@
                   </tei:death>
                   <occupation code="107">Sänger*in</occupation>
                   <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb12701">
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person><person xml:id="pmb12701">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Louise</tei:forename>
@@ -81,7 +85,9 @@
                      <tei:date when="1911-09-09">9. 9. 1911</tei:date>
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/1141930552/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19831</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -89,7 +95,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb436">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb436">
                   <tei:placeName>Porzellangasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -97,7 +105,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.222287836145 16.362457240723</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb33">
+               </place><place xml:id="pmb33">
                   <tei:placeName>St. Gilgen</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -105,4 +113,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.76667 13.36667</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2766683/</idno>
+                  <idno type="geonames">https://www.geonames.org/7872214/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

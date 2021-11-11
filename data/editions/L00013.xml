@@ -19,7 +19,7 @@
                 Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift nummeriert: »<quote>1.</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">29</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb833">Brünn</placeName><date when="1891-05-19" n="01">19. 5. 1891</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00012">Hofmannsthal an Schnitzler, [6. 5. 1891?]</ref><ref subtype="next_letter" type="withinCollection" target="L00014">Schnitzler an Burckhard, [20.] 5. 1891</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00015">Schnitzler an Beer-Hofmann, 23. 5. 1891</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-09-09">CUL gecheckt.</change><change who="MAM" when="2019-09-17">Index check</change><change who="MAM" when="2019-09-23">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00005"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><salute rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00005"/>Lieber Arthur!</salute></opener><p>Ich wohne »<rs ref="#pmb40154" type="place">Hôtel Neuhauser</rs>«</p><p>Wo wohnen Sie?</p><p>Ich habe infamen Sonnenbrand, »die Sonne« »die Sonne«.</p><p>Grüßen Sie nur <rs ref="#pmb12740" type="person">Schwarzkopf</rs>, <rs ref="#pmb11740" type="person">Loris</rs>, <rs ref="#pmb2167" type="person">Salten</rs>.</p><closer>Ihr<lb/><signed>Richard</signed></closer><postscript><dateline><date>19 Mai 91</date></dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-09-09">CUL gecheckt.</change><change who="MAM" when="2019-09-17">Index check</change><change who="MAM" when="2019-09-23">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00005"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><salute rend="center"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00005"/>Lieber Arthur!</salute></opener><p>Ich wohne »<rs ref="#pmb40154" type="place">Hôtel Neuhauser</rs>«</p><p>Wo wohnen Sie?</p><p>Ich habe infamen Sonnenbrand, »die Sonne« »die Sonne«.</p><p>Grüßen Sie nur <rs ref="#pmb12740" type="person">Schwarzkopf</rs>, <rs ref="#pmb11740" type="person">Loris</rs>, <rs ref="#pmb2167" type="person">Salten</rs>.</p><closer>Ihr<lb/><signed>Richard</signed></closer><postscript><dateline><date>19 Mai 91</date></dateline></postscript></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -33,7 +33,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -48,7 +50,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12740">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12740">
                   <tei:persName>
                      <tei:surname>Schwarzkopf</tei:surname>
                      <tei:forename>Gustav</tei:forename>
@@ -62,7 +65,9 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
+                  <idno type="gnd">https://d-nb.info/gnd/1014997828/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19986</idno>
+               </person><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -76,7 +81,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2167">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2167">
                   <tei:persName>
                      <tei:surname>Salten</tei:surname>
                      <tei:forename>Felix</tei:forename>
@@ -91,7 +98,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="99">Journalist*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb833">
+                  <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb833">
                   <tei:placeName>Brünn</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -99,7 +107,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">49.19522 16.60796</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/3078610/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q14960/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -107,7 +117,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb40154">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb40154">
                   <tei:placeName>Hotel Neuhauser</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
@@ -115,4 +127,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">49.19294 16.61001</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

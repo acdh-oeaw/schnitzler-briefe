@@ -21,7 +21,7 @@
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
         </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-11-27">Angelegt</change><change who="MAM" when="2018-12-12">Index check</change><change who="GHS" when="2019-04-01">Korrektur gelesen, facs aktualisiert,
-                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00055-000-00031"/><graphic url="MS-SCHNITZLER-B-00055-000-00032"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00055-000-00031"/>Herrn Schriftsteller</addrLine><addrLine>D<hi rend="superscript">r.</hi> Arthur Schnitzler,</addrLine><addrLine><rs ref="#pmb51" type="place">Wien I</rs></addrLine><addrLine><rs ref="#pmb412" type="place">Grillparzerstr. 7</rs>.</addrLine></address></div><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00055-000-00032"/>Mein lieber Herr Doctor!</salute></opener><p>Die <anchor xml:id="K_L00150_1" type="commentary"/><rs type="work" ref="#pmb33552" subtype="implied">Kritik</rs><note xml:id="K_L00150_1h" type="commentary"><bibl><rs ref="#pmb11988" type="person">Karl Kraus</rs>: <rs ref="#pmb33552" type="work">Arthur Schnitzler, Anatol</rs>. In: <rs ref="#pmb35919" type="work">Die Gesellschaft</rs>, Jg. 9, Nr. 1, <date>1. 1. 1893</date>, S. 109–110</bibl>.</note> über »<rs ref="#pmb29935" type="work">Anatol</rs>« (2 Spalten) i<c rendition="#langesS">s</c>t im Jännerheft der »<rs ref="#pmb29440" type="org">Ge<c rendition="#langesS">s</c>ell<c rendition="#langesS">s</c>ch.</rs>« er<c rendition="#langesS">s</c>chienen. Beleg wird die Schriftleitung an den <rs type="org" ref="#pmb29716" subtype="implied">Verlag</rs> nach <rs ref="#pmb168" type="place">Berlin</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>chicken. Warum kommen Sie nicht mehr ins <rs ref="#pmb34" type="place">Grien<c rendition="#langesS">s</c>teidl</rs>? Wie geht’s?</p><closer>Herzlich<c rendition="#langesS">s</c>te Grüße!<lb/>Prost Neujahr!<lb/>Ihr sehr ergeb.<lb/><signed>Karl Kraus,</signed></closer><postscript><p><rs ref="#pmb1178" type="place">I Maximilianstr. 13</rs>.</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb11988">
+                finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00055-000-00031"/><graphic url="MS-SCHNITZLER-B-00055-000-00032"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00055-000-00031"/>Herrn Schriftsteller</addrLine><addrLine>D<hi rend="superscript">r.</hi> Arthur Schnitzler,</addrLine><addrLine><rs ref="#pmb51" type="place">Wien I</rs></addrLine><addrLine><rs ref="#pmb412" type="place">Grillparzerstr. 7</rs>.</addrLine></address></div><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00055-000-00032"/>Mein lieber Herr Doctor!</salute></opener><p>Die <anchor xml:id="K_L00150_1" type="commentary"/><rs type="work" ref="#pmb33552" subtype="implied">Kritik</rs><note xml:id="K_L00150_1h" type="commentary"><bibl><rs ref="#pmb11988" type="person">Karl Kraus</rs>: <rs ref="#pmb33552" type="work">Arthur Schnitzler, Anatol</rs>. In: <rs ref="#pmb35919" type="work">Die Gesellschaft</rs>, Jg. 9, Nr. 1, <date>1. 1. 1893</date>, S. 109–110</bibl>.</note> über »<rs ref="#pmb29935" type="work">Anatol</rs>« (2 Spalten) i<c rendition="#langesS">s</c>t im Jännerheft der »<rs ref="#pmb29440" type="org">Ge<c rendition="#langesS">s</c>ell<c rendition="#langesS">s</c>ch.</rs>« er<c rendition="#langesS">s</c>chienen. Beleg wird die Schriftleitung an den <rs type="org" ref="#pmb29716" subtype="implied">Verlag</rs> nach <rs ref="#pmb168" type="place">Berlin</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>chicken. Warum kommen Sie nicht mehr ins <rs ref="#pmb34" type="place">Grien<c rendition="#langesS">s</c>teidl</rs>? Wie geht’s?</p><closer>Herzlich<c rendition="#langesS">s</c>te Grüße!<lb/>Prost Neujahr!<lb/>Ihr sehr ergeb.<lb/><signed>Karl Kraus,</signed></closer><postscript><p><rs ref="#pmb1178" type="place">I Maximilianstr. 13</rs>.</p></postscript></div></body><back><listPerson><person xml:id="pmb11988">
                   <tei:persName>
                      <tei:surname>Kraus</tei:surname>
                      <tei:forename>Karl</tei:forename>
@@ -36,7 +36,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="237">Publizist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118566288/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -51,7 +53,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb33552">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb33552">
                   <tei:author ref="pmb11988" role="author">
                      <tei:surname>Kraus</tei:surname>
                      <tei:forename>Karl</tei:forename>
@@ -60,7 +63,7 @@
                   <tei:date from="1893-01-01" from-custom="01.01.1893">1. 1. 1893</tei:date>
                   <tei:gloss type="w1131">Rezension</tei:gloss>
                   <tei:note>3402</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb35919">
+               </bibl><bibl xml:id="pmb35919">
                   <tei:author ref="pmb2121" role="contributor">
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -80,7 +83,7 @@
                   <tei:title>Die Gesellschaft. Monatsschrift</tei:title>
                   <tei:date from="1885-01-01" from-custom="1885" to="1902-01-01" to-custom="1902">1885–1902</tei:date>
                   <tei:gloss type="w1222">Monatsschrift</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29935">
+               </bibl><bibl xml:id="pmb29935">
                   <tei:author ref="pmb2121" role="author">
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -98,7 +101,8 @@
                   <tei:title>Anatol</tei:title>
                   <tei:date when="1892-10-29" when-custom="1892-10-29">29. 10. 1892</tei:date>
                   <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb51">
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q487409/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb51">
                   <tei:placeName>I., Innere Stadt</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -106,7 +110,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2775259/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -114,7 +119,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb412">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb412">
                   <tei:placeName>Grillparzerstraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -122,7 +129,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.212643768549 16.357353835756</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
+               </place><place xml:id="pmb168">
                   <tei:placeName>Berlin</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -130,7 +137,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb34">
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place><place xml:id="pmb34">
                   <tei:placeName>Café Griensteidl</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i20">Kaffeehaus</tei:gloss>
@@ -138,7 +147,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.208258 16.366111</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1178">
+               </place><place xml:id="pmb1178">
                   <tei:placeName>Mahlerstraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -146,7 +155,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.20282 16.371172</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29440">
+               </place></listPlace><listOrg><org xml:id="pmb29440">
                   <tei:orgName>Die Gesellschaft</tei:orgName>
                   <tei:desc>
                      <tei:date from="1885-01-01" from-custom="1885" to="1902-01-01" to-custom="1902">1885–1902</tei:date>
@@ -158,7 +167,7 @@
                         <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org><tei:org xml:id="pmb29716">
+               </org><org xml:id="pmb29716">
                   <tei:orgName>Bibliographisches Bureau</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i975">Verlag</tei:gloss>
@@ -175,4 +184,4 @@
                         <tei:geo decls="LatLng">52.52383 13.41293</tei:geo>
                      </tei:location>
                   </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               </org></listOrg></back></text></TEI>

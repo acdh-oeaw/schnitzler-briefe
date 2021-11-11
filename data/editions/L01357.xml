@@ -21,7 +21,7 @@
                   Schnitzler, 7. 1. 1904</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01353">Hofmannsthal an Schnitzler, [26. 12. 1903]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01361">Hofmannsthal
                   an Schnitzler, [8.–9. 1. 1904]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-04-07">Angelegt</change><change who="MAM" when="2020-04-07">Durchsicht</change><change who="MAM" when="2020-04-20">Index check</change><change who="MAM" when="2020-04-20">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00113"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00114"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00113"/><hi rend="latintype">Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></addrLine><addrLine><rs type="place" ref="#pmb50"><hi rend="latintype">Wien</hi></rs></addrLine><addrLine><rs ref="#pmb133" type="place"><hi rend="latintype">XVIII Spöttelgasse 7</hi></rs></addrLine></address></div><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00114"/><hi rend="latintype">Miss <rs ref="#pmb3467" type="person">Isadora Duncan</rs></hi></p><p>bittet <hi rend="latintype">Herrn u. <rs type="person" ref="#pmb2173">Frau D<hi rend="superscript">r</hi> Schnitzler</rs></hi> zu Ihrer <anchor xml:id="K_L01357_1" type="commentary"/>Generalprobe<note xml:id="K_L01357_1h" type="commentary"><rs type="person" ref="#pmb11740">Hofmannsthal</rs> sollte einleitende Worte sprechen; <ref target="1904-01-05" subtype="see" type="schnitzlerDiary"/></note></p><p>morgen <date>Dienstag</date><space unit="chars" quantity="1"/><hi rend="underline" n="1">3½</hi> Uhr</p><p><rs type="place" ref="#pmb118">Carltheater</rs>.</p></div></body><back><listPerson><tei:person xml:id="pmb11740">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-04-07">Angelegt</change><change who="MAM" when="2020-04-07">Durchsicht</change><change who="MAM" when="2020-04-20">Index check</change><change who="MAM" when="2020-04-20">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00113"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00114"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00113"/><hi rend="latintype">Herrn D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></addrLine><addrLine><rs type="place" ref="#pmb50"><hi rend="latintype">Wien</hi></rs></addrLine><addrLine><rs ref="#pmb133" type="place"><hi rend="latintype">XVIII Spöttelgasse 7</hi></rs></addrLine></address></div><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00114"/><hi rend="latintype">Miss <rs ref="#pmb3467" type="person">Isadora Duncan</rs></hi></p><p>bittet <hi rend="latintype">Herrn u. <rs type="person" ref="#pmb2173">Frau D<hi rend="superscript">r</hi> Schnitzler</rs></hi> zu Ihrer <anchor xml:id="K_L01357_1" type="commentary"/>Generalprobe<note xml:id="K_L01357_1h" type="commentary"><rs type="person" ref="#pmb11740">Hofmannsthal</rs> sollte einleitende Worte sprechen; <ref target="1904-01-05" subtype="see" type="schnitzlerDiary"/></note></p><p>morgen <date>Dienstag</date><space unit="chars" quantity="1"/><hi rend="underline" n="1">3½</hi> Uhr</p><p><rs type="place" ref="#pmb118">Carltheater</rs>.</p></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb3467">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb3467">
                   <tei:persName>
                      <tei:surname>Duncan</tei:surname>
                      <tei:forename>Isadora</tei:forename>
@@ -65,7 +68,9 @@
                   </tei:death>
                   <occupation code="191">Tänzerin</occupation>
                   <occupation code="249">Choreograf*in</occupation>
-               </tei:person><tei:person xml:id="pmb2173">
+                  <idno type="gnd">https://d-nb.info/gnd/118528122/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14553</idno>
+               </person><person xml:id="pmb2173">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Olga</tei:forename>
@@ -80,7 +85,8 @@
                   </tei:death>
                   <occupation code="107">Sänger*in</occupation>
                   <occupation code="108">Schauspieler*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb51">
+                  <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb51">
                   <tei:placeName>I., Innere Stadt</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -88,7 +94,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb68">
+                  <idno type="geonames">https://www.geonames.org/2775259/</idno>
+               </place><place xml:id="pmb68">
                   <tei:placeName>XVIII., Währing</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i25">Bezirk</tei:gloss>
@@ -96,7 +103,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2762091/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -104,7 +112,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb133">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb133">
                   <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -112,7 +122,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb118">
+               </place><place xml:id="pmb118">
                   <tei:placeName>Carl-Theater</tei:placeName>
                   <tei:desc>
                      <tei:date from="1847-12-10" from-custom="1847-12-10" to="1929-05-29" to-custom="1929-05-29">10. 12. 1847–29. 5. 1929</tei:date>
@@ -121,4 +131,5 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.215 16.384444</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q877699/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

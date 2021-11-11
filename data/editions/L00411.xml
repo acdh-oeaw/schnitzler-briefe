@@ -22,7 +22,7 @@
                   Schnitzler, [30. 12. 1894?]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00427">David an
                   Schnitzler, [27. 3. 1895]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-05-03">Angelegt</change><change who="MAM" when="2020-05-03">Durchsicht</change><change who="MAM" when="2020-05-03">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00025-000-00003"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00025-000-00003"/><date>23/12 94</date>.</dateline><salute rend="center">Werther Herr Doctor!</salute></opener><p>Ich habe <rs type="work" ref="#pmb30117">Sterben</rs> bis nun zwei mal gelesen, und werde wohl noch darauf zurückkommen. Es ist eine höchst tüchtige und eine wirklich merkwürdige Arbeit; in der Analyse von wirksamster Feinheit und Tiefe. Bewundernswerth ist die Kunst, mit welcher Sie den zeitlich so knappen und doch für die Vorgänge fast zu weitgesteckten Rahmen mit Leben zu erfüllen wißen. Es ist ein vollkommen zielbewußtes Schlendern; was Abschweifung erscheinen könnte, führt nur desto sicherer zum letzten Ende. Manchmal möcht’ ich mir mehr Leidenschaftlichkeit verlangen; besonders am Schluße könnte ein stärkeres Temperament durchbrennen. Aber: Sie haben in dieser <rs type="work" ref="#pmb30117" subtype="implied">Arbeit</rs> einen mächtigen Ruck vorwärts gethan und will ich Ihnen sagen, in wie ferne mir Arbeit das Höchste dünkt: im Sinne der Arbeit an sich selbst. Da nun sind Sie tüchtig und ehrlich am Werke und darum rücken Sie vor in schönen Erfolgen und zu einer ersten Stellung, auf die Sie heute schon Anspruch haben.</p><closer>Es grüßt und begrüßt Sie herzlichst<lb/>Ihr<lb/><signed>David</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2416">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-05-03">Angelegt</change><change who="MAM" when="2020-05-03">Durchsicht</change><change who="MAM" when="2020-05-03">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00025-000-00003"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00025-000-00003"/><date>23/12 94</date>.</dateline><salute rend="center">Werther Herr Doctor!</salute></opener><p>Ich habe <rs type="work" ref="#pmb30117">Sterben</rs> bis nun zwei mal gelesen, und werde wohl noch darauf zurückkommen. Es ist eine höchst tüchtige und eine wirklich merkwürdige Arbeit; in der Analyse von wirksamster Feinheit und Tiefe. Bewundernswerth ist die Kunst, mit welcher Sie den zeitlich so knappen und doch für die Vorgänge fast zu weitgesteckten Rahmen mit Leben zu erfüllen wißen. Es ist ein vollkommen zielbewußtes Schlendern; was Abschweifung erscheinen könnte, führt nur desto sicherer zum letzten Ende. Manchmal möcht’ ich mir mehr Leidenschaftlichkeit verlangen; besonders am Schluße könnte ein stärkeres Temperament durchbrennen. Aber: Sie haben in dieser <rs type="work" ref="#pmb30117" subtype="implied">Arbeit</rs> einen mächtigen Ruck vorwärts gethan und will ich Ihnen sagen, in wie ferne mir Arbeit das Höchste dünkt: im Sinne der Arbeit an sich selbst. Da nun sind Sie tüchtig und ehrlich am Werke und darum rücken Sie vor in schönen Erfolgen und zu einer ersten Stellung, auf die Sie heute schon Anspruch haben.</p><closer>Es grüßt und begrüßt Sie herzlichst<lb/>Ihr<lb/><signed>David</signed></closer></div></body><back><listPerson><person xml:id="pmb2416">
                   <tei:persName>
                      <tei:surname>David</tei:surname>
                      <tei:forename>Jakob Julius</tei:forename>
@@ -37,7 +37,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118671103/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14363</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -52,7 +54,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30117">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30117">
                   <tei:author ref="pmb2121" role="author">
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -61,7 +64,8 @@
                   <tei:date from="1894-10-01" from-custom="1.10.1894" to="1894-12-01" to-custom="1.12.1894">1. 10. 1894–1. 12. 1894</tei:date>
                   <tei:gloss type="w1340">Novelle</tei:gloss>
                   <tei:note>2892</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q2345387/</idno>
+               </bibl></listBibl><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -69,4 +73,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

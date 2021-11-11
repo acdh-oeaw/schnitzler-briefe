@@ -27,7 +27,7 @@
                   Schnitzler, 30. 12. 1893</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00314">Bahr an
                   Schnitzler, [20. 4. 1894]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2016-04-06">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2019-02-26"><c rendition="#langesS">s</c>, @facs, Nummerierungen, Seitenzahlen ergänzt</change><change who="GHS" when="2019-10-05">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="HS AM 39930 Ba"/><!-- nicht online, 11.3.2020 --></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb/><date>2. 4. 1894</date></dateline><salute>Lieber Schnitzler,</salute></opener><p>ich habe mir die Geschichte mit dem Bicycle doch anders überlegt – lieber nicht. Der Gedanke, da umständlich zu lernen und mich mit einem fremden Instrument zu peinigen, macht mich nur nervöse. Sei deswegen nicht böse </p><closer>Deinem treuen<lb/><signed>Bahr</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb12692">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2016-04-06">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2019-02-26"><c rendition="#langesS">s</c>, @facs, Nummerierungen, Seitenzahlen ergänzt</change><change who="GHS" when="2019-10-05">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="HS AM 39930 Ba"/><!-- nicht online, 11.3.2020 --></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb/><date>2. 4. 1894</date></dateline><salute>Lieber Schnitzler,</salute></opener><p>ich habe mir die Geschichte mit dem Bicycle doch anders überlegt – lieber nicht. Der Gedanke, da umständlich zu lernen und mich mit einem fremden Instrument zu peinigen, macht mich nur nervöse. Sei deswegen nicht böse </p><closer>Deinem treuen<lb/><signed>Bahr</signed></closer></div></body><back><listPerson><person xml:id="pmb12692">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Heinrich</tei:forename>
@@ -42,7 +42,9 @@
                   </tei:death>
                   <occupation code="104">Regisseur*in</occupation>
                   <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb4342">
+                  <idno type="gnd">https://d-nb.info/gnd/116848510/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19822</idno>
+               </person><person xml:id="pmb4342">
                   <tei:persName>
                      <tei:surname>Wolf</tei:surname>
                      <tei:forename>Sándor</tei:forename>
@@ -59,7 +61,9 @@
                   <occupation code="175">Kaufmann/frau</occupation>
                   <occupation code="189">Sammler*in</occupation>
                   <occupation code="307">Weinhändler*in</occupation>
-               </tei:person><tei:person xml:id="pmb28549">
+                  <idno type="gnd">https://d-nb.info/gnd/129294713/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21433</idno>
+               </person><person xml:id="pmb28549">
                   <tei:persName>
                      <tei:surname>Löwy</tei:surname>
                      <tei:forename>Frieda</tei:forename>
@@ -72,7 +76,7 @@
                      <tei:date when="1963-07-11">11. 7. 1963</tei:date>
                      <tei:placeName ref="#pmb55980">Haifa</tei:placeName>
                   </tei:death>
-               </tei:person><tei:person xml:id="pmb10815">
+               </person><person xml:id="pmb10815">
                   <tei:persName>
                      <tei:surname>Bahr</tei:surname>
                      <tei:forename>Hermann</tei:forename>
@@ -87,7 +91,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -102,7 +108,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb569">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb569">
                   <tei:placeName>Wolf-Museum</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i8">Museum</tei:gloss>
@@ -110,7 +117,16 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.843745 16.52122</tei:geo>
                   </tei:location>
-               </tei:place><place ref="#pmb49163"><note>OFFEN</note></place><tei:place xml:id="pmb45508">
+               </place><place xml:id="pmb49163">
+                  <tei:placeName>Eisenstadt</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.84565 16.52327</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2780190/</idno>
+               </place><place xml:id="pmb45508">
                   <tei:placeName>Israel</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1411">Land</tei:gloss>
@@ -118,7 +134,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">31.5 34.75</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb967">
+                  <idno type="geonames">https://www.geonames.org/294640/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q801/</idno>
+               </place><place xml:id="pmb967">
                   <tei:placeName>Luzern</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -126,7 +144,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.05048 8.30635</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2659811/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q4191/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -134,4 +154,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

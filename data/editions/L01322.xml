@@ -22,7 +22,7 @@
                   Schnitzler, 7. 10. 1903</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01321">Hofmannsthal an Schnitzler, 30. 9. 1903</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01324">Hofmannsthal
                   an Schnitzler, 7. 10. 1903</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-05">Durchsicht</change><change who="MAM" when="2020-05-14">Durchsicht</change><change who="MAM" when="2020-05-14">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00097"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00097"/>Bitte <anchor xml:id="K_L01322_1" type="commentary"/>durchzule<c rendition="#langesS">s</c>en<note xml:id="K_L01322_1h" type="commentary">vermutlich <rs type="work" ref="#pmb30633">Elektra</rs></note> und dann zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicken an meinen <rs type="person" ref="#pmb11737" subtype="implied">Papa</rs></p><p rend="inline"><rs ref="#pmb76" type="place">III Salesianergasse 12</rs>.</p><closer><signed>Hugo.</signed></closer><postscript><p>(<rs type="work" ref="#pmb30633" subtype="implied">Aufführung</rs> an<c rendition="#langesS">s</c>cheinend <anchor xml:id="K_L01322_2" type="commentary"/><date>Ende October</date><note xml:id="K_L01322_2h" type="commentary">am <date>30. 10. 1903</date> wurde <rs type="work" ref="#pmb30633">Elektra</rs> am <rs type="place" ref="#pmb208">Kleinen Theater</rs> aufgeführt</note>.)</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb11740">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-05">Durchsicht</change><change who="MAM" when="2020-05-14">Durchsicht</change><change who="MAM" when="2020-05-14">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00097"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00097"/>Bitte <anchor xml:id="K_L01322_1" type="commentary"/>durchzule<c rendition="#langesS">s</c>en<note xml:id="K_L01322_1h" type="commentary">vermutlich <rs type="work" ref="#pmb30633">Elektra</rs></note> und dann zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicken an meinen <rs type="person" ref="#pmb11737" subtype="implied">Papa</rs></p><p rend="inline"><rs ref="#pmb76" type="place">III Salesianergasse 12</rs>.</p><closer><signed>Hugo.</signed></closer><postscript><p>(<rs type="work" ref="#pmb30633" subtype="implied">Aufführung</rs> an<c rendition="#langesS">s</c>cheinend <anchor xml:id="K_L01322_2" type="commentary"/><date>Ende October</date><note xml:id="K_L01322_2h" type="commentary">am <date>30. 10. 1903</date> wurde <rs type="work" ref="#pmb30633">Elektra</rs> am <rs type="place" ref="#pmb208">Kleinen Theater</rs> aufgeführt</note>.)</p></postscript></div></body><back><listPerson><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -36,7 +36,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -51,7 +53,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11737">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb11737">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo August von</tei:forename>
@@ -65,7 +68,9 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="465">Bankdirektor*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30633">
+                  <idno type="gnd">https://d-nb.info/gnd/116952202/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16294</idno>
+               </person></listPerson><listBibl><bibl xml:id="pmb30633">
                   <tei:author ref="pmb11740" role="author">
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -73,7 +78,7 @@
                   <tei:title>Elektra. Tragödie in einem Aufzug</tei:title>
                   <tei:date from="1903-01-01" from-custom="1903">1903</tei:date>
                   <tei:gloss type="w1057">Einakter</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb173">
+               </bibl></listBibl><listPlace><place xml:id="pmb173">
                   <tei:placeName>Rodaun</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
@@ -81,7 +86,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/2767332/</idno>
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -89,7 +95,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb76">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb76">
                   <tei:placeName>Salesianergasse</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
@@ -97,7 +105,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.199226239476 16.380633449365</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb208">
+               </place><place xml:id="pmb208">
                   <tei:placeName>Kleines Theater</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i4">Theater</tei:gloss>
@@ -105,4 +113,4 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.517222 13.389167</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               </place></listPlace><listOrg/></back></text></TEI>

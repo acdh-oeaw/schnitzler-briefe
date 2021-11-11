@@ -19,7 +19,7 @@
                                     nummeriert: »<quote>87</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">99</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb50">Wien</placeName><date when="1896-11-04" n="01">[4. 11. 1896]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00614">Schnitzler an Hofmannsthal, 31. 10. 1896</ref><ref subtype="next_letter" type="withinCollection" target="L00616">Schnitzler an Beer-Hofmann, 4. 11. 1896</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00613">Beer-Hofmann an Schnitzler, 30. [10. 1896]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00616">Schnitzler an Beer-Hofmann, 4. 11. 1896</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="MAM" when="2019-08-05">Durchsicht mit Original</change><change who="GHS" when="2019-10-24">finalisiert</change><change who="MAM" when="2019-11-07">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00191"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><opener><dateline><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00191"/><rs ref="#pmb168" type="place"><unclear>b</unclear></rs><space unit="chars" quantity="1"/>fr<space unit="chars" quantity="1"/><rs ref="#pmb50" type="place"><unclear>wien</unclear></rs><space unit="chars" quantity="1"/>502<space unit="chars" quantity="1"/>21<space unit="chars" quantity="1"/><time>12/50</time>=</dateline></opener><p>ich freue mich sehr. es gratuliren <rs ref="#pmb12740 #pmb24648 #pmb24645" type="person">schwarze koepfe</rs>, <rs ref="#pmb2337" type="person">leon</rs> und <rs type="person" ref="#pmb18308" subtype="implied">bruder</rs> doktor <rs ref="#pmb11253" cert="low" type="person">engl</rs> = <signed>richard +</signed></p></div></body><back><listPerson><tei:person xml:id="pmb10863">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="MAM" when="2019-08-05">Durchsicht mit Original</change><change who="GHS" when="2019-10-24">finalisiert</change><change who="MAM" when="2019-11-07">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00191"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><opener><dateline><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00191"/><rs ref="#pmb168" type="place"><unclear>b</unclear></rs><space unit="chars" quantity="1"/>fr<space unit="chars" quantity="1"/><rs ref="#pmb50" type="place"><unclear>wien</unclear></rs><space unit="chars" quantity="1"/>502<space unit="chars" quantity="1"/>21<space unit="chars" quantity="1"/><time>12/50</time>=</dateline></opener><p>ich freue mich sehr. es gratuliren <rs ref="#pmb12740 #pmb24648 #pmb24645" type="person">schwarze koepfe</rs>, <rs ref="#pmb2337" type="person">leon</rs> und <rs type="person" ref="#pmb18308" subtype="implied">bruder</rs> doktor <rs ref="#pmb11253" cert="low" type="person">engl</rs> = <signed>richard +</signed></p></div></body><back><listPerson><person xml:id="pmb10863">
                   <tei:persName>
                      <tei:surname>Beer-Hofmann</tei:surname>
                      <tei:forename>Richard</tei:forename>
@@ -33,7 +33,9 @@
                      <tei:placeName ref="#pmb44053">New York City</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118654756/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13551</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -48,7 +50,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12740">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb12740">
                   <tei:persName>
                      <tei:surname>Schwarzkopf</tei:surname>
                      <tei:forename>Gustav</tei:forename>
@@ -62,7 +65,9 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb24648">
+                  <idno type="gnd">https://d-nb.info/gnd/1014997828/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19986</idno>
+               </person><person xml:id="pmb24648">
                   <tei:persName>
                      <tei:surname>Schwarzkopf</tei:surname>
                      <tei:forename>Max</tei:forename>
@@ -76,7 +81,8 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="106">Rechtsanwalt/anwältin</occupation>
-               </tei:person><tei:person xml:id="pmb24645">
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19987</idno>
+               </person><person xml:id="pmb24645">
                   <tei:persName>
                      <tei:surname>Schwarzkopf</tei:surname>
                      <tei:forename>Emil</tei:forename>
@@ -91,7 +97,8 @@
                   </tei:death>
                   <occupation code="116">Übersetzer*in</occupation>
                   <occupation code="129">Komponist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2337">
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19985</idno>
+               </person><person xml:id="pmb2337">
                   <tei:persName>
                      <tei:surname>Léon</tei:surname>
                      <tei:forename>Victor</tei:forename>
@@ -105,7 +112,8 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb18308">
+                  <idno type="gnd">https://d-nb.info/gnd/115460608/</idno>
+               </person><person xml:id="pmb18308">
                   <tei:persName>
                      <tei:surname>Feld</tei:surname>
                      <tei:forename>Leo</tei:forename>
@@ -119,7 +127,8 @@
                      <tei:placeName ref="#pmb263">Florenz</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb11253">
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14923</idno>
+               </person><person xml:id="pmb11253">
                   <tei:persName>
                      <tei:surname>Engel</tei:surname>
                      <tei:forename>Alexander</tei:forename>
@@ -134,7 +143,9 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="99">Journalist*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/116478411/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14748</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -142,7 +153,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb168">
                   <tei:placeName>Berlin</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -150,4 +163,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

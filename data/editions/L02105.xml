@@ -21,13 +21,13 @@
                                     wohn<supplied>t nicht</supplied><space unit="chars" quantity="1"/><hi rend="latintype"><rs ref="#pmb245" type="place">Esplanade</rs></hi>, nach Aussage des Po<c rendition="#langesS">s</c>t-Chefs<tei:space unit="chars" quantity="1"> </tei:space><c rendition="#langesS">s</c>oll Adr. im <hi rend="latintype"><rs type="place" ref="#pmb1090">Hotel Adlon</rs></hi> wohnen?</p><p><rs type="person" ref="#pmb45332">Geier</rs><space unit="chars" quantity="1"/>11/9.</p></quote>«</desc></incident><incident type="receiver"><desc>mit Bleistift datiert: »<quote><date>29/11 912</date></quote>«</desc></incident><incident type="archival"><desc>beschnitten</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>241</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">270</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb50">Wien</placeName><date when="1912-11-29" n="02">[29. 11. 1912]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb168">Berlin</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L02104">Beer-Hofmann, Beer-Hofmann an Schnitzler, 29. 11. 1912</ref><ref subtype="next_letter" type="withinCollection" target="L02570">Rie an Schnitzler, 29. 11. 1912</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02103">Hofmannsthal an Schnitzler, 21. 11. 1912</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02109">Hofmannsthal an Schnitzler, 1[7?]. 12. 1912</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-09">Durchsicht</change><change who="MAM" when="2020-08-14">Index check</change><change who="MAM" when="2020-08-14">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00177"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00178"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00177"/>tieftraurig um guten lieben nie wieder zufindenden <rs ref="#pmb10986" type="person">brahm</rs> bitte ihm auch fuer mich blumen bringen von herzen ihr <signed>hugo +</signed></p></div></body><back><listPerson><tei:person xml:id="pmb45332">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-09">Durchsicht</change><change who="MAM" when="2020-08-14">Index check</change><change who="MAM" when="2020-08-14">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00177"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00178"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00177"/>tieftraurig um guten lieben nie wieder zufindenden <rs ref="#pmb10986" type="person">brahm</rs> bitte ihm auch fuer mich blumen bringen von herzen ihr <signed>hugo +</signed></p></div></body><back><listPerson><person xml:id="pmb45332">
                   <tei:persName>
                      <tei:surname>Geier</tei:surname>
                      <tei:forename>Gustav</tei:forename>
                   </tei:persName>
                   <occupation code="831">Briefträger</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
+               </person><person xml:id="pmb11740">
                   <tei:persName>
                      <tei:surname>Hofmannsthal</tei:surname>
                      <tei:forename>Hugo von</tei:forename>
@@ -41,7 +41,9 @@
                      <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118552759/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -56,7 +58,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10986">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb10986">
                   <tei:persName>
                      <tei:surname>Brahm</tei:surname>
                      <tei:forename>Otto</tei:forename>
@@ -72,7 +75,9 @@
                   <occupation code="103">Theaterleiter*in</occupation>
                   <occupation code="104">Regisseur*in</occupation>
                   <occupation code="278">Literarhistoriker*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb245">
+                  <idno type="gnd">https://d-nb.info/gnd/118514245/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13913</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb245">
                   <tei:placeName>Hotel Esplanade</tei:placeName>
                   <tei:desc>
                      <tei:date from="1907-07-02" from-custom="1907-07-02" to="1944-07-01" to-custom="1944-07-01">1907–1944</tei:date>
@@ -81,7 +86,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.51 13.374444</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb1090">
+               </place><place xml:id="pmb1090">
                   <tei:placeName>Hotel Adlon</tei:placeName>
                   <tei:desc>
                      <tei:date from="1907-07-02" from-custom="1907-07-02">2. 7. 1907</tei:date>
@@ -90,7 +95,7 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.515833 13.380556</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
+               </place><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -98,7 +103,9 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place><place xml:id="pmb168">
                   <tei:placeName>Berlin</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -106,4 +113,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4005728-8/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

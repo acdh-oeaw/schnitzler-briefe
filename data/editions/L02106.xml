@@ -25,7 +25,7 @@
                         15. 11. 1912?]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02120">Altenberg, Engländer an Schnitzler, [Mitte April] 1913</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-09-01">Angelegt</change><change who="MAM" when="2018-10-01">Durchsicht</change><change who="MAM" when="2018-10-01">Index check</change><change who="GHS" when="2019-07-19">facs aktualisiert, korrigiert, finalisiert</change><change who="MAM" when="2020-08-14">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00002-000-00025"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00002-000-00025"/>Unter heissen tränen meinen dank kann nicht schreiben es wird nicht mehr lang dauern ihr unglücklicher</p><closer><signed>Altenberg</signed></closer></div></body><back><listPerson><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2147">
+        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-09-01">Angelegt</change><change who="MAM" when="2018-10-01">Durchsicht</change><change who="MAM" when="2018-10-01">Index check</change><change who="GHS" when="2019-07-19">facs aktualisiert, korrigiert, finalisiert</change><change who="MAM" when="2020-08-14">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00002-000-00025"/></facsimile><text type="telegram"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00002-000-00025"/>Unter heissen tränen meinen dank kann nicht schreiben es wird nicht mehr lang dauern ihr unglücklicher</p><closer><signed>Altenberg</signed></closer></div></body><back><listPerson><person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2147">
                   <tei:persName>
                      <tei:surname>Altenberg</tei:surname>
                      <tei:forename>Peter</tei:forename>
@@ -39,7 +39,9 @@
                      <tei:placeName ref="#pmb50">Wien</tei:placeName>
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118502255/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13162</idno>
+               </person><person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -54,7 +56,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb189">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person></listPerson><listBibl/><listPlace><place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb189">
                   <tei:placeName>Semmering</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -62,7 +65,8 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.64224 15.8241</tei:geo>
                   </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb50">
+                  <idno type="geonames">https://www.geonames.org/7873001/</idno>
+               </place><place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -70,4 +74,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>

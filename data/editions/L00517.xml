@@ -21,7 +21,7 @@
                   Hofmannsthal, 26. 11. 1895</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00516">Andreas-Salomé an Schnitzler, [25. 11. 1895]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00519">Andreas-Salomé
                   an Schnitzler, [1. 12. 1895]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-02">Angelegt</change><change who="MAM" when="2018-08-08">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-07-05">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00003-000-00019"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00003-000-00019"/>Lieber Herr <hi rend="latintype">D<hi rend="superscript">r</hi></hi>,</salute></opener><p>wäre es Ihnen möglich, noch <anchor xml:id="K_L00517_1" type="commentary"/>heute<note xml:id="K_L00517_1h" type="commentary">Die Datierung basiert auf der Annahme, dass die Krankheit die täglichen Treffen unterbricht, die zwischen dem <ref target="1895-11-23" subtype="date-only" type="schnitzlerDiary"/> und <ref target="1895-11-23" subtype="date-only" type="schnitzlerDiary"/> stattfanden.</note> Abend einen Augenblick hier vorzu<c rendition="#langesS">s</c>prechen? <rs ref="#pmb5412" type="person">Frieda</rs> i<c rendition="#langesS">s</c>t krank geworden, heute Nacht,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie hat Fieber und Hals<c rendition="#langesS">s</c>chmerzen, und läßt bei Ihnen anfragen, ob Sie kommen mögen.</p><closer>Mit herzlichem Gruß<lb/>Ihre <signed>LouAS.</signed></closer><postscript><p>Klopfen Sie bei mir, bitte, N<hi rend="superscript">o</hi> 36.</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb10762">
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-02">Angelegt</change><change who="MAM" when="2018-08-08">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-07-05">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00003-000-00019"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00003-000-00019"/>Lieber Herr <hi rend="latintype">D<hi rend="superscript">r</hi></hi>,</salute></opener><p>wäre es Ihnen möglich, noch <anchor xml:id="K_L00517_1" type="commentary"/>heute<note xml:id="K_L00517_1h" type="commentary">Die Datierung basiert auf der Annahme, dass die Krankheit die täglichen Treffen unterbricht, die zwischen dem <ref target="1895-11-23" subtype="date-only" type="schnitzlerDiary"/> und <ref target="1895-11-23" subtype="date-only" type="schnitzlerDiary"/> stattfanden.</note> Abend einen Augenblick hier vorzu<c rendition="#langesS">s</c>prechen? <rs ref="#pmb5412" type="person">Frieda</rs> i<c rendition="#langesS">s</c>t krank geworden, heute Nacht,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie hat Fieber und Hals<c rendition="#langesS">s</c>chmerzen, und läßt bei Ihnen anfragen, ob Sie kommen mögen.</p><closer>Mit herzlichem Gruß<lb/>Ihre <signed>LouAS.</signed></closer><postscript><p>Klopfen Sie bei mir, bitte, N<hi rend="superscript">o</hi> 36.</p></postscript></div></body><back><listPerson><person xml:id="pmb10762">
                   <tei:persName>
                      <tei:surname>Andreas-Salomé</tei:surname>
                      <tei:forename>Lou</tei:forename>
@@ -35,7 +35,9 @@
                      <tei:placeName ref="#pmb42325">Göttingen</tei:placeName>
                   </tei:death>
                   <occupation code="91">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
+                  <idno type="gnd">https://d-nb.info/gnd/118502921/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13196</idno>
+               </person><person xml:id="pmb2121">
                   <tei:persName>
                      <tei:surname>Schnitzler</tei:surname>
                      <tei:forename>Arthur</tei:forename>
@@ -50,7 +52,8 @@
                   </tei:death>
                   <occupation code="90">Schriftsteller*in</occupation>
                   <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb5412">
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+               </person><person xml:id="pmb5412">
                   <tei:persName>
                      <tei:surname>Bülow</tei:surname>
                      <tei:forename>Frieda von</tei:forename>
@@ -64,7 +67,9 @@
                      <tei:placeName ref="#pmb56133">Dornburg</tei:placeName>
                   </tei:death>
                   <occupation code="91">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
+                  <idno type="gnd">https://d-nb.info/gnd/11706646X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14051</idno>
+               </person></listPerson><listBibl/><listPlace><place xml:id="pmb50">
                   <tei:placeName>Wien</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
@@ -72,4 +77,6 @@
                   <tei:location>
                      <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                   </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+               </place></listPlace><listOrg/></back></text></TEI>
