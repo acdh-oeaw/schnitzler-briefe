@@ -10,9 +10,7 @@ COPY . .
 RUN add-attributes -g "/app/data/editions/*.xml" -b "https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/editions" \
     && add-attributes -g "/app/data/indices/list*.xml" -b "https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/indices"
 RUN mentions-to-indices -t "erwähnt in " -i "./data/indices/*.xml" -f "./data/editions/*.xml" -x ".//tei:title[@level='a']/text()"
-
-RUN ant
-
+RUN find /app/data/editions/ -type f -name "*.xml" -print0 | xargs -0 sed -i -e 's|../../XML/META/asbwschema.xsd"|https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta/asbwschema.xsd"|g'
 RUN ant -f /app/build.xml
 
 # START STAGE 2
