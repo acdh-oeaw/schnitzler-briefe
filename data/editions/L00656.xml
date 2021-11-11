@@ -1,206 +1,252 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00656" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hermann Bahr an Arthur Schnitzler, 22. 3. 1897</title><author ref="#pmb10815">Bahr, Hermann</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L00656</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00656"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Hermann Bahr an Arthur Schnitzler, 22. 3. 1897</title>
+            <author ref="#10815">Bahr, Hermann</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+            <idno type="asbw">L00656</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 5b</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift die Jahreszahl »<quote><date>7</date></quote>« ergänzt</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>51</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">139</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName><date when="1897-03-22" n="01">22. 3. 1897</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L00655">Bahr an
-                  Schnitzler, [nach dem 20. 3. 1897]</ref><ref subtype="next_letter" type="withinCollection" target="L00657">Hofmannsthal an
-                  Schnitzler, [22. 3. 1897]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00655">Bahr an
-                  Schnitzler, [nach dem 20. 3. 1897]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00658">Schnitzler an
-                  Bahr, 23. 3. 1897</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 5b</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="2" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift die Jahreszahl »<quote>
+                                    <date>7</date>
+                                 </quote>« ergänzt</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>51</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HBAS">
+                  <monogr>
+                     <author ref="#10815">Bahr, Hermann</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
+                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
+                     <imprint>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Wallstein</publisher>
+                        <date when="2018">2018</date>
+                     </imprint>
+                     <biblScope unit="pp">139</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10815">Bahr, Hermann</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1897-03-22" n="01">22. 3. 1897</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00655">Bahr an
+                  Schnitzler, [nach dem 20. 3. 1897]</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00657">Hofmannsthal an
+                  Schnitzler, [22. 3. 1897]</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L00655">Bahr an
+                  Schnitzler, [nach dem 20. 3. 1897]</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00658">Schnitzler an
+                  Bahr, 23. 3. 1897</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-12-03">Kollationiert</change><change who="KI MAM" when="2017-05-27">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2019-12-23">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-B-00005-B-000-00078"/><graphic url="MS-B-00005-B-000-00079"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="MS-B-00005-B-000-00078"/><hi rend="pre-print">»<rs ref="#pmb29209" type="org">Die Zeit</rs>«</hi></seg><seg rend="right"><hi rend="pre-print"><hi rend="bold"><rs ref="#pmb50" type="place">Wien</rs></hi>, den </hi><date>22. März</date><space unit="chars" quantity="1"/><hi rend="pre-print">189<c rendition="#dots" n="2"/></hi></seg></p><p><seg rend="left"><hi rend="pre-print">Wiener Wochen<c rendition="#langesS">s</c>chrift</hi></seg><seg rend="right"><hi rend="pre-print"><rs ref="#pmb296" type="place">IX/3, Güntherga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e 1</rs>.</hi></seg></p><p><hi rend="pre-print"><hi rend="bold">Herausgeber</hi>:</hi><lb/><hi rend="pre-print">Profe<c rendition="#langesS">s</c><c rendition="#langesS">s</c>or Dr. <rs ref="#pmb12790" type="person">I. Singer</rs>, <rs ref="#pmb10815" type="person">Hermann Bahr</rs>, Dr. <rs ref="#pmb11867" type="person">Heinrich Kanner</rs>.</hi></p><p><hi rend="pre-print">Telephon Nr. 6415.</hi></p><salute rend="center">Lieber Arthur!</salute></opener><p><anchor xml:id="K_L00656_1" type="commentary"/><rs ref="#pmb2147" type="person">Altenberg</rs><note xml:id="K_L00656_1h" type="commentary"><rs ref="#pmb11988" type="person">Kraus</rs> nannte das Fehlen von <rs ref="#pmb2147" type="person">Altenberg</rs> den größten Mangel des Abends (<bibl><rs ref="#pmb11988" type="person">Karl Kraus</rs>: <rs ref="#pmb32614" type="work">Wiener Premièren</rs>. In: <rs ref="#pmb41517" type="work">Breslauer Zeitung</rs>, Jg. 79, Nr. 255, Abend-Ausgabe, <date>10. 4. 1897</date>, S. 2</bibl>).</note> nicht, wenn es nicht<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein muß – bei aller Verehrung<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>einer<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chönen Begabung. Aus »Opportunität« nicht. – Ich komme al<c rendition="#langesS">s</c>o <date>Mittwoch</date> um <time>10</time> zu Dir. Ich muß aber bis <hi rend="underline" n="1">morgen Dien<c rendition="#langesS">s</c>tag Abend</hi> die Titel haben, damit Donner<c rendition="#langesS">s</c>tag (<anchor xml:id="K_L00656_2" type="commentary"/>Feiertag<note xml:id="K_L00656_2h" type="commentary"><date>25. 3.</date>: Mariä Verkündigung.</note>) die Ankündigung in den Blättern<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein kann. Schreibe <pb facs="MS-B-00005-B-000-00079"/>mir al<c rendition="#langesS">s</c>o den Titel von <rs ref="#pmb11701" type="person">Hir<c rendition="#langesS">s</c>chfelds</rs><space unit="chars" quantity="1"/><rs type="work" ref="#pmb29835" subtype="implied">Ge<c rendition="#langesS">s</c>chichte</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>owie von <rs type="work" ref="#pmb29831" subtype="implied">Deine<damage agent="ink"><supplied>r</supplied></damage></rs>, von <rs ref="#pmb11740" type="person">Hugo</rs> wollen wir einfach »Gedichte« annoncieren. Reihenfolge: <rs ref="#pmb11701" type="person">Hir<c rendition="#langesS">s</c>chfeld</rs>, <rs ref="#pmb11740" type="person">Hugo</rs>, Du, ich – nicht? Programme mü<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Mittwoch gedruckt werden.</p><closer>Herzlich<c rendition="#langesS">s</c>t<lb/>in großer Eile<lb/>Dein<lb/><signed>Hermann</signed></closer><p><hi rend="pre-print"><anchor xml:id="T_L00656_1" type="textConst"/>Alle für »<rs ref="#pmb29209" type="org">Die Zeit</rs>« be<c rendition="#langesS">s</c>timmten Zu<c rendition="#langesS">s</c>chriften und Sendungen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind an die Redaction der »<rs ref="#pmb29209" type="org">Zeit</rs>« und <hi rend="bold">nicht</hi> an die Per<c rendition="#langesS">s</c>on eines der Herausgeber zu richten.<note xml:id="T_L00656_1h" type="textConst">am unteren Rand der ersten Seite</note></hi></p></div></body><back><listPerson><tei:person xml:id="pmb10815">
-                  <tei:persName>
-                     <tei:surname>Bahr</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12790">
-                  <tei:persName>
-                     <tei:surname>Singer</tei:surname>
-                     <tei:forename>Isidor</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1857-01-16">16. 1. 1857</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1927-12-08">8. 12. 1927</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="170">Soziologe/in</occupation>
-                  <occupation code="516">Herausgeber der „Zeit“</occupation>
-               </tei:person><tei:person xml:id="pmb11867">
-                  <tei:persName>
-                     <tei:surname>Kanner</tei:surname>
-                     <tei:forename>Heinrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1864-11-09">9. 11. 1864</tei:date>
-                     <tei:placeName ref="#pmb36202">Galatz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1930-02-15">15. 2. 1930</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="237">Publizist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2147">
-                  <tei:persName>
-                     <tei:surname>Altenberg</tei:surname>
-                     <tei:forename>Peter</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1859-03-09">9. 3. 1859</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1919-01-08">8. 1. 1919</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb11988">
-                  <tei:persName>
-                     <tei:surname>Kraus</tei:surname>
-                     <tei:forename>Karl</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-04-28">28. 4. 1874</tei:date>
-                     <tei:placeName ref="#pmb41660">Jičín</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1936-06-12">12. 6. 1936</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="237">Publizist*in</occupation>
-               </tei:person><tei:person xml:id="pmb11701">
-                  <tei:persName>
-                     <tei:surname>Hirschfeld</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1873-02-11">11. 2. 1873</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1942-01-17">17. 1. 1942</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb32614">
-                  <tei:author ref="pmb11988" role="author">
-                     <tei:surname>Kraus</tei:surname>
-                     <tei:forename>Karl</tei:forename>
-                  </tei:author>
-                  <tei:title>Wiener Premièren</tei:title>
-                  <tei:date from="1897-04-10" from-custom="10.04.1897">10. 4. 1897</tei:date>
-                  <tei:gloss type="w1131">Rezension</tei:gloss>
-                  <tei:note>3183</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb41517">
-                  <tei:title>Breslauer Zeitung</tei:title>
-                  <tei:date from="1820-01-01" from-custom="1820" to="1933-01-01" to-custom="1933">1820–1933</tei:date>
-                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29835">
-                  <tei:author ref="pmb11701" role="author">
-                     <tei:surname>Hirschfeld</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:author>
-                  <tei:title>Bei Beiden</tei:title>
-                  <tei:date from="1894-01-01" from-custom="1894">1894</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-                  <tei:note>2837</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb29831">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Ehrentag</tei:title>
-                  <tei:date from="1898-01-15" from-custom="15.01.1898">15. 1. 1898</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-                  <tei:note>2835</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb296">
-                  <tei:placeName>Günthergasse</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.216599877109 16.358330000258</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29209">
-                  <tei:orgName>Die Zeit. Wiener Wochenschrift</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb296">
-                     <tei:placeName>Günthergasse</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.216599877109 16.358330000258</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="KI MAM" when="2015-12-03">Kollationiert</change>
+         <change who="KI MAM" when="2017-05-27">Kollationiert</change>
+         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
+         <change who="GHS" when="2019-12-23">finalisiert</change>
+         <change who="MAM" when="2019-01-20">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-B-00005-B-000-00078"/>
+      <graphic url="MS-B-00005-B-000-00079"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <p>
+                  <seg rend="left">
+                     <pb facs="MS-B-00005-B-000-00078"/>
+                     <hi rend="pre-print">»<rs ref="#29209" type="org">Die Zeit</rs>«</hi>
+                  </seg>
+                  <seg rend="right">
+                     <hi rend="pre-print">
+                        <hi rend="bold">
+                           <rs ref="#50" type="place">Wien</rs>
+                        </hi>, den </hi>
+                     <date>22. März</date>
+                     <space unit="chars" quantity="1"/>
+                     <hi rend="pre-print">189<c rendition="#dots" n="2"/>
+                     </hi>
+                  </seg>
+               </p>
+               <p>
+                  <seg rend="left">
+                     <hi rend="pre-print">Wiener Wochenſchrift</hi>
+                  </seg>
+                  <seg rend="right">
+                     <hi rend="pre-print">
+                        <rs ref="#296" type="place">IX/3, Günthergaſſe 1</rs>.</hi>
+                  </seg>
+               </p>
+               <p>
+                  <hi rend="pre-print">
+                     <hi rend="bold">Herausgeber</hi>:</hi>
+                  <lb/>
+                  <hi rend="pre-print">Profeſſor Dr. <rs ref="#12790" type="person">I. Singer</rs>,
+                        <rs ref="#10815" type="person">Hermann Bahr</rs>, Dr. <rs ref="#11867"
+                        type="person">Heinrich Kanner</rs>.</hi>
+               </p>
+               <p>
+                  <hi rend="pre-print">Telephon Nr. 6415.</hi>
+               </p>
+               <salute rend="center">Lieber Arthur!</salute>
+            </opener>
+            <p>
+               <anchor xml:id="K_L00656_1" type="commentary"/>
+               <rs ref="#2147" type="person">Altenberg</rs>
+               <note xml:id="K_L00656_1h" type="commentary">
+                  <rs ref="#11988" type="person">Kraus</rs> nannte das Fehlen von <rs ref="#2147"
+                     type="person">Altenberg</rs> den größten Mangel des Abends (<bibl>
+                     <rs ref="#11988" type="person">Karl Kraus</rs>: <rs ref="#32614" type="work"
+                        >Wiener Premièren</rs>. In: <rs ref="#41517" type="work">Breslauer
+                        Zeitung</rs>, Jg. 79, Nr. 255, Abend-Ausgabe, <date>10. 4. 1897</date>,
+                     S. 2</bibl>).</note> nicht, wenn es nicht ſein muß – bei aller Verehrung ſeiner
+               ſchönen Begabung. Aus »Opportunität« nicht. – Ich komme alſo <date>Mittwoch</date> um
+                  <time>10</time> zu Dir. Ich muß aber bis <hi rend="underline" n="1">morgen
+                  Dienſtag Abend</hi> die Titel haben, damit Donnerſtag (<anchor xml:id="K_L00656_2"
+                  type="commentary"/>Feiertag<note xml:id="K_L00656_2h" type="commentary">
+                  <date>25. 3.</date>: Mariä Verkündigung.</note>) die Ankündigung in den Blättern
+               ſein kann. Schreibe <pb facs="MS-B-00005-B-000-00079"/>mir alſo den Titel von <rs
+                  ref="#11701" type="person">Hirſchfelds</rs>
+               <space unit="chars" quantity="1"/>
+               <rs type="work" ref="#29835" subtype="implied">Geſchichte</rs>
+               <space unit="chars" quantity="1"/>ſowie von <rs type="work" ref="#29831"
+                  subtype="implied">Deine<damage agent="ink">
+                     <supplied>r</supplied>
+                  </damage>
+               </rs>, von <rs ref="#11740" type="person">Hugo</rs> wollen wir einfach »Gedichte«
+               annoncieren. Reihenfolge: <rs ref="#11701" type="person">Hirſchfeld</rs>, <rs
+                  ref="#11740" type="person">Hugo</rs>, Du, ich – nicht? Programme müſſen Mittwoch
+               gedruckt werden.</p>
+            <closer>Herzlichſt<lb/>in großer Eile<lb/>Dein<lb/>
+               <signed>Hermann</signed>
+            </closer>
+            <p>
+               <hi rend="pre-print">
+                  <anchor xml:id="T_L00656_1" type="textConst"/>Alle für »<rs ref="#29209"
+                     type="org">Die Zeit</rs>« beſtimmten Zuſchriften und Sendungen ſind an die
+                  Redaction der »<rs ref="#29209" type="org">Zeit</rs>« und <hi rend="bold"
+                     >nicht</hi> an die Perſon eines der Herausgeber zu richten.<note
+                     xml:id="T_L00656_1h" type="textConst">am unteren Rand der ersten Seite</note>
+               </hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

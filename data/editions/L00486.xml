@@ -1,265 +1,240 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00486" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 17. 9. 1895</title><author ref="#pmb10863">Beer-Hofmann, Richard</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00486</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00486"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 17. 9. 1895</title>
+            <author ref="#10863">Beer-Hofmann, Richard</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00486</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="bleistift" style="lateinische-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift nummeriert: »<quote>66</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">82</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb759">Schönberg</placeName><date when="1895-09-17" n="01">17. 9. 1895</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00485">Beer-Hofmann an Schnitzler, 16. 9. 1895</ref><ref subtype="next_letter" type="withinCollection" target="L00487">Schnitzler an Beer-Hofmann, 19. 9. 1895</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00485">Beer-Hofmann an Schnitzler, 16. 9. 1895</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00487">Schnitzler an Beer-Hofmann, 19. 9. 1895</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 8</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="4" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="bleistift" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift nummeriert: »<quote>66</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASBH">
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <author ref="#10863">Beer-Hofmann, Richard</author>
+                     <title level="m">Briefwechsel 1891–1931</title>
+                     <editor>Hg. Konstanze Fliedl</editor>
+                     <imprint>
+                        <pubPlace>Wien, Zürich</pubPlace>
+                        <publisher>Europaverlag</publisher>
+                        <date when="1992">1992</date>
+                     </imprint>
+                     <biblScope unit="pp">82</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10863">Beer-Hofmann, Richard</persName>
+               <placeName ref="#759">Schönberg</placeName>
+               <date when="1895-09-17" n="01">17. 9. 1895</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00485">Beer-Hofmann an Schnitzler, 16. 9. 1895</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00487">Schnitzler an Beer-Hofmann, 19. 9. 1895</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00485">Beer-Hofmann an Schnitzler, 16. 9. 1895</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00487">Schnitzler an Beer-Hofmann, 19. 9. 1895</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-10-15">überprüft am Faksimile</change><change who="MAM" when="2019-10-17">Index check</change><change who="MAM" when="2020-01-16">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00143"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00144"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00143"/><rs ref="#pmb759" type="place">Schönberg</rs><space unit="chars" quantity="1"/><date when="1895-09-17">17/IX 95</date><space unit="chars" quantity="1"/><time>Abends</time></dateline></opener><p><salute>Lieber Arthur! </salute><hi rend="underline" n="1">Soeben</hi> erhalte ich Ihren Brief. Ich bin wirklich in guter Sti<c rendition="#gemination-m"/>ung; hoffentlich merken Sie es an Manchem wenn ich nach <rs ref="#pmb50" type="place">Wien</rs> zurückko<c rendition="#gemination-m"/>e<supplied>.</supplied> Daß ich seit <date>Sonntag</date><space unit="chars" quantity="1"/><time>Früh</time> allein bin wissen Sie wol. Wie das Alleinreisen von <rs ref="#pmb10762" type="person">L.</rs> aufgeno<c rendition="#gemination-m"/>en wurde? Zu schwierig in Worte zu kleiden. Nur vorläufig: Sie geht nicht nach <rs ref="#pmb36300" type="place">Kopenhagen</rs> – sagt sie. Aber das ist nicht offiziell. <del rend="strikethrough">Hier will ich bis Freitag</del><space unit="chars" quantity="1"/><date>Samstag</date><space unit="chars" quantity="1"/><add place="above"><time>Früh</time></add> will ich von <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00144"/>hier fort nach <rs ref="#pmb465" type="place">Riva</rs>, – einen Tag dort bleiben und dann nach <rs ref="#pmb39611" type="place">Salò</rs>, Südwestende des <rs ref="#pmb39975" type="place">Gardasees</rs>. Vielleicht gefällt es mir aber dort nicht, dann vielleicht <rs ref="#pmb44153" type="place">Verona</rs>, das ich nicht kenne. Jedenfalls erwarte ich noch einen Brief hieher, einen nach <rs ref="#pmb465" type="place"><hi rend="underline" n="1">Riva</hi></rs><space unit="chars" quantity="1"/><hi rend="underline" n="1">Poste restante</hi>.</p><p><rs ref="#pmb18523" type="person">Paul Horn</rs> ist mir in der Erinnerung widerlich, Mann mit »lustigen Streichen« in der Jugend, kein Mensch.</p><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00144"/>Wozu Brosamen wie »Alles erkundigt sich«? Wer verübelt uns übrigens daß wir nicht fort Litteratur reden?</p><p>Wie kommt <rs ref="#pmb12816" type="person">Speidel</rs> zu <rs ref="#pmb2157" type="person">Ebermann</rs>? Momentan bin ich <hi rend="underline" n="1">der</hi>, der einzige Gast im <rs type="place" ref="#pmb43323" subtype="implied">Wirtshaus</rs>. Ich »lebe u genieße«. Nochmals: Wann <hi rend="underline" n="1">frühestens</hi> kann »<rs ref="#pmb29917" type="work">Liebelei</rs>« ko<c rendition="#gemination-m"/>en, denn vielleicht verzögert sich ja meine Ankunft, in den <date>October</date> hinein.</p><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00143"/>Adieu, ich will noch vor der Dunkelheit ein wenig spazieren. Die Zirbelkiefer die an der Strasse steht, ko<c rendition="#gemination-m"/>t in <rs ref="#pmb11461" type="person">Goethes</rs><space unit="chars" quantity="1"/><rs ref="#pmb34308" type="work">italienischer Reise</rs> vor. (Reise über den <rs ref="#pmb608" type="place">Brenner</rs>) »Bei <rs ref="#pmb759" type="place">Schemberg</rs>« etc. das weiß ich aus dem <anchor xml:id="K_L00486_1" type="commentary"/><rs type="work" ref="#pmb40461" subtype="implied">Meyer</rs><note xml:id="K_L00486_1h" type="commentary">»<quote>Dagegen gelangt man <gap quantity="3" reason="outOfScope" unit="chars"/> auf dem <hi rend="italics">alten</hi>, r. abgehenden (schlechten) Fahrweg, <gap quantity="3" reason="outOfScope" unit="chars"/> den sogen. <hi rend="italics">Alten Schönberg</hi> (dessen Zirben schon <rs ref="#pmb11461" type="person">Goethe</rs> in seiner ›<rs ref="#pmb34308" type="work">Italienischer Reise</rs>‹ erwähnt; bei einer ›<rs ref="#pmb11461" type="person">Goethe</rs>bank‹ schöne Aussicht) hinan</quote>«. (<bibl><rs type="work" ref="#pmb40219">Meyers Reisebücher</rs>. <rs type="work" ref="#pmb40461">Deutsche Alpen. Erster Teil: Bayerisches Hochland, Allgäu, Vorarlberg, Tirol, Brennerbahn, Ötztaler-, Stubaier-, und Ortlergruppe, Bozen, Schlern und Rosengarten, Meran, Brenta- und Adamellogruppe; Bergamasker Alpen, Gardasee.</rs> Fünfte Auflage. Mit 23 Karten, 4 Plänen und 12 Panoramen. Leipzig, Wien: <rs type="org" ref="#pmb40458">Bibliographisches Institut</rs><space unit="chars" quantity="1"/><date>1896</date>, S. 217</bibl>.)</note>. Werden uns je Bäume irgendwo wachsen – bei <rs ref="#pmb40219" type="work">Meyer</rs>?</p><p>»Laßt uns lächeln.«</p><closer>Herzlichst Ihr<lb/><signed>Richard</signed></closer><postscript><p>Ich freu mich so sehr mit Ihren Briefen</p><p>»<anchor xml:id="K_L00486_2" type="commentary"/>schreiben Sie augenscharf<note xml:id="K_L00486_2h" type="commentary">offenbar ein stehender Ausdruck der Gruppe, der sich auch im Briefwechsel zwischen <rs ref="#pmb2167" type="person">Salten</rs> und <rs ref="#pmb11740" type="person">Hofmannsthal</rs> nachweisen lässt.</note>«</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10762">
-                  <tei:persName>
-                     <tei:surname>Andreas-Salomé</tei:surname>
-                     <tei:forename>Lou</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1861-02-12">12. 2. 1861</tei:date>
-                     <tei:placeName ref="#pmb433">Sankt Petersburg</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1937-02-05">5. 2. 1937</tei:date>
-                     <tei:placeName ref="#pmb42325">Göttingen</tei:placeName>
-                  </tei:death>
-                  <occupation code="91">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb18523">
-                  <tei:persName>
-                     <tei:surname>Horn</tei:surname>
-                     <tei:forename>Paul</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1867-02-13">13. 2. 1867</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1936-01-18">18. 1. 1936</tei:date>
-                     <tei:placeName ref="#pmb36456">Menton</tei:placeName>
-                  </tei:death>
-                  <occupation code="300">Fabrikant*in</occupation>
-               </tei:person><tei:person xml:id="pmb12816">
-                  <tei:persName>
-                     <tei:surname>Speidel</tei:surname>
-                     <tei:forename>Ludwig</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1830-04-11">11. 4. 1830</tei:date>
-                     <tei:placeName ref="#pmb39966">Ulm</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1906-02-03">3. 2. 1906</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2157">
-                  <tei:persName>
-                     <tei:surname>Ebermann</tei:surname>
-                     <tei:forename>Leo</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-16">16. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb53790">Draganovka</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1914-10-09">9. 10. 1914</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="102">Rechtswissenschaftler*in</occupation>
-               </tei:person><tei:person xml:id="pmb11461">
-                  <tei:persName>
-                     <tei:surname>Goethe</tei:surname>
-                     <tei:forename>Johann Wolfgang von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1749-08-28">28. 8. 1749</tei:date>
-                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1832-03-22">22. 3. 1832</tei:date>
-                     <tei:placeName ref="#pmb197">Weimar</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2167">
-                  <tei:persName>
-                     <tei:surname>Salten</tei:surname>
-                     <tei:forename>Felix</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1869-09-06">6. 9. 1869</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-10-08">8. 10. 1945</tei:date>
-                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb29917">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Liebelei. Schauspiel in drei Akten</tei:title>
-                  <tei:date from="1895-10-09" from-custom="9.10.1895">9. 10. 1895</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb34308">
-                  <tei:author ref="pmb11461" role="author">
-                     <tei:surname>Goethe</tei:surname>
-                     <tei:forename>Johann Wolfgang von</tei:forename>
-                  </tei:author>
-                  <tei:title>Italienische Reise</tei:title>
-                  <tei:date from="1816-01-01" from-custom="1816" to="1817-01-01" to-custom="1817">1816–1817</tei:date>
-                  <tei:gloss type="w1164">Reisebericht</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb40461">
-                  <tei:title>Deutsche Alpen</tei:title>
-                  <tei:date from="1877-01-01" from-custom="1877">1877</tei:date>
-                  <tei:gloss type="w1358">Reiseführer</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb40219">
-                  <tei:title>Meyers Reisebücher</tei:title>
-                  <tei:gloss type="w1357">Buchreihe</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb759">
-                  <tei:placeName>Schönberg im Stubaital</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.18333 11.41667</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb36300">
-                  <tei:placeName>Kopenhagen</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb465">
-                  <tei:placeName>Riva del Garda</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.88576 10.84118</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb39611">
-                  <tei:placeName>Salò</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1128">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.60685 10.5205</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb39975">
-                  <tei:placeName>Lago di Garda</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i44">See</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.6316 10.660517</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb44153">
-                  <tei:placeName>Verona</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1419">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.4299 10.98444</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb43323">
-                  <tei:placeName>Gasthaus Jagerhof</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i17">Gastgewerbegebäude</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.18732 11.40657</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb608">
-                  <tei:placeName>Brenner</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i68">Pass</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.00528 11.50836</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb40458">
-                  <tei:orgName>Bibliographisches Institut</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i975">Verlag</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb864">
-                     <tei:placeName>Leipzig</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">51.33962 12.37129</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change>
+         <change who="GHS" when="2019-10-15">überprüft am Faksimile</change>
+         <change who="MAM" when="2019-10-17">Index check</change>
+         <change who="MAM" when="2020-01-16">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00143"/>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00144"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00143"/>
+                  <rs ref="#759" type="place">Schönberg</rs>
+                  <space unit="chars" quantity="1"/>
+                  <date when="1895-09-17">17/IX 95</date>
+                  <space unit="chars" quantity="1"/>
+                  <time>Abends</time>
+               </dateline>
+            </opener>
+            <p>
+               <salute>Lieber Arthur! </salute>
+               <hi rend="underline" n="1">Soeben</hi> erhalte ich Ihren Brief. Ich bin wirklich in
+               guter Sti<c rendition="#gemination-m"/>ung; hoffentlich merken Sie es an Manchem wenn
+               ich nach <rs ref="#50" type="place">Wien</rs> zurückko<c rendition="#gemination-m"/>e<supplied>.</supplied> Daß ich seit <date>Sonntag</date>
+               <space unit="chars" quantity="1"/>
+               <time>Früh</time> allein bin wissen Sie wol. Wie das Alleinreisen von <rs ref="#10762" type="person">L.</rs> aufgeno<c rendition="#gemination-m"/>en wurde?
+               Zu schwierig in Worte zu kleiden. Nur vorläufig: Sie geht nicht nach <rs ref="#36300" type="place">Kopenhagen</rs> – sagt sie. Aber das ist nicht offiziell. <del rend="strikethrough">Hier will ich bis Freitag</del>
+               <space unit="chars" quantity="1"/>
+               <date>Samstag</date>
+               <space unit="chars" quantity="1"/>
+               <add place="above">
+                  <time>Früh</time>
+               </add> will ich von <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00144"/>hier fort nach
+                  <rs ref="#465" type="place">Riva</rs>, – einen Tag dort bleiben und dann nach <rs ref="#39611" type="place">Salò</rs>, Südwestende des <rs ref="#39975" type="place">Gardasees</rs>. Vielleicht gefällt es mir aber dort nicht, dann vielleicht <rs ref="#44153" type="place">Verona</rs>, das ich nicht kenne. Jedenfalls erwarte ich
+               noch einen Brief hieher, einen nach <rs ref="#465" type="place">
+                  <hi rend="underline" n="1">Riva</hi>
+               </rs>
+               <space unit="chars" quantity="1"/>
+               <hi rend="underline" n="1">Poste restante</hi>.</p>
+            <p>
+               <rs ref="#18523" type="person">Paul Horn</rs> ist mir in der Erinnerung widerlich,
+               Mann mit »lustigen Streichen« in der Jugend, kein Mensch.</p>
+            <p>
+               <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00144"/>Wozu Brosamen wie »Alles erkundigt
+               sich«? Wer verübelt uns übrigens daß wir nicht fort Litteratur reden?</p>
+            <p>Wie kommt <rs ref="#12816" type="person">Speidel</rs> zu <rs ref="#2157" type="person">Ebermann</rs>? Momentan bin ich <hi rend="underline" n="1">der</hi>,
+               der einzige Gast im <rs type="place" ref="#43323" subtype="implied">Wirtshaus</rs>.
+               Ich »lebe u genieße«. Nochmals: Wann <hi rend="underline" n="1">frühestens</hi> kann
+                  »<rs ref="#29917" type="work">Liebelei</rs>« ko<c rendition="#gemination-m"/>en,
+               denn vielleicht verzögert sich ja meine Ankunft, in den <date>October</date>
+               hinein.</p>
+            <p>
+               <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00143"/>Adieu, ich will noch vor der
+               Dunkelheit ein wenig spazieren. Die Zirbelkiefer die an der Strasse steht, ko<c rendition="#gemination-m"/>t in <rs ref="#11461" type="person">Goethes</rs>
+               <space unit="chars" quantity="1"/>
+               <rs ref="#34308" type="work">italienischer Reise</rs> vor. (Reise über den <rs ref="#608" type="place">Brenner</rs>) »Bei <rs ref="#759" type="place">Schemberg</rs>« etc. das weiß ich aus dem <anchor xml:id="K_L00486_1" type="commentary"/>
+               <rs type="work" ref="#40461" subtype="implied">Meyer</rs>
+               <note xml:id="K_L00486_1h" type="commentary">»<quote>Dagegen gelangt man <gap quantity="3" reason="outOfScope" unit="chars"/> auf dem <hi rend="italics">alten</hi>, r. abgehenden (schlechten) Fahrweg, <gap quantity="3" reason="outOfScope" unit="chars"/> den sogen. <hi rend="italics">Alten
+                        Schönberg</hi> (dessen Zirben schon <rs ref="#11461" type="person">Goethe</rs> in seiner ›<rs ref="#34308" type="work">Italienischer
+                        Reise</rs>‹ erwähnt; bei einer ›<rs ref="#11461" type="person">Goethe</rs>bank‹ schöne Aussicht) hinan</quote>«. (<bibl>
+                     <rs type="work" ref="#40219">Meyers Reisebücher</rs>. <rs type="work" ref="#40461">Deutsche Alpen. Erster Teil: Bayerisches Hochland, Allgäu,
+                        Vorarlberg, Tirol, Brennerbahn, Ötztaler-, Stubaier-, und Ortlergruppe,
+                        Bozen, Schlern und Rosengarten, Meran, Brenta- und Adamellogruppe;
+                        Bergamasker Alpen, Gardasee.</rs> Fünfte Auflage. Mit 23 Karten, 4 Plänen
+                     und 12 Panoramen. Leipzig, Wien: <rs type="org" ref="#40458">Bibliographisches
+                        Institut</rs>
+                     <space unit="chars" quantity="1"/>
+                     <date>1896</date>, S. 217</bibl>.)</note>. Werden uns je Bäume irgendwo wachsen
+               – bei <rs ref="#40219" type="work">Meyer</rs>?</p>
+            <p>»Laßt uns lächeln.«</p>
+            <closer>Herzlichst Ihr<lb/>
+               <signed>Richard</signed>
+            </closer>
+            <postscript>
+               <p>Ich freu mich so sehr mit Ihren Briefen</p>
+               <p>»<anchor xml:id="K_L00486_2" type="commentary"/>schreiben Sie
+                     augenscharf<note xml:id="K_L00486_2h" type="commentary">offenbar ein
+                     stehender Ausdruck der Gruppe, der sich auch im Briefwechsel zwischen <rs ref="#2167" type="person">Salten</rs> und <rs ref="#11740" type="person">Hofmannsthal</rs> nachweisen lässt.</note>«</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

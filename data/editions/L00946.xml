@@ -1,107 +1,200 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00946" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 18. 7. 1899</title><author ref="#pmb10863">Beer-Hofmann, Richard</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00946</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00946"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 18. 7. 1899</title>
+            <author ref="#10863">Beer-Hofmann, Richard</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00946</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="kartenbrief"/></objectDesc><handDesc><handNote medium="bleistift" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb34824">Seeboden</placeName><date>18<supplied>. 7. 1899</supplied></date></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb909">Velden am Wörthersee</placeName><date>19 7 99</date><time>18.F</time></stamp></desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>134</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb34824">Seeboden</placeName><date when="1899-07-18" n="01">18. 7. 1899</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb909">Velden am Wörthersee</placeName><date when="1899-07-19">19. 7. 1899</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00945">Schnitzler an Beer-Hofmann, 16. 7. 1899</ref><ref subtype="next_letter" type="withinCollection" target="L00947">Schnitzler an Hofmannsthal, 18. 7. 1899</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00945">Schnitzler an Beer-Hofmann, 16. 7. 1899</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00948">Schnitzler an Beer-Hofmann, 20. 7. 1899</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 8</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="kartenbrief"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="bleistift" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="1">
+                                    <placeName ref="#34824">Seeboden</placeName>
+                                    <date>18<supplied>. 7. 1899</supplied>
+                                    </date>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="2">
+                                    <placeName ref="#909">Velden am Wörthersee</placeName>
+                                    <date>19 7 99</date>
+                                    <time>18.F</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>134</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10863">Beer-Hofmann, Richard</persName>
+               <placeName ref="#34824">Seeboden</placeName>
+               <date when="1899-07-18" n="01">18. 7. 1899</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#909">Velden am Wörthersee</placeName>
+               <date when="1899-07-19">19. 7. 1899</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00945">Schnitzler an Beer-Hofmann, 16. 7. 1899</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00947">Schnitzler an Hofmannsthal, 18. 7. 1899</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00945">Schnitzler an Beer-Hofmann, 16. 7. 1899</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00948">Schnitzler an Beer-Hofmann, 20. 7. 1899</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-11-30">angelegt aus Faksimile</change><change who="MAM" when="2019-12-02">Durchsicht</change><change who="MAM" when="2019-12-02">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00300"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00301"/></facsimile><text type="letter-card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00301"/>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb909" type="place">Velden a Wörthersee</rs></addrLine><addrLine><rs ref="#pmb36282" type="place">Pension Pundschu</rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00300"/><rs ref="#pmb34824" type="place">Seeboden</rs><space unit="chars" quantity="1"/><date>18/VII</date> früh</dateline></opener><p><salute>Lieber Arthur! </salute>Ich hoffe Ende dieser Woche fertig zu werden. Auch wenn ich aber nicht <rs type="work" subtype="implied" ref="#pmb31535">fertig</rs> bin ko<c rendition="#gemination-m"/> ich <date>Sonntag</date> oder <date>Montag</date> zu Ihnen. Jedenfalls telegrafire ich früher.</p><p>Was unsere Tour anlangt, habe ich außer irgendeinem <rs ref="#pmb40943" type="place">Tauern</rs>übergang keine besondere Wünsche.</p><p>Grüßen Sie <rs ref="#pmb13055" type="person">Wassermann</rs>.</p><closer>Herzlichst<lb/><signed>Richard</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb13055">
-                  <tei:persName>
-                     <tei:surname>Wassermann</tei:surname>
-                     <tei:forename>Jakob</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1873-03-10">10. 3. 1873</tei:date>
-                     <tei:placeName ref="#pmb40508">Fürth</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-01">1. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb34401">Altaussee</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb31535">
-                  <tei:author ref="pmb10863" role="author">
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Tod Georgs</tei:title>
-                  <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-                  <tei:note>2793</tei:note>
-                  <tei:note>6192</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb34824">
-                  <tei:placeName>Seeboden</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1124">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">46.83649 13.52346</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb909">
-                  <tei:placeName>Velden</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">46.61901 14.03129</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb36282">
-                  <tei:placeName>Pension Pundschu</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i12">Hotel</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">46.610344 14.057955</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb40943">
-                  <tei:placeName>Hohe Tauern</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i31">Gebirge</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.1318 12.9337</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2019-11-30">angelegt aus Faksimile</change>
+         <change who="MAM" when="2019-12-02">Durchsicht</change>
+         <change who="MAM" when="2019-12-02">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00300"/>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00301"/>
+   </facsimile>
+   <text type="letter-card">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00301"/>D<hi rend="superscript">r</hi>
+                  Arthur Schnitzler</addrLine>
+               <addrLine>
+                  <rs ref="#909" type="place">Velden a Wörthersee</rs>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#36282" type="place">Pension Pundschu</rs>
+               </addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00300"/>
+                  <rs ref="#34824" type="place">Seeboden</rs>
+                  <space unit="chars" quantity="1"/>
+                  <date>18/VII</date> früh</dateline>
+            </opener>
+            <p>
+               <salute>Lieber Arthur! </salute>Ich hoffe Ende dieser Woche fertig zu werden. Auch
+               wenn ich aber nicht <rs type="work" subtype="implied" ref="#31535">fertig</rs> bin
+                  ko<c rendition="#gemination-m"/> ich <date>Sonntag</date> oder <date>Montag</date>
+               zu Ihnen. Jedenfalls telegrafire ich früher.</p>
+            <p>Was unsere Tour anlangt, habe ich außer irgendeinem <rs ref="#40943" type="place">Tauern</rs>übergang keine besondere Wünsche.</p>
+            <p>Grüßen Sie <rs ref="#13055" type="person">Wassermann</rs>.</p>
+            <closer>Herzlichst<lb/>
+               <signed>Richard</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,168 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01173" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, [1]3. 9. 1901</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L01173</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L01173"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Hermann Bahr, [1]3. 9. 1901</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+            <idno type="asbw">L01173</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 23340 Ba</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="DASB"><analytic><title level="a">13. 9. 1901</title></analytic><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title><editor>Edited, annotated, and with an introduction, by Donald G.
-                        Daviau</editor><imprint><pubPlace>Chapel Hill</pubPlace><publisher>The University of North Carolina Press</publisher><date when="1978">1978</date></imprint><biblScope unit="pp">71</biblScope></monogr><series><title level="s">University of North Carolina studies in the Germanic languages
-                        and literatures</title><biblScope unit="nr">89</biblScope></series></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">215</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1901-09-13" n="01">[1]3. 9. 1901</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01172">Bahr an Schnitzler, 12. 9. 1901</ref><ref subtype="next_letter" type="withinCollection" target="L01174">Beer-Hofmann an Schnitzler, 20. 9. 1901</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01172">Bahr an Schnitzler, 12. 9. 1901</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01178">Bahr an Schnitzler, Oktober 1901</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Theatermuseum</repository>
+                        <idno>HS AM 23340 Ba</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="2" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="DASB">
+                  <analytic>
+                     <title level="a">13. 9. 1901</title>
+                  </analytic>
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
+                     <editor>Edited, annotated, and with an introduction, by Donald G.
+                        Daviau</editor>
+                     <imprint>
+                        <pubPlace>Chapel Hill</pubPlace>
+                        <publisher>The University of North Carolina Press</publisher>
+                        <date when="1978">1978</date>
+                     </imprint>
+                     <biblScope unit="pp">71</biblScope>
+                  </monogr>
+                  <series>
+                     <title level="s">University of North Carolina studies in the Germanic languages
+                        and literatures</title>
+                     <biblScope unit="nr">89</biblScope>
+                  </series>
+               </biblStruct>
+               <biblStruct corresp="HBAS">
+                  <monogr>
+                     <author ref="#10815">Bahr, Hermann</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
+                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
+                     <imprint>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Wallstein</publisher>
+                        <date when="2018">2018</date>
+                     </imprint>
+                     <biblScope unit="pp">215</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1901-09-13" n="01">[1]3. 9. 1901</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#10815">Bahr, Hermann</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01172">Bahr an Schnitzler, 12. 9. 1901</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01174">Beer-Hofmann an Schnitzler, 20. 9. 1901</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L01172">Bahr an Schnitzler, 12. 9. 1901</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01178">Bahr an Schnitzler, Oktober 1901</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-01-07">auf Plausibilität geprüft</change><change who="MAM" when="2020-04-21">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="https://www.theatermuseum.at/de/object/bdf98db2d4/"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="https://www.theatermuseum.at/de/object/bdf98db2d4/"/><salute>lieber Hermann, </salute>es i<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr freundlich von dir, da<c rendition="#langesS">s</c>s du die <rs type="work" ref="#pmb29865 #pmb29869 #pmb29957" subtype="implied">kleinen Sachen</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chnell gele<c rendition="#langesS">s</c>en ha<c rendition="#langesS">s</c>t. Die Verwandlungs<c rendition="#langesS">s</c>chwierigkeit in der <rs ref="#pmb29865" type="work">Frau mit dem Dolch</rs> wird hoffentlich zu beheben<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, – der Idiotismus des Publikums wohl<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chwerer. Mehr Sorgen aber macht mir die Be<c rendition="#langesS">s</c>etzung. Ich bin nun mit einem <rs type="work" ref="#pmb29873" subtype="implied">4. Einakter</rs> be<c rendition="#langesS">s</c>chäftigt, für den ich mir gern den <rs ref="#pmb12265" type="person">Mitterwurzer</rs> aus der Erde kratzen möchte, u da<c rendition="#langesS">s</c>s ich auch noch <del rend="strikethrough">den</del> einen <anchor xml:id="K_L01173_1" type="commentary"/><rs type="work" ref="#pmb29877" subtype="implied">fünften</rs><note xml:id="K_L01173_1h" type="commentary"><rs ref="#pmb29877" type="work">Die letzten Masken</rs></note><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>chreibe, i<c rendition="#langesS">s</c>t ziemlich <pb facs="https://www.theatermuseum.at/de/object/bdf98db2d4/"/><c rendition="#langesS">s</c>icher. In die<c rendition="#langesS">s</c>en beiden Stücken wird nun allerdings der »Literaten«typus beträchtlich erweitert, dadurch aber für die »Uneingeweihten« klarer<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein. Schön wärs halt, wenn einem ein<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>charfes Wort als <anchor xml:id="K_L01173_2" type="commentary"/>Gesamttitel<note xml:id="K_L01173_2h" type="commentary">Nur <rs ref="#pmb29877" type="work">Die letzten Masken</rs> wurde letztlich zu den bestehenden drei Einaktern hinzugefügt, und diese wurden unter dem Titel <rs ref="#pmb29863" type="work">Lebendige Stunden. Vier Einakter</rs> (<bibl>Berlin: <rs ref="#pmb29639" type="org">S. Fischer</rs><space unit="chars" quantity="1"/><date>1902</date></bibl>) zusammengefasst.</note> einfiele, das für die anderen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o deutlich wäre, wie für un<c rendition="#langesS">s</c>ereinen das Wort »Literat«; aber doch noch mehr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agt.</p><closer>Herzlichen Gruß. Dein<lb/><signed>Arthur</signed></closer><postscript><dateline><date><unclear>1</unclear>3. 9. 901.</date></dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10815">
-                  <tei:persName>
-                     <tei:surname>Bahr</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb12265">
-                  <tei:persName>
-                     <tei:surname>Mitterwurzer</tei:surname>
-                     <tei:forename>Friedrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1844-10-16">16. 10. 1844</tei:date>
-                     <tei:placeName ref="#pmb866">Dresden</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1897-02-13">13. 2. 1897</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb29865">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Die Frau mit dem Dolche</tei:title>
-                  <tei:date from="1901-01-01" from-custom="1901">1901</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29869">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb2242" role="translator">
-                     <tei:surname>Levi</tei:surname>
-                     <tei:forename>Cesare</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:title>Literatur</tei:title>
-                  <tei:date from="1901-01-01" from-custom="1901">1901</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29957">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Lebendige Stunden</tei:title>
-                  <tei:date from="1901-12-01" from-custom="01.12.1901">1. 12. 1901</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-                  <tei:note>2461</tei:note>
-                  <tei:note>2462</tei:note>
-                  <tei:note>2855</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb29873">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb2242" role="translator">
-                     <tei:surname>Levi</tei:surname>
-                     <tei:forename>Cesare</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:title>Der Puppenspieler</tei:title>
-                  <tei:date from="1903-05-31" from-custom="31.05.1903">31. 5. 1903</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-                  <tei:note>2844</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb29877">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb2242" role="translator">
-                     <tei:surname>Levi</tei:surname>
-                     <tei:forename>Cesare</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:title>Die letzten Masken</tei:title>
-                  <tei:date from="1901-01-01" from-custom="1901">1901</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29863">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Lebendige Stunden. Vier Einakter</tei:title>
-                  <tei:date from="1901-12-23" from-custom="1901-12-23">23. 12. 1901</tei:date>
-                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
-                  <tei:note>6097</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29639">
-                  <tei:orgName>S. Fischer Verlag</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1886-01-01" from-custom="1886">1886</tei:date>
-                     <tei:gloss ana="i975">Verlag</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb146">
-                     <tei:placeName>Frankfurt am Main</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb168">
-                     <tei:placeName>Berlin</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb659">
-                     <tei:placeName>Bülowstraße</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">52.49737 13.36385</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="KI MAM" when="2015-10-01">Kollationiert</change>
+         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
+         <change who="GHS" when="2020-01-07">auf Plausibilität geprüft</change>
+         <change who="MAM" when="2020-04-21">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.theatermuseum.at/de/object/bdf98db2d4/"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <p>
+               <pb facs="https://www.theatermuseum.at/de/object/bdf98db2d4/"/>
+               <salute>lieber Hermann, </salute>es iſt ſehr freundlich von dir, daſs du die <rs type="work" ref="#29865 #29869 #29957" subtype="implied">kleinen Sachen</rs>
+               <space unit="chars" quantity="1"/>ſo ſchnell geleſen haſt. Die
+               Verwandlungsſchwierigkeit in der <rs ref="#29865" type="work">Frau mit dem Dolch</rs>
+               wird hoffentlich zu beheben ſein, – der Idiotismus des Publikums wohl ſchwerer. Mehr
+               Sorgen aber macht mir die Beſetzung. Ich bin nun mit einem <rs type="work" ref="#29873" subtype="implied">4. Einakter</rs> beſchäftigt, für den ich mir gern
+               den <rs ref="#12265" type="person">Mitterwurzer</rs> aus der Erde kratzen möchte, u
+               daſs ich auch noch <del rend="strikethrough">den</del> einen <anchor xml:id="K_L01173_1" type="commentary"/>
+               <rs type="work" ref="#29877" subtype="implied">fünften</rs>
+               <note xml:id="K_L01173_1h" type="commentary">
+                  <rs ref="#29877" type="work">Die letzten Masken</rs></note>
+               <space unit="chars" quantity="1"/>ſchreibe, iſt ziemlich <pb facs="https://www.theatermuseum.at/de/object/bdf98db2d4/"/>ſicher. In dieſen
+               beiden Stücken wird nun allerdings der »Literaten«typus beträchtlich erweitert,
+               dadurch aber für die »Uneingeweihten« klarer ſein. Schön wärs halt, wenn einem ein
+               ſehr ſcharfes Wort als <anchor xml:id="K_L01173_2" type="commentary"/>Gesamttitel<note xml:id="K_L01173_2h" type="commentary">Nur <rs ref="#29877" type="work">Die letzten
+                     Masken</rs> wurde letztlich zu den bestehenden drei Einaktern hinzugefügt, und
+                  diese wurden unter dem Titel <rs ref="#29863" type="work">Lebendige Stunden. Vier
+                     Einakter</rs> (<bibl>Berlin: <rs ref="#29639" type="org">S. Fischer</rs>
+                     <space unit="chars" quantity="1"/>
+                     <date>1902</date>
+                  </bibl>) zusammengefasst.</note> einfiele, das für die anderen ſo deutlich wäre,
+               wie für unſereinen das Wort »Literat«; aber doch noch mehr ſagt.</p>
+            <closer>Herzlichen Gruß. Dein<lb/>
+               <signed>Arthur</signed>
+            </closer>
+            <postscript>
+               <dateline>
+                  <date>
+                     <unclear>1</unclear>3. 9. 901.</date>
+               </dateline>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

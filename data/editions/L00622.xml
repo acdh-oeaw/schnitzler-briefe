@@ -1,176 +1,233 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00622" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Oscar Blumenthal an Arthur Schnitzler, 14. 11. 1896</title><author ref="#pmb14328">Blumenthal, Oscar</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00622</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00622"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Oscar Blumenthal an Arthur Schnitzler, 14. 11. 1896</title>
+            <author ref="#14328">Blumenthal, Oscar</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00622</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 15</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="nicht_anzuwenden"><p>Unterschrift</p></handNote></handDesc><typeDesc><p>Schreibmaschine</p></typeDesc><additions><incident type="receiver"><desc>mit Bleistift auf der leeren Rückseite beschriftet: »<quote><hi rend="latintype">(Blumenthal)</hi></quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift zwei Unterstreichungen</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>7</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb14328">Blumenthal, Oscar</persName><placeName ref="#pmb168">Berlin</placeName><date when="1896-11-14" n="02">14. 11. 1896</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb14328">Blumenthal, Oscar</ref><ref subtype="previous_letter" type="withinCollection" target="L00621">Schnitzler an Beer-Hofmann, 14. 11. 1896</ref><ref subtype="next_letter" type="withinCollection" target="L00623">Blumenthal an Schnitzler, 19. 11. 1896</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00307">Wiese an Schnitzler, 21. 3. 1894</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00623">Blumenthal an Schnitzler, 19. 11. 1896</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 15</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="2" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="nicht_anzuwenden">
+                              <p>Unterschrift</p>
+                           </handNote>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Schreibmaschine</p>
+                        </typeDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift auf der leeren Rückseite beschriftet: »<quote>
+                                    <hi rend="latintype">(Blumenthal)</hi>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="receiver">
+                              <desc>mit rotem Buntstift zwei Unterstreichungen</desc></incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>7</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#14328">Blumenthal, Oscar</persName>
+               <placeName ref="#168">Berlin</placeName>
+               <date when="1896-11-14" n="02">14. 11. 1896</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#14328">Blumenthal, Oscar</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00621">Schnitzler an Beer-Hofmann, 14. 11. 1896</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00623">Blumenthal an Schnitzler, 19. 11. 1896</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00307">Wiese an Schnitzler, 21. 3. 1894</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00623">Blumenthal an Schnitzler, 19. 11. 1896</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-06-19">Angelegt</change><change who="MAM" when="2019-06-21">Index check</change><change who="MAM" when="2019-07-15">Durchsicht</change><change who="GHS" when="2019-10-25">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00015-000-00017"/><graphic url="MS-SCHNITZLER-B-00015-000-00018"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p rend="center"><pb facs="MS-SCHNITZLER-B-00015-000-00017"/><hi rend="pre-print"><rs ref="#pmb35053" type="org"><hi rend="small_caps">Lessing-Theater</hi></rs></hi></p><p rend="center"><hi rend="pre-print"><hi rend="small_caps">Director</hi>:</hi><space unit="chars" quantity="1"/><hi rend="pre-print"><hi rend="small_caps">Dr.</hi><space unit="chars" quantity="1"/><hi rend="capitals">Oscar Blumenthal</hi>.</hi></p><dateline rend="right"><hi rend="pre-print"><rs ref="#pmb168" type="place">Berlin N.W. (40)</rs>, den</hi><space unit="chars" quantity="1"/><date>14. November 1896</date>.</dateline><salute rend="center">Werther Herr Doctor!</salute></opener><p>Während meiner Anwesenheit in <rs ref="#pmb50" type="place">Wien</rs> habe ich leider keine Gelegenheit gefunden, Sie zu sehen, und möchte Ihnen deshalb auf diesem Wege eine Idee unterbreiten, die ich zunächst mit <rs ref="#pmb12265" type="person">Friedrich Mitterwurzer</rs> besprochen habe, und zwar mit begeisterter Zustimmung von seiner Seite. Da bei dem Einacter-Cyclus »<rs ref="#pmb32312" type="work"><hi rend="capitals">Morituri</hi></rs>« das Publikum sich geneigt gefunden hat, eine Reihe von einactigen dramatischen Genrebildern für ein Ganzes zu nehmen, wenn sie auch nur durch einen losen Faden mit einander verknüpft sind, so ist mir der Gedanke gekommen, ob nicht Ihr prächtiger »<rs ref="#pmb29935" type="work"><hi rend="capitals">Anatol</hi></rs>« in ähnlicher Weise für das Theater erobert werden könnte. Ich denke mir unter dem Gesammt-Titel »<rs ref="#pmb29935" type="work"><hi rend="capitals">Anatol</hi></rs>«, fünf Capitel aus einem Liebesleben von ARTHUR <hi rend="capitals">Schnitzler</hi>, eine Zusammenfassung etwa der fünf <pb facs="MS-SCHNITZLER-B-00015-000-00018"/>einactigen Plaudereien aus Ihrem Buch: »<rs ref="#pmb30749" type="work"><hi rend="capitals">Eine Frage an das Schicksal</hi></rs>«, — »<rs ref="#pmb30163" type="work"><hi rend="capitals">Weihnachts-Ausverkauf</hi></rs>«, — »<rs ref="#pmb31357" type="work"><hi rend="capitals">Episode</hi></rs>« — <supplied>»</supplied><rs ref="#pmb30005" type="work"><hi rend="capitals">Das Abschiedssouper am Hochzeitsmorgen</hi></rs>«, — und glaube, dass es leicht gelingen könnte, durch Hinzufügung einzelner Sätze, besonders in das erste und letzte Stück dieser Serie einen inneren Halt und volle Abrundung zu geben. <rs ref="#pmb12265" type="person"><hi rend="capitals">Mitterwurzer</hi></rs> ist mit Begeisterung bereit, den <rs ref="#pmb29935" type="work"><hi rend="capitals">Anatol</hi></rs> bei seinem, den ganzen Monat <date>April</date> umfassenden, Gastspiel zur Darstellung zu bringen, und ich bitte freundlichst um Nachricht, wie Sie sich zu dieser Idee stellen würden.</p><closer>Mit besten Grüssen<lb/> Ihr ergebener<lb/><signed><handShift scribe="#pmb14328"/>Dr. Osc. Blumenthal</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb14328">
-                  <tei:persName>
-                     <tei:surname>Blumenthal</tei:surname>
-                     <tei:forename>Oskar</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1852-03-13">13. 3. 1852</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1917-04-24">24. 4. 1917</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12265">
-                  <tei:persName>
-                     <tei:surname>Mitterwurzer</tei:surname>
-                     <tei:forename>Friedrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1844-10-16">16. 10. 1844</tei:date>
-                     <tei:placeName ref="#pmb866">Dresden</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1897-02-13">13. 2. 1897</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb32312">
-                  <tei:author ref="pmb12899" role="author">
-                     <tei:surname>Sudermann</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:author>
-                  <tei:title>Morituri</tei:title>
-                  <tei:date from="1896-01-01" from-custom="1896">1896</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29935">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb28645" role="illustrator">
-                     <tei:surname>Coschell</tei:surname>
-                     <tei:forename>Moritz</tei:forename>
-                     <tei:term>[Illustrationen]</tei:term>
-                  </tei:author>
-                  <tei:author ref="pmb5369" role="translator">
-                     <tei:surname>Granville-Barker</tei:surname>
-                     <tei:forename>Harley</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:title>Anatol</tei:title>
-                  <tei:date when="1892-10-29" when-custom="1892-10-29">29. 10. 1892</tei:date>
-                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb30749">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Die Frage an das Schicksal</tei:title>
-                  <tei:date from="1890-05-01" from-custom="01.05.1890">1. 5. 1890</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-                  <tei:note>2951</tei:note>
-                  <tei:note>5845</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30163">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Weihnachts-Einkäufe</tei:title>
-                  <tei:date from="1891-12-24" from-custom="24.12.1891">24. 12. 1891</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-                  <tei:note>2899</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb31357">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Episode</tei:title>
-                  <tei:date from="1889-09-08" from-custom="8.09.1889">8. 9. 1889</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-                  <tei:note>3017</tei:note>
-                  <tei:note>8983</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30005">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb2242" role="translator">
-                     <tei:surname>Levi</tei:surname>
-                     <tei:forename>Cesare</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:title>Abschiedssouper</tei:title>
-                  <tei:date from="1892-01-01" from-custom="1892">1892</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb168">
-                  <tei:placeName>Berlin</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb35053">
-                  <tei:orgName>Lessing-Theater</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1888-01-01" from-custom="1888" to="1945-04-18" to-custom="4.1945 &lt;1945-04&gt;">1888 – 4.1945 </tei:date>
-                     <tei:gloss ana="i1047">Theaterunternehmen</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb18">
-                     <tei:placeName>Lessing-Theater</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">52.5225 13.376389</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb34999">
-                     <tei:placeName>Kapelle-Ufer</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">52.52315 13.374789</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb168">
-                     <tei:placeName>Berlin</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2019-06-19">Angelegt</change>
+         <change who="MAM" when="2019-06-21">Index check</change>
+         <change who="MAM" when="2019-07-15">Durchsicht</change>
+         <change who="GHS" when="2019-10-25">finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00015-000-00017"/>
+      <graphic url="MS-SCHNITZLER-B-00015-000-00018"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <p rend="center">
+                  <pb facs="MS-SCHNITZLER-B-00015-000-00017"/>
+                  <hi rend="pre-print">
+                     <rs ref="#35053" type="org">
+                        <hi rend="small_caps">Lessing-Theater</hi>
+                     </rs>
+                  </hi>
+               </p>
+               <p rend="center">
+                  <hi rend="pre-print">
+                     <hi rend="small_caps">Director</hi>:</hi>
+                  <space unit="chars" quantity="1"/>
+                  <hi rend="pre-print">
+                     <hi rend="small_caps">Dr.</hi>
+                     <space unit="chars" quantity="1"/>
+                     <hi rend="capitals">Oscar Blumenthal</hi>.</hi>
+               </p>
+               <dateline rend="right">
+                  <hi rend="pre-print">
+                     <rs ref="#168" type="place">Berlin N.W. (40)</rs>, den</hi>
+                  <space unit="chars" quantity="1"/>
+                  <date>14. November 1896</date>.</dateline>
+               <salute rend="center">Werther Herr Doctor!</salute>
+            </opener>
+            <p>Während meiner Anwesenheit in <rs ref="#50" type="place">Wien</rs> habe ich
+                    leider keine Gelegenheit gefunden, Sie zu sehen, und möchte Ihnen deshalb auf
+                    diesem Wege eine Idee unterbreiten, die ich zunächst mit <rs ref="#12265" type="person">Friedrich Mitterwurzer</rs> besprochen habe, und zwar mit
+                    begeisterter Zustimmung von seiner Seite. Da bei dem Einacter-Cyclus »<rs ref="#32312" type="work">
+                  <hi rend="capitals">Morituri</hi>
+               </rs>« das
+                    Publikum sich geneigt gefunden hat, eine Reihe von einactigen dramatischen
+                    Genrebildern für ein Ganzes zu nehmen, wenn sie auch nur durch einen losen Faden
+                    mit einander verknüpft sind, so ist mir der Gedanke gekommen, ob nicht Ihr
+                    prächtiger »<rs ref="#29935" type="work">
+                  <hi rend="capitals">Anatol</hi>
+               </rs>«
+                    in ähnlicher Weise für das Theater erobert werden könnte. Ich denke mir unter
+                    dem Gesammt-Titel »<rs ref="#29935" type="work">
+                  <hi rend="capitals">Anatol</hi>
+               </rs>«, fünf Capitel aus einem Liebesleben von ARTHUR <hi rend="capitals">Schnitzler</hi>, eine Zusammenfassung etwa der fünf <pb facs="MS-SCHNITZLER-B-00015-000-00018"/>einactigen Plaudereien aus Ihrem
+                    Buch: »<rs ref="#30749" type="work">
+                  <hi rend="capitals">Eine Frage an das
+                            Schicksal</hi>
+               </rs>«, — »<rs ref="#30163" type="work">
+                  <hi rend="capitals">Weihnachts-Ausverkauf</hi>
+               </rs>«, — »<rs ref="#31357" type="work">
+                  <hi rend="capitals">Episode</hi>
+               </rs>« — <supplied>»</supplied>
+               <rs ref="#30005" type="work">
+                  <hi rend="capitals">Das Abschiedssouper am
+                            Hochzeitsmorgen</hi>
+               </rs>«, — und glaube, dass es leicht gelingen
+                    könnte, durch Hinzufügung einzelner Sätze, besonders in das erste und letzte
+                    Stück dieser Serie einen inneren Halt und volle Abrundung zu geben. <rs ref="#12265" type="person">
+                  <hi rend="capitals">Mitterwurzer</hi>
+               </rs> ist
+                    mit Begeisterung bereit, den <rs ref="#29935" type="work">
+                  <hi rend="capitals">Anatol</hi>
+               </rs> bei seinem, den ganzen Monat <date>April</date>
+                    umfassenden, Gastspiel zur Darstellung zu bringen, und ich bitte freundlichst um
+                    Nachricht, wie Sie sich zu dieser Idee stellen würden.</p>
+            <closer>Mit besten Grüssen<lb/> Ihr ergebener<lb/>
+               <signed>
+                  <handShift scribe="#14328"/>Dr. Osc. Blumenthal</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

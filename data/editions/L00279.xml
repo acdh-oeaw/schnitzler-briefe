@@ -1,97 +1,233 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00279" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, 3. 11. 1893</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L00279</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00279"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Hermann Bahr, 3. 11. 1893</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+            <idno type="asbw">L00279</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 23322 Ba</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter">Briefpapier mit Trauerrand</desc><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="archival"><desc>Lochung</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="DASB"><analytic><title level="a">3. 11. 1893</title></analytic><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title><editor>Edited, annotated, and with an introduction, by Donald G.
-                        Daviau</editor><imprint><pubPlace>Chapel Hill</pubPlace><publisher>The University of North Carolina Press</publisher><date when="1978">1978</date></imprint><biblScope unit="pp">57</biblScope></monogr><series><title level="s">University of North Carolina studies in the Germanic languages
-                        and literatures</title><biblScope unit="nr">89</biblScope></series></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">46</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1893-11-03" n="02">3. 11. 1893</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L00278">Bahr an
-                  Schnitzler, 3. 11. 1893</ref><ref subtype="next_letter" type="withinCollection" target="L00280">Schnitzler an
-                  Bahr, 7. 11. 1893</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00278">Bahr an
-                  Schnitzler, 3. 11. 1893</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00280">Schnitzler an
-                  Bahr, 7. 11. 1893</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Theatermuseum</repository>
+                        <idno>HS AM 23322 Ba</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="brief"/>
+                           <desc n="1" type="_blaetter">Briefpapier mit Trauerrand</desc>
+                           <desc n="3" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="archival">
+                              <desc>Lochung</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="DASB">
+                  <analytic>
+                     <title level="a">3. 11. 1893</title>
+                  </analytic>
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
+                     <editor>Edited, annotated, and with an introduction, by Donald G.
+                        Daviau</editor>
+                     <imprint>
+                        <pubPlace>Chapel Hill</pubPlace>
+                        <publisher>The University of North Carolina Press</publisher>
+                        <date when="1978">1978</date>
+                     </imprint>
+                     <biblScope unit="pp">57</biblScope>
+                  </monogr>
+                  <series>
+                     <title level="s">University of North Carolina studies in the Germanic languages
+                        and literatures</title>
+                     <biblScope unit="nr">89</biblScope>
+                  </series>
+               </biblStruct>
+               <biblStruct corresp="HBAS">
+                  <monogr>
+                     <author ref="#10815">Bahr, Hermann</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
+                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
+                     <imprint>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Wallstein</publisher>
+                        <date when="2018">2018</date>
+                     </imprint>
+                     <biblScope unit="pp">46</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1893-11-03" n="02">3. 11. 1893</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#10815">Bahr, Hermann</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00278">Bahr an
+                  Schnitzler, 3. 11. 1893</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00280">Schnitzler an
+                  Bahr, 7. 11. 1893</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L00278">Bahr an
+                  Schnitzler, 3. 11. 1893</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00280">Schnitzler an
+                  Bahr, 7. 11. 1893</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="KI MAM" when="2017-05-02">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2019-03-09"><c rendition="#langesS">s</c>, @facs, Nummerierungen, Seitenzahlen ergänzt</change><change who="GHS" when="2019-10-03">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23322_Ba"/><graphic url="HS_AM23322_Ba_R"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="https://www.theatermuseum.at/de/object/29fbc21724/"/>Lieber Freund,</salute></opener><p>ich beiße bereits<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eit einigen Tagen in den<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>auren Apfel, und werde mein Ver<c rendition="#langesS">s</c>prechen halten. Es i<c rendition="#langesS">s</c>t nur wie ein Verhängnis, da<c rendition="#langesS">s</c>s mir nichts nach Wunsch gelingen will. Es i<c rendition="#langesS">s</c>t, wie we<c rendition="#gemination-n"/> mich die Empfindung: »man erwartet es von Dir« lähmte. –</p><p>– Seit ich Feuilletons<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll, hab ich eine ewige unbezwingliche Lu<c rendition="#langesS">s</c>t, fünfactige Trauer<pb facs="https://www.theatermuseum.at/de/object/29fbc21724/"/><c rendition="#langesS">s</c>piele zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben. Wirken Sie dahin, d<c rendition="#langesS">s</c>s <hi rend="latintype"><rs ref="#pmb11036" type="person">Burkhardt</rs></hi> eines von mir fordert – ich werde die<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chönste <rs ref="#pmb50" type="place">Wien</rs>er Ge<c rendition="#langesS">s</c>chichte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben.</p><p>Im übrigen haben Sie Din<c rendition="#langesS">s</c>tag oder<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>pätestens Mittwoch das bewußte <rs type="work" ref="#pmb29819" subtype="implied">Eingangsfeuilleton</rs>. Eventuell werden Sie das Bedürfnis haben es zu ändern, wogegen ich principiell nichts einzuwenden habe. – (Nur müßt’ ich natürlich wi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en, wie, wo, <hi rend="latintype">etc.</hi>)</p><p><pb facs="https://www.theatermuseum.at/de/object/29fbc21724/"/>Vielleicht werd ich auch noch im Stande<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, Ihnen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tatt des <hi rend="latintype"><anchor xml:id="K_L00279_1" type="commentary"/><rs ref="#pmb29821" type="work">Artifex</rs><note xml:id="K_L00279_1h" type="commentary"><rs ref="#pmb29821" type="work">Artifex</rs>, allegorisches Gedicht in Jamben, entstanden im <date>Sommer 1893</date>, unveröffentlicht (<bibl><publisher>Cambridge University Library</publisher>, Schnitzler, A 49</bibl>). Eine Überarbeitung fand am <ref type="schnitzlerDiary" target="1893-11-19" subtype="date-only"/> statt.</note></hi> was ge<c rendition="#langesS">s</c>cheidteres zu geben. Wollen Sie mir ihn nicht vorläufig zurückleihen, damit ich zum minde<c rendition="#langesS">s</c>ten die bö<c rendition="#langesS">s</c>e<c rendition="#langesS">s</c>ten Ver<c rendition="#langesS">s</c>e in ein behaglicheres Deut<c rendition="#langesS">s</c>ch übertrage? – </p><closer>– Herzlichen Gru<c rendition="#langesS">s</c>s<lb/>Ihr sehr ergebner<lb/><signed>Arthur Schnitzler.</signed></closer><postscript><dateline><rs ref="#pmb50" type="place">Wien</rs><space unit="chars" quantity="1"/><date when="1893-09-03">3. XI. 93.</date></dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10815">
-                  <tei:persName>
-                     <tei:surname>Bahr</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb11036">
-                  <tei:persName>
-                     <tei:surname>Burckhard</tei:surname>
-                     <tei:forename>Max Eugen</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1854-07-14">14. 7. 1854</tei:date>
-                     <tei:placeName ref="#pmb11037">Korneuburg</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1912-03-16">16. 3. 1912</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="102">Rechtswissenschaftler*in</occupation>
-                  <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb29819">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Spaziergang</tei:title>
-                  <tei:date from="1893-12-06" from-custom="06.12.1893">6. 12. 1893</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-                  <tei:note>2834</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb29821">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Artifex</tei:title>
-                  <tei:date from="1893-01-01" from-custom="1893">1893</tei:date>
-                  <tei:gloss type="w1067">Gedicht</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="KI MAM" when="2015-10-01">Kollationiert</change>
+         <change who="KI MAM" when="2017-05-02">Kollationiert</change>
+         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
+         <change who="GHS" when="2019-03-09">ſ, @facs, Nummerierungen, Seitenzahlen ergänzt</change>
+         <change who="GHS" when="2019-10-03">finalisiert</change>
+         <change who="MAM" when="2019-01-20">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="HS_AM23322_Ba"/>
+      <graphic url="HS_AM23322_Ba_R"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <salute>
+                  <pb facs="https://www.theatermuseum.at/de/object/29fbc21724/"/>Lieber
+                  Freund,</salute>
+            </opener>
+            <p>ich beiße bereits ſeit einigen Tagen in den ſauren Apfel, und werde mein Verſprechen
+               halten. Es iſt nur wie ein Verhängnis, daſs mir nichts nach Wunsch gelingen will. Es
+               iſt, wie we<c rendition="#gemination-n"/> mich die Empfindung: »man erwartet es von
+               Dir« lähmte. –</p>
+            <p>– Seit ich Feuilletons ſchreiben ſoll, hab ich eine ewige unbezwingliche Luſt,
+               fünfactige Trauer<pb facs="https://www.theatermuseum.at/de/object/29fbc21724/"
+               />ſpiele zu ſchreiben. Wirken Sie dahin, dſs <hi rend="latintype">
+                  <rs ref="#11036" type="person">Burkhardt</rs>
+               </hi> eines von mir fordert – ich werde die ſchönste <rs ref="#50" type="place"
+                  >Wien</rs>er Geſchichte ſchreiben.</p>
+            <p>Im übrigen haben Sie Dinſtag oder ſpätestens Mittwoch das bewußte <rs type="work"
+                  ref="#29819" subtype="implied">Eingangsfeuilleton</rs>. Eventuell werden Sie das
+               Bedürfnis haben es zu ändern, wogegen ich principiell nichts einzuwenden habe. – (Nur
+               müßt’ ich natürlich wiſſen, wie, wo, <hi rend="latintype">etc.</hi>)</p>
+            <p>
+               <pb facs="https://www.theatermuseum.at/de/object/29fbc21724/"/>Vielleicht werd ich
+               auch noch im Stande ſein, Ihnen ſtatt des <hi rend="latintype">
+                  <anchor xml:id="K_L00279_1" type="commentary"/>
+                  <rs ref="#29821" type="work">Artifex</rs>
+                  <note xml:id="K_L00279_1h" type="commentary">
+                     <rs ref="#29821" type="work">Artifex</rs>, allegorisches Gedicht in Jamben,
+                     entstanden im <date>Sommer 1893</date>, unveröffentlicht (<bibl>
+                        <publisher>Cambridge University Library</publisher>, Schnitzler, A 49</bibl>). Eine Überarbeitung
+                     fand am <ref type="schnitzlerDiary"
+                        target="1893-11-19" subtype="date-only"/> statt.</note>
+               </hi> was geſcheidteres zu geben. Wollen Sie mir ihn nicht vorläufig zurückleihen,
+               damit ich zum mindeſten die böſeſten Verſe in ein behaglicheres Deutſch übertrage? – </p>
+            <closer>– Herzlichen Gruſs<lb/>Ihr sehr ergebner<lb/>
+               <signed>Arthur Schnitzler.</signed>
+            </closer>
+            <postscript>
+               <dateline>
+                  <rs ref="#50" type="place">Wien</rs>
+                  <space unit="chars" quantity="1"/>
+                  <date when="1893-09-03">3. XI. 93.</date>
+               </dateline>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

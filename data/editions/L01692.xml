@@ -1,175 +1,204 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01692" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Max Mell an Arthur Schnitzler, 15. 7. 1907</title><author ref="#pmb12225">Mell, Max</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01692</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L01692"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Max Mell an Arthur Schnitzler, 15. 7. 1907</title>
+            <author ref="#12225">Mell, Max</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L01692</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 70</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="1" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Mell</hi></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb12225">Mell, Max</persName><placeName ref="#pmb50">Wien</placeName><date when="1907-07-15" n="01">15. 7. 1907</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb12225">Mell, Max</ref><ref subtype="previous_letter" type="withinCollection" target="L01691">Schnitzler an Beer-Hofmann, 14. 7. 1907</ref><ref subtype="next_letter" type="withinCollection" target="L01693">Schnitzler, Schnitzler, Hofmannsthal, Hofmannsthal an Mell, [18.? 7. 1907]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01636">Mell an Schnitzler, 7. 11. 1906</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01693">Schnitzler, Schnitzler, Hofmannsthal, Hofmannsthal an Mell, [18.? 7. 1907]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                            Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 70</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="1" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift beschriftet: »<quote>
+                                    <hi rend="latintype">Mell</hi>
+                                 </quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#12225">Mell, Max</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1907-07-15" n="01">15. 7. 1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#12225">Mell, Max</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01691">Schnitzler an Beer-Hofmann, 14. 7. 1907</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01693">Schnitzler, Schnitzler, Hofmannsthal, Hofmannsthal an Mell, [18.? 7. 1907]</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L01636">Mell an Schnitzler, 7. 11. 1906</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01693">Schnitzler, Schnitzler, Hofmannsthal, Hofmannsthal an Mell, [18.? 7. 1907]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-11-24">Angelegt</change><change who="MAM" when="2021-02-11">Index check</change><change who="MAM" when="2021-03-02">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00070-000-00007"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-00070-000-00007"/><date>15/VII.</date></seg><seg rend="right"><date>1907</date></seg></p><p rend="center"><hi rend="pre-print">WW WIENER</hi></p><p rend="center"><hi rend="pre-print"><rs type="org" ref="#pmb40016">WERKSTÆTTE</rs></hi></p><p rend="center"><hi rend="pre-print"><rs type="place" ref="#pmb57">7</rs></hi></p><p rend="center"><hi rend="pre-print"><rs type="place" ref="#pmb50568">NEUSTIFTGASSE</rs></hi></p><p rend="center"><hi rend="pre-print">32</hi></p><salute>Sehr verehrter Herr Doktor,</salute></opener><p>im Herb<c rendition="#langesS">s</c>t will die »<rs type="org" ref="#pmb40016">Wiener Werk<c rendition="#langesS">s</c>tätte</rs>« einen <anchor xml:id="K_L01692_1" type="commentary"/>Almanach<note xml:id="K_L01692_1h" type="commentary">In der hier präsentierten Form kam der Almanach nicht zustande. Erst <date>1911</date> erschien ein solcher Almanach.</note> »<rs type="work" ref="#pmb50960" subtype="implied">Die Frau</rs>« herausgeben, ich bin mit der Redaktion betraut und bitte Sie nun, mich mit einem Beitrag zu unter<c rendition="#langesS">s</c>tützen. Hoffentlich können Sie mir die<c rendition="#langesS">s</c>e Freude machen! Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oll die Ein<c rendition="#langesS">s</c>endungen bis Anfang September bei<c rendition="#langesS">s</c>ammen haben, was<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon etwas knapp i<c rendition="#langesS">s</c>t, aber <rs type="person" ref="#pmb27386">Waerndorfer</rs> und <rs type="person" ref="#pmb7891">Hoffmann</rs> konnten<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olange nicht ent<c rendition="#langesS">s</c>chließen. Es i<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>tver<c rendition="#langesS">s</c>tändlig, daß Sie nur in die be<c rendition="#langesS">s</c>te Ge<c rendition="#langesS">s</c>ellschaft kommen.</p><p>Es war mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr leid, Sie nicht mehr ge<c rendition="#langesS">s</c>ehen zu haben. So wün<c rendition="#langesS">s</c>ch ich Ihnen und Ihrer verehrten <rs type="person" ref="#pmb2173" subtype="implied">Frau</rs><tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chriftlich, aber nicht minder herzlich recht angenehmen Sommer. – Ich bleib noch da, <rs type="person" ref="#pmb5765">Mary</rs> i<c rendition="#langesS">s</c>t in <rs type="place" ref="#pmb35512">Ungarn</rs>.</p><closer>Mit den be<c rendition="#langesS">s</c>ten Empfehlungen<lb/>Ihr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr ergebener<lb/><signed>Max Mell.</signed></closer><p><rs type="place" ref="#pmb1238">II. Wittelsbach<c rendition="#langesS">s</c>tr. 5</rs>.</p></div></body><back><listPerson><tei:person xml:id="pmb12225">
-                  <tei:persName>
-                     <tei:surname>Mell</tei:surname>
-                     <tei:forename>Max</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1882-11-10">10. 11. 1882</tei:date>
-                     <tei:placeName ref="#pmb4897">Marburg</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1971-12-13">13. 12. 1971</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb27386">
-                  <tei:persName>
-                     <tei:surname>Wärndorfer</tei:surname>
-                     <tei:forename>Friedrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1868-05-05">5. 5. 1868</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-08-09">9. 8. 1939</tei:date>
-                     <tei:placeName ref="#pmb48133">Bryn Mawr</tei:placeName>
-                  </tei:death>
-                  <occupation code="152">Industrielle/r</occupation>
-               </tei:person><tei:person xml:id="pmb7891">
-                  <tei:persName>
-                     <tei:surname>Hoffmann</tei:surname>
-                     <tei:forename>Josef</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1831-07-22">22. 7. 1831</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1904-01-31">31. 1. 1904</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="110">Maler*in</occupation>
-               </tei:person><tei:person xml:id="pmb2173">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Olga</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
-                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
-                  </tei:death>
-                  <occupation code="107">Sänger*in</occupation>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb5765">
-                  <tei:persName>
-                     <tei:surname>Mell</tei:surname>
-                     <tei:forename>Maria</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1885-07-12">12. 7. 1885</tei:date>
-                     <tei:placeName ref="#pmb49947">Maribor</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1954-10-29">29. 10. 1954</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb50960">
-                  <tei:author ref="pmb12225" role="editor">
-                     <tei:surname>Mell</tei:surname>
-                     <tei:forename>Max</tei:forename>
-                     <tei:term>[Herausgeber*in]</tei:term>
-                  </tei:author>
-                  <tei:title>Almanach der Wiener Werkstätte</tei:title>
-                  <tei:date when="1911-07-02" when-custom="1911">1911</tei:date>
-                  <tei:gloss type="w1223">Jahrbuch</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb57">
-                  <tei:placeName>VII., Neubau</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2 16.35</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50568">
-                  <tei:placeName>Neustiftgasse</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.20541 16.35096</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb35512">
-                  <tei:placeName>Ungarn</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1107">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.0 20.0</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb1238">
-                  <tei:placeName>Wittelsbachstraße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.20635 16.39925</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb40016">
-                  <tei:orgName>Wiener Werkstätte</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1903-01-01" from-custom="1903" to="1932-01-01" to-custom="1932">1903–1932</tei:date>
-                     <tei:gloss ana="i1353">Produktionsgemeinschaft</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb50568">
-                     <tei:placeName>Neustiftgasse</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.20541 16.35096</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2020-11-24">Angelegt</change>
+         <change who="MAM" when="2021-02-11">Index check</change>
+         <change who="MAM" when="2021-03-02">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00070-000-00007"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <p>
+                  <seg rend="left">
+                     <pb facs="MS-SCHNITZLER-B-00070-000-00007"/>
+                     <date>15/VII.</date>
+                  </seg>
+                  <seg rend="right">
+                     <date>1907</date>
+                  </seg>
+               </p>
+               <p rend="center">
+                  <hi rend="pre-print">WW WIENER</hi>
+               </p>
+               <p rend="center">
+                  <hi rend="pre-print">
+                     <rs type="org" ref="#40016">WERKSTÆTTE</rs>
+                  </hi>
+               </p>
+               <p rend="center">
+                  <hi rend="pre-print">
+                     <rs type="place" ref="#57">7</rs>
+                  </hi>
+               </p>
+               <p rend="center">
+                  <hi rend="pre-print">
+                     <rs type="place" ref="#50568">NEUSTIFTGASSE</rs>
+                  </hi>
+               </p>
+               <p rend="center">
+                  <hi rend="pre-print">32</hi>
+               </p>
+               <salute>Sehr verehrter Herr Doktor,</salute>
+            </opener>
+            <p>im Herbſt will die »<rs type="org" ref="#40016">Wiener Werkſtätte</rs>« einen
+                        <anchor xml:id="K_L01692_1" type="commentary"/>Almanach<note xml:id="K_L01692_1h" type="commentary">In der hier präsentierten Form kam
+                        der Almanach nicht zustande. Erst <date>1911</date> erschien ein solcher Almanach.</note> »<rs type="work" ref="#50960" subtype="implied">Die Frau</rs>« herausgeben, ich
+                    bin mit der Redaktion betraut und bitte Sie nun, mich mit einem Beitrag zu
+                    unterſtützen. Hoffentlich können Sie mir dieſe Freude machen! Ich ſoll die
+                    Einſendungen bis Anfang September beiſammen haben, was ſchon etwas knapp iſt,
+                    aber <rs type="person" ref="#27386">Waerndorfer</rs> und <rs type="person" ref="#7891">Hoffmann</rs> konnten ſich ſolange nicht entſchließen. Es iſt
+                    ſelbſtverſtändlig, daß Sie nur in die beſte Geſellschaft kommen.</p>
+            <p>Es war mir ſehr leid, Sie nicht mehr geſehen zu haben. So wünſch ich Ihnen und
+                    Ihrer verehrten <rs type="person" ref="#2173" subtype="implied">Frau</rs>
+                    ſchriftlich, aber nicht minder herzlich recht angenehmen Sommer. – Ich bleib
+                    noch da, <rs type="person" ref="#5765">Mary</rs> iſt in <rs type="place" ref="#35512">Ungarn</rs>.</p>
+            <closer>Mit den beſten Empfehlungen<lb/>Ihr ſehr ergebener<lb/>
+               <signed>Max Mell.</signed>
+            </closer>
+            <p>
+               <rs type="place" ref="#1238">II. Wittelsbachſtr. 5</rs>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

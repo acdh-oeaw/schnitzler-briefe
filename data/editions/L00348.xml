@@ -1,147 +1,231 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00348" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Karl Kraus an Arthur Schnitzler, 8. 7. 1894</title><author ref="#pmb11988">Kraus, Karl</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00348</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00348"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Karl Kraus an Arthur Schnitzler, 8. 7. 1894</title>
+            <author ref="#11988">Kraus, Karl</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00348</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 55</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="postkarte"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb213">Ischl</placeName><date when="1894-07-09">9/7 94</date><time>7–F</time></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb59">Wien 9/<unclear>3</unclear></placeName><date when="1894-07-10">10. 7. 94</date><time>8.V</time><addSpan>Beste<supplied>llt</supplied></addSpan></stamp></desc></incident><incident type="receiver"><desc>mit Bleistift datiert: »<quote><date>9/7 94</date></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct><analytic><title level="a">Karl Kraus und Arthur Schnitzler. Eine
-                                Dokumentation</title><editor>Hg. Reinhard Urbach</editor></analytic><monogr><title level="j">Literatur und Kritik</title><imprint><date when="1970-10">Oktober 1970</date></imprint><biblScope unit="vol">49</biblScope><biblScope unit="pp">521</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11988">Kraus, Karl</persName><placeName ref="#pmb213">Bad Ischl</placeName><date when="1894-07-08" n="01">9. 7. 1894</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1894-07-10">10. 7. 1894</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11988">Kraus, Karl</ref><ref subtype="previous_letter" type="withinCollection" target="L00347">Beer-Hofmann an Schnitzler, 5. 7. 1894</ref><ref subtype="next_letter" type="withinCollection" target="L00349">Beer-Hofmann an Schnitzler, [10. 7. 1894]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00345">Kraus an Schnitzler, 2. 7. 1894</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00432">Kraus an Schnitzler, 25. 4. 1895</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 55</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="postkarte"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="bleistift" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="1">
+                                    <placeName ref="#213">Ischl</placeName>
+                                    <date when="1894-07-09">9/7 94</date>
+                                    <time>7–F</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="2">
+                                    <placeName ref="#59">Wien 9/<unclear>3</unclear>
+                                    </placeName>
+                                    <date when="1894-07-10">10. 7. 94</date>
+                                    <time>8.V</time>
+                                    <addSpan>Beste<supplied>llt</supplied>
+                                    </addSpan>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="receiver">
+                              <desc>mit Bleistift datiert: »<quote>
+                                    <date>9/7 94</date>
+                                 </quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct>
+                  <analytic>
+                     <title level="a">Karl Kraus und Arthur Schnitzler. Eine
+                                Dokumentation</title>
+                     <editor>Hg. Reinhard Urbach</editor>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Literatur und Kritik</title>
+                     <imprint>
+                        <date when="1970-10">Oktober 1970</date>
+                     </imprint>
+                     <biblScope unit="vol">49</biblScope>
+                     <biblScope unit="pp">521</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#11988">Kraus, Karl</persName>
+               <placeName ref="#213">Bad Ischl</placeName>
+               <date when="1894-07-08" n="01">9. 7. 1894</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1894-07-10">10. 7. 1894</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11988">Kraus, Karl</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00347">Beer-Hofmann an Schnitzler, 5. 7. 1894</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00349">Beer-Hofmann an Schnitzler, [10. 7. 1894]</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00345">Kraus an Schnitzler, 2. 7. 1894</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00432">Kraus an Schnitzler, 25. 4. 1895</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-11-23">Angelegt</change><change who="MAM" when="2018-11-21">Index check</change><change who="GHS" when="2019-04-04">Korrektur gelesen, facs aktualisiert,
-                finalisiert</change><change who="GHS" when="2019-10-05">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00055-000-00021"/><graphic url="MS-SCHNITZLER-B-00055-000-00022"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00055-000-00021"/>Herrn</addrLine><addrLine>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb59" type="place">Wien IX.</rs></addrLine><addrLine><rs ref="#pmb397" type="place">Frankgasse 1</rs></addrLine></address></div><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00055-000-00022"/><salute>Lieber Schnitzler, </salute>im »<rs ref="#pmb41507" type="work">Prager Tagblatt</rs>« vom <date><hi rend="underline" n="1">Samstag</hi>, 7.</date><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>teht eine (halb gün<c rendition="#langesS">s</c>tige) <anchor xml:id="K_L00348_1" type="commentary"/><rs type="work" ref="#pmb33540" subtype="implied">Kritik</rs><note xml:id="K_L00348_1h" type="commentary"><bibl>[O. V.:] <rs ref="#pmb33540" type="work">Das Märchen</rs>. In: <rs ref="#pmb41507" type="work">Prager Tagblatt</rs>, Jg. 18, Nr. 185, <date>7. 7. 1894</date>, S. 8</bibl>.</note> Ihres »<rs ref="#pmb29823" type="work">Märchen</rs>«. Ich wollt’ Ihnen den Ausschnitt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicken, erfahre aber eben, da<c rendition="#langesS">s</c>s das Blatt hier subabonniert ist. Seien Sie mir herzlichst gegrüßt! Hoffentlich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehen wir uns bald. Ihr <signed>Kraus,</signed></p><postscript><dateline><supplied>(</supplied><rs ref="#pmb1220" type="place">Ischl, Grazer<c rendition="#langesS">s</c>tr 133</rs>, <rs ref="#pmb416" type="place">Café Walter</rs>, <date>8. VII.)</date></dateline><p><anchor xml:id="T_L00348_1" type="textConst"/>Der kl. <rs ref="#pmb12564" type="person"><hi rend="underline" n="1">Rosner</hi></rs> fragt mich heute nach Ihrer Adre<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e; er will Ihnen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eine »<rs ref="#pmb33536" type="work">Gefühle</rs>«<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicken.<note xml:id="T_L00348_1h" type="textConst">quer am rechten Rand</note></p></postscript></div></body><back><listPerson><tei:person xml:id="pmb11988">
-                  <tei:persName>
-                     <tei:surname>Kraus</tei:surname>
-                     <tei:forename>Karl</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-04-28">28. 4. 1874</tei:date>
-                     <tei:placeName ref="#pmb41660">Jičín</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1936-06-12">12. 6. 1936</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="237">Publizist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12564">
-                  <tei:persName>
-                     <tei:surname>Rosner</tei:surname>
-                     <tei:forename>Karl Peter</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1873-02-05">5. 2. 1873</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1951-05-06">6. 5. 1951</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb41507">
-                  <tei:title>Prager Tagblatt</tei:title>
-                  <tei:date from="1876-01-01" from-custom="1876" to="1939-01-01" to-custom="1939">1876–1939</tei:date>
-                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb33540">
-                  <tei:author ref="pmb27659" role="author">
-                     <tei:surname>anonym</tei:surname>
-                     <tei:forename/>
-                  </tei:author>
-                  <tei:title>Das Märchen</tei:title>
-                  <tei:date from="1894-07-07" from-custom="07.07.1894">7. 7. 1894</tei:date>
-                  <tei:gloss type="w1131">Rezension</tei:gloss>
-                  <tei:note>3400</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb29823">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Das Märchen. Schauspiel in drei Aufzügen</tei:title>
-                  <tei:date when="1891-01-01" when-custom="1891">1891</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>6299</tei:note>
-                  <tei:note>8984</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb33536">
-                  <tei:author ref="pmb12564" role="author">
-                     <tei:surname>Rosner</tei:surname>
-                     <tei:forename>Karl Peter</tei:forename>
-                  </tei:author>
-                  <tei:title>Gefühle</tei:title>
-                  <tei:date from="1894-01-01" from-custom="1894">1894</tei:date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb213">
-                  <tei:placeName>Bad Ischl</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb59">
-                  <tei:placeName>IX., Alsergrund</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb397">
-                  <tei:placeName>Frankgasse</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb1220">
-                  <tei:placeName>Grazer Straße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.70918 13.62156</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb416">
-                  <tei:placeName>Café Walther</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i20">Kaffeehaus</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.709528 13.618338</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2018-11-23">Angelegt</change>
+         <change who="MAM" when="2018-11-21">Index check</change>
+         <change who="GHS" when="2019-04-04">Korrektur gelesen, facs aktualisiert,
+                finalisiert</change>
+         <change who="GHS" when="2019-10-05">finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00055-000-00021"/>
+      <graphic url="MS-SCHNITZLER-B-00055-000-00022"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="MS-SCHNITZLER-B-00055-000-00021"/>Herrn</addrLine>
+               <addrLine>D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine>
+               <addrLine>
+                  <rs ref="#59" type="place">Wien IX.</rs>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#397" type="place">Frankgasse 1</rs>
+               </addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <p>
+               <pb facs="MS-SCHNITZLER-B-00055-000-00022"/>
+               <salute>Lieber Schnitzler, </salute>im »<rs ref="#41507" type="work">Prager
+                        Tagblatt</rs>« vom <date>
+                  <hi rend="underline" n="1">Samstag</hi>, 7.</date>
+               <space unit="chars" quantity="1"/>ſteht eine (halb günſtige) <anchor xml:id="K_L00348_1" type="commentary"/>
+               <rs type="work" ref="#33540" subtype="implied">Kritik</rs>
+               <note xml:id="K_L00348_1h" type="commentary">
+                  <bibl>[O. V.:] <rs ref="#33540" type="work">Das Märchen</rs>. In: <rs ref="#41507" type="work">Prager Tagblatt</rs>, Jg. 18, Nr. 185,
+                                <date>7. 7. 1894</date>, S. 8</bibl>.</note> Ihres »<rs ref="#29823" type="work">Märchen</rs>«. Ich wollt’ Ihnen den Ausschnitt ſchicken, erfahre
+                    aber eben, daſs das Blatt hier subabonniert ist. Seien Sie mir herzlichst
+                    gegrüßt! Hoffentlich ſehen wir uns bald. Ihr <signed>Kraus,</signed>
+            </p>
+            <postscript>
+               <dateline>
+                  <supplied>(</supplied>
+                  <rs ref="#1220" type="place">Ischl, Grazerſtr 133</rs>, <rs ref="#416" type="place">Café Walter</rs>, <date>8. VII.)</date>
+               </dateline>
+               <p>
+                  <anchor xml:id="T_L00348_1" type="textConst"/>Der kl. <rs ref="#12564" type="person">
+                     <hi rend="underline" n="1">Rosner</hi>
+                  </rs> fragt mich heute nach Ihrer Adreſſe; er will Ihnen ſeine »<rs ref="#33536" type="work">Gefühle</rs>« ſchicken.<note xml:id="T_L00348_1h" type="textConst">quer am rechten Rand</note>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

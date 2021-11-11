@@ -1,167 +1,226 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01013" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 15. 2. 1900</title><author ref="#pmb10863">Beer-Hofmann, Richard</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01013</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L01013"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 15. 2. 1900</title>
+            <author ref="#10863">Beer-Hofmann, Richard</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L01013</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="bildpostkarte"/></objectDesc><handDesc><handNote medium="blauer_buntstift" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb41022">Pegli (<rs type="place" ref="#pmb994">Genova</rs>)</placeName><date>15 2 00</date></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb59">Wien 9/3</placeName><date>17. 2. 00</date><time>8.V</time></stamp></desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>149</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">140</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb41022">Pegli</placeName><date when="1900-02-15" n="01">15. 2. 1900</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1900-02-17">17. 2. 1900</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01012">Schnitzler an Brandes, 11. 2. 1900</ref><ref subtype="next_letter" type="withinCollection" target="L01014">Schnitzler an Beer-Hofmann, 17. 2. 1900</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01011">Beer-Hofmann an Schnitzler, [7.?] 2. 1900</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01014">Schnitzler an Beer-Hofmann, 17. 2. 1900</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 8</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="bildpostkarte"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="blauer_buntstift" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="1">
+                                    <placeName ref="#41022">Pegli (<rs type="place" ref="#994">Genova</rs>)</placeName>
+                                    <date>15 2 00</date>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="2">
+                                    <placeName ref="#59">Wien 9/3</placeName>
+                                    <date>17. 2. 00</date>
+                                    <time>8.V</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>149</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASBH">
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <author ref="#10863">Beer-Hofmann, Richard</author>
+                     <title level="m">Briefwechsel 1891–1931</title>
+                     <editor>Hg. Konstanze Fliedl</editor>
+                     <imprint>
+                        <pubPlace>Wien, Zürich</pubPlace>
+                        <publisher>Europaverlag</publisher>
+                        <date when="1992">1992</date>
+                     </imprint>
+                     <biblScope unit="pp">140</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10863">Beer-Hofmann, Richard</persName>
+               <placeName ref="#41022">Pegli</placeName>
+               <date when="1900-02-15" n="01">15. 2. 1900</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1900-02-17">17. 2. 1900</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01012">Schnitzler an Brandes, 11. 2. 1900</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01014">Schnitzler an Beer-Hofmann, 17. 2. 1900</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L01011">Beer-Hofmann an Schnitzler, [7.?] 2. 1900</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01014">Schnitzler an Beer-Hofmann, 17. 2. 1900</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2020-01-04">angelegt aus Faksimile</change><change who="MAM" when="2020-01-07">Durchsicht</change><change who="MAM" when="2020-01-07">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00330"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00331"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00330"/><hi rend="pre-print">A</hi>n D<hi rend="superscript">r</hi> Arthur Schnitzler</addrLine><addrLine><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><rs ref="#pmb397" type="place">IX Frankgasse 1</rs></addrLine><addrLine><rs ref="#pmb41240" type="place">Austria</rs></addrLine></address></div><div type="writingSession" n="1"><opener><p rend="center"><hi rend="pre-print"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00331"/><rs type="work" ref="#pmb44643">La Vergine col Figlio</rs> (<rs type="person" ref="#pmb20935">A. Mantegna</rs>)</hi></p><p><seg rend="left"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00331"/><hi rend="pre-print"><rs type="place" ref="#pmb886">Milano</rs></hi></seg><seg rend="right"><rs type="place" ref="#pmb41022">Pegli</rs><space unit="chars" quantity="1"/><date when="1900-02-15">15/II 1900</date></seg></p></opener><p><salute>Lieber Arthur! </salute>Ich möchte wissen, I. Was Sie machen, II. Wie <rs type="person" ref="#pmb11485">Paul</rs>s Adresse ist. III Ob sein Onkel <rs type="person" ref="#pmb4986">Fedor M.</rs> heißt. IV Ob Sie nach <rs type="place" ref="#pmb40306">Italien</rs> gehen. Ich grüße Sie herzlich</p><closer>Ihr<signed>Richard.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb20935">
-                  <tei:persName>
-                     <tei:surname>Mantegna</tei:surname>
-                     <tei:forename>Andrea</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1431-07-02">1431</tei:date>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1506-09-13">13. 9. 1506</tei:date>
-                     <tei:placeName ref="#pmb48637">Mantova</tei:placeName>
-                  </tei:death>
-                  <occupation code="110">Maler*in</occupation>
-               </tei:person><tei:person xml:id="pmb11485">
-                  <tei:persName>
-                     <tei:surname>Goldmann</tei:surname>
-                     <tei:forename>Paul</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1865-01-31">31. 1. 1865</tei:date>
-                     <tei:placeName ref="#pmb677">Breslau</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1935-09-25">25. 9. 1935</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb4986">
-                  <tei:persName>
-                     <tei:surname>Mamroth</tei:surname>
-                     <tei:forename>Fedor</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1851-02-21">21. 2. 1851</tei:date>
-                     <tei:placeName ref="#pmb677">Breslau</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1907-06-25">25. 6. 1907</tei:date>
-                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
-                  </tei:death>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb44643">
-                  <tei:author ref="pmb20935" role="author">
-                     <tei:surname>Mantegna</tei:surname>
-                     <tei:forename>Andrea</tei:forename>
-                  </tei:author>
-                  <tei:title>Madonna mit den Cherubin</tei:title>
-                  <tei:date from="1485-01-01" from-custom="1485">1485</tei:date>
-                  <tei:gloss type="w1080">Gemälde</tei:gloss>
-                  <tei:note>7015</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb41022">
-                  <tei:placeName>Pegli</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1234">Ortsteil</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">44.42445 8.81213</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb994">
-                  <tei:placeName>Genua</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">44.40478 8.94439</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb59">
-                  <tei:placeName>IX., Alsergrund</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb397">
-                  <tei:placeName>Frankgasse</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.215516628628 16.356475515829</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb41240">
-                  <tei:placeName>Österreich</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1107">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb886">
-                  <tei:placeName>Mailand</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.46427 9.18951</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb40306">
-                  <tei:placeName>Italien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1107">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">42.83333 12.83333</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2020-01-04">angelegt aus Faksimile</change>
+         <change who="MAM" when="2020-01-07">Durchsicht</change>
+         <change who="MAM" when="2020-01-07">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00330"/>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00331"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00330"/>
+                  <hi rend="pre-print">A</hi>n D<hi rend="superscript">r</hi> Arthur
+                  Schnitzler</addrLine>
+               <addrLine>
+                  <rs type="place" ref="#50">Wien</rs>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#397" type="place">IX Frankgasse 1</rs>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#41240" type="place">Austria</rs>
+               </addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <opener>
+               <p rend="center">
+                  <hi rend="pre-print">
+                     <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00331"/>
+                     <rs type="work" ref="#44643">La Vergine col Figlio</rs> (<rs type="person" ref="#20935">A. Mantegna</rs>)</hi>
+               </p>
+               <p>
+                  <seg rend="left">
+                     <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00331"/>
+                     <hi rend="pre-print">
+                        <rs type="place" ref="#886">Milano</rs>
+                     </hi>
+                  </seg>
+                  <seg rend="right">
+                     <rs type="place" ref="#41022">Pegli</rs>
+                     <space unit="chars" quantity="1"/>
+                     <date when="1900-02-15">15/II 1900</date>
+                  </seg>
+               </p>
+            </opener>
+            <p>
+               <salute>Lieber Arthur! </salute>Ich möchte wissen, I. Was Sie machen, II. Wie <rs type="person" ref="#11485">Paul</rs>s Adresse ist. III Ob sein Onkel <rs type="person" ref="#4986">Fedor M.</rs> heißt. IV Ob Sie nach <rs type="place" ref="#40306">Italien</rs> gehen. Ich grüße Sie herzlich</p>
+            <closer>Ihr<signed>Richard.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

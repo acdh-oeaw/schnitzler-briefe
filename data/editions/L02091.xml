@@ -1,150 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02091" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Georg Brandes an Arthur Schnitzler, 26. 9. 1912</title><author ref="#pmb10992">Brandes, Georg</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02091</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L02091"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Georg Brandes an Arthur Schnitzler, 26. 9. 1912</title>
+            <author ref="#10992">Brandes, Georg</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L02091</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 17</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="postkarte"/></objectDesc><handDesc><handNote medium="blaue_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb44328">Skagen</placeName><date>26.9. 12</date><time>12–3E</time></stamp></desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                                »<quote>39</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASGB"><monogr><author ref="#pmb10992">Brandes, Georg</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Ein Briefwechsel</title><editor>Hg. Kurt Bergel</editor><imprint><pubPlace>Bern</pubPlace><publisher>Francke</publisher><date when="1956">1956</date></imprint><biblScope unit="pp">104–105</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10992">Brandes, Georg</persName><placeName ref="#pmb44328">Skagen</placeName><date when="1912-09-26" n="01">26. 9. 1912</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10992">Brandes, Georg</ref><ref subtype="previous_letter" type="withinCollection" target="L02090">Schnitzler an Bahr, [25./26.] 9. 1912</ref><ref subtype="next_letter" type="withinCollection" target="L02092">Bahr an Schnitzler, 28. 9. 1912</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02051">Brandes an Schnitzler, Schnitzler, 3. 2. 1912</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02100">Brandes an Schnitzler, [nach dem 16. 11. 1912]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                            Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 17</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="postkarte"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="blaue_tinte" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="1">
+                                    <placeName ref="#44328">Skagen</placeName>
+                                    <date>26.9. 12</date>
+                                    <time>12–3E</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                                »<quote>39</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASGB">
+                  <monogr>
+                     <author ref="#10992">Brandes, Georg</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Ein Briefwechsel</title>
+                     <editor>Hg. Kurt Bergel</editor>
+                     <imprint>
+                        <pubPlace>Bern</pubPlace>
+                        <publisher>Francke</publisher>
+                        <date when="1956">1956</date>
+                     </imprint>
+                     <biblScope unit="pp">104–105</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10992">Brandes, Georg</persName>
+               <placeName ref="#44328">Skagen</placeName>
+               <date when="1912-09-26" n="01">26. 9. 1912</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10992">Brandes, Georg</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L02090">Schnitzler an Bahr, [25./26.] 9. 1912</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L02092">Bahr an Schnitzler, 28. 9. 1912</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L02051">Brandes an Schnitzler, Schnitzler, 3. 2. 1912</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L02100">Brandes an Schnitzler, [nach dem 16. 11. 1912]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-01">Angelegt</change><change who="MAM" when="2018-08-14">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-07-24">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00073"/><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00074"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00073"/>Herrn Dr. Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb150" type="place">Sternwartestrasse 71</rs></addrLine><addrLine><rs ref="#pmb68" type="place">Wien XVIII</rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00074"/><anchor xml:id="K_L02091_1" type="commentary"/>p. T.<note xml:id="K_L02091_1h" type="commentary">pro tempore, lat.: zur Zeit.</note><space unit="chars" quantity="1"/><rs ref="#pmb44328" type="place">Skagen</rs><lb/><rs ref="#pmb43570" type="place">Dänemark</rs><lb/>Adresse: <rs ref="#pmb36300" type="place">Kopenhagen</rs></dateline><salute>Verehrter Freund</salute></opener><p>Da es zehn oder elf Jahre her ist, dass ich in <rs ref="#pmb50" type="place">Wien</rs> war, habe ich um einen Vorwand zu haben, es wiederzusehen, mich engagiren lassen, ein Paar erbärmliche Vorträge zwischen <date>20</date><space unit="chars" quantity="1"/><del rend="strikethrough"><gap reason="illegible" unit="chars" quantity="1"/></del> und <date>23 November</date> dort zu halten (<rs ref="#pmb1013" type="place"><hi n="1" rend="underline">Urania</hi></rs>). Da nun Sie ein Hauptstück von meinem <rs ref="#pmb50" type="place">Wien</rs> sind, möchte ich gerne wissen, ob Sie wol zu der Zeit sich in <rs ref="#pmb50" type="place">Wien</rs> befinden (nur auf einer Karte antworten).</p><p>Ich möchte noch gerne <rs ref="#pmb10863" type="person">Beer-Hoffmann</rs> und <rs ref="#pmb13055" type="person">Wassermann</rs> und <rs ref="#pmb11740" type="person">Hofmannsthal</rs> sehen, die ja alle <rs ref="#pmb50" type="place">Wien</rs>er sind; Sie sind aber für mich die Hauptperson.</p><closer>Ihr sehr ergebener<lb/><signed>Georg Brandes</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10992">
-                  <tei:persName>
-                     <tei:surname>Brandes</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
-                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
-                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
-                  </tei:death>
-                  <occupation code="278">Literarhistoriker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb13055">
-                  <tei:persName>
-                     <tei:surname>Wassermann</tei:surname>
-                     <tei:forename>Jakob</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1873-03-10">10. 3. 1873</tei:date>
-                     <tei:placeName ref="#pmb40508">Fürth</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-01">1. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb34401">Altaussee</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb44328">
-                  <tei:placeName>Skagen</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">57.72093 10.58394</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb150">
-                  <tei:placeName>Sternwartestraße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb68">
-                  <tei:placeName>XVIII., Währing</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb43570">
-                  <tei:placeName>Dänemark</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1411">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">56.0 10.0</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb36300">
-                  <tei:placeName>Kopenhagen</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb1013">
-                  <tei:placeName>Urania</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i78">Volksbildungsanstalt</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.211453732859 16.383906681096</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2018-08-01">Angelegt</change>
+         <change who="MAM" when="2018-08-14">Durchsicht</change>
+         <change who="MAM" when="2018-02-14">Index check</change>
+         <change who="GHS" when="2019-07-24">facs aktualisiert, korrigiert, finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00073"/>
+      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00074"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00073"/>Herrn Dr. Arthur
+                        Schnitzler</addrLine>
+               <addrLine>
+                  <rs ref="#150" type="place">Sternwartestrasse 71</rs>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#68" type="place">Wien XVIII</rs>
+               </addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00074"/>
+                  <anchor xml:id="K_L02091_1" type="commentary"/>p. T.<note xml:id="K_L02091_1h" type="commentary">pro tempore, lat.: zur
+                            Zeit.</note>
+                  <space unit="chars" quantity="1"/>
+                  <rs ref="#44328" type="place">Skagen</rs>
+                  <lb/>
+                  <rs ref="#43570" type="place">Dänemark</rs>
+                  <lb/>Adresse: <rs ref="#36300" type="place">Kopenhagen</rs>
+               </dateline>
+               <salute>Verehrter Freund</salute>
+            </opener>
+            <p>Da es zehn oder elf Jahre her ist, dass ich in <rs ref="#50" type="place">Wien</rs> war, habe ich um einen Vorwand zu haben, es wiederzusehen, mich
+                    engagiren lassen, ein Paar erbärmliche Vorträge zwischen <date>20</date>
+               <space unit="chars" quantity="1"/>
+               <del rend="strikethrough">
+                  <gap reason="illegible" unit="chars" quantity="1"/>
+               </del> und <date>23 November</date> dort zu halten (<rs ref="#1013" type="place">
+                  <hi n="1" rend="underline">Urania</hi>
+               </rs>). Da nun Sie ein Hauptstück von meinem <rs ref="#50" type="place">Wien</rs> sind, möchte ich gerne wissen, ob Sie wol zu der Zeit sich in <rs ref="#50" type="place">Wien</rs> befinden (nur auf einer Karte
+                    antworten).</p>
+            <p>Ich möchte noch gerne <rs ref="#10863" type="person">Beer-Hoffmann</rs> und <rs ref="#13055" type="person">Wassermann</rs> und <rs ref="#11740" type="person">Hofmannsthal</rs> sehen, die ja alle <rs ref="#50" type="place">Wien</rs>er sind; Sie sind aber für mich die Hauptperson.</p>
+            <closer>Ihr sehr ergebener<lb/>
+               <signed>Georg Brandes</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

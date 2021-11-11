@@ -1,137 +1,190 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00310" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hermann Bahr an Arthur Schnitzler, 2. 4. 1894</title><author ref="#pmb10815">Bahr, Hermann</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L00310</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00310"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Hermann Bahr an Arthur Schnitzler, 2. 4. 1894</title>
+            <author ref="#10815">Bahr, Hermann</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+            <idno type="asbw">L00310</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 39930 Ba</idno></msIdentifier><physDesc><objectDesc><desc type="reproduktion" subtype="ms_abschrift"/></objectDesc><typeDesc><p>Schreibmaschine</p></typeDesc><additions><incident type="additional-information"><desc>Original nicht nachweisbar; es wurde von <rs ref="#pmb12692" type="person">Heinrich Schnitzler</rs> am
-                                    <date>22. 8. 1937</date> dem <rs ref="#pmb569" type="place">Wolf-Museum</rs> in <rs type="place" ref="#pmb49163">Eisenstadt</rs> geschenkt. <rs ref="#pmb4342" type="person">Sándor
-                                    Wolf</rs> emigrierte <date>1938</date> nach <rs ref="#pmb45508" type="place">Israel</rs>, wohin seine Bibliothek nachzuholen ihm
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Theatermuseum</repository>
+                        <idno>HS AM 39930 Ba</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="reproduktion" subtype="ms_abschrift"/>
+                        </objectDesc>
+                        <typeDesc>
+                           <p>Schreibmaschine</p>
+                        </typeDesc>
+                        <additions>
+                           <incident type="additional-information">
+                              <desc>Original nicht nachweisbar; es wurde von <rs ref="#12692"
+                                    type="person">Heinrich Schnitzler</rs> am
+                                    <date>22. 8. 1937</date> dem <rs ref="#569" type="place"
+                                    >Wolf-Museum</rs> in <rs type="place" ref="#49163"
+                                    >Eisenstadt</rs> geschenkt. <rs ref="#4342" type="person">Sándor
+                                    Wolf</rs> emigrierte <date>1938</date> nach <rs ref="#45508"
+                                    type="place">Israel</rs>, wohin seine Bibliothek nachzuholen ihm
                                  möglicherweise gelang. Nach seinem Tod im Jahr <date>1946</date>
-                                 ließ seine Schwester <rs ref="#pmb28549" type="person">Frieda
-                                    Löwy</rs> einen Teil der Sammlung <date>1958</date> in <rs ref="#pmb967" type="place">Luzern</rs> versteigern, der Brief
-                                 dürfte sich nicht darunter befunden haben.</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">68</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName><date when="1894-04-02" n="02">2. 4. 1894</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L00309">Schnitzler an
-                  Beer-Hofmann, [2. 4. 1894?]</ref><ref subtype="next_letter" type="withinCollection" target="L00311">Mamroth an
-                  Schnitzler, 4. 4. 1894</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00287">Bahr an
-                  Schnitzler, 30. 12. 1893</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00314">Bahr an
-                  Schnitzler, [20. 4. 1894]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                                 ließ seine Schwester <rs ref="#28549" type="person">Frieda
+                                    Löwy</rs> einen Teil der Sammlung <date>1958</date> in <rs
+                                    ref="#967" type="place">Luzern</rs> versteigern, der Brief
+                                 dürfte sich nicht darunter befunden haben.</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HBAS">
+                  <monogr>
+                     <author ref="#10815">Bahr, Hermann</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
+                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
+                     <imprint>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Wallstein</publisher>
+                        <date when="2018">2018</date>
+                     </imprint>
+                     <biblScope unit="pp">68</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10815">Bahr, Hermann</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1894-04-02" n="02">2. 4. 1894</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00309">Schnitzler an
+                  Beer-Hofmann, [2. 4. 1894?]</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00311">Mamroth an
+                  Schnitzler, 4. 4. 1894</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L00287">Bahr an
+                  Schnitzler, 30. 12. 1893</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00314">Bahr an
+                  Schnitzler, [20. 4. 1894]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2016-04-06">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2019-02-26"><c rendition="#langesS">s</c>, @facs, Nummerierungen, Seitenzahlen ergänzt</change><change who="GHS" when="2019-10-05">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="HS AM 39930 Ba"/><!-- nicht online, 11.3.2020 --></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb/><date>2. 4. 1894</date></dateline><salute>Lieber Schnitzler,</salute></opener><p>ich habe mir die Geschichte mit dem Bicycle doch anders überlegt – lieber nicht. Der Gedanke, da umständlich zu lernen und mich mit einem fremden Instrument zu peinigen, macht mich nur nervöse. Sei deswegen nicht böse </p><closer>Deinem treuen<lb/><signed>Bahr</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb12692">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Heinrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1902-08-09">9. 8. 1902</tei:date>
-                     <tei:placeName ref="#pmb75">Hinterbrühl</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1982-07-12">12. 7. 1982</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="104">Regisseur*in</occupation>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb4342">
-                  <tei:persName>
-                     <tei:surname>Wolf</tei:surname>
-                     <tei:forename>Sándor</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1871-12-21">21. 12. 1871</tei:date>
-                     <tei:placeName ref="#pmb49163">Eisenstadt</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1946-01-02">2. 1. 1946</tei:date>
-                     <tei:placeName ref="#pmb55980">Haifa</tei:placeName>
-                  </tei:death>
-                  <occupation code="171">Mäzen*in</occupation>
-                  <occupation code="175">Kaufmann/frau</occupation>
-                  <occupation code="189">Sammler*in</occupation>
-                  <occupation code="307">Weinhändler*in</occupation>
-               </tei:person><tei:person xml:id="pmb28549">
-                  <tei:persName>
-                     <tei:surname>Löwy</tei:surname>
-                     <tei:forename>Frieda</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1877-01-21">21. 1. 1877</tei:date>
-                     <tei:placeName ref="#pmb49163">Eisenstadt</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1963-07-11">11. 7. 1963</tei:date>
-                     <tei:placeName ref="#pmb55980">Haifa</tei:placeName>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb10815">
-                  <tei:persName>
-                     <tei:surname>Bahr</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb569">
-                  <tei:placeName>Wolf-Museum</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i8">Museum</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.843745 16.52122</tei:geo>
-                  </tei:location>
-               </tei:place><place ref="#pmb49163"><note>OFFEN</note></place><tei:place xml:id="pmb45508">
-                  <tei:placeName>Israel</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1411">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">31.5 34.75</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb967">
-                  <tei:placeName>Luzern</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.05048 8.30635</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="KI MAM" when="2016-04-06">Kollationiert</change>
+         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
+         <change who="GHS" when="2019-02-26">ſ, @facs, Nummerierungen, Seitenzahlen ergänzt</change>
+         <change who="GHS" when="2019-10-05">finalisiert</change>
+         <change who="MAM" when="2019-01-20">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="HS AM 39930 Ba"/>
+      <!-- nicht online, 11.3.2020 -->
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb/>
+                  <date>2. 4. 1894</date>
+               </dateline>
+               <salute>Lieber Schnitzler,</salute>
+            </opener>
+            <p>ich habe mir die Geschichte mit dem Bicycle doch anders überlegt – lieber nicht. Der
+               Gedanke, da umständlich zu lernen und mich mit einem fremden Instrument zu peinigen,
+               macht mich nur nervöse. Sei deswegen nicht böse </p>
+            <closer>Deinem treuen<lb/>
+               <signed>Bahr</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
