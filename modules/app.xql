@@ -1169,3 +1169,10 @@ let $json := xmldb:store($target-col, 'calender_datasource.xml', $contents)
 
 return $json
 };
+
+
+declare function app:ifkovits($item as node()){
+    let $title := $item//tei:title[@level="a"]/text()
+    let $ifkovits := if (contains($title, 'Hermann Bahr')) then "https://d-nb.info/gnd/132560496" else false()
+        return $ifkovits
+};
