@@ -1,140 +1,233 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00386" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 19. 10. 1894</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00386</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00386"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 19. 10. 1894</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00386</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="postkarte"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc>nachgesandt nach <rs ref="#pmb623" type="place"><hi rend="latintype">Hotel Hassler</hi></rs></desc></incident><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb51">Wien 1/1</placeName><date>19. 10. 94</date><time>9–10 N</time></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb595">Napoli</placeName><date>21 10–94</date><time>8 S</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">65</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1894-10-19" n="01">19. 10. 1894</date></correspAction><correspAction type="forwarded"><placeName ref="#pmb595">Neapel</placeName><date when="1894-10-21">21. 10. 1894</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb445">Rom</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00385">Beer-Hofmann an Schnitzler, 18. 10. 1894</ref><ref subtype="next_letter" type="withinCollection" target="L00387">Schnitzler an Beer-Hofmann, 20. 10. 1894</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00385">Beer-Hofmann an Schnitzler, 18. 10. 1894</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00387">Schnitzler an Beer-Hofmann, 20. 10. 1894</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>U.S.A.</country>
+                        <settlement>Yale</settlement>
+                        <repository>Beinecke Rare Book and Manuscript Library</repository>
+                        <idno>Yale Collection of German Literature, MSS 31</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="postkarte"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="bleistift" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>nachgesandt nach <rs ref="#623" type="place">
+                                    <hi rend="latintype">Hotel Hassler</hi>
+                                 </rs>
+                              </desc>
+                           </incident>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="1">
+                                    <placeName ref="#51">Wien 1/1</placeName>
+                                    <date>19. 10. 94</date>
+                                    <time>9–10 N</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="2">
+                                    <placeName ref="#595">Napoli</placeName>
+                                    <date>21 10–94</date>
+                                    <time>8 S</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASBH">
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <author ref="#10863">Beer-Hofmann, Richard</author>
+                     <title level="m">Briefwechsel 1891–1931</title>
+                     <editor>Hg. Konstanze Fliedl</editor>
+                     <imprint>
+                        <pubPlace>Wien, Zürich</pubPlace>
+                        <publisher>Europaverlag</publisher>
+                        <date when="1992">1992</date>
+                     </imprint>
+                     <biblScope unit="pp">65</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1894-10-19" n="01">19. 10. 1894</date>
+            </correspAction>
+            <correspAction type="forwarded">
+               <placeName ref="#595">Neapel</placeName>
+               <date when="1894-10-21">21. 10. 1894</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#10863">Beer-Hofmann, Richard</persName>
+               <placeName ref="#445">Rom</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00385">Beer-Hofmann an Schnitzler, 18. 10. 1894</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00387">Schnitzler an Beer-Hofmann, 20. 10. 1894</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00385">Beer-Hofmann an Schnitzler, 18. 10. 1894</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00387">Schnitzler an Beer-Hofmann, 20. 10. 1894</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-10-11">kontrolliert am Faksimile</change><change who="MAM" when="2019-10-14">Index check</change><change who="MAM" when="2019-12-09">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="1894_AS_RBH_3_00018"/><graphic url="1894_AS_RBH_3_00019"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="1894_AS_RBH_3_00018"/>Herrn <hi rend="latintype">Dr. Richard Beer Hofmann</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb595" type="place">Neapel</rs></hi></addrLine><addrLine><hi rend="latintype">a posta ferma</hi></addrLine><addrLine><hi rend="latintype"><anchor xml:id="T_L00386_1" type="textConst"/><rs ref="#pmb40306" type="place">Italien</rs><note xml:id="T_L00386_1h" type="textConst">in jede Ecke der Karte geschrieben.</note></hi></addrLine></address></div><div type="writingSession" n="1"><p><salute><pb facs="1894_AS_RBH_3_00019"/>Lieber Richard, </salute>ich habe Ihren Brief aus <rs ref="#pmb40272" type="place"><hi rend="latintype">Frascati</hi></rs> beko<c rendition="#gemination-m"/>en und danke be<c rendition="#langesS">s</c>tens. Sie meinen er<c rendition="#langesS">s</c>ten nach <rs ref="#pmb595" type="place">Neapel</rs> und die <rs ref="#pmb36340" type="work"><hi rend="underline" n="1">Zeit</hi></rs> doch wohl auch? Ihre gute und hohe Sti<c rendition="#gemination-m"/>ung i<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr erfreulich – man kann gewi<c rendition="#langesS">s</c>s be<c rendition="#langesS">s</c><c rendition="#langesS">s</c>eres von Rei<c rendition="#langesS">s</c>en heimbringen als Novellen – ob aber auch be<c rendition="#langesS">s</c><c rendition="#langesS">s</c>eres – als <hi n="1" rend="underline">Ihre</hi> Novellen??? – Mein <rs type="work" ref="#pmb29917" subtype="implied">Stück</rs> beim <rs type="person" ref="#pmb27711" subtype="implied">Ab<c rendition="#langesS">s</c>chreiber</rs>; vielleicht ka<c rendition="#gemination-n"/> ich bei Ihrer Heimkehr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon mit Re<c rendition="#langesS">s</c>ultaten aufwarten. Mache die Correcturen am Buch (<rs ref="#pmb30117" type="work">Sterben</rs>.) – Heute arges Kopfweh. – Viele herzliche Grüße, bitte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben Sie mir.</p><closer>Ihr <signed>Arth.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb27711">
-                  <tei:persName>
-                     <tei:surname>?? [Schreibkraft für Arthur Schnitzler]</tei:surname>
-                     <tei:forename/>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1892-07-01">1892</tei:date>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1895-07-02">1895</tei:date>
-                  </tei:death>
-                  <occupation code="851">Schreiber</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb36340">
-                  <tei:title>Die Zeit. Wiener Wochenschrift</tei:title>
-                  <tei:date from="1894-01-01" from-custom="1894" to="1904-01-01" to-custom="1904">1894–1904</tei:date>
-                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29917">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Liebelei. Schauspiel in drei Akten</tei:title>
-                  <tei:date from="1895-10-09" from-custom="9.10.1895">9. 10. 1895</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb30117">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Sterben. Novelle</tei:title>
-                  <tei:date from="1894-10-01" from-custom="1.10.1894" to="1894-12-01" to-custom="1.12.1894">1. 10. 1894–1. 12. 1894</tei:date>
-                  <tei:gloss type="w1340">Novelle</tei:gloss>
-                  <tei:note>2892</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb623">
-                  <tei:placeName>Hôtel Hassler</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i12">Hotel</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">41.90627 12.4829</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb51">
-                  <tei:placeName>I., Innere Stadt</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb595">
-                  <tei:placeName>Neapel</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">40.85216 14.26811</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb445">
-                  <tei:placeName>Rom</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">41.89193 12.51133</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb40306">
-                  <tei:placeName>Italien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1107">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">42.83333 12.83333</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb40272">
-                  <tei:placeName>Frascati</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1128">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">41.8091 12.67942</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change>
+         <change who="GHS" when="2019-10-11">kontrolliert am Faksimile</change>
+         <change who="MAM" when="2019-10-14">Index check</change>
+         <change who="MAM" when="2019-12-09">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="1894_AS_RBH_3_00018"/>
+      <graphic url="1894_AS_RBH_3_00019"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="1894_AS_RBH_3_00018"/>Herrn <hi rend="latintype">Dr. Richard Beer
+                     Hofmann</hi>
+               </addrLine>
+               <addrLine>
+                  <hi rend="latintype">
+                     <rs ref="#595" type="place">Neapel</rs>
+                  </hi>
+               </addrLine>
+               <addrLine>
+                  <hi rend="latintype">a posta ferma</hi>
+               </addrLine>
+               <addrLine>
+                  <hi rend="latintype">
+                     <anchor xml:id="T_L00386_1" type="textConst"/>
+                     <rs ref="#40306" type="place">Italien</rs>
+                     <note xml:id="T_L00386_1h" type="textConst">in jede Ecke der Karte
+                        geschrieben.</note>
+                  </hi>
+               </addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <p>
+               <salute>
+                  <pb facs="1894_AS_RBH_3_00019"/>Lieber Richard, </salute>ich habe Ihren Brief aus
+                  <rs ref="#40272" type="place">
+                  <hi rend="latintype">Frascati</hi>
+               </rs> beko<c rendition="#gemination-m"/>en und danke beſtens. Sie meinen
+               erſten nach <rs ref="#595" type="place">Neapel</rs> und die <rs ref="#36340" type="work">
+                  <hi rend="underline" n="1">Zeit</hi>
+               </rs> doch wohl auch? Ihre gute und hohe Sti<c rendition="#gemination-m"/>ung
+               iſt ſehr erfreulich – man kann gewiſs beſſeres von Reiſen heimbringen als Novellen –
+               ob aber auch beſſeres – als <hi n="1" rend="underline">Ihre</hi> Novellen??? – Mein
+                  <rs type="work" ref="#29917" subtype="implied">Stück</rs> beim <rs type="person" ref="#27711" subtype="implied">Abſchreiber</rs>; vielleicht ka<c rendition="#gemination-n"/> ich bei Ihrer
+               Heimkehr ſchon mit Reſultaten aufwarten. Mache die Correcturen am Buch (<rs ref="#30117" type="work">Sterben</rs>.) – Heute arges Kopfweh. – Viele herzliche
+               Grüße, bitte ſchreiben Sie mir.</p>
+            <closer>Ihr <signed>Arth.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,155 +1,220 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L02196" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 11. 9. [1914]</title><author ref="#pmb11740">Hofmannsthal, Hugo von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02196</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L02196"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 11. 9. [1914]</title>
+            <author ref="#11740">Hofmannsthal, Hugo von</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L02196</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 43</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote>Hugo</quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift eine Unterstreichung</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote><del rend="strikethrough">336</del></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>351</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">276</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb415">Aussee</placeName><date when="1914-09-11" n="01">11. 9. [1914]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L02195">Brandes an
-                  Schnitzler, 23. 8. 1914</ref><ref subtype="next_letter" type="withinCollection" target="L02197">Hofmannsthal an
-                  Schnitzler, 24. 9. [1914]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02187">Hofmannsthal, Hofmannsthal, Beer-Hofmann, Beer-Hofmann, Schwarzkopf an
-                  Schnitzler, 15. [7. 1914]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02197">Hofmannsthal
-                  an Schnitzler, 24. 9. [1914]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 43</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="2" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift beschriftet: »<quote>Hugo</quote>«</desc>
+                           </incident>
+                           <incident type="receiver">
+                              <desc>mit rotem Buntstift eine Unterstreichung</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>
+                                    <del rend="strikethrough">336</del>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>351</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HvHAS">
+                  <monogr>
+                     <author ref="#11740">Hofmannsthal, Hugo von</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel</title>
+                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1964">1964</date>
+                     </imprint>
+                     <biblScope unit="pp">276</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
+               <placeName ref="#415">Aussee</placeName>
+               <date when="1914-09-11" n="01">11. 9. [1914]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L02195">Brandes an
+                  Schnitzler, 23. 8. 1914</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L02197">Hofmannsthal an
+                  Schnitzler, 24. 9. [1914]</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L02187"
+                  >Hofmannsthal, Hofmannsthal, Beer-Hofmann, Beer-Hofmann, Schwarzkopf an
+                  Schnitzler, 15. [7. 1914]</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L02197">Hofmannsthal
+                  an Schnitzler, 24. 9. [1914]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-05-06">Durchsicht</change><change who="MAM" when="2020-08-27">Index check</change><change who="MAM" when="2020-08-27">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00099"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00100"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00099"/><rs ref="#pmb415" type="place">Au<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ee</rs><space unit="chars" quantity="1"/><date>11 IX.</date></dateline><salute>lieber Arthur</salute></opener><p>ich bin für 2–3 Tage hier, dann wieder <rs ref="#pmb795" type="place">Eli<c rendition="#langesS">s</c>abeth<c rendition="#langesS">s</c>traße</rs>.<space unit="chars" quantity="3"/>Ich weiß da<c rendition="#langesS">s</c>s Sie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon größere Beträge fürs <rs type="org" ref="#pmb43466">rote Kreuz</rs> gegeben haben, aber <hi rend="underline" n="1">bitte</hi> geben Sie nun noch etwas und das<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ogleich für die <rs type="org" ref="#pmb36931">Rettungsge<c rendition="#langesS">s</c>ell<c rendition="#langesS">s</c>chaft</rs>, die vorzügliches lei<c rendition="#langesS">s</c>tet und dringend Hilfe braucht und bitte geben Sie es <anchor xml:id="K_L02196_1" type="commentary"/>durch die <rs ref="#pmb29351" type="org"><hi rend="latintype">Neue Freie Presse</hi></rs><note xml:id="K_L02196_1h" type="commentary">Am <date>10. 9. 1914</date> erschien ein »<quote>Erster Spendenausweis</quote>« der Sammlung, die 819 Kronen nachwies, wobei jeweils 200 von <rs type="person" ref="#pmb11740">Hofmannsthal</rs> und seinem <rs type="person" ref="#pmb11737" subtype="implied">Vater</rs> stammten (<bibl><rs ref="#pmb29351" type="org">Neue Freie Presse</rs>, Nr. 17976, S. 7</bibl>). In den Folgetagen wurden weitere Spenden ausgwiesen, aber keine von <rs type="person" ref="#pmb2121">Schnitzler</rs>.</note>, das zieht wieder andere <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00100"/>Leute mit, deshalb gab ich auch dort, gab nur einen kleinem Beitrag <add place="margin">(200)</add>, um mehrmals wieder geben zu können, es wird noch all<c rendition="#langesS">s</c>eits viel zu wenig gegeben, es i<c rendition="#langesS">s</c>t ein Meer von Not und Schwierigkeiten.</p><p>Ich bitte Sie und <rs ref="#pmb2173" type="person">Olga</rs>, dies unter Euren Bekannten <anchor xml:id="K_L02196_2" type="commentary"/>weiterzu<c rendition="#langesS">s</c>agen<note xml:id="K_L02196_2h" type="commentary">Am <date>19. 9. 1914</date> wird eine Spende von 300 Kronen durch <rs type="person" ref="#pmb10860">Paula Beer-Hofmann</rs> ausgewiesen (<bibl><rs ref="#pmb29351" type="org">Neue Freie Presse</rs>, Nr. 17985, S. 5</bibl>).</note>, es i<c rendition="#langesS">s</c>t eine der dringend<c rendition="#langesS">s</c>ten Notwendigkeiten.</p><closer>Von Herzen<lb/><signed>Hugo.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11737">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo August von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1841-12-21">21. 12. 1841</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1915-12-08">8. 12. 1915</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="465">Bankdirektor*in</occupation>
-               </tei:person><tei:person xml:id="pmb2173">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Olga</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
-                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
-                  </tei:death>
-                  <occupation code="107">Sänger*in</occupation>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb10860">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Paula</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1879-02-25">25. 2. 1879</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-10-30">30. 10. 1939</tei:date>
-                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
-                  </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb415">
-                  <tei:placeName>Bad Aussee</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb795">
-                  <tei:placeName>Elisabethstraße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.202505409168 16.365996258067</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb43466">
-                  <tei:orgName>Internationales Komitee vom Roten Kreuz</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1863-01-01" from-custom="1863">1863</tei:date>
-                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb562">
-                     <tei:placeName>Genf</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">46.20222 6.14569</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org><tei:org xml:id="pmb36931">
-                  <tei:orgName>Wiener freiwillige Rettungsgesellschaft</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1881-01-01" from-custom="1881" to="1938-01-01" to-custom="1938">1881–1938</tei:date>
-                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org><tei:org xml:id="pmb29351">
-                  <tei:orgName>Neue Freie Presse</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change>
+         <change who="GHS" when="2020-05-06">Durchsicht</change>
+         <change who="MAM" when="2020-08-27">Index check</change>
+         <change who="MAM" when="2020-08-27">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00099"/>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00100"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00099"/>
+                  <rs ref="#415" type="place">Auſſee</rs>
+                  <space unit="chars" quantity="1"/>
+                  <date>11 IX.</date>
+               </dateline>
+               <salute>lieber Arthur</salute>
+            </opener>
+            <p>ich bin für 2–3 Tage hier, dann wieder <rs ref="#795" type="place"
+                  >Eliſabethſtraße</rs>.<space unit="chars" quantity="3"/>Ich weiß daſs Sie ſchon
+               größere Beträge fürs <rs type="org" ref="#43466">rote Kreuz</rs> gegeben haben, aber
+                  <hi rend="underline" n="1">bitte</hi> geben Sie nun noch etwas und das ſogleich
+               für die <rs type="org" ref="#36931">Rettungsgeſellſchaft</rs>, die vorzügliches
+               leiſtet und dringend Hilfe braucht und bitte geben Sie es <anchor xml:id="K_L02196_1"
+                  type="commentary"/>durch die <rs ref="#29351" type="org">
+                  <hi rend="latintype">Neue Freie Presse</hi>
+               </rs>
+               <note xml:id="K_L02196_1h" type="commentary">Am <date>10. 9. 1914</date> erschien ein
+                     »<quote>Erster Spendenausweis</quote>« der Sammlung, die 819 Kronen nachwies,
+                  wobei jeweils 200 von <rs type="person" ref="#11740">Hofmannsthal</rs> und seinem
+                     <rs type="person" ref="#11737" subtype="implied">Vater</rs> stammten (<bibl>
+                     <rs ref="#29351" type="org">Neue Freie Presse</rs>, Nr. 17976, S. 7</bibl>). In
+                  den Folgetagen wurden weitere Spenden ausgwiesen, aber keine von <rs type="person"
+                     ref="#2121">Schnitzler</rs>.</note>, das zieht wieder andere <pb
+                  facs="MS-SCHNITZLER-B-00043-B-00003-000-00100"/>Leute mit, deshalb gab ich auch
+               dort, gab nur einen kleinem Beitrag <add place="margin">(200)</add>, um mehrmals
+               wieder geben zu können, es wird noch allſeits viel zu wenig gegeben, es iſt ein Meer
+               von Not und Schwierigkeiten.</p>
+            <p>Ich bitte Sie und <rs ref="#2173" type="person">Olga</rs>, dies unter Euren Bekannten
+                  <anchor xml:id="K_L02196_2" type="commentary"/>weiterzuſagen<note
+                  xml:id="K_L02196_2h" type="commentary">Am <date>19. 9. 1914</date> wird eine
+                  Spende von 300 Kronen durch <rs type="person" ref="#10860">Paula Beer-Hofmann</rs>
+                  ausgewiesen (<bibl>
+                     <rs ref="#29351" type="org">Neue Freie Presse</rs>, Nr. 17985,
+                  S. 5</bibl>).</note>, es iſt eine der dringendſten Notwendigkeiten.</p>
+            <closer>Von Herzen<lb/>
+               <signed>Hugo.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

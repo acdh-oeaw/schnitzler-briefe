@@ -1,150 +1,213 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01086" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hermann Bahr an Arthur Schnitzler, 21. 12. [1900]</title><author ref="#pmb10815">Bahr, Hermann</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L01086</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L01086"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Hermann Bahr an Arthur Schnitzler, 21. 12. [1900]</title>
+            <author ref="#10815">Bahr, Hermann</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+            <idno type="asbw">L01086</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 5b</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc type="_blaetter" n="1"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift die Jahreszahl »<quote><date>900</date></quote>« ergänzt</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>71</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">191</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName><date when="1900-12-21" n="01">21. 12. [1900]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01085">Schnitzler an Bahr, [6.] 12. 1900</ref><ref subtype="next_letter" type="withinCollection" target="L01087">Hofmannsthal an Schnitzler, 21. 12. 1900</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01085">Schnitzler an Bahr, [6.] 12. 1900</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01093">Bahr an Schnitzler, 23. 1. [1901]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 5b</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="brief"/>
+                           <desc type="_blaetter" n="1"/>
+                           <desc n="3" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift die Jahreszahl »<quote>
+                                    <date>900</date>
+                                 </quote>« ergänzt</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>71</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HBAS">
+                  <monogr>
+                     <author ref="#10815">Bahr, Hermann</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
+                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
+                     <imprint>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Wallstein</publisher>
+                        <date when="2018">2018</date>
+                     </imprint>
+                     <biblScope unit="pp">191</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10815">Bahr, Hermann</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1900-12-21" n="01">21. 12. [1900]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01085">Schnitzler an Bahr, [6.] 12. 1900</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01087">Hofmannsthal an Schnitzler, 21. 12. 1900</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L01085">Schnitzler an Bahr, [6.] 12. 1900</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01093">Bahr an Schnitzler, 23. 1. [1901]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-12-04">Nur erste Seite kollationiert, Foto
-            unvollständig</change><change who="MAM" when="2016-11-07">Zweite Seite kollationiert</change><change who="KI MAM" when="2016-11-07">Kollationiert am Faksimile</change><change who="KI MAM" when="2017-05-26">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2020-01-02">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-B-00005-B-000-00114"/><graphic url="MS-B-00005-B-000-00115"/><graphic url="MS-B-00005-B-000-00116"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-B-00005-B-000-00114"/><date>2<subst><del rend="overwritten">2</del><add place="inline">1</add></subst>/12</date></dateline><salute rend="center">Lieber Arthur!</salute></opener><p><rs ref="#pmb2161" type="person"><hi rend="latintype">Bukovics</hi></rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>agt mir, es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ei über den <anchor xml:id="K_L01086_1" type="commentary"/><rs ref="#pmb20" type="place">Volkstheater</rs>abend<note xml:id="K_L01086_1h" type="commentary">Ein jährlich stattfindender Abend in einem angemieteten Veranstaltungssaal mit speziellem Programm. <date>1901</date> fand er am <date>9. 3.</date> in den <rs ref="#pmb107" type="place">Sophiensälen</rs> statt. Vor der Eröffnung der Tanzfläche wurden Lieder gesungen und das Mimodrama <rs ref="#pmb32688" type="work">Die Hand</rs> von <rs ref="#pmb10879" type="person">Henri Berény</rs> gegeben.</note> die<c rendition="#langesS">s</c>es Jahr noch nichts beschlo<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en. Ich mache Dich nur aufmerk<c rendition="#langesS">s</c>am, daß bei dem<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>päten Anfang (½ 11), der elenden Bühne (mei<c rendition="#langesS">s</c>tens <rs ref="#pmb19" type="place">Ronacher</rs>) u. der kaum zu bändigenden Tanzlu<c rendition="#langesS">s</c>t hier nur <pb facs="MS-B-00005-B-000-00115"/>ganz einfache u. rohe Sachen wirken.</p><p>Für die lieben Worte Deines Briefes danke ich Dir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr und bin, Dir das Be<c rendition="#langesS">s</c>te wün<c rendition="#langesS">s</c>chend,</p><closer>Dein alter<lb/><signed>Hermann</signed></closer><postscript><p>Hofrath <rs ref="#pmb11036" type="person"><hi rend="latintype">Burckhard</hi></rs> möchte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr gern ein Exemplar der <pb facs="MS-B-00005-B-000-00116"/><rs ref="#pmb29857" type="work">Beatrice</rs> haben; kann<c rendition="#langesS">s</c>t Du ihm nicht eins<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicken?</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb10815">
-                  <tei:persName>
-                     <tei:surname>Bahr</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb2161">
-                  <tei:persName>
-                     <tei:surname>Bukovics</tei:surname>
-                     <tei:forename>Emerich von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1844-02-28">28. 2. 1844</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1905-07-04">4. 7. 1905</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person><tei:person xml:id="pmb10879">
-                  <tei:persName>
-                     <tei:surname>Berény</tei:surname>
-                     <tei:forename>Henri</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1871-01-01">1. 1. 1871</tei:date>
-                     <tei:placeName ref="#pmb49687">Košice</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1932-03-22">22. 3. 1932</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:death>
-                  <occupation code="129">Komponist*in</occupation>
-                  <occupation code="199">Theateragent</occupation>
-               </tei:person><tei:person xml:id="pmb11036">
-                  <tei:persName>
-                     <tei:surname>Burckhard</tei:surname>
-                     <tei:forename>Max Eugen</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1854-07-14">14. 7. 1854</tei:date>
-                     <tei:placeName ref="#pmb11037">Korneuburg</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1912-03-16">16. 3. 1912</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="102">Rechtswissenschaftler*in</occupation>
-                  <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb32688">
-                  <tei:author ref="pmb10879" role="author">
-                     <tei:surname>Berény</tei:surname>
-                     <tei:forename>Henri</tei:forename>
-                  </tei:author>
-                  <tei:title>Die Hand</tei:title>
-                  <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29857">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Schleier der Beatrice. Schauspiel in fünf Akten</tei:title>
-                  <tei:date when="1900-12-01" when-custom="1900-12-01">1. 12. 1900</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>6201</tei:note>
-                  <tei:note>8990</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb20">
-                  <tei:placeName>Deutsches Volkstheater</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i4">Theater</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.205142 16.3566</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb107">
-                  <tei:placeName>Sofiensäle</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i5">Veranstaltungsgebäude</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.206662 16.391263</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb19">
-                  <tei:placeName>Etablissement Ronacher</tei:placeName>
-                  <tei:desc>
-                     <tei:date from="1871-07-02" from-custom="1871-07-02">2. 7. 1871</tei:date>
-                     <tei:gloss ana="i4">Theater</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.205139 16.375</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="KI MAM" when="2015-12-04">Nur erste Seite kollationiert, Foto
+            unvollständig</change>
+         <change who="MAM" when="2016-11-07">Zweite Seite kollationiert</change>
+         <change who="KI MAM" when="2016-11-07">Kollationiert am Faksimile</change>
+         <change who="KI MAM" when="2017-05-26">Kollationiert</change>
+         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
+         <change who="GHS" when="2020-01-02">finalisiert</change>
+         <change who="MAM" when="2019-01-20">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-B-00005-B-000-00114"/>
+      <graphic url="MS-B-00005-B-000-00115"/>
+      <graphic url="MS-B-00005-B-000-00116"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="MS-B-00005-B-000-00114"/>
+                  <date>2<subst>
+                        <del rend="overwritten">2</del>
+                        <add place="inline">1</add>
+                     </subst>/12</date>
+               </dateline>
+               <salute rend="center">Lieber Arthur!</salute>
+            </opener>
+            <p>
+               <rs ref="#2161" type="person">
+                  <hi rend="latintype">Bukovics</hi>
+               </rs>
+               <space unit="chars" quantity="1"/>ſagt mir, es ſei über den <anchor xml:id="K_L01086_1" type="commentary"/>
+               <rs ref="#20" type="place">Volkstheater</rs>abend<note xml:id="K_L01086_1h" type="commentary">Ein jährlich stattfindender Abend in einem angemieteten
+                  Veranstaltungssaal mit speziellem Programm. <date>1901</date> fand er am
+                     <date>9. 3.</date> in den <rs ref="#107" type="place">Sophiensälen</rs> statt.
+                  Vor der Eröffnung der Tanzfläche wurden Lieder gesungen und das Mimodrama <rs ref="#32688" type="work">Die Hand</rs> von <rs ref="#10879" type="person">Henri
+                     Berény</rs> gegeben.</note> dieſes Jahr noch nichts beschloſſen. Ich mache Dich
+               nur aufmerkſam, daß bei dem ſpäten Anfang (½ 11), der elenden Bühne (meiſtens <rs ref="#19" type="place">Ronacher</rs>) u. der kaum zu bändigenden Tanzluſt hier nur
+                  <pb facs="MS-B-00005-B-000-00115"/>ganz einfache u. rohe Sachen wirken.</p>
+            <p>Für die lieben Worte Deines Briefes danke ich Dir ſehr und bin, Dir das Beſte
+               wünſchend,</p>
+            <closer>Dein alter<lb/>
+               <signed>Hermann</signed>
+            </closer>
+            <postscript>
+               <p>Hofrath <rs ref="#11036" type="person">
+                     <hi rend="latintype">Burckhard</hi>
+                  </rs> möchte ſehr gern ein Exemplar der <pb facs="MS-B-00005-B-000-00116"/>
+                  <rs ref="#29857" type="work">Beatrice</rs> haben; kannſt Du ihm nicht eins
+                  ſchicken?</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

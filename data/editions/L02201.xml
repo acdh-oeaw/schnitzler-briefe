@@ -1,229 +1,220 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02201" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Georg Brandes an Arthur Schnitzler, 23. 12. 1914</title><author ref="#pmb10992">Brandes, Georg</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02201</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L02201"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Georg Brandes an Arthur Schnitzler, 23. 12. 1914</title>
+            <author ref="#10992">Brandes, Georg</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L02201</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 17</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="postkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb36300">Kjøbenhavn</placeName><date>23.12.14</date><time>2–3E</time></stamp></desc></incident><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Brandes</hi></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                        »<quote>44</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASGB"><monogr><author ref="#pmb10992">Brandes, Georg</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Ein Briefwechsel</title><editor>Hg. Kurt Bergel</editor><imprint><pubPlace>Bern</pubPlace><publisher>Francke</publisher><date when="1956">1956</date></imprint><biblScope unit="pp">113–114</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10992">Brandes, Georg</persName><placeName ref="#pmb36300">Kopenhagen</placeName><date when="1914-12-23" n="01">23. 12. 1914</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10992">Brandes, Georg</ref><ref subtype="previous_letter" type="withinCollection" target="L02200">Schnitzler an Brandes, 18. 12. 1914</ref><ref subtype="next_letter" type="withinCollection" target="L02202">Schnitzler an Brandes, 8. 1. 1915</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02200">Schnitzler an Brandes, 18. 12. 1914</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02202">Schnitzler an Brandes, 8. 1. 1915</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 17</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="postkarte"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="1">
+                                    <placeName ref="#36300">Kjøbenhavn</placeName>
+                                    <date>23.12.14</date>
+                                    <time>2–3E</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="receiver">
+                              <desc>mit Bleistift beschriftet: »<quote>
+                                    <hi rend="latintype">Brandes</hi>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                        »<quote>44</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASGB">
+                  <monogr>
+                     <author ref="#10992">Brandes, Georg</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Ein Briefwechsel</title>
+                     <editor>Hg. Kurt Bergel</editor>
+                     <imprint>
+                        <pubPlace>Bern</pubPlace>
+                        <publisher>Francke</publisher>
+                        <date when="1956">1956</date>
+                     </imprint>
+                     <biblScope unit="pp">113–114</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10992">Brandes, Georg</persName>
+               <placeName ref="#36300">Kopenhagen</placeName>
+               <date when="1914-12-23" n="01">23. 12. 1914</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10992">Brandes, Georg</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L02200">Schnitzler an Brandes, 18. 12. 1914</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L02202">Schnitzler an Brandes, 8. 1. 1915</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L02200">Schnitzler an Brandes, 18. 12. 1914</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L02202">Schnitzler an Brandes, 8. 1. 1915</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-08-01">Angelegt</change><change who="MAM" when="2018-08-14">Durchsicht</change><change who="MAM" when="2018-02-14">Index check</change><change who="GHS" when="2019-07-26">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00081"/><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00082"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00081"/>Herrn Dr. Arthur Schnitzler</addrLine><addrLine><rs ref="#pmb150" type="place">Sternwartestrasse 71</rs></addrLine><addrLine><rs ref="#pmb68" type="place">Wien XVIII</rs></addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00082"/><rs ref="#pmb36300" type="place">Kopenhagen</rs><space unit="chars" quantity="1"/><date>23 Dec 14</date></dateline><salute>Verehrter und lieber Freund</salute></opener><p>Es freute mich ein Lebenszeichen von Ihnen zu sehen. Es freut mich noch mehr, dass Sie und die Ihrigen in guter und ruhiger Stimmung sind. Meine einzige <rs type="person" ref="#pmb4395" subtype="implied">Tochter</rs> ist in <rs ref="#pmb168" type="place">Berlin</rs> verheirathet. Ihr junger <rs type="person" ref="#pmb4394" subtype="implied">Mann</rs> ist Fabrikant und Gardelieutenant der Artillerie, er wurde schon im <date>September</date> zum Oberlieutenant befördert und bekam im November das eiserne Kreuz. Aber er ist in steter Lebensgefahr. Meine <rs type="person" ref="#pmb4395" subtype="implied">Tochter</rs> war mehrere Monate hier mit zwei <rs type="person" ref="#pmb29131 #pmb29133" subtype="implied">Kleinen</rs>, einer <rs type="person" ref="#pmb29131" subtype="implied">Tochter</rs> von 7 Jahren und einem <rs type="person" ref="#pmb29133" subtype="implied">Jungen</rs> von 2 Jahren, beide sehr hübsch; sie ist jetzt in <rs ref="#pmb168" type="place">Berlin</rs> und natürlich recht unruhig und mitgenommen von der ewigen Spannung. Ich arbeite viel, schreibe im Augenblick ein <rs type="work" ref="#pmb32093" subtype="implied">Buch über <rs ref="#pmb11461" type="person">Goethe</rs></rs>, parallel zu dem, ich einmal über <rs type="work" ref="#pmb32159" subtype="implied"><rs ref="#pmb2412" type="person">Shspeare</rs></rs> schrieb. Ausserdem habe ich fast jeden Monat ein grosses Essay veröffentlicht.</p><closer>Grüssen Sie Ihre Frau <rs type="person" ref="#pmb2173" subtype="implied">Gemahlin</rs> und <rs ref="#pmb10863 #pmb10860" type="person">Beer-Hoffmanns</rs>. Ihr <signed>G. B.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10992">
-                  <tei:persName>
-                     <tei:surname>Brandes</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
-                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
-                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
-                  </tei:death>
-                  <occupation code="278">Literarhistoriker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb4395">
-                  <tei:persName>
-                     <tei:surname>Philipp</tei:surname>
-                     <tei:forename>Edith</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1879-01-17">17. 1. 1879</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1968-02-16">16. 2. 1968</tei:date>
-                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb4394">
-                  <tei:persName>
-                     <tei:surname>Philipp</tei:surname>
-                     <tei:forename>Reinhold</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1883-08-15">15. 8. 1883</tei:date>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1968-01-01">1968</tei:date>
-                  </tei:death>
-                  <occupation code="300">Fabrikant*in</occupation>
-               </tei:person><tei:person xml:id="pmb29131">
-                  <tei:persName>
-                     <tei:surname>Philipp</tei:surname>
-                     <tei:forename>Gerda</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1907-11-27">27. 11. 1907</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1968-01-01">1968</tei:date>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb29133">
-                  <tei:persName>
-                     <tei:surname>Philipp</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1912-06-21">21. 6. 1912</tei:date>
-                     <tei:placeName ref="#pmb43570">Dänemark</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1995-11-08">8. 11. 1995</tei:date>
-                     <tei:placeName ref="#pmb43570">Dänemark</tei:placeName>
-                  </tei:death>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb11461">
-                  <tei:persName>
-                     <tei:surname>Goethe</tei:surname>
-                     <tei:forename>Johann Wolfgang von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1749-08-28">28. 8. 1749</tei:date>
-                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1832-03-22">22. 3. 1832</tei:date>
-                     <tei:placeName ref="#pmb197">Weimar</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2412">
-                  <tei:persName>
-                     <tei:surname>Shakespeare</tei:surname>
-                     <tei:forename>William</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1564-04-23">23.4.1564?</tei:date>
-                     <tei:placeName ref="#pmb49870">Stratford-upon-Avon</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1616-05-03">3. 5. 1616</tei:date>
-                     <tei:placeName ref="#pmb49870">Stratford-upon-Avon</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2173">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Olga</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
-                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
-                  </tei:death>
-                  <occupation code="107">Sänger*in</occupation>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb10860">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Paula</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1879-02-25">25. 2. 1879</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-10-30">30. 10. 1939</tei:date>
-                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
-                  </tei:death>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb32093">
-                  <tei:author ref="pmb10992" role="author">
-                     <tei:surname>Brandes</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:author>
-                  <tei:title>Wolfgang Goethe</tei:title>
-                  <tei:date from="1915-01-01" from-custom="1915">1915</tei:date>
-                  <tei:gloss type="w1156">Biografie</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb32159">
-                  <tei:author ref="pmb10992" role="author">
-                     <tei:surname>Brandes</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:author>
-                  <tei:title>William Shakespeare</tei:title>
-                  <tei:date from="1895-01-01" from-custom="1895" to="1896-01-01" to-custom="1896">1895–1896</tei:date>
-                  <tei:gloss type="w1089">Studie</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb36300">
-                  <tei:placeName>Kopenhagen</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb150">
-                  <tei:placeName>Sternwartestraße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb68">
-                  <tei:placeName>XVIII., Währing</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
-                  <tei:placeName>Berlin</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2018-08-01">Angelegt</change>
+         <change who="MAM" when="2018-08-14">Durchsicht</change>
+         <change who="MAM" when="2018-02-14">Index check</change>
+         <change who="GHS" when="2019-07-26">facs aktualisiert, korrigiert, finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00081"/>
+      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00082"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00081"/>Herrn Dr. Arthur
+                        Schnitzler</addrLine>
+               <addrLine>
+                  <rs ref="#150" type="place">Sternwartestrasse 71</rs>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#68" type="place">Wien XVIII</rs>
+               </addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00082"/>
+                  <rs ref="#36300" type="place">Kopenhagen</rs>
+                  <space unit="chars" quantity="1"/>
+                  <date>23 Dec 14</date>
+               </dateline>
+               <salute>Verehrter und lieber Freund</salute>
+            </opener>
+            <p>Es freute mich ein Lebenszeichen von Ihnen zu sehen. Es freut mich noch mehr,
+                    dass Sie und die Ihrigen in guter und ruhiger Stimmung sind. Meine einzige <rs type="person" ref="#4395" subtype="implied">Tochter</rs> ist in <rs ref="#168" type="place">Berlin</rs> verheirathet. Ihr junger <rs type="person" ref="#4394" subtype="implied">Mann</rs> ist Fabrikant und
+                    Gardelieutenant der Artillerie, er wurde schon im <date>September</date> zum
+                    Oberlieutenant befördert und bekam im November das eiserne Kreuz. Aber er ist in
+                    steter Lebensgefahr. Meine <rs type="person" ref="#4395" subtype="implied">Tochter</rs> war mehrere Monate hier mit zwei <rs type="person" ref="#29131 #29133" subtype="implied">Kleinen</rs>, einer <rs type="person" ref="#29131" subtype="implied">Tochter</rs> von 7 Jahren und einem <rs type="person" ref="#29133" subtype="implied">Jungen</rs> von 2 Jahren, beide
+                    sehr hübsch; sie ist jetzt in <rs ref="#168" type="place">Berlin</rs> und
+                    natürlich recht unruhig und mitgenommen von der ewigen Spannung. Ich arbeite
+                    viel, schreibe im Augenblick ein <rs type="work" ref="#32093" subtype="implied">Buch über <rs ref="#11461" type="person">Goethe</rs>
+               </rs>, parallel zu dem, ich einmal über <rs type="work" ref="#32159" subtype="implied">
+                  <rs ref="#2412" type="person">Shspeare</rs>
+               </rs>
+               schrieb. Ausserdem habe ich fast jeden Monat ein grosses Essay
+                    veröffentlicht.</p>
+            <closer>Grüssen Sie Ihre Frau <rs type="person" ref="#2173" subtype="implied">Gemahlin</rs> und <rs ref="#10863 #10860" type="person">Beer-Hoffmanns</rs>. Ihr <signed>G. B.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,134 +1,214 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00241" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hermann Bahr an Arthur Schnitzler, [24. 7. 1893]</title><author ref="#pmb10815">Bahr, Hermann</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L00241</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00241"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Hermann Bahr an Arthur Schnitzler, [24. 7. 1893]</title>
+            <author ref="#10815">Bahr, Hermann</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+            <idno type="asbw">L00241</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 5b</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="1" type="_seiten"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift datiert: »<quote><date>24. 7. 93</date></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>11</quote>«</desc></incident><incident type="archival"><desc>mit rotem Buntstift von unbekannter Hand nummeriert:
-                                    »<quote>11</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">36</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName><date when="1893-07-24" n="01">[24. 7. 1893]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L00240">Schnitzler an
-                  Beer-Hofmann, 22. 7. 1893</ref><ref subtype="next_letter" type="withinCollection" target="L00242">Schnitzler an
-                  Fischer, 25. 7. 1893</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00129">Schnitzler
-                  an Bahr, [29. 10.?] 1892</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00252">Bahr an
-                  Schnitzler, [12. 8. 1893]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 5b</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="1" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="bleistift" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift datiert: »<quote>
+                                    <date>24. 7. 93</date>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>11</quote>«</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit rotem Buntstift von unbekannter Hand nummeriert:
+                                    »<quote>11</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HBAS">
+                  <monogr>
+                     <author ref="#10815">Bahr, Hermann</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
+                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
+                     <imprint>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Wallstein</publisher>
+                        <date when="2018">2018</date>
+                     </imprint>
+                     <biblScope unit="pp">36</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10815">Bahr, Hermann</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1893-07-24" n="01">[24. 7. 1893]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00240">Schnitzler an
+                  Beer-Hofmann, 22. 7. 1893</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00242">Schnitzler an
+                  Fischer, 25. 7. 1893</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L00129">Schnitzler
+                  an Bahr, [29. 10.?] 1892</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00252">Bahr an
+                  Schnitzler, [12. 8. 1893]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-11-30">Kollationiert</change><change who="KI MAM" when="2017-05-22">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2019-02-20"><c rendition="#langesS">s</c>, @facs, Nummerierungen, Seitenzahlen ergänzt</change><change who="GHS" when="2019-09-28">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-B-00005-B-000-00020"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p><pb facs="MS-B-00005-B-000-00020"/><hi rend="pre-print"><rs ref="#pmb29424" type="org">Deut<c rendition="#langesS">s</c>che Zeitung</rs></hi></p><p><hi rend="pre-print"><rs ref="#pmb50" type="place">Wien</rs></hi></p><p><hi rend="pre-print"><rs ref="#pmb198" type="place">IX., Pelikanga<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e 4</rs>.</hi></p><salute rend="center">Lieber Freund!</salute></opener><p>Von Ihrer Anfrage über <rs ref="#pmb11740" type="person">Loris</rs> hat man mir nichts mitgeteilt. Ich ko<c rendition="#gemination-m"/>e morgen entweder zwi<c rendition="#langesS">s</c>chen <time>3</time> u. <time>4</time><space unit="chars" quantity="1"/><rs ref="#pmb274" type="place">Burgring</rs> oder um <time>½ 5</time><space unit="chars" quantity="1"/><rs ref="#pmb412" type="place">Grillparzer<c rendition="#langesS">s</c>tr</rs>. Daß Sie <hi rend="underline" n="1">uns</hi> u. nur uns keine Notiz über <anchor xml:id="K_L00241_1" type="commentary"/><rs ref="#pmb213" type="place"><hi rend="latintype">Ischler</hi></rs> Aufführung<note xml:id="K_L00241_1h" type="commentary">Uraufführung von <rs ref="#pmb30005" type="work">Abschiedssouper</rs>, <ref target="1893-07-14" subtype="date-only" type="schnitzlerDiary"/></note> ge<c rendition="#langesS">s</c>chickt, i<c rendition="#langesS">s</c>t nicht<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön.</p><closer>Herzlich<c rendition="#langesS">s</c>t<lb/>Ihr<lb/><signed>HermannBahr</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10815">
-                  <tei:persName>
-                     <tei:surname>Bahr</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30005">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb2242" role="translator">
-                     <tei:surname>Levi</tei:surname>
-                     <tei:forename>Cesare</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:title>Abschiedssouper</tei:title>
-                  <tei:date from="1892-01-01" from-custom="1892">1892</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb198">
-                  <tei:placeName>Pelikangasse</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.216323686182 16.348107467953</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb274">
-                  <tei:placeName>Burgring</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.204946202715 16.362166500158</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb412">
-                  <tei:placeName>Grillparzerstraße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.212643768549 16.357353835756</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb213">
-                  <tei:placeName>Bad Ischl</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29424">
-                  <tei:orgName>Deutsche Zeitung</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="KI MAM" when="2015-11-30">Kollationiert</change>
+         <change who="KI MAM" when="2017-05-22">Kollationiert</change>
+         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
+         <change who="GHS" when="2019-02-20">ſ, @facs, Nummerierungen, Seitenzahlen ergänzt</change>
+         <change who="GHS" when="2019-09-28">finalisiert</change>
+         <change who="MAM" when="2019-01-20">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-B-00005-B-000-00020"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <p>
+                  <pb facs="MS-B-00005-B-000-00020"/>
+                  <hi rend="pre-print">
+                     <rs ref="#29424" type="org">Deutſche Zeitung</rs>
+                  </hi>
+               </p>
+               <p>
+                  <hi rend="pre-print">
+                     <rs ref="#50" type="place">Wien</rs>
+                  </hi>
+               </p>
+               <p>
+                  <hi rend="pre-print">
+                     <rs ref="#198" type="place">IX., Pelikangaſſe 4</rs>.</hi>
+               </p>
+               <salute rend="center">Lieber Freund!</salute>
+            </opener>
+            <p>Von Ihrer Anfrage über <rs ref="#11740" type="person">Loris</rs> hat man mir nichts
+               mitgeteilt. Ich ko<c rendition="#gemination-m"/>e morgen entweder zwiſchen
+                  <time>3</time> u. <time>4</time>
+               <space unit="chars" quantity="1"/>
+               <rs ref="#274" type="place">Burgring</rs> oder um <time>½ 5</time>
+               <space unit="chars" quantity="1"/>
+               <rs ref="#412" type="place">Grillparzerſtr</rs>. Daß Sie <hi rend="underline" n="1"
+                  >uns</hi> u. nur uns keine Notiz über <anchor xml:id="K_L00241_1"
+                  type="commentary"/>
+               <rs ref="#213" type="place">
+                  <hi rend="latintype">Ischler</hi>
+               </rs> Aufführung<note xml:id="K_L00241_1h" type="commentary">Uraufführung von <rs
+                     ref="#30005" type="work">Abschiedssouper</rs>, <ref target="1893-07-14"
+                     subtype="date-only" type="schnitzlerDiary"/></note> geſchickt, iſt nicht
+               ſchön.</p>
+            <closer>Herzlichſt<lb/>Ihr<lb/>
+               <signed>HermannBahr</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

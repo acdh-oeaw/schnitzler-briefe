@@ -1,179 +1,266 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L00986" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 2. 10. [1899]</title><author ref="#pmb11740">Hofmannsthal, Hugo von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00986</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="L00986"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 2. 10. [1899]</title>
+            <author ref="#11740">Hofmannsthal, Hugo von</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00986</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 43</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>236</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">131–132</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb462">Venedig</placeName><date when="1899-10-02" n="01">2. 10. [1899]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L00985">Beer-Hofmann an Schnitzler, 1. 10. 1899</ref><ref subtype="next_letter" type="withinCollection" target="L00987">Schnitzler an Beer-Hofmann, 3. 10. 1899</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00983">Schnitzler an Hofmannsthal, 29. 9. 1899</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00990">Schnitzler an Hofmannsthal, 8. 10. 1899</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 43</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="4" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>236</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HvHAS">
+                  <monogr>
+                     <author ref="#11740">Hofmannsthal, Hugo von</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel</title>
+                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1964">1964</date>
+                     </imprint>
+                     <biblScope unit="pp">131–132</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
+               <placeName ref="#462">Venedig</placeName>
+               <date when="1899-10-02" n="01">2. 10. [1899]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00985">Beer-Hofmann an Schnitzler, 1. 10. 1899</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00987">Schnitzler an Beer-Hofmann, 3. 10. 1899</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00983">Schnitzler an Hofmannsthal, 29. 9. 1899</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00990">Schnitzler an Hofmannsthal, 8. 10. 1899</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="MAM" when="2020-01-02">Index check</change><change who="GHS" when="2020-04-10">Durchsicht</change><change who="MAM" when="2020-04-27">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00167"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00168"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><p rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00167"/><hi rend="pre-print"><rs ref="#pmb462" type="place">Venice</rs></hi></p><p rend="center"><hi rend="pre-print"><rs ref="#pmb40837" type="place">Grand Hôtel Britannia</rs></hi></p><p><seg rend="left"><hi rend="pre-print">Charles Walther</hi></seg><seg rend="right"><hi rend="pre-print">Electric light and steamheat in all rooms</hi></seg></p><p><seg rend="left"><hi rend="pre-print">Propr.</hi></seg><seg rend="right"><hi rend="pre-print">Hydraulic Lifts</hi></seg></p><p rend="center"><hi rend="pre-print">Mêmes Maisons</hi></p><p><seg rend="left"><hi rend="pre-print"><rs ref="#pmb44482" type="place">Hôtel Victoria</rs></hi></seg><seg rend="right"><hi rend="pre-print"><rs type="place" ref="#pmb44484">Hôtel de la Ville</rs></hi></seg></p><p><seg rend="left"><hi rend="pre-print"><rs type="place" ref="#pmb40260">Bozen</rs> (<rs ref="#pmb423" type="place">Tyrol</rs>)</hi></seg><seg rend="right"><hi rend="pre-print"><rs type="place" ref="#pmb994">Genoa</rs> – <rs type="place" ref="#pmb994">Gênes</rs> – <rs type="place" ref="#pmb994">Genúa</rs></hi></seg></p><dateline rend="right"><hi rend="pre-print">Venice</hi>, den <date>2<hi rend="superscript">ten</hi> X.</date></dateline><salute>mein lieber Arthur</salute></opener><p>was Sie mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben, i<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o wahr: für die Momente dankbar<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, in denen man eine gewi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e innere Fülle empfindet. Da<c rendition="#langesS">s</c>s aber das alles unter<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o furchtbar dunklen Ge<c rendition="#langesS">s</c>etzen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>teht und da<c rendition="#langesS">s</c>s die Starrheit manchmal alles ergreifen <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00167"/>kann,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ogar die Empfindung für die Exi<c rendition="#langesS">s</c>tenz aller andern Menschen!</p><p>Mit meinem <rs type="work" ref="#pmb32432" subtype="implied">Stück</rs> geht es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>onderbar. Ich hab in <rs ref="#pmb946" type="place">Vahrn</rs> nochmals einen ganz unbrauchbaren 3<hi rend="superscript">ten</hi> Act gemacht, recht ver<c rendition="#langesS">s</c>chieden von dem, den Sie in <rs ref="#pmb213" type="place">I<c rendition="#langesS">s</c>chl</rs> ge<c rendition="#langesS">s</c>ehen haben, und doch falsch. Eine<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chlechte Art, die Men<c rendition="#langesS">s</c>chen und ihr Schick<c rendition="#langesS">s</c>al anzu<c rendition="#langesS">s</c>ehen. Der Grundfehler war, wie ich jetzt weiß, schon im <subst><del rend="strikethrough">er<c rendition="#langesS">s</c>ten</del><add place="above">zweiten</add></subst><space unit="chars" quantity="1"/><rs type="work" ref="#pmb32432" subtype="implied">Act</rs> gelegen. Bin dann hier her gefahren. Wollte ganz aufhören, mich ab<c rendition="#langesS">s</c>olut von dem Stoff losmachen. Das war ich aber auch nicht im Stande. Habe wieder den 2<hi rend="superscript">ten</hi><space unit="chars" quantity="1"/><rs type="work" ref="#pmb32432" subtype="implied">Act</rs> vorgeno<c rendition="#gemination-m"/>en. In die<c rendition="#langesS">s</c>er weichen helleren Luft hier <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00168"/>nimmt alles weichere Formen an; ich arbeite wieder mit Freude, die Bekannt<c rendition="#langesS">s</c>chaft mit den umge<c rendition="#langesS">s</c>chmolzenen Figuren kommt mir zu Hilfe und ich hoffe hier<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr ra<c rendition="#langesS">s</c>ch weit zu kommen.</p><p><rs ref="#pmb10986" type="person">Brahm</rs> will ich in die<c rendition="#langesS">s</c>en Tagen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben. Es liegt mir aus weitläufigen Gründen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr viel daran, da<c rendition="#langesS">s</c>s das <rs type="work" ref="#pmb32432" subtype="implied">Stück</rs> wenig<c rendition="#langesS">s</c>tens in einem der Theater noch in die<c rendition="#langesS">s</c>em Spieljahr drankommt.</p><p><rs ref="#pmb10863" type="person">Richard</rs>s <rs type="work" ref="#pmb30233" subtype="implied">Stück</rs> i<c rendition="#langesS">s</c>t in der Anlage wunder<c rendition="#langesS">s</c>chön und er arbeitet gar nicht lang<c rendition="#langesS">s</c>am, etwa 30–40 Ver<c rendition="#langesS">s</c>e <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00168"/>im Tag.<space unit="chars" quantity="3"/>Wie froh bin ich,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olche Men<c rendition="#langesS">s</c>chen zu haben wie Sie und <rs ref="#pmb10863" type="person">Richard</rs>. Da<c rendition="#langesS">s</c>s man trotzdem<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o <del rend="strikethrough">vielfach</del> oft<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o traurig, oed und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tarr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein kann.</p><p>Ich bin vielleicht noch 14 Tage hier. Ko<c rendition="#gemination-m"/>en Sie nicht vorbei und le<c rendition="#langesS">s</c>en mir zur Ermuthigung was vor?</p><closer>Von Herzen Ihr<lb/><signed>Hugo.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10986">
-                  <tei:persName>
-                     <tei:surname>Brahm</tei:surname>
-                     <tei:forename>Otto</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1856-02-05">5. 2. 1856</tei:date>
-                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1912-11-28">28. 11. 1912</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:death>
-                  <occupation code="103">Theaterleiter*in</occupation>
-                  <occupation code="104">Regisseur*in</occupation>
-                  <occupation code="278">Literarhistoriker*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb32432">
-                  <tei:author ref="pmb11740" role="author">
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:author>
-                  <tei:title>Das Bergwerk zu Falun</tei:title>
-                  <tei:date from="1900-01-01" from-custom="1900" to="1933-01-01" to-custom="1933">1900–1933</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>6197</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30233">
-                  <tei:author ref="pmb10863" role="author">
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Graf von Charolais. Ein Trauerspiel</tei:title>
-                  <tei:date when="1904-12-23" when-custom="1904-12-23">23. 12. 1904</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>6195</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb462">
-                  <tei:placeName>Venedig</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.43713 12.33265</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb40837">
-                  <tei:placeName>Grand Hotel Britannia</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i12">Hotel</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.4321 12.33517</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb44482">
-                  <tei:placeName>Hotel Victoria</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i12">Hotel</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">46.49713 11.35807</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb44484">
-                  <tei:placeName>Hotel de la Ville</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i12">Hotel</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">44.411485 8.928477</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb40260">
-                  <tei:placeName>Bozen</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1134">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">46.49067 11.33982</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb423">
-                  <tei:placeName>Tirol</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i13">Teil eines Landes</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.25 11.33333</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb994">
-                  <tei:placeName>Genua</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">44.40478 8.94439</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb946">
-                  <tei:placeName>Vahrn</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">46.73901 11.63749</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb213">
-                  <tei:placeName>Bad Ischl</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change>
+         <change who="MAM" when="2020-01-02">Index check</change>
+         <change who="GHS" when="2020-04-10">Durchsicht</change>
+         <change who="MAM" when="2020-04-27">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00167"/>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00168"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <p rend="right">
+                  <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00167"/>
+                  <hi rend="pre-print">
+                     <rs ref="#462" type="place">Venice</rs>
+                  </hi>
+               </p>
+               <p rend="center">
+                  <hi rend="pre-print">
+                     <rs ref="#40837" type="place">Grand Hôtel
+                     Britannia</rs>
+                  </hi>
+               </p>
+               <p>
+                  <seg rend="left">
+                     <hi rend="pre-print">Charles Walther</hi>
+                  </seg>
+                  <seg rend="right">
+                     <hi rend="pre-print">Electric light and steamheat in all rooms</hi>
+                  </seg>
+               </p>
+               <p>
+                  <seg rend="left">
+                     <hi rend="pre-print">Propr.</hi>
+                  </seg>
+                  <seg rend="right">
+                     <hi rend="pre-print">Hydraulic Lifts</hi>
+                  </seg>
+               </p>
+               <p rend="center">
+                  <hi rend="pre-print">Mêmes Maisons</hi>
+               </p>
+               <p>
+                  <seg rend="left">
+                     <hi rend="pre-print">
+                        <rs ref="#44482" type="place">Hôtel
+                        Victoria</rs>
+                     </hi>
+                  </seg>
+                  <seg rend="right">
+                     <hi rend="pre-print">
+                        <rs type="place" ref="#44484">Hôtel de la Ville</rs>
+                     </hi>
+                  </seg>
+               </p>
+               <p>
+                  <seg rend="left">
+                     <hi rend="pre-print">
+                        <rs type="place" ref="#40260">Bozen</rs> (<rs ref="#423" type="place">Tyrol</rs>)</hi>
+                  </seg>
+                  <seg rend="right">
+                     <hi rend="pre-print">
+                        <rs type="place" ref="#994">Genoa</rs> – <rs type="place" ref="#994">Gênes</rs> –
+                     <rs type="place" ref="#994">Genúa</rs>
+                     </hi>
+                  </seg>
+               </p>
+               <dateline rend="right">
+                  <hi rend="pre-print">Venice</hi>, den <date>2<hi rend="superscript">ten</hi> X.</date>
+               </dateline>
+               <salute>mein lieber Arthur</salute>
+            </opener>
+            <p>was Sie mir ſchreiben, iſt ſo wahr: für die Momente dankbar ſein, in denen man eine
+               gewiſſe innere Fülle empfindet. Daſs aber das alles unter ſo furchtbar dunklen
+               Geſetzen ſteht und daſs die Starrheit manchmal alles ergreifen <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00167"/>kann, ſogar die Empfindung für die
+               Exiſtenz aller andern Menschen!</p>
+            <p>Mit meinem <rs type="work" ref="#32432" subtype="implied">Stück</rs> geht es
+               ſonderbar. Ich hab in <rs ref="#946" type="place">Vahrn</rs> nochmals einen ganz
+               unbrauchbaren 3<hi rend="superscript">ten</hi> Act gemacht, recht verſchieden von
+               dem, den Sie in <rs ref="#213" type="place">Iſchl</rs> geſehen haben, und doch
+               falsch. Eine ſchlechte Art, die Menſchen und ihr Schickſal anzuſehen. Der Grundfehler
+               war, wie ich jetzt weiß, schon im <subst>
+                  <del rend="strikethrough">erſten</del>
+                  <add place="above">zweiten</add>
+               </subst>
+               <space unit="chars" quantity="1"/>
+               <rs type="work" ref="#32432" subtype="implied">Act</rs> gelegen. Bin dann hier her gefahren. Wollte ganz
+               aufhören, mich abſolut von dem Stoff losmachen. Das war ich aber auch nicht im
+               Stande. Habe wieder den 2<hi rend="superscript">ten</hi>
+               <space unit="chars" quantity="1"/>
+               <rs type="work" ref="#32432" subtype="implied">Act</rs> vorgeno<c rendition="#gemination-m"/>en. In dieſer weichen helleren Luft hier <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00168"/>nimmt alles weichere Formen an;
+               ich arbeite wieder mit Freude, die Bekanntſchaft mit den umgeſchmolzenen Figuren
+               kommt mir zu Hilfe und ich hoffe hier ſehr raſch weit zu kommen.</p>
+            <p>
+               <rs ref="#10986" type="person">Brahm</rs> will ich in dieſen Tagen ſchreiben. Es
+               liegt mir aus weitläufigen Gründen ſehr viel daran, daſs das <rs type="work" ref="#32432" subtype="implied">Stück</rs> wenigſtens in einem der Theater noch in
+               dieſem Spieljahr drankommt.</p>
+            <p>
+               <rs ref="#10863" type="person">Richard</rs>s <rs type="work" ref="#30233" subtype="implied">Stück</rs> iſt in der Anlage wunderſchön und er arbeitet gar
+               nicht langſam, etwa 30–40 Verſe <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00168"/>im Tag.<space unit="chars" quantity="3"/>Wie froh bin ich, ſolche Menſchen zu haben
+               wie Sie und <rs ref="#10863" type="person">Richard</rs>. Daſs man trotzdem ſo <del rend="strikethrough">vielfach</del> oft ſo traurig, oed und ſtarr ſein kann.</p>
+            <p>Ich bin vielleicht noch 14 Tage hier. Ko<c rendition="#gemination-m"/>en Sie nicht
+               vorbei und leſen mir zur Ermuthigung was vor?</p>
+            <closer>Von Herzen Ihr<lb/>
+               <signed>Hugo.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,117 +1,193 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02415" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Felix Braun an Arthur Schnitzler, 2. 10. 1924</title><author ref="#pmb11002">Braun, Felix</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02415</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L02415"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Felix Braun an Arthur Schnitzler, 2. 10. 1924</title>
+            <author ref="#11002">Braun, Felix</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L02415</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, HS.NZ85.1.2604,3</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Braun</hi></quote>« und »<quote><rs ref="#pmb1092" type="place"><hi rend="latintype">Sievringerstr. 191</hi></rs></quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift mehrere Unterstreichungen</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11002">Braun, Felix</persName><placeName ref="#pmb50">Wien</placeName><date when="1924-10-02" n="01">2. 10. 1924</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11002">Braun, Felix</ref><ref subtype="previous_letter" type="withinCollection" target="L02414">Schnitzler an Beer-Hofmann, 18. 8. 1924</ref><ref subtype="next_letter" type="withinCollection" target="L02416">Schnitzler an Braun, 19. 10. 1924</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02411">Braun an Schnitzler, 27. 3. 1924</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02416">Schnitzler an Braun, 19. 10. 1924</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>D</country>
+                        <settlement>Marbach am Neckar</settlement>
+                        <repository>Deutsches Literaturarchiv</repository>
+                        <idno>A:Schnitzler, HS.NZ85.1.2604,3</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="2" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift beschriftet: »<quote>
+                                    <hi rend="latintype">Braun</hi>
+                                 </quote>« und »<quote>
+                                    <rs ref="#1092" type="place">
+                                       <hi rend="latintype">Sievringerstr. 191</hi>
+                                    </rs>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="receiver">
+                              <desc>mit rotem Buntstift mehrere Unterstreichungen</desc></incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#11002">Braun, Felix</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1924-10-02" n="01">2. 10. 1924</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11002">Braun, Felix</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L02414">Schnitzler an Beer-Hofmann, 18. 8. 1924</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L02416">Schnitzler an Braun, 19. 10. 1924</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L02411">Braun an Schnitzler, 27. 3. 1924</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L02416">Schnitzler an Braun, 19. 10. 1924</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2018-12-03">Angelegt</change><change who="MAM" when="2018-12-07">Index check</change><change who="GHS" when="2020-07-26">Durchsicht</change><change who="GHS" when="2020-09-02">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.2604_0004"/><graphic url="HS.NZ85.1.2604_0005"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="center"><pb facs="HS.NZ85.1.2604_0004"/><rs ref="#pmb50" type="place">Wien</rs>, den <date>2. X. 1924</date></dateline><salute>Sehr verehrter Herr Doktor!</salute></opener><p>Als ich heute vom Verlag <rs ref="#pmb29639" type="org">Fi<c rendition="#langesS">s</c>cher</rs> Ihre neue <rs type="work" ref="#pmb30205" subtype="implied">Komödie</rs> erhielt und in dem <rs type="work" ref="#pmb30205" subtype="implied">Buch</rs> den Vermerk: »Im Auftrag des Verfa<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ers« fand, war ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tolz und erfreut:<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eien Sie herzlich bedankt für die<c rendition="#langesS">s</c>e Auszeichnung!</p><p>Ich habe auch das <rs ref="#pmb30205" type="work" subtype="implied">Werk</rs><tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ofort zu le<c rendition="#langesS">s</c>en begonnen und jetzt – es ist<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>pät nachts – den ergreifenden, tiefen dritten Akt beendigt.</p><p>Es i<c rendition="#langesS">s</c>t ein großes, reines Dichtwerk, eine Art dramati<c rendition="#langesS">s</c>cher Roman, wenn ich mich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o ausdrücken darf. Die Ge<c rendition="#langesS">s</c>talt <rs type="work" ref="#pmb30205" subtype="implied">Falkenirs</rs> ging mir am näch<c rendition="#langesS">s</c>ten. In <rs type="work" ref="#pmb30205" subtype="implied">Aurelie</rs> i<c rendition="#langesS">s</c>t das Weibliche als das Allmögliche des Erlebens endgültig ge<c rendition="#langesS">s</c>taltet; <rs type="work" ref="#pmb30205" subtype="implied">Falkenir</rs>s Schuld geht daran hervor. Man lebt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr in die<c rendition="#langesS">s</c>e Welt ein und möchte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich eine Fort<c rendition="#langesS">s</c>etzung wün<pb facs="HS.NZ85.1.2604_0005"/><c rendition="#langesS">s</c>chen. Den er<c rendition="#langesS">s</c>ten und den dritten Akt halte ich für die<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chön<c rendition="#langesS">s</c>ten des Stückes; der zweite<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>teht für mein Gefühl etwas zurück. Der dritte i<c rendition="#langesS">s</c>t my<c rendition="#langesS">s</c>ti<c rendition="#langesS">s</c>ch, wäch<c rendition="#langesS">s</c>t gegen den Schluß immer höher ins Bedeutungsvolle und gewinnt immer noch an Poe<c rendition="#langesS">s</c>ie. Über Einzelheiten voll tiefen Einblicks möchte ich in die<c rendition="#langesS">s</c>em kurzen Brief gar nicht er<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>prechen. Die<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chöne Stelle über die Liebe als Kampf nur darf ich hervorheben. Das <rs type="work" ref="#pmb30205" subtype="implied">Buch</rs> hat mir viel gegeben: ich danke Ihnen von Herzen dafür!</p><p>Darf ich Sie nun bitten, verehrter Herr Doktor, als eine – freilich im Ab<c rendition="#langesS">s</c>tand zu betrachtende – Gegengabe meine beiden letzter<c rendition="#langesS">s</c>chienenen <rs type="work" ref="#pmb33564 #pmb33566" subtype="implied">Bücher</rs> von mir anzunehmen? Es würde mich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr freuen, wenn Ihnen das eine oder das andere ein weniges zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen hätte.</p><closer>In die<c rendition="#langesS">s</c>er Zuver<c rendition="#langesS">s</c>icht bin ich, verehrter Herr Doktor, Ihr ergebener<lb/><signed>Felix Braun.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11002">
-                  <tei:persName>
-                     <tei:surname>Braun</tei:surname>
-                     <tei:forename>Felix</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1885-11-04">4. 11. 1885</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1973-11-29">29. 11. 1973</tei:date>
-                     <tei:placeName ref="#pmb865">Klosterneuburg</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30205">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Komödie der Verführung. In drei Akten</tei:title>
-                  <tei:date from="1924-01-01" from-custom="1924">1924</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>9218</tei:note>
-                  <tei:note>9219</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb33564">
-                  <tei:author ref="pmb11002" role="author">
-                     <tei:surname>Braun</tei:surname>
-                     <tei:forename>Felix</tei:forename>
-                  </tei:author>
-                  <tei:title>Wunderstunden. Drei Erzählungen</tei:title>
-                  <tei:date from="1923-01-01" from-custom="1923">1923</tei:date>
-                  <tei:gloss type="w1342">Erzählsammlung</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb33566">
-                  <tei:author ref="pmb11002" role="author">
-                     <tei:surname>Braun</tei:surname>
-                     <tei:forename>Felix</tei:forename>
-                  </tei:author>
-                  <tei:title>Der unsichtbare Gast</tei:title>
-                  <tei:date from="1924-01-01" from-custom="1924">1924</tei:date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb1092">
-                  <tei:placeName>Sieveringer Straße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.24803 16.32993</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29639">
-                  <tei:orgName>S. Fischer Verlag</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1886-01-01" from-custom="1886">1886</tei:date>
-                     <tei:gloss ana="i975">Verlag</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb146">
-                     <tei:placeName>Frankfurt am Main</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb168">
-                     <tei:placeName>Berlin</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb659">
-                     <tei:placeName>Bülowstraße</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">52.49737 13.36385</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2018-12-03">Angelegt</change>
+         <change who="MAM" when="2018-12-07">Index check</change>
+         <change who="GHS" when="2020-07-26">Durchsicht</change>
+         <change who="GHS" when="2020-09-02">finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="HS.NZ85.1.2604_0004"/>
+      <graphic url="HS.NZ85.1.2604_0005"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="center">
+                  <pb facs="HS.NZ85.1.2604_0004"/>
+                  <rs ref="#50" type="place">Wien</rs>, den <date>2. X. 1924</date>
+               </dateline>
+               <salute>Sehr verehrter Herr Doktor!</salute>
+            </opener>
+            <p>Als ich heute vom Verlag <rs ref="#29639" type="org">Fiſcher</rs> Ihre neue <rs type="work" ref="#30205" subtype="implied">Komödie</rs> erhielt und in dem
+                        <rs type="work" ref="#30205" subtype="implied">Buch</rs> den Vermerk: »Im
+                    Auftrag des Verfaſſers« fand, war ich ſehr ſtolz und erfreut: ſeien Sie herzlich
+                    bedankt für dieſe Auszeichnung!</p>
+            <p>Ich habe auch das <rs ref="#30205" type="work" subtype="implied">Werk</rs> ſofort
+                    zu leſen begonnen und jetzt – es ist ſpät nachts – den ergreifenden, tiefen
+                    dritten Akt beendigt.</p>
+            <p>Es iſt ein großes, reines Dichtwerk, eine Art dramatiſcher Roman, wenn ich mich
+                    ſo ausdrücken darf. Die Geſtalt <rs type="work" ref="#30205" subtype="implied">Falkenirs</rs> ging mir am nächſten. In <rs type="work" ref="#30205" subtype="implied">Aurelie</rs> iſt das Weibliche als das Allmögliche des
+                    Erlebens endgültig geſtaltet; <rs type="work" ref="#30205" subtype="implied">Falkenir</rs>s Schuld geht daran hervor. Man lebt ſich ſehr in dieſe Welt
+                    ein und möchte ſich eine Fortſetzung wün<pb facs="HS.NZ85.1.2604_0005"/>ſchen. Den erſten und den
+                    dritten Akt halte ich für die ſchönſten des Stückes; der zweite ſteht für mein
+                    Gefühl etwas zurück. Der dritte iſt myſtiſch, wächſt gegen den Schluß immer
+                    höher ins Bedeutungsvolle und gewinnt immer noch an Poeſie. Über Einzelheiten
+                    voll tiefen Einblicks möchte ich in dieſem kurzen Brief gar nicht erſt ſprechen.
+                    Die ſchöne Stelle über die Liebe als Kampf nur darf ich hervorheben. Das <rs type="work" ref="#30205" subtype="implied">Buch</rs> hat mir viel gegeben:
+                    ich danke Ihnen von Herzen dafür!</p>
+            <p>Darf ich Sie nun bitten, verehrter Herr Doktor, als eine – freilich im Abſtand zu
+                    betrachtende – Gegengabe meine beiden letzterſchienenen <rs type="work" ref="#33564 #33566" subtype="implied">Bücher</rs> von mir anzunehmen? Es
+                    würde mich ſehr freuen, wenn Ihnen das eine oder das andere ein weniges zu ſagen
+                    hätte.</p>
+            <closer>In dieſer Zuverſicht bin ich, verehrter Herr Doktor, Ihr ergebener<lb/>
+               <signed>Felix Braun.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

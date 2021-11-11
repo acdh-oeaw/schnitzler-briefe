@@ -1,140 +1,197 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01898" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Olga Schnitzler an Richard und Paula Beer-Hofmann,
-               [12. 12. 1909]</title><author ref="#pmb2173">Schnitzler, Olga</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01898</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L01898"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Olga Schnitzler an Richard und Paula Beer-Hofmann,
+               [12. 12. 1909]</title>
+            <author ref="#2173">Schnitzler, Olga</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L01898</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte"/><desc type="umschlag">oben rechts mit Bleistift beschriftet: »<quote>S.</quote>«</desc></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc>ohne postalischen Übermittlungsvermerk</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">206</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2173">Schnitzler, Olga</persName><placeName ref="#pmb50">Wien</placeName><date when="1909-12-12" n="01">[12. 12. 1909]</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><persName ref="#pmb10860">Beer-Hofmann, Paula</persName><placeName ref="#pmb50">Wien</placeName><date when="1909-12-12">12. 12. 1909</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01897">Bahr an Schnitzler, 11. 12. 1909</ref><ref subtype="next_letter" type="withinCollection" target="L01900">Beer-Hofmann an Schnitzler, [13. 12. 1909?]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01896">Schnitzler an Beer-Hofmann, 10. 12. 1909</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01900">Beer-Hofmann an Schnitzler, [13. 12. 1909?]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>U.S.A.</country>
+                        <settlement>Yale</settlement>
+                        <repository>Beinecke Rare Book and Manuscript Library</repository>
+                        <idno>Yale Collection of German Literature, MSS 31</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="briefkarte"/>
+                           <desc type="umschlag">oben rechts mit Bleistift beschriftet: »<quote>S.</quote>«</desc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>ohne postalischen Übermittlungsvermerk</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASBH">
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <author ref="#10863">Beer-Hofmann, Richard</author>
+                     <title level="m">Briefwechsel 1891–1931</title>
+                     <editor>Hg. Konstanze Fliedl</editor>
+                     <imprint>
+                        <pubPlace>Wien, Zürich</pubPlace>
+                        <publisher>Europaverlag</publisher>
+                        <date when="1992">1992</date>
+                     </imprint>
+                     <biblScope unit="pp">206</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2173">Schnitzler, Olga</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1909-12-12" n="01">[12. 12. 1909]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#10863">Beer-Hofmann, Richard</persName>
+               <persName ref="#10860">Beer-Hofmann, Paula</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1909-12-12">12. 12. 1909</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01897">Bahr an Schnitzler, 11. 12. 1909</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01900">Beer-Hofmann an Schnitzler, [13. 12. 1909?]</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L01896">Schnitzler an Beer-Hofmann, 10. 12. 1909</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01900">Beer-Hofmann an Schnitzler, [13. 12. 1909?]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="MAM" when="2021-01-25">Index check</change><change who="GHS" when="2021-02-12">Durchsicht</change><change who="MAM" when="2021-03-03">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="1909_OS_RBH_1_00007"/><graphic url="1909_OS_RBH_1_00008"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="1909_OS_RBH_1_00007"/>Herrn u. Frau</addrLine><addrLine>D<hi rend="superscript">r</hi> Richard Beer-Hofmann</addrLine><addrLine><rs ref="#pmb383" type="place">Hasenauerstrasse 59</rs>. </addrLine></address></div><div type="writingSession" n="1"><p><pb facs="1909_OS_RBH_1_00008"/><salute>Liebe Beer-Hofmanns</salute>, <anchor type="commentary" xml:id="K_L01898-1"/>morgen<note type="commentary" xml:id="K_L01898-1h"><ref target="1909-12-13" subtype="see" type="schnitzlerDiary"/></note><space unit="chars" quantity="1"/><time>Abend</time> kommen <rs type="person" ref="#pmb2496">Kaufmann</rs>, <rs type="person" ref="#pmb26392">Leo</rs> und wahrscheinlich auch <rs type="person" ref="#pmb2167 #pmb23918">Saltens</rs> zu uns, wir würden uns sehr freuen und das Gefühl von 2 aufgesetzten Kronen haben, wenn Ihr auch kämet.</p><closer>Herzliche Grüsse!<lb/><signed>Olga.</signed></closer><postscript><p><anchor xml:id="KLL01898_Beer-Hofmann-1" type="commentary"/>Sonntag<note xml:id="KLL01898_Beer-Hofmann-1h" type="commentary">Die Datierung folgt dem Tagebucheintrag vom <ref target="1909-12-13" subtype="date-only" type="schnitzlerDiary"/></note>.<space unit="chars" quantity="3"/>Bitte früh kommen!</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb2173">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Olga</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
-                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
-                  </tei:death>
-                  <occupation code="107">Sänger*in</occupation>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb10860">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Paula</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1879-02-25">25. 2. 1879</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-10-30">30. 10. 1939</tei:date>
-                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb2496">
-                  <tei:persName>
-                     <tei:surname>Kaufmann</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1872-04-04">4. 4. 1872</tei:date>
-                     <tei:placeName ref="#pmb38876">Iaşi</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1938-07-25">25. 7. 1938</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="102">Rechtswissenschaftler*in</occupation>
-                  <occupation code="162">Privatgelehrter</occupation>
-                  <occupation code="163">Privatier</occupation>
-               </tei:person><tei:person xml:id="pmb26392">
-                  <tei:persName>
-                     <tei:surname>Van-Jung</tei:surname>
-                     <tei:forename>Leo</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-10-15">15. 10. 1866</tei:date>
-                     <tei:placeName ref="#pmb420">Odessa</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-07-02">2. 7. 1939</tei:date>
-                     <tei:placeName ref="#pmb46637">Riga</tei:placeName>
-                  </tei:death>
-                  <occupation code="182">Gesangspädagoge/in</occupation>
-                  <occupation code="293">Mathematiker</occupation>
-               </tei:person><tei:person xml:id="pmb2167">
-                  <tei:persName>
-                     <tei:surname>Salten</tei:surname>
-                     <tei:forename>Felix</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1869-09-06">6. 9. 1869</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-10-08">8. 10. 1945</tei:date>
-                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb23918">
-                  <tei:persName>
-                     <tei:surname>Salten</tei:surname>
-                     <tei:forename>Ottilie</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1868-03-07">7. 3. 1868</tei:date>
-                     <tei:placeName ref="#pmb652">Prag</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1942-06-22">22. 6. 1942</tei:date>
-                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
-                  </tei:death>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb383">
-                  <tei:placeName>Hasenauerstraße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.233816866614 16.337927920952</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change>
+         <change who="MAM" when="2021-01-25">Index check</change>
+         <change who="GHS" when="2021-02-12">Durchsicht</change>
+         <change who="MAM" when="2021-03-03">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="1909_OS_RBH_1_00007"/>
+      <graphic url="1909_OS_RBH_1_00008"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="1909_OS_RBH_1_00007"/>Herrn u. Frau</addrLine>
+               <addrLine>D<hi rend="superscript">r</hi> Richard Beer-Hofmann</addrLine>
+               <addrLine>
+                  <rs ref="#383" type="place">Hasenauerstrasse 59</rs>. </addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <p>
+               <pb facs="1909_OS_RBH_1_00008"/>
+               <salute>Liebe Beer-Hofmanns</salute>, <anchor type="commentary" xml:id="K_L01898-1"/>morgen<note type="commentary" xml:id="K_L01898-1h">
+                  <ref target="1909-12-13" subtype="see" type="schnitzlerDiary"/>
+               </note>
+               <space unit="chars" quantity="1"/>
+               <time>Abend</time> kommen <rs type="person" ref="#2496">Kaufmann</rs>, <rs type="person" ref="#26392">Leo</rs> und wahrscheinlich auch <rs type="person" ref="#2167 #23918">Saltens</rs> zu uns, wir würden uns sehr freuen und das Gefühl
+               von 2 aufgesetzten Kronen haben, wenn Ihr auch kämet.</p>
+            <closer>Herzliche Grüsse!<lb/>
+               <signed>Olga.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <anchor xml:id="KLL01898_Beer-Hofmann-1" type="commentary"/>Sonntag<note xml:id="KLL01898_Beer-Hofmann-1h" type="commentary">Die Datierung folgt dem
+                     Tagebucheintrag vom <ref target="1909-12-13" subtype="date-only" type="schnitzlerDiary"/>
+                  </note>.<space unit="chars" quantity="3"/>Bitte früh kommen!</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,329 +1,214 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00104" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hugo von Hofmannsthal, 14. 7. 1892</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00104</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00104"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Hugo von Hofmannsthal, 14. 7. 1892</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00104</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Frankfurt am Main</settlement><repository>Freies Deutsches Hochstift</repository><idno>Hs-30885,21</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="archival"><desc>von Schnitzler auf der
-                                  ersten Seite mutmaßlich bei der Durchsicht der Korrespondenz <date>1929</date> mit Bleistift datiert »<quote><date>14. 7. 92</date></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">22</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1892-07-14" n="01">14. 7. 1892</date></correspAction><correspAction type="received"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L00103">Hofmannsthal an Schnitzler, [2. 7. 1892]</ref><ref subtype="next_letter" type="withinCollection" target="L00105">Hofmannsthal an Schnitzler, 19. 7. [1892]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00103">Hofmannsthal an Schnitzler, [2. 7. 1892]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00105">Hofmannsthal an Schnitzler, 19. 7. [1892]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>D</country>
+                        <settlement>Frankfurt am Main</settlement>
+                        <repository>Freies Deutsches Hochstift</repository>
+                        <idno>Hs-30885,21</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="4" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="archival">
+                              <desc>von Schnitzler auf der
+                                  ersten Seite mutmaßlich bei der Durchsicht der Korrespondenz <date>1929</date> mit Bleistift datiert »<quote>
+                                    <date>14. 7. 92</date>
+                                 </quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HvHAS">
+                  <monogr>
+                     <author ref="#11740">Hofmannsthal, Hugo von</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel</title>
+                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1964">1964</date>
+                     </imprint>
+                     <biblScope unit="pp">22</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1892-07-14" n="01">14. 7. 1892</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00103">Hofmannsthal an Schnitzler, [2. 7. 1892]</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00105">Hofmannsthal an Schnitzler, 19. 7. [1892]</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00103">Hofmannsthal an Schnitzler, [2. 7. 1892]</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00105">Hofmannsthal an Schnitzler, 19. 7. [1892]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-12-05">Angelegt</change><change who="MAM" when="2019-01-18">Durchsicht</change><change who="MAM" when="2019-07-10">Index check</change><change who="GHS" when="2019-09-14">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="Hs-30885,21_001"/><graphic url="Hs-30885,21_002"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="Hs-30885,21_001"/>Lieber Hugo,</salute></opener><p>von <rs ref="#pmb2167" type="person"><hi rend="latintype">Salten</hi></rs> erfahre ich, da<c rendition="#langesS">s</c>s Ihr <rs type="person" ref="#pmb11737" subtype="implied">Vater</rs> krank war, aber bereits wiederherge<c rendition="#langesS">s</c>tellt i<c rendition="#langesS">s</c>t. Hoffentlich erholen Sie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich zugleich von Ihrer Ver<c rendition="#langesS">s</c>ti<c rendition="#gemination-m"/>ung und Ab<c rendition="#langesS">s</c>pa<c rendition="#gemination-n"/>ung und verbringen den ko<c rendition="#gemination-m"/>enden So<c rendition="#gemination-m"/>er und Herb<c rendition="#langesS">s</c>t in<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o reicher Fülle des I<c rendition="#gemination-n"/>ern und Äußern, wie ichs Ihnen von Herzen wün<c rendition="#langesS">s</c>che. –</p><p>Ge<c rendition="#langesS">s</c>tern<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tarb mein <rs type="person" ref="#pmb2473" subtype="implied">Großvater</rs>; <pb facs="Hs-30885,21_002"/>in wenigen Tagen rei<c rendition="#langesS">s</c>en meine <rs type="person" ref="#pmb12695 #pmb12701" subtype="implied">Eltern</rs> ab, und ich übernehme die Praxis meines <rs type="person" ref="#pmb12695" subtype="implied">Papa</rs>.</p><p>Seit einiger Zeit bring ich es zuwege, auch nachts literari<c rendition="#langesS">s</c>ch zu arbeiten, und ich hoffe, meine angefangenen Sachen werden trotz anderweitiger Thätigkeit wohl fort<c rendition="#langesS">s</c>chreiten können.</p><p>– <rs ref="#pmb2404" type="person">Hebbel</rs>s <rs ref="#pmb30763" type="work">Briefe</rs> le<c rendition="#langesS">s</c>e ich jetzt, <rs ref="#pmb12053" type="person">Le<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ing</rs>’s <rs type="work" ref="#pmb33576" subtype="implied">Leben</rs> von<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>einem <rs type="person" ref="#pmb5772" subtype="implied">Bruder</rs> ge<c rendition="#langesS">s</c>childert, <rs ref="#pmb33676" type="work">Annalen</rs> von <rs ref="#pmb11461" type="person">Goethe</rs>. <pb facs="Hs-30885,21_002"/><rs ref="#pmb2404" type="person">Hebbel</rs> war wohl nach <rs ref="#pmb11461" type="person">Goethe</rs> der größte Gei<c rendition="#langesS">s</c>t, den die Deut<c rendition="#langesS">s</c>chen in dem Jahrhundert gehabt haben; manchmal ko<c rendition="#gemination-m"/>t mir vor, da<c rendition="#langesS">s</c>s man ihn vor <rs ref="#pmb12358" type="person"><hi rend="latintype">Nietz</hi><c rendition="#langesS">s</c>che</rs> wird ne<c rendition="#gemination-n"/>en mü<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en. Ich bin jetzt bei der Periode<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eines Lebens, wo er auf der Verleger<c rendition="#langesS">s</c>uche i<c rendition="#langesS">s</c>t und auf <rs ref="#pmb11555" type="person">Gutzkow</rs>, <rs ref="#pmb2702" type="person">Laube</rs>, <rs ref="#pmb5769" type="person">Mundt</rs>, <rs ref="#pmb3460" type="person">Körner</rs>, zuweilen wohl auch auf <rs ref="#pmb12654" type="person">Schiller</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>chimpft. Er hat aber auch noch manches andre zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen. – Wi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Sie, da<c rendition="#langesS">s</c>s er eine <pb facs="Hs-30885,21_001"/><rs type="person" ref="#pmb5424" subtype="implied">Jungfrau von Orleans</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>chreiben wollte? –</p><p>Von <rs type="person" ref="#pmb10863" subtype="implied">Richard</rs> hör ich nichts. Sie? –</p><closer>Von Ihnen hoffe ich bald<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chönes und gutes zu erfahren; empfehlen Sie mich bitte den Ihren aufs wärm<c rendition="#langesS">s</c>te.<lb/>Ihr<space unit="chars" quantity="7"/><signed>Arthur</signed></closer><postscript><dateline><date>14. 7. 92</date>.</dateline><p><rs ref="#pmb50" type="place">Wien</rs>.</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2167">
-                  <tei:persName>
-                     <tei:surname>Salten</tei:surname>
-                     <tei:forename>Felix</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1869-09-06">6. 9. 1869</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-10-08">8. 10. 1945</tei:date>
-                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb11737">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo August von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1841-12-21">21. 12. 1841</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1915-12-08">8. 12. 1915</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="465">Bankdirektor*in</occupation>
-               </tei:person><tei:person xml:id="pmb2473">
-                  <tei:persName>
-                     <tei:surname>Markbreiter</tei:surname>
-                     <tei:forename>Phillip</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1811-01-01">1. 1. 1811</tei:date>
-                     <tei:placeName ref="#pmb53814">Rajka</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1892-07-13">13. 7. 1892</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12695">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Johann</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1835-04-10">10. 4. 1835</tei:date>
-                     <tei:placeName ref="#pmb45549">Nagykanizsa</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1893-05-02">2. 5. 1893</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="132">Laryngologe/in</occupation>
-               </tei:person><tei:person xml:id="pmb12701">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Louise</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1840-07-08">8. 7. 1840</tei:date>
-                     <tei:placeName ref="#pmb35513">Kőszeg</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1911-09-09">9. 9. 1911</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb2404">
-                  <tei:persName>
-                     <tei:surname>Hebbel</tei:surname>
-                     <tei:forename>Friedrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1813-03-18">18. 3. 1813</tei:date>
-                     <tei:placeName ref="#pmb53806">Wesselburen</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1863-12-13">13. 12. 1863</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb12053">
-                  <tei:persName>
-                     <tei:surname>Lessing</tei:surname>
-                     <tei:forename>Gotthold Ephraim</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1729-01-22">22. 1. 1729</tei:date>
-                     <tei:placeName ref="#pmb5773">Kamenz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1781-02-15">15. 2. 1781</tei:date>
-                     <tei:placeName ref="#pmb35572">Braunschweig</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="247">Bibliothekar*in</occupation>
-               </tei:person><tei:person xml:id="pmb5772">
-                  <tei:persName>
-                     <tei:surname>Lessing</tei:surname>
-                     <tei:forename>Karl Gotthelf</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1740-07-10">10. 7. 1740</tei:date>
-                     <tei:placeName ref="#pmb5773">Kamenz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1812-02-17">17. 2. 1812</tei:date>
-                     <tei:placeName ref="#pmb677">Breslau</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="379">Münzdirektor</occupation>
-               </tei:person><tei:person xml:id="pmb11461">
-                  <tei:persName>
-                     <tei:surname>Goethe</tei:surname>
-                     <tei:forename>Johann Wolfgang von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1749-08-28">28. 8. 1749</tei:date>
-                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1832-03-22">22. 3. 1832</tei:date>
-                     <tei:placeName ref="#pmb197">Weimar</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb12358">
-                  <tei:persName>
-                     <tei:surname>Nietzsche</tei:surname>
-                     <tei:forename>Friedrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1844-10-15">15. 10. 1844</tei:date>
-                     <tei:placeName ref="#pmb55896">Röcken</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1900-08-25">25. 8. 1900</tei:date>
-                     <tei:placeName ref="#pmb197">Weimar</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="154">Philosoph*in</occupation>
-               </tei:person><tei:person xml:id="pmb11555">
-                  <tei:persName>
-                     <tei:surname>Gutzkow</tei:surname>
-                     <tei:forename>Karl</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1811-03-17">17. 3. 1811</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1878-12-16">16. 12. 1878</tei:date>
-                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2702">
-                  <tei:persName>
-                     <tei:surname>Laube</tei:surname>
-                     <tei:forename>Heinrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1806-09-18">18. 9. 1806</tei:date>
-                     <tei:placeName ref="#pmb1004">Sprottau</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1884-08-01">1. 8. 1884</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person><tei:person xml:id="pmb5769">
-                  <tei:persName>
-                     <tei:surname>Mundt</tei:surname>
-                     <tei:forename>Theodor</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1808-09-19">19. 9. 1808</tei:date>
-                     <tei:placeName ref="#pmb56027">Potsdam</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1861-11-30">30. 11. 1861</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb3460">
-                  <tei:persName>
-                     <tei:surname>Körner</tei:surname>
-                     <tei:forename>Christian Gottfried</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1756-01-01">1756</tei:date>
-                     <tei:placeName ref="#pmb864">Leipzig</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1831-01-01">1831</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb12654">
-                  <tei:persName>
-                     <tei:surname>Schiller</tei:surname>
-                     <tei:forename>Friedrich von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1759-11-10">10. 11. 1759</tei:date>
-                     <tei:placeName ref="#pmb39585">Marbach am Neckar</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1805-05-09">9. 5. 1805</tei:date>
-                     <tei:placeName ref="#pmb197">Weimar</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="134">Historiker*in</occupation>
-                  <occupation code="154">Philosoph*in</occupation>
-               </tei:person><tei:person xml:id="pmb5424">
-                  <tei:persName>
-                     <tei:surname>Arc</tei:surname>
-                     <tei:forename>Jeanne d’</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1412-01-01">um 1412</tei:date>
-                     <tei:placeName ref="#pmb56138">Domrémy-la-Pucelle</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1431-05-30">30. 5. 1431</tei:date>
-                     <tei:placeName ref="#pmb55374">Rouen</tei:placeName>
-                  </tei:death>
-                  <occupation code="123">Militär</occupation>
-                  <occupation code="359">Nationalheilige*r</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30763">
-                  <tei:author ref="pmb2404" role="author">
-                     <tei:surname>Hebbel</tei:surname>
-                     <tei:forename>Friedrich</tei:forename>
-                  </tei:author>
-                  <tei:title>Briefwechsel mit Freunden und berühmten Zeitgenossen</tei:title>
-                  <tei:date from="1890-01-01" from-custom="1890">1890</tei:date>
-                  <tei:gloss type="w1130">Briefausgabe</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb33576">
-                  <tei:author ref="pmb5772" role="author">
-                     <tei:surname>Lessing</tei:surname>
-                     <tei:forename>Karl Gotthelf</tei:forename>
-                  </tei:author>
-                  <tei:title>G. E. Lessings Leben</tei:title>
-                  <tei:date from="1793-01-01" from-custom="1793" to="1795-01-01" to-custom="1795">1793–1795</tei:date>
-                  <tei:gloss type="w1156">Biografie</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb33676">
-                  <tei:author ref="pmb11461" role="author">
-                     <tei:surname>Goethe</tei:surname>
-                     <tei:forename>Johann Wolfgang von</tei:forename>
-                  </tei:author>
-                  <tei:title>Tag- und Jahreshefte</tei:title>
-                  <tei:date from="1830-01-01" from-custom="1830">1830</tei:date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2018-12-05">Angelegt</change>
+         <change who="MAM" when="2019-01-18">Durchsicht</change>
+         <change who="MAM" when="2019-07-10">Index check</change>
+         <change who="GHS" when="2019-09-14">finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="Hs-30885,21_001"/>
+      <graphic url="Hs-30885,21_002"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <salute>
+                  <pb facs="Hs-30885,21_001"/>Lieber Hugo,</salute>
+            </opener>
+            <p>von <rs ref="#2167" type="person">
+                  <hi rend="latintype">Salten</hi>
+               </rs> erfahre
+                    ich, daſs Ihr <rs type="person" ref="#11737" subtype="implied">Vater</rs> krank war, aber
+                    bereits wiederhergeſtellt iſt. Hoffentlich erholen Sie ſich zugleich von Ihrer
+                        Verſti<c rendition="#gemination-m"/>ung und Abſpa<c rendition="#gemination-n"/>ung und verbringen den ko<c rendition="#gemination-m"/>enden So<c rendition="#gemination-m"/>er und
+                    Herbſt in ſo reicher Fülle des I<c rendition="#gemination-n"/>ern und Äußern,
+                    wie ichs Ihnen von Herzen wünſche. –</p>
+            <p>Geſtern ſtarb mein <rs type="person" ref="#2473" subtype="implied">Großvater</rs>; <pb facs="Hs-30885,21_002"/>in wenigen Tagen reiſen meine <rs type="person" ref="#12695 #12701" subtype="implied">Eltern</rs> ab, und ich übernehme die Praxis meines
+                        <rs type="person" ref="#12695" subtype="implied">Papa</rs>.</p>
+            <p>Seit einiger Zeit bring ich es zuwege, auch nachts literariſch zu arbeiten, und
+                    ich hoffe, meine angefangenen Sachen werden trotz anderweitiger Thätigkeit wohl
+                    fortſchreiten können.</p>
+            <p>– <rs ref="#2404" type="person">Hebbel</rs>s <rs ref="#30763" type="work">Briefe</rs> leſe ich jetzt, <rs ref="#12053" type="person">Leſſing</rs>’s <rs type="work" ref="#33576" subtype="implied">Leben</rs> von ſeinem
+                        <rs type="person" ref="#5772" subtype="implied">Bruder</rs> geſchildert, <rs ref="#33676" type="work">Annalen</rs> von <rs ref="#11461" type="person">Goethe</rs>. <pb facs="Hs-30885,21_002"/>
+               <rs ref="#2404" type="person">Hebbel</rs> war wohl nach <rs ref="#11461" type="person">Goethe</rs> der größte Geiſt, den die Deutſchen in dem Jahrhundert
+                    gehabt haben; manchmal ko<c rendition="#gemination-m"/>t mir vor, daſs man ihn
+                    vor <rs ref="#12358" type="person">
+                  <hi rend="latintype">Nietz</hi>ſche</rs> wird ne<c rendition="#gemination-n"/>en müſſen. Ich bin jetzt bei der Periode ſeines
+                    Lebens, wo er auf der Verlegerſuche iſt und auf <rs ref="#11555" type="person">Gutzkow</rs>, <rs ref="#2702" type="person">Laube</rs>, <rs ref="#5769" type="person">Mundt</rs>, <rs ref="#3460" type="person">Körner</rs>,
+                    zuweilen wohl auch auf <rs ref="#12654" type="person">Schiller</rs>
+               <space unit="chars" quantity="1"/>ſchimpft. Er
+                    hat aber auch noch manches andre zu ſagen. – Wiſſen Sie, daſs er eine <pb facs="Hs-30885,21_001"/>
+               <rs type="person" ref="#5424" subtype="implied">Jungfrau von Orleans</rs>
+               <space unit="chars" quantity="1"/>ſchreiben
+                    wollte? –</p>
+            <p>Von <rs type="person" ref="#10863" subtype="implied">Richard</rs> hör ich nichts. Sie? –</p>
+            <closer>Von Ihnen hoffe ich bald ſchönes und gutes zu erfahren; empfehlen Sie mich
+                    bitte den Ihren aufs wärmſte.<lb/>Ihr<space unit="chars" quantity="7"/>
+               <signed>Arthur</signed>
+            </closer>
+            <postscript>
+               <dateline>
+                  <date>14. 7. 92</date>.</dateline>
+               <p>
+                  <rs ref="#50" type="place">Wien</rs>.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

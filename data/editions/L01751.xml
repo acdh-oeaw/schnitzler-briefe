@@ -1,162 +1,234 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01751" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Albert Ehrenstein an Arthur Schnitzler, 16. 1. 1908</title><author ref="#pmb11230">Ehrenstein, Albert</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01751</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01751"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Albert Ehrenstein an Arthur Schnitzler, 16. 1. 1908</title>
+            <author ref="#11230">Ehrenstein, Albert</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L01751</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 30</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift Vermerk: »<quote><hi rend="latintype">A. Ehrenstein</hi></quote>« und neben das Datum die richtige Jahreszahl »<quote><date>08</date></quote>« geschrieben</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct><monogr><author ref="#pmb11230">Ehrenstein, Albert</author><title level="m">Briefe</title><editor>Hg. Hanni Mittelmann</editor><imprint><date when="1989">1989</date><pubPlace>München</pubPlace><publisher>Boer</publisher></imprint><biblScope unit="pp">21</biblScope></monogr><series><title level="s">Werke</title><biblScope unit="vol">1</biblScope></series></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11230">Ehrenstein, Albert</persName><placeName ref="#pmb50">Wien</placeName><date when="1908-01-16" n="01">16. 1. 1908</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11230">Ehrenstein, Albert</ref><ref subtype="previous_letter" type="withinCollection" target="L01750">Schnitzler an
-                  Bahr, 13. 1. 1908</ref><ref subtype="next_letter" type="withinCollection" target="L01752">Beer-Hofmann an
-                  Schnitzler, [17. 1. 1908]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01644">Schnitzler
-                  an Ehrenstein, 19. 12. 1906</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01757">Schnitzler an
-                  Ehrenstein, 24. 1. 1908</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 30</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="4" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift Vermerk: »<quote>
+                                    <hi rend="latintype">A. Ehrenstein</hi>
+                                 </quote>« und neben das Datum die richtige Jahreszahl »<quote>
+                                    <date>08</date>
+                                 </quote>« geschrieben</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct>
+                  <monogr>
+                     <author ref="#11230">Ehrenstein, Albert</author>
+                     <title level="m">Briefe</title>
+                     <editor>Hg. Hanni Mittelmann</editor>
+                     <imprint>
+                        <date when="1989">1989</date>
+                        <pubPlace>München</pubPlace>
+                        <publisher>Boer</publisher>
+                     </imprint>
+                     <biblScope unit="pp">21</biblScope>
+                  </monogr>
+                  <series>
+                     <title level="s">Werke</title>
+                     <biblScope unit="vol">1</biblScope>
+                  </series>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#11230">Ehrenstein, Albert</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1908-01-16" n="01">16. 1. 1908</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11230">Ehrenstein, Albert</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01750">Schnitzler an
+                  Bahr, 13. 1. 1908</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01752">Beer-Hofmann an
+                  Schnitzler, [17. 1. 1908]</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L01644">Schnitzler
+                  an Ehrenstein, 19. 12. 1906</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01757">Schnitzler an
+                  Ehrenstein, 24. 1. 1908</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-10-03">Angelegt</change><change who="MAM" when="2018-10-23">Durchsicht</change><change who="MAM" when="2018-10-24">Index check</change><change who="GHS" when="2020-01-30">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00030-000-00043"/><graphic url="MS-SCHNITZLER-B-00030-000-00044"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00030-000-00043"/><hi rend="latintype"><rs ref="#pmb300" type="place">Wien, XVI. Ottakringerstr 114</rs></hi></dateline><p><hi rend="latintype"><date>16. Januar <anchor xml:id="T_L01751_1" type="textConst"/>07<note xml:id="T_L01751_1h" type="textConst">Schreibirrtum</note></date></hi></p><salute rend="center"><hi rend="latintype">Sehr geehrter Herr Doktor!</hi></salute></opener><p>Zu den vielen <anchor xml:id="K_L01751_1" type="commentary"/>Glückwün<c rendition="#langesS">s</c>chen<note xml:id="K_L01751_1h" type="commentary">zur Zuerkennung des <rs ref="#pmb29677" type="org">Grillparzer-Preises</rs> am <date>15. 1. 1908</date></note>, die Sie,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr verehrter Herr Doktor, in die<c rendition="#langesS">s</c>en Tagen überfliegen werden, auch meine be<c rendition="#langesS">s</c>cheidene Gratulation.</p><p>Dürfte doch die<c rendition="#langesS">s</c>e <rs ref="#pmb41240" type="place">ö<c rendition="#langesS">s</c>terreichi<c rendition="#langesS">s</c>ch</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>o unverzeihlich lang hinausgezögerte Ehrung, die nun,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chwer vermeidbar geworden, nicht einmal auf deren Urheber zurückfällt, ge<c rendition="#langesS">s</c>chweige denn ihren Zweck erreicht, manchen, und unter ihren auch mich, möglicherwei<c rendition="#langesS">s</c>e mehr und inniger gefreut haben als den Geehrten<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t, dem die jetzt mit üblicher Rück<c rendition="#langesS">s</c>ichtslo<c rendition="#langesS">s</c>igkeit hereinbrechende Briefflut vielleicht be<c rendition="#langesS">s</c>chwerlich fällt <pb facs="MS-SCHNITZLER-B-00030-000-00044"/>und die Freude verkümmert. Aber auch<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o muß man einigermaßen froh<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein, daß<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich die Dinge etwas gebe<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ert haben, indem<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich auch bei uns<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ogar akademi<c rendition="#langesS">s</c>che Preisrichter dem läng<c rendition="#langesS">s</c>t fe<c rendition="#langesS">s</c>t<c rendition="#langesS">s</c>tehenden Urteil der Ver<c rendition="#langesS">s</c>tändigen bequemten. Denn gewiß: hätte es zu <rs ref="#pmb11518" type="person">Grillparzer</rs>s Zeiten etwa einen <rs ref="#pmb5633" type="person">Walther von der Vogelweide</rs>-Preis gegeben, alle möglichen <rs ref="#pmb5591" type="person">Halme</rs> und <rs ref="#pmb11555" type="person">Gutzkows</rs> hätten ihn erbuckelt, nur nicht den <rs ref="#pmb50" type="place">Wien</rs>er <rs type="person" ref="#pmb11518" subtype="implied">Dichter</rs> hätte man durch ihn zu neuem Leben aufgerufen.</p><p>Jedenfalls, der Wun<c rendition="#langesS">s</c>ch,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olche und ähnliche Auszeichnung durch wiederholte <pb facs="MS-SCHNITZLER-B-00030-000-00044"/>Verleihung an den ihrer Würdig<c rendition="#langesS">s</c>ten eben<c rendition="#langesS">s</c>o lächerlicher als trauriger Parteilichkeit entzogen zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehen, kommt mir aus dem Herzen. Habe ich doch Ihnen,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr geehrter Herr Doktor, nichts Kleines zu danken: Tro<c rendition="#langesS">s</c>t in der Krankheit, Ermunterung im Trüb<c rendition="#langesS">s</c>inn, Anregung aus Ihren Werken – namentlich dem prämierten <rs type="work" ref="#pmb29903" subtype="implied">Stücke</rs>. Und wenn es mir gegönnt war, bloß den <anchor xml:id="K_L01751_2" type="commentary"/>Anfang<note xml:id="K_L01751_2h" type="commentary">Der erste von sechs Teilen des Vorabdrucks von <rs ref="#pmb29923" type="work">Der Weg ins Freie</rs> wurde im Anfang des Monats ausgegebenen <date>Januar</date>-Heft der <rs ref="#pmb36156" type="work">Neuen Rundschau</rs> (<bibl>S. 31–71</bibl>) gedruckt.</note> Ihres neuen <rs type="work" ref="#pmb29923" subtype="implied">Romans</rs> mehrmals mit<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tets erneutem Entzücken zu le<c rendition="#langesS">s</c>en, haben Sie,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr geehrter Herr Doktor, daran keinen geringen Anteil.</p><p><pb facs="MS-SCHNITZLER-B-00030-000-00043"/>Indem ich noch für die<c rendition="#langesS">s</c>e Belä<c rendition="#langesS">s</c>tigung um Ent<c rendition="#langesS">s</c>chuldigung bitte, verbleibe ich</p><closer>Hochachtungsvoll<lb/>Ihr Ergeben<c rendition="#langesS">s</c>ter<lb/><signed>Albert Ehrenstein</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11230">
-                  <tei:persName>
-                     <tei:surname>Ehrenstein</tei:surname>
-                     <tei:forename>Albert</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1886-12-23">23. 12. 1886</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1950-04-08">8. 4. 1950</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11518">
-                  <tei:persName>
-                     <tei:surname>Grillparzer</tei:surname>
-                     <tei:forename>Franz</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1791-01-15">15. 1. 1791</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1872-01-21">21. 1. 1872</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="101">Beamter/in</occupation>
-               </tei:person><tei:person xml:id="pmb5633">
-                  <tei:persName>
-                     <tei:surname>Walther von der Vogelweide</tei:surname>
-                     <tei:forename/>
-                  </tei:persName>
-                  <tei:death>
-                     <tei:date>um 1230</tei:date>
-                  </tei:death>
-                  <occupation code="370">Dichter*in</occupation>
-               </tei:person><tei:person xml:id="pmb5591">
-                  <tei:persName>
-                     <tei:surname>Halm</tei:surname>
-                     <tei:forename>Friedrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1806-04-02">2. 4. 1806</tei:date>
-                     <tei:placeName ref="#pmb737">Krakau</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1871-05-22">22. 5. 1871</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb11555">
-                  <tei:persName>
-                     <tei:surname>Gutzkow</tei:surname>
-                     <tei:forename>Karl</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1811-03-17">17. 3. 1811</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1878-12-16">16. 12. 1878</tei:date>
-                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb29903">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Zwischenspiel. Komödie in drei Akten</tei:title>
-                  <tei:date when="1905-10-12" when-custom="1905-10-12">12. 10. 1905</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29923">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Weg ins Freie. Roman</tei:title>
-                  <tei:date from="1908-01-01" from-custom="1.1.1908" to="1908-06-01" to-custom="1.6.1908">1. 1. 1908–1. 6. 1908</tei:date>
-                  <tei:gloss type="w1060">Roman</tei:gloss>
-                  <tei:note>2849</tei:note>
-                  <tei:note>8047</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb36156">
-                  <tei:title>Die neue Rundschau</tei:title>
-                  <tei:date from="1904-01-01" from-custom="1904">1904</tei:date>
-                  <tei:gloss type="w1219">Zeitschrift</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb300">
-                  <tei:placeName>Ottakringerstraße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.214134550754 16.321028123618</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb41240">
-                  <tei:placeName>Österreich</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1107">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.33333 13.33333</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29677">
-                  <tei:orgName>Franz-Grillparzer-Preis</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i993">Literaturpreis</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2018-10-03">Angelegt</change>
+         <change who="MAM" when="2018-10-23">Durchsicht</change>
+         <change who="MAM" when="2018-10-24">Index check</change>
+         <change who="GHS" when="2020-01-30">finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00030-000-00043"/>
+      <graphic url="MS-SCHNITZLER-B-00030-000-00044"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="MS-SCHNITZLER-B-00030-000-00043"/>
+                  <hi rend="latintype">
+                     <rs ref="#300" type="place">Wien, XVI. Ottakringerstr 114</rs>
+                  </hi>
+               </dateline>
+               <p>
+                  <hi rend="latintype">
+                     <date>16. Januar <anchor xml:id="T_L01751_1" type="textConst"/>07<note
+                           xml:id="T_L01751_1h" type="textConst">Schreibirrtum</note>
+                     </date>
+                  </hi>
+               </p>
+               <salute rend="center">
+                  <hi rend="latintype">Sehr geehrter Herr Doktor!</hi>
+               </salute>
+            </opener>
+            <p>Zu den vielen <anchor xml:id="K_L01751_1" type="commentary"/>Glückwünſchen<note
+                  xml:id="K_L01751_1h" type="commentary">zur Zuerkennung des <rs ref="#29677"
+                     type="org">Grillparzer-Preises</rs> am <date>15. 1. 1908</date></note>, die
+               Sie, ſehr verehrter Herr Doktor, in dieſen Tagen überfliegen werden, auch meine
+               beſcheidene Gratulation.</p>
+            <p>Dürfte doch dieſe <rs ref="#41240" type="place">öſterreichiſch</rs>
+               <space unit="chars" quantity="1"/>ſo unverzeihlich lang hinausgezögerte Ehrung, die
+               nun, ſchwer vermeidbar geworden, nicht einmal auf deren Urheber zurückfällt,
+               geſchweige denn ihren Zweck erreicht, manchen, und unter ihren auch mich,
+               möglicherweiſe mehr und inniger gefreut haben als den Geehrten ſelbſt, dem die jetzt
+               mit üblicher Rückſichtsloſigkeit hereinbrechende Briefflut vielleicht beſchwerlich
+               fällt <pb facs="MS-SCHNITZLER-B-00030-000-00044"/>und die Freude verkümmert. Aber
+               auch ſo muß man einigermaßen froh ſein, daß ſich die Dinge etwas gebeſſert haben,
+               indem ſich auch bei uns ſogar akademiſche Preisrichter dem längſt feſtſtehenden
+               Urteil der Verſtändigen bequemten. Denn gewiß: hätte es zu <rs ref="#11518"
+                  type="person">Grillparzer</rs>s Zeiten etwa einen <rs ref="#5633" type="person"
+                  >Walther von der Vogelweide</rs>-Preis gegeben, alle möglichen <rs ref="#5591"
+                  type="person">Halme</rs> und <rs ref="#11555" type="person">Gutzkows</rs> hätten
+               ihn erbuckelt, nur nicht den <rs ref="#50" type="place">Wien</rs>er <rs type="person"
+                  ref="#11518" subtype="implied">Dichter</rs> hätte man durch ihn zu neuem Leben
+               aufgerufen.</p>
+            <p>Jedenfalls, der Wunſch, ſolche und ähnliche Auszeichnung durch wiederholte <pb
+                  facs="MS-SCHNITZLER-B-00030-000-00044"/>Verleihung an den ihrer Würdigſten ebenſo
+               lächerlicher als trauriger Parteilichkeit entzogen zu ſehen, kommt mir aus dem
+               Herzen. Habe ich doch Ihnen, ſehr geehrter Herr Doktor, nichts Kleines zu danken:
+               Troſt in der Krankheit, Ermunterung im Trübſinn, Anregung aus Ihren Werken –
+               namentlich dem prämierten <rs type="work" ref="#29903" subtype="implied">Stücke</rs>.
+               Und wenn es mir gegönnt war, bloß den <anchor xml:id="K_L01751_2" type="commentary"
+                  />Anfang<note xml:id="K_L01751_2h" type="commentary">Der erste von sechs Teilen
+                  des Vorabdrucks von <rs ref="#29923" type="work">Der Weg ins Freie</rs> wurde im
+                  Anfang des Monats ausgegebenen <date>Januar</date>-Heft der <rs ref="#36156"
+                     type="work">Neuen Rundschau</rs> (<bibl>S. 31–71</bibl>) gedruckt.</note> Ihres
+               neuen <rs type="work" ref="#29923" subtype="implied">Romans</rs> mehrmals mit ſtets
+               erneutem Entzücken zu leſen, haben Sie, ſehr geehrter Herr Doktor, daran keinen
+               geringen Anteil.</p>
+            <p>
+               <pb facs="MS-SCHNITZLER-B-00030-000-00043"/>Indem ich noch für dieſe Beläſtigung um
+               Entſchuldigung bitte, verbleibe ich</p>
+            <closer>Hochachtungsvoll<lb/>Ihr Ergebenſter<lb/>
+               <signed>Albert Ehrenstein</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

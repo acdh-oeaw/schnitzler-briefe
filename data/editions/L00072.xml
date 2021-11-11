@@ -1,222 +1,214 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00072" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, [17. 2. 1892]</title><author ref="#pmb11740">Hofmannsthal, Hugo von</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Martin Anton Müller</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00072</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00072"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, [17. 2. 1892]</title>
+            <author ref="#11740">Hofmannsthal, Hugo von</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Martin Anton Müller</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00072</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>UK</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 43</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="1" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift datiert: »<quote><date when="1892-02-17">17/2 92</date></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                        »<quote>17</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">16</biblScope></monogr></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente
-                                (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">21</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb50">Wien</placeName><date when="1892-02-17" n="01">[17. 2. 1892]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L00071">Beer-Hofmann an Schnitzler, [zwischen 8. und
-                  28.? 2. 1892]</ref><ref subtype="next_letter" type="withinCollection" target="L00073">Bahr an Schnitzler, [20. 2. 1892]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00067">Hofmannsthal an Schnitzler, [1.? 2. 1892]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00075">Hofmannsthal an Schnitzler, 23. 2. 1892</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>UK</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 43</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="1" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift datiert: »<quote>
+                                 <date when="1892-02-17">17/2&#160;92</date>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                        »<quote>17</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HvHAS">
+                  <monogr>
+                     <author ref="#11740">Hofmannsthal, Hugo von</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel</title>
+                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1964">1964</date>
+                     </imprint>
+                     <biblScope unit="pp">16</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct corresp="HBAS">
+                  <monogr>
+                     <author ref="#10815">Bahr, Hermann</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente
+                                (1891–1931)</title>
+                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
+                     <imprint>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Wallstein</publisher>
+                        <date when="2018">2018</date>
+                     </imprint>
+                     <biblScope unit="pp">21</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1892-02-17" n="01">[17. 2. 1892]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00071">Beer-Hofmann an Schnitzler, [zwischen 8. und
+                  28.? 2. 1892]</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00073">Bahr an Schnitzler, [20. 2. 1892]</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00067">Hofmannsthal an Schnitzler, [1.? 2. 1892]</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00075">Hofmannsthal an Schnitzler, 23. 2. 1892</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2016-03-04">Angelegt aus OCR</change><change who="MAM" when="2017-03-16">Durchgesehen mit Original in CUL</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="GHS" when="2018-11-28"><c rendition="#langesS">s</c>, @facs, Nummerierungen ergänzt</change><change who="GHS" when="2019-09-11">finalisiert</change><change who="MAM" when="2019-01-20">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00037"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p rend="center"><pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00037"/>Thatsachen: </p><p>1.) Bitte adre<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ieren <rs type="person" ref="#pmb2121" subtype="implied">Sie</rs> den beiliegenden Wi<c rendition="#langesS">s</c>ch an Herrn <rs ref="#pmb2570" type="person">Lothar</rs> und<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicken Sie ihn weg.</p><p>2.) <rs ref="#pmb12156" type="person">Maeterlinck</rs> hat mich zur Über<c rendition="#langesS">s</c>etzung freundlich<c rendition="#langesS">s</c>t autori<c rendition="#langesS">s</c>iert.</p><p>3.) Die Empfehlung an die <rs ref="#pmb2362" type="person">Palmay</rs> habe ich verlangt und werde<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie <rs ref="#pmb10815" type="person">Bahr</rs> näch<c rendition="#langesS">s</c>tens<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chicken.</p><p>4.) Vielleicht könnte <rs ref="#pmb2563" type="person">Kafka</rs> die er<c rendition="#langesS">s</c>ten Vierteljahrsbeiträge ra<c rendition="#langesS">s</c>ch einka<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ieren und uns gegen Garantie durch per<c rendition="#langesS">s</c>önliche Unter<c rendition="#langesS">s</c>chrift leihen. Das wären doch vielleicht 200 fl.</p><p>5.) Suchen Sie <rs ref="#pmb28535" type="person">Bauer</rs> gegenüber uns wichtig und ern<c rendition="#langesS">s</c>t zu machen und trachten Sie, <add place="above">daß</add> das er<c rendition="#langesS">s</c>te <rs type="org" ref="#pmb29715" subtype="implied">Heft</rs> möglich<c rendition="#langesS">s</c>t bald er<c rendition="#langesS">s</c>cheint. An die Premièren: <rs ref="#pmb11391" type="person">Fulda</rs> »<rs ref="#pmb31957" type="work">Sclavin</rs>«, <rs ref="#pmb31959 #pmb31961" type="work"><hi rend="latintype">Griselidis</hi></rs> und <rs ref="#pmb12674" type="person">Schle<c rendition="#langesS">s</c>inger</rs> »<rs ref="#pmb31963" type="work"><hi rend="latintype">Derby</hi></rs>« lä<c rendition="#langesS">s</c>st<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich kün<c rendition="#langesS">s</c>tleri<c rendition="#langesS">s</c>ch und<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ocial unendlich viel anhängen.</p><closer><signed>Loris.</signed></closer></div></body><back><listPerson><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2570">
-                  <tei:persName>
-                     <tei:surname>Lothar</tei:surname>
-                     <tei:forename>Rudolf</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1865-02-23">23. 2. 1865</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1943-10-02">2. 10. 1943</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb12156">
-                  <tei:persName>
-                     <tei:surname>Maeterlinck</tei:surname>
-                     <tei:forename>Maurice</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-08-29">29. 8. 1862</tei:date>
-                     <tei:placeName ref="#pmb3987">Gent</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1949-05-06">6. 5. 1949</tei:date>
-                     <tei:placeName ref="#pmb926">Nizza</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2362">
-                  <tei:persName>
-                     <tei:surname>Pálmay</tei:surname>
-                     <tei:forename>Ilka</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1859-09-21">21. 9. 1859</tei:date>
-                     <tei:placeName ref="#pmb47361">Uzhhorod</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1944-02-17">17. 2. 1944</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:death>
-                  <occupation code="107">Sänger*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb10815">
-                  <tei:persName>
-                     <tei:surname>Bahr</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2563">
-                  <tei:persName>
-                     <tei:surname>Kafka</tei:surname>
-                     <tei:forename>Eduard Michael</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1869-03-11">11. 3. 1869</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1893-08-06">6. 8. 1893</tei:date>
-                     <tei:placeName ref="#pmb833">Brünn</tei:placeName>
-                  </tei:death>
-                  <occupation code="173">Redakteur*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb28535">
-                  <tei:persName>
-                     <tei:surname>Bauer</tei:surname>
-                     <tei:forename>Arnold</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1840-01-01">um 1840</tei:date>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1893-07-19">19. 7. 1893</tei:date>
-                     <tei:placeName ref="#pmb662">Baden bei Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="97">Mediziner*in</occupation>
-                  <occupation code="119">Herausgeber</occupation>
-                  <occupation code="375">Buchhändler*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb11391">
-                  <tei:persName>
-                     <tei:surname>Fulda</tei:surname>
-                     <tei:forename>Ludwig</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-07-15">15. 7. 1862</tei:date>
-                     <tei:placeName ref="#pmb146">Frankfurt am Main</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-03-30">30. 3. 1939</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="116">Übersetzer*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb12674">
-                  <tei:persName>
-                     <tei:surname>Schlesinger</tei:surname>
-                     <tei:forename>Sigmund</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1832-06-15">15. 6. 1832</tei:date>
-                     <tei:placeName ref="#pmb12675">Waag-Neustadt</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1918-03-07">7. 3. 1918</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb31957">
-                  <tei:author ref="pmb11391" role="author">
-                     <tei:surname>Fulda</tei:surname>
-                     <tei:forename>Ludwig</tei:forename>
-                  </tei:author>
-                  <tei:title>Die Sklavin. Schauspiel in vier Aufzügen</tei:title>
-                  <tei:date from="1891-01-01" from-custom="1891">1891</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb31959">
-                  <tei:author ref="pmb28536" role="author">
-                     <tei:surname>Silvestre</tei:surname>
-                     <tei:forename>Paul-Armand</tei:forename>
-                  </tei:author>
-                  <tei:title>Griseldis</tei:title>
-                  <tei:date from="1891-01-01" from-custom="1891">1891</tei:date>
-                  <tei:gloss type="w1059">Oper</tei:gloss>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb31961">
-                  <tei:author ref="pmb4308" role="author">
-                     <tei:surname>Morand</tei:surname>
-                     <tei:forename>Eugène</tei:forename>
-                  </tei:author>
-                  <tei:title>Griseldis</tei:title>
-                  <tei:date from="1891-01-01" from-custom="1891">1891</tei:date>
-                  <tei:gloss type="w1059">Oper</tei:gloss>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb31963">
-                  <tei:author ref="pmb12674" role="author">
-                     <tei:surname>Schlesinger</tei:surname>
-                     <tei:forename>Sigmund</tei:forename>
-                  </tei:author>
-                  <tei:title>Derby</tei:title>
-                  <tei:date from="1889-01-01" from-custom="1889">1889</tei:date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb29715">
-                  <tei:orgName>Wiener Literatur-Zeitung</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2016-03-04">Angelegt aus OCR</change>
+         <change who="MAM" when="2017-03-16">Durchgesehen mit Original in CUL</change>
+         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
+         <change who="GHS" when="2018-11-28">ſ, @facs, Nummerierungen ergänzt</change>
+         <change who="GHS" when="2019-09-11">finalisiert</change>
+         <change who="MAM" when="2019-01-20">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00001-000-00037"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <p rend="center">
+               <pb facs="MS-SCHNITZLER-B-00043-B-00001-000-00037"/>Thatsachen: </p>
+            <p>1.) Bitte adreſſieren <rs type="person" ref="#2121" subtype="implied">Sie</rs> den beiliegenden
+                    Wiſch an Herrn <rs ref="#2570" type="person">Lothar</rs> und ſchicken Sie ihn
+                    weg.</p>
+            <p>2.) <rs ref="#12156" type="person">Maeterlinck</rs> hat mich zur Überſetzung
+                    freundlichſt autoriſiert.</p>
+            <p>3.) Die Empfehlung an die <rs ref="#2362" type="person">Palmay</rs> habe ich
+                    verlangt und werde ſie <rs ref="#10815" type="person">Bahr</rs> nächſtens
+                    ſchicken.</p>
+            <p>4.) Vielleicht könnte <rs ref="#2563" type="person">Kafka</rs> die erſten
+                    Vierteljahrsbeiträge raſch einkaſſieren und uns gegen Garantie durch perſönliche
+                    Unterſchrift leihen. Das wären doch vielleicht 200 fl.</p>
+            <p>5.) Suchen Sie <rs ref="#28535" type="person">Bauer</rs> gegenüber uns wichtig
+                    und ernſt zu machen und trachten Sie, <add place="above">daß</add> das erſte <rs type="org" ref="#29715" subtype="implied">Heft</rs> möglichſt bald erſcheint. An
+                    die Premièren: <rs ref="#11391" type="person">Fulda</rs> »<rs ref="#31957" type="work">Sclavin</rs>«, <rs ref="#31959 #31961" type="work">
+                  <hi rend="latintype">Griselidis</hi>
+               </rs> und <rs ref="#12674" type="person">Schleſinger</rs> »<rs ref="#31963" type="work">
+                  <hi rend="latintype">Derby</hi>
+               </rs>« läſst ſich künſtleriſch und ſocial unendlich viel anhängen.</p>
+            <closer>
+               <signed>Loris.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,281 +1,265 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L02327" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hugo Hofmannsthal, 1. 10. 1919</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02327</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L02327"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Hugo Hofmannsthal, 1. 10. 1919</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L02327</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Frankfurt am Main</settlement><repository>Freies Deutsches Hochstift</repository><idno>Hs-30885,149</idno></msIdentifier><physDesc><objectDesc><desc n="2" type="_blaetter"/><desc type="brief"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="bleistift" style="lateinische-kurrent"/></handDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">285–286</biblScope></monogr></biblStruct><biblStruct corresp="ASB2"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefe 1913–1931</title><editor>Braunwarth, Peter Michael</editor><editor>Miklin, Richard</editor><editor>Pertlik, Susanne</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1984">1984</date></imprint><biblScope unit="pp">195–197</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1919-10-01" n="01">1. 10. 1919</date></correspAction><correspAction type="received"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb415">Bad Aussee</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L02326">Hofmannsthal
-                  an Schnitzler, 19. 9. 1919</ref><ref subtype="next_letter" type="withinCollection" target="L02328">Adam an
-                  Schnitzler, 8. 10. 1919</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02326">Hofmannsthal an Schnitzler, 19. 9. 1919</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02331">Hofmannsthal
-                  an Schnitzler, 2. 11. 1919</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>D</country>
+                        <settlement>Frankfurt am Main</settlement>
+                        <repository>Freies Deutsches Hochstift</repository>
+                        <idno>Hs-30885,149</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="2" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="3" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="bleistift" style="lateinische-kurrent"/>
+                        </handDesc>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HvHAS">
+                  <monogr>
+                     <author ref="#11740">Hofmannsthal, Hugo von</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel</title>
+                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1964">1964</date>
+                     </imprint>
+                     <biblScope unit="pp">285–286</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct corresp="ASB2">
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefe 1913–1931</title>
+                     <editor>Braunwarth, Peter Michael</editor>
+                     <editor>Miklin, Richard</editor>
+                     <editor>Pertlik, Susanne</editor>
+                     <editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1984">1984</date>
+                     </imprint>
+                     <biblScope unit="pp">195–197</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1919-10-01" n="01">1. 10. 1919</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
+               <placeName ref="#415">Bad Aussee</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L02326">Hofmannsthal
+                  an Schnitzler, 19. 9. 1919</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L02328">Adam an
+                  Schnitzler, 8. 10. 1919</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L02326"
+                  >Hofmannsthal an Schnitzler, 19. 9. 1919</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L02331">Hofmannsthal
+                  an Schnitzler, 2. 11. 1919</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-05-22">Durchsicht</change><change who="MAM" when="2020-09-02">Index check</change><change who="MAM" when="2020-09-02">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="Hs-30885,149a_001"/><graphic url="Hs-30885,149a_002"/><graphic url="Hs-30885,149b_001"/><graphic url="Hs-30885,149b_002"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="Hs-30885,149a_001"/><date>1. 10. 19</date><lb/><rs ref="#pmb50" type="place">Wien</rs></dateline></opener><p><salute>mein lieber Hugo, </salute>vor ein paar Wochen schon hat mir die <rs ref="#pmb2312" type="person">Hofrätin</rs> gesagt, Sie seien auf einen Brief an mich ohne Antwort geblieben; ich will Ihnen nur mittheilen, d<c rendition="#langesS">s</c>s Ihr Brief vom <date>19. 9.</date> der erste ist, den ich seit vielen Monaten von Ihnen erhielt – der letzte berichtete von Ihrem leidenden Zustand und ich schrieb Ihnen darauf, d<c rendition="#langesS">s</c>s ich gern einmal zu Ihnen nach <rs ref="#pmb173" type="place">Rodaun</rs> käme, aber darauf hatt ich von Ihnen nichts weiter gehört. Nun freuts mich sehr d<c rendition="#langesS">s</c>s die neueste Kunde so arbeitsfroh und hoffnungsvoll klingt und es wäre wahrhaftig schön, we<c rendition="#gemination-n"/> man wieder einmal einer jener feiertäglichen Vorlesestunden entgegensehen dürfte – die nur im Lauf der Jahre um so viel seltener geworden sind als selbst die seltensten Feiertage. Und was für eine Reihe von festlich ergreifenden Abenden – von jenem ersten an, an dem Sie mir, an einem warmen <anchor xml:id="K_L02327_1" type="commentary"/><date>Juni</date>abend<note xml:id="K_L02327_1h" type="commentary"><ref target="1891-10-07" subtype="see" type="schnitzlerDiary"/></note> war es, in der <rs ref="#pmb542" type="place">Giselastraße</rs>, »<rs ref="#pmb30141" type="work">Gestern</rs>« vorlasen – oder war ich es, der mit dem »<anchor xml:id="K_L02327_2" type="commentary"/><rs ref="#pmb29823" type="work">Märchen</rs><note xml:id="K_L02327_2h" type="commentary">Diese Lesung fand am <ref target="1891-06-25" type="schnitzlerDiary" subtype="date-only"/> in der <rs ref="#pmb730" type="place">Seidlgasse</rs> statt. Aber bereits früher lassen sich solche Lesungen im privaten Kreis nachweisen.</note>« anfing, in der <rs ref="#pmb730" type="place">Seidlgasse</rs>, bei <rs ref="#pmb10863" type="person">Richard</rs> – ich weiß nicht mehr? Es kam wirklich wenig darauf an, ob das Werk als solches mehr oder weniger vollendet war – der Beifall geringer oder größer – im Rückblick bleiben es durchaus Stunden der kräftigsten, belebtesten Atmosphäre – bessere, reinere: als wenn man dasselbe Werk zum ersten Mal der Oeffentlich<pb facs="Hs-30885,149a_002"/>keit zu praesentiren hatte. Ich bin höchst gespannt was Sie aus <rs ref="#pmb34401" type="place">Altaussee</rs> mitbringen werden. Mit meiner Arbeit (<rs type="work" ref="#pmb30775" subtype="implied">Stück</rs>) geht es so langsam vorwärts, d<c rendition="#langesS">s</c>s ich fast von einem Stillstand sprechen kann – obzwar ich die Continuität zum mindesten durch beharrliches Anstarren unbeschriebener Papierblätter oder Ausstreichen des Geschriebenen festzuhalten versuche. Das letzte, was ich fertig gemacht <add place="above">habe</add>, sind die »<rs ref="#pmb30819" type="work">Schwestern</rs>«, die bei <rs ref="#pmb12504" type="person">Reinhardt</rs> kommen sollen; – mir selbst ist selten was von mir so lieb gewesen. Ich hab allerlei vor, manches aus den letzten Jahren ist sogar recht weit gediehen; aber meine Arbeitskraft ist – wohl unter dem Einfluss dieses grauenhaften Weltzustandes – so tief herunter wie noch nie. Zu einer größern Reise hab ich mich nicht entschließen können, nun lädt mich meine <rs type="person" ref="#pmb2315" subtype="implied">Schwägerin</rs><space unit="chars" quantity="1"/>sehr dringend nach <rs ref="#pmb2318" type="place">Partenkirchen</rs> (wohin auch <rs ref="#pmb2173" type="person">Olga</rs> im Anschluss an ein <rs ref="#pmb45258" type="place">Münchn</rs>er Concert<del rend="strikethrough">)</del> gehen wird); aber mich graut vor Wartesälen, Bahncoupés, Zollvisitationen, Gepäckaufgeben; und so wird auch daraus kaum was werden. Ich bin in diesem Sommer <pb facs="Hs-30885,149b_001"/>nur in <rs ref="#pmb483" type="place">Reichenau</rs> gewesen, <anchor xml:id="K_L02327_3" type="commentary"/>einmal zehn Tage<note xml:id="K_L02327_3h" type="commentary">vom <ref target="1919-08-07" subtype="date-only" type="schnitzlerDiary"/> bis zum <ref target="1919-08-20" subtype="date-only" type="schnitzlerDiary"/></note> (mit all den Meinen) einmal <anchor xml:id="K_L02327_4" type="commentary"/>drei Tage<note xml:id="K_L02327_4h" type="commentary">vom <ref target="1919-09-08" subtype="date-only" type="schnitzlerDiary"/> bis zum <ref target="1919-09-12" subtype="date-only" type="schnitzlerDiary"/></note>; – das ist für mich ein Ort so erfüllt von Erinnerungen der mannigfachsten Art, d<c rendition="#langesS">s</c>s ich ihnen, in der schweren Sti<c rendition="#gemination-m"/>ung dieser So<c rendition="#gemination-m"/>ertage, kaum gewachsen war. Immerhin wurden mir in tausend und mehr Metern Höhe, auf Wiesen, an Waldesrand, ein paar gute Stunden.</p><p>– We<c rendition="#gemination-n"/> nicht früher mein lieber Hugo so sehe ich Sie wohl bei der <anchor xml:id="K_L02327_5" type="commentary"/>Generalprobe<note xml:id="K_L02327_5h" type="commentary"><ref target="1919-10-08" type="schnitzlerDiary" subtype="cf"/></note> der <rs type="work" ref="#pmb40638" subtype="implied">sonnigen Frau</rs> (ich habe <rs ref="#pmb12870" type="person">Strauß</rs> um Einlaß gebeten, auch für <rs ref="#pmb2173" type="person">Olga</rs>, hoffentlich gehts) – ich kenne schon allerlei daraus vom Clavier her und freu mich ganz besonders. Haben Sie de<c rendition="#gemination-n"/> nun auch die <rs type="work" ref="#pmb39853" subtype="implied">Märchen-Erzählung</rs>, von der Sie mir öfters sprachen – die denselben Stoff behandelt, fertig gemacht? </p><p>– Ich schicke diese Zeilen noch nach <rs ref="#pmb415" type="place">Aussee</rs>. Haben Sie weiterhin gute, reiche Tage! </p><closer>Von Herzen Ihr<lb/><signed>Arth</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2312">
-                  <tei:persName>
-                     <tei:surname>Zuckerkandl</tei:surname>
-                     <tei:forename>Berta</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1864-04-13">13. 4. 1864</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-10-16">16. 10. 1945</tei:date>
-                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
-                  </tei:death>
-                  <occupation code="137">Journalist*in</occupation>
-                  <occupation code="138">Übersetzer*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb12504">
-                  <tei:persName>
-                     <tei:surname>Reinhardt</tei:surname>
-                     <tei:forename>Max</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1873-09-09">9. 9. 1873</tei:date>
-                     <tei:placeName ref="#pmb662">Baden bei Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1943-10-30">30. 10. 1943</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="103">Theaterleiter*in</occupation>
-                  <occupation code="104">Regisseur*in</occupation>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb2315">
-                  <tei:persName>
-                     <tei:surname>Steinrück</tei:surname>
-                     <tei:forename>Elisabeth</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1885-11-19">19. 11. 1885</tei:date>
-                     <tei:placeName ref="#pmb2316">Wien?</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1920-04-07">7. 4. 1920</tei:date>
-                     <tei:placeName ref="#pmb2318">Partenkirchen</tei:placeName>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb2173">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Olga</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
-                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
-                  </tei:death>
-                  <occupation code="107">Sänger*in</occupation>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb12870">
-                  <tei:persName>
-                     <tei:surname>Strauss</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1864-06-11">11. 6. 1864</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1949-09-08">8. 9. 1949</tei:date>
-                     <tei:placeName ref="#pmb667">Garmisch-Partenkirchen</tei:placeName>
-                  </tei:death>
-                  <occupation code="103">Theaterleiter*in</occupation>
-                  <occupation code="129">Komponist*in</occupation>
-                  <occupation code="131">Dirigent*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30141">
-                  <tei:author ref="pmb11740" role="author">
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:author>
-                  <tei:title>Gestern. Dramatische Studie in einem Akt in Versen</tei:title>
-                  <tei:date from="1891-10-15" from-custom="15.10.1891">15. 10. 1891</tei:date>
-                  <tei:gloss type="w1097">Drama</tei:gloss>
-                  <tei:note>2895</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb29823">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Das Märchen. Schauspiel in drei Aufzügen</tei:title>
-                  <tei:date when="1891-01-01" when-custom="1891">1891</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>6299</tei:note>
-                  <tei:note>8984</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30775">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Gang zum Weiher. Dramatische Dichtung</tei:title>
-                  <tei:date from="1926-01-01" from-custom="1926">1926</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>5737</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30819">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Die Schwestern oder Casanova in Spa. Lustspiel in Versen</tei:title>
-                  <tei:date from="1919-10-01" from-custom="01.10.1919">1. 10. 1919</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>2957</tei:note>
-                  <tei:note>5717</tei:note>
-                  <tei:note>9853</tei:note>
-                  <tei:note>9854</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb40638">
-                  <tei:author ref="pmb12870" role="author">
-                     <tei:surname>Strauss</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb11740" role="author">
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:author>
-                  <tei:title>Die Frau ohne Schatten. Oper in drei Akten</tei:title>
-                  <tei:date when="1919-10-10" when-custom="10.10.1919">10. 10. 1919</tei:date>
-                  <tei:gloss type="w1059">Oper</tei:gloss>
-                  <tei:note>5521</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb39853">
-                  <tei:author ref="pmb11740" role="author">
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb12870" role="composer">
-                     <tei:surname>Strauss</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                     <tei:term>[Vertonung]</tei:term>
-                  </tei:author>
-                  <tei:title>Die Frau ohne Schatten. Erzählung</tei:title>
-                  <tei:date when="1919-07-02" when-custom="1919">1919</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-                  <tei:note>5205</tei:note>
-                  <tei:note>5520</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb415">
-                  <tei:placeName>Bad Aussee</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb173">
-                  <tei:placeName>Rodaun</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb542">
-                  <tei:placeName>Bösendorferstraße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.201213 16.371141</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb730">
-                  <tei:placeName>Seidlgasse</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.206786325191 16.389660949005</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb34401">
-                  <tei:placeName>Altaussee</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1124">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.6698 13.78453</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb2318">
-                  <tei:placeName>Partenkirchen</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.4956 11.1097</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb45258">
-                  <tei:placeName>München</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1415">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb483">
-                  <tei:placeName>Reichenau an der Rax</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.7 15.83333</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change>
+         <change who="GHS" when="2020-05-22">Durchsicht</change>
+         <change who="MAM" when="2020-09-02">Index check</change>
+         <change who="MAM" when="2020-09-02">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="Hs-30885,149a_001"/>
+      <graphic url="Hs-30885,149a_002"/>
+      <graphic url="Hs-30885,149b_001"/>
+      <graphic url="Hs-30885,149b_002"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="Hs-30885,149a_001"/>
+                  <date>1. 10. 19</date>
+                  <lb/>
+                  <rs ref="#50" type="place">Wien</rs>
+               </dateline>
+            </opener>
+            <p>
+               <salute>mein lieber Hugo, </salute>vor ein paar Wochen schon hat mir die <rs
+                  ref="#2312" type="person">Hofrätin</rs> gesagt, Sie seien auf einen Brief an mich
+               ohne Antwort geblieben; ich will Ihnen nur mittheilen, dſs Ihr Brief vom
+                  <date>19. 9.</date> der erste ist, den ich seit vielen Monaten von Ihnen erhielt –
+               der letzte berichtete von Ihrem leidenden Zustand und ich schrieb Ihnen darauf, dſs
+               ich gern einmal zu Ihnen nach <rs ref="#173" type="place">Rodaun</rs> käme, aber
+               darauf hatt ich von Ihnen nichts weiter gehört. Nun freuts mich sehr dſs die neueste
+               Kunde so arbeitsfroh und hoffnungsvoll klingt und es wäre wahrhaftig schön, we<c
+                  rendition="#gemination-n"/> man wieder einmal einer jener feiertäglichen
+               Vorlesestunden entgegensehen dürfte – die nur im Lauf der Jahre um so viel seltener
+               geworden sind als selbst die seltensten Feiertage. Und was für eine Reihe von
+               festlich ergreifenden Abenden – von jenem ersten an, an dem Sie mir, an einem warmen
+                  <anchor xml:id="K_L02327_1" type="commentary"/>
+               <date>Juni</date>abend<note xml:id="K_L02327_1h" type="commentary">
+                  <ref target="1891-10-07" subtype="see" type="schnitzlerDiary"/>
+               </note> war es, in der <rs ref="#542" type="place">Giselastraße</rs>, »<rs
+                  ref="#30141" type="work">Gestern</rs>« vorlasen – oder war ich es, der mit dem
+                  »<anchor xml:id="K_L02327_2" type="commentary"/>
+               <rs ref="#29823" type="work">Märchen</rs>
+               <note xml:id="K_L02327_2h" type="commentary">Diese Lesung fand am <ref
+                     target="1891-06-25" type="schnitzlerDiary" subtype="date-only"/> in der <rs
+                     ref="#730" type="place">Seidlgasse</rs> statt. Aber bereits früher lassen sich
+                  solche Lesungen im privaten Kreis nachweisen.</note>« anfing, in der <rs
+                  ref="#730" type="place">Seidlgasse</rs>, bei <rs ref="#10863" type="person"
+                  >Richard</rs> – ich weiß nicht mehr? Es kam wirklich wenig darauf an, ob das Werk
+               als solches mehr oder weniger vollendet war – der Beifall geringer oder größer – im
+               Rückblick bleiben es durchaus Stunden der kräftigsten, belebtesten Atmosphäre –
+               bessere, reinere: als wenn man dasselbe Werk zum ersten Mal der Oeffentlich<pb
+                  facs="Hs-30885,149a_002"/>keit zu praesentiren hatte. Ich bin höchst gespannt was
+               Sie aus <rs ref="#34401" type="place">Altaussee</rs> mitbringen werden. Mit meiner
+               Arbeit (<rs type="work" ref="#30775" subtype="implied">Stück</rs>) geht es so langsam
+               vorwärts, dſs ich fast von einem Stillstand sprechen kann – obzwar ich die
+               Continuität zum mindesten durch beharrliches Anstarren unbeschriebener Papierblätter
+               oder Ausstreichen des Geschriebenen festzuhalten versuche. Das letzte, was ich fertig
+               gemacht <add place="above">habe</add>, sind die »<rs ref="#30819" type="work"
+                  >Schwestern</rs>«, die bei <rs ref="#12504" type="person">Reinhardt</rs> kommen
+               sollen; – mir selbst ist selten was von mir so lieb gewesen. Ich hab allerlei vor,
+               manches aus den letzten Jahren ist sogar recht weit gediehen; aber meine Arbeitskraft
+               ist – wohl unter dem Einfluss dieses grauenhaften Weltzustandes – so tief herunter
+               wie noch nie. Zu einer größern Reise hab ich mich nicht entschließen können, nun lädt
+               mich meine <rs type="person" ref="#2315" subtype="implied">Schwägerin</rs>
+               <space unit="chars" quantity="1"/>sehr dringend nach <rs ref="#2318" type="place"
+                  >Partenkirchen</rs> (wohin auch <rs ref="#2173" type="person">Olga</rs> im
+               Anschluss an ein <rs ref="#45258" type="place">Münchn</rs>er Concert<del
+                  rend="strikethrough">)</del> gehen wird); aber mich graut vor Wartesälen,
+               Bahncoupés, Zollvisitationen, Gepäckaufgeben; und so wird auch daraus kaum was
+               werden. Ich bin in diesem Sommer <pb facs="Hs-30885,149b_001"/>nur in <rs ref="#483"
+                  type="place">Reichenau</rs> gewesen, <anchor xml:id="K_L02327_3" type="commentary"
+               />einmal zehn Tage<note xml:id="K_L02327_3h" type="commentary">vom <ref
+                     target="1919-08-07" subtype="date-only" type="schnitzlerDiary"/> bis zum <ref
+                     target="1919-08-20" subtype="date-only" type="schnitzlerDiary"/></note> (mit
+               all den Meinen) einmal <anchor xml:id="K_L02327_4" type="commentary"/>drei Tage<note
+                  xml:id="K_L02327_4h" type="commentary">vom <ref target="1919-09-08"
+                     subtype="date-only" type="schnitzlerDiary"/> bis zum <ref target="1919-09-12"
+                     subtype="date-only" type="schnitzlerDiary"/></note>; – das ist für mich ein Ort
+               so erfüllt von Erinnerungen der mannigfachsten Art, dſs ich ihnen, in der schweren
+                  Sti<c rendition="#gemination-m"/>ung dieser So<c rendition="#gemination-m"
+               />ertage, kaum gewachsen war. Immerhin wurden mir in tausend und mehr Metern Höhe,
+               auf Wiesen, an Waldesrand, ein paar gute Stunden.</p>
+            <p>– We<c rendition="#gemination-n"/> nicht früher mein lieber Hugo so sehe ich Sie wohl
+               bei der <anchor xml:id="K_L02327_5" type="commentary"/>Generalprobe<note
+                  xml:id="K_L02327_5h" type="commentary">
+                  <ref target="1919-10-08" type="schnitzlerDiary" subtype="cf"/>
+               </note> der <rs type="work" ref="#40638" subtype="implied">sonnigen Frau</rs> (ich
+               habe <rs ref="#12870" type="person">Strauß</rs> um Einlaß gebeten, auch für <rs
+                  ref="#2173" type="person">Olga</rs>, hoffentlich gehts) – ich kenne schon allerlei
+               daraus vom Clavier her und freu mich ganz besonders. Haben Sie de<c
+                  rendition="#gemination-n"/> nun auch die <rs type="work" ref="#39853"
+                  subtype="implied">Märchen-Erzählung</rs>, von der Sie mir öfters sprachen – die
+               denselben Stoff behandelt, fertig gemacht? </p>
+            <p>– Ich schicke diese Zeilen noch nach <rs ref="#415" type="place">Aussee</rs>. Haben
+               Sie weiterhin gute, reiche Tage! </p>
+            <closer>Von Herzen Ihr<lb/>
+               <signed>Arth</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

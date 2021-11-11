@@ -1,93 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00688" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Adalbert Seligmann,
-                    15. 6. 1897</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00688</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00688"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Adalbert Seligmann,
+                    15. 6. 1897</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00688</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek im Rathaus</repository><idno>H.I.N.-96445</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="visitenkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><date when="1897-06-15" n="01">15. 6. 1897</date></correspAction><correspAction type="received"><persName ref="#pmb12769">Seligmann, Adalbert</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb12769">Seligmann, Adalbert</ref><ref subtype="previous_letter" type="withinCollection" target="L00687">Hofmannsthal an Schnitzler, [13. 6. 1897]</ref><ref subtype="next_letter" type="withinCollection" target="L00689">Beer-Hofmann an Schnitzler, 22. 6. 1897</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01039">Seligmann an Schnitzler, [20. 5. 1900]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek im Rathaus</repository>
+                        <idno>H.I.N.-96445</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="visitenkarte"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <date when="1897-06-15" n="01">15. 6. 1897</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#12769">Seligmann, Adalbert</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#12769">Seligmann, Adalbert</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00687">Hofmannsthal an Schnitzler, [13. 6. 1897]</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00689">Beer-Hofmann an Schnitzler, 22. 6. 1897</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01039">Seligmann an Schnitzler, [20. 5. 1900]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-11-17">Angelegt</change><change who="MAM" when="2020-11-18">Index check</change><change who="GHS" when="2020-11-20">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="Wienbibliothek_H.I.N.-96445_rs"/><graphic url="Wienbibliothek_H.I.N.-96445_vs"/></facsimile><text type="card"><body><div type="writingSession" n="1"><p><pb facs="Wienbibliothek_H.I.N.-96445_rs"/>Herzlich<c rendition="#langesS">s</c>ten Dank! Wirklich kö<c rendition="#langesS">s</c>tlich. Eine Bemerkung ge<c rendition="#langesS">s</c>tatten Sie mir. So wunderbar der <rs type="person" ref="#pmb11036"><hi rend="latintype">Burckhard</hi></rs><c rendition="#langesS">s</c>che Stil getroffen; die <rs type="work" subtype="implied" ref="#pmb32598">Satire</rs> auf<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ein <hi rend="underline" n="1">We<c rendition="#langesS">s</c>en</hi> geht manchmal<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr daneben. Sie haben eine Seite von ihm als das ganze genommen und ihm dadurch,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>cheint mir, in gewi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>em Sinn Unrecht gethan. <pb facs="Wienbibliothek_H.I.N.-96445_vs"/>Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>age Ihnen das, weil ich das <rs type="work" ref="#pmb32302" subtype="implied">Buch</rs><tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>on<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o wunderbar finde.</p><closer>Herzlichen Gruß Ihr<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr ergebener</closer><p rend="center"><hi rend="pre-print">D<hi rend="superscript">r</hi> Arthur Schnitzler</hi></p><postscript><dateline><rs type="place" ref="#pmb50">Wien</rs><space unit="chars" quantity="1"/><date>15. 6. 97</date>.</dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb12769">
-                  <tei:persName>
-                     <tei:surname>Seligmann</tei:surname>
-                     <tei:forename>Adalbert Franz</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-04-02">2. 4. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-12-13">13. 12. 1945</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="110">Maler*in</occupation>
-                  <occupation code="237">Publizist*in</occupation>
-               </tei:person><tei:person xml:id="pmb11036">
-                  <tei:persName>
-                     <tei:surname>Burckhard</tei:surname>
-                     <tei:forename>Max Eugen</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1854-07-14">14. 7. 1854</tei:date>
-                     <tei:placeName ref="#pmb11037">Korneuburg</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1912-03-16">16. 3. 1912</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="102">Rechtswissenschaftler*in</occupation>
-                  <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb32598">
-                  <tei:author ref="pmb12769" role="author">
-                     <tei:surname>Seligmann</tei:surname>
-                     <tei:forename>Adalbert Franz</tei:forename>
-                  </tei:author>
-                  <tei:title>Timon Sums, Bekenntnisse einer schönen Seele. (3798. Fortsetzung und Schluss.)</tei:title>
-                  <tei:date from="1897-01-01" from-custom="1897">1897</tei:date>
-                  <tei:gloss type="w1531"/>
-               </tei:bibl><tei:bibl xml:id="pmb32302">
-                  <tei:author ref="pmb12769" role="author">
-                     <tei:surname>Seligmann</tei:surname>
-                     <tei:forename>Adalbert Franz</tei:forename>
-                  </tei:author>
-                  <tei:title>Hinter dem Leben</tei:title>
-                  <tei:date from="1897-01-01" from-custom="1897">1897</tei:date>
-                  <tei:gloss type="w1208">Textsammlung</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2020-11-17">Angelegt</change>
+         <change who="MAM" when="2020-11-18">Index check</change>
+         <change who="GHS" when="2020-11-20">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="Wienbibliothek_H.I.N.-96445_rs"/>
+      <graphic url="Wienbibliothek_H.I.N.-96445_vs"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="writingSession" n="1">
+            <p>
+               <pb facs="Wienbibliothek_H.I.N.-96445_rs"/>Herzlichſten Dank! Wirklich köſtlich.
+                    Eine Bemerkung geſtatten Sie mir. So wunderbar der <rs type="person" ref="#11036">
+                  <hi rend="latintype">Burckhard</hi>
+               </rs>ſche Stil getroffen;
+                    die <rs type="work" subtype="implied" ref="#32598">Satire</rs> auf ſein <hi rend="underline" n="1">Weſen</hi> geht manchmal ſehr daneben. Sie haben eine
+                    Seite von ihm als das ganze genommen und ihm dadurch, ſcheint mir, in gewiſſem
+                    Sinn Unrecht gethan. <pb facs="Wienbibliothek_H.I.N.-96445_vs"/>Ich ſage Ihnen
+                    das, weil ich das <rs type="work" ref="#32302" subtype="implied">Buch</rs> ſonſt
+                    ſo wunderbar finde.</p>
+            <closer>Herzlichen Gruß Ihr ſehr ergebener</closer>
+            <p rend="center">
+               <hi rend="pre-print">D<hi rend="superscript">r</hi> Arthur
+                        Schnitzler</hi>
+            </p>
+            <postscript>
+               <dateline>
+                  <rs type="place" ref="#50">Wien</rs>
+                  <space unit="chars" quantity="1"/>
+                  <date>15. 6. 97</date>.</dateline>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

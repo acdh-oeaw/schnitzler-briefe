@@ -1,125 +1,271 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L01978" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 7. 11. 1910</title><author ref="#pmb11740">Hofmannsthal, Hugo von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01978</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L01978"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, 7. 11. 1910</title>
+            <author ref="#11740">Hofmannsthal, Hugo von</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L01978</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 43</idno></msIdentifier><physDesc><objectDesc><desc n="3" type="_blaetter">die Blätter 2 und 3 sind nummeriert</desc><desc n="12" type="_seiten"/><desc type="brief"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift datiert: »<quote><date>Nov. 910</date>.</quote>« und beschriftet:
-                                    »<quote>Hugo</quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote><del rend="strikethrough">308</del></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>325</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">257</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb50">Wien</placeName><date when="1910-11-07" n="01">7. 11. 1910</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1910-11-07">7. 11. 1910</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L01977">Schnitzler an
-                  Beer-Hofmann, 3. 11. 1910</ref><ref subtype="next_letter" type="withinCollection" target="L01979">Schnitzler an
-                  Hofmannsthal, 10. 11. 1910</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01975">Schnitzler
-                  an Hofmannsthal, 2. 11. 1910</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01979">Schnitzler an
-                  Hofmannsthal, 10. 11. 1910</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 43</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="3" type="_blaetter">die Blätter 2 und 3 sind nummeriert</desc>
+                           <desc n="12" type="_seiten"/>
+                           <desc type="brief"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift datiert: »<quote>
+                                    <date>Nov. 910</date>.</quote>« und beschriftet:
+                                    »<quote>Hugo</quote>«</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>
+                                    <del rend="strikethrough">308</del>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>325</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HvHAS">
+                  <monogr>
+                     <author ref="#11740">Hofmannsthal, Hugo von</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel</title>
+                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1964">1964</date>
+                     </imprint>
+                     <biblScope unit="pp">257</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1910-11-07" n="01">7. 11. 1910</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1910-11-07">7. 11. 1910</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01977">Schnitzler an
+                  Beer-Hofmann, 3. 11. 1910</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01979">Schnitzler an
+                  Hofmannsthal, 10. 11. 1910</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L01975">Schnitzler
+                  an Hofmannsthal, 2. 11. 1910</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01979">Schnitzler an
+                  Hofmannsthal, 10. 11. 1910</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-05-02">Durchsicht</change><change who="MAM" when="2020-07-16">Index check</change><change who="MAM" when="2020-07-17">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00041"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00042"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00043"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00044"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00045"/><graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00046"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00041"/><date>Montag</date><space unit="chars" quantity="1"/><time>früh</time>.</dateline><salute>mein guter lieber Arthur </salute></opener><p>es tut mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o tief<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chmerzlich leid Ihnen weh getan und Sie geärgert zu haben – und wenn<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich das Ganze auch (wie Sie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehen werden) gar nicht in der Wirklichkeit abge<c rendition="#langesS">s</c>pielt hat –<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o haben Sie darum nicht minder eine unangenehme Stunde durch mich erfahren, haben<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich, <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00042"/>müde und enerviert nach einer langen <rs type="work" ref="#pmb29937">Probe</rs>, hin<c rendition="#langesS">s</c>etzen und mir die<c rendition="#langesS">s</c>en begreiflichen und berechtigten Brief<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreiben mü<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en – dies alles tut mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o furchtbar leid, ge<c rendition="#langesS">s</c>tern und heute nacht, gegen Morgen, jedesmal zur gleichen Stunde, wache ich auf und denke an Sie und Ihre Ver<c rendition="#langesS">s</c>timmung gegen mich mit einem<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00042"/>grä<c rendition="#langesS">s</c>slichen Gefühl – ge<c rendition="#langesS">s</c>tern nachmittag wollte ich zu Ihnen, hatte aber wirklich zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr Ang<c rendition="#langesS">s</c>t, da<c rendition="#langesS">s</c>s wir uns, wenn auch nur für einen Augenblick, verdü<c rendition="#langesS">s</c>tert gegenüber<c rendition="#langesS">s</c>tehen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ollten –<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreibe ich lieber und bitte Sie vor allem herzlich, mir die<c rendition="#langesS">s</c>e unglückliche Sache zu verzeihen und<space unit="chars" quantity="1"/><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00041"/><subst><del rend="overwritten">S</del><add place="inline"/></subst>ie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oweit als möglich aus Ihrem Gedächtnis zu verbannen.</p><p>Meine unglückliche <del rend="strikethrough">St</del> Feder hat etwas<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr Unge<c rendition="#langesS">s</c>chicktes hingemalt aber die hä<c rendition="#langesS">s</c>sliche Härte und Rohheit, die Sie herausgele<c rendition="#langesS">s</c>en haben, war es nicht –: <hi rend="underline" n="1">das</hi> hatte ich weder gethan noch vermeinte ich, Ihnen auch extra noch nach <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00043"/>Jahren mitzuteilen, da<c rendition="#langesS">s</c>s ich es getan hätte. Nein!<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ondern: wenn ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chrieb »halb ab<c rendition="#langesS">s</c>ichtlich, halb unab<c rendition="#langesS">s</c>ichtlich«<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o meinte ich einen jener Schwebezu<c rendition="#langesS">s</c>tände des Willens, zwi<c rendition="#langesS">s</c>chen Bewu<c rendition="#langesS">s</c>st und Unbewu<c rendition="#langesS">s</c>st, aber doch ziemlich tief im Unbewu<c rendition="#langesS">s</c>sten, dem <rs ref="#pmb11370" type="person">Freud</rs> in der <rs ref="#pmb36415" type="work">P<c rendition="#langesS">s</c>ychopathologie des <hi rend="underline" n="1">Alltagslebens</hi></rs> ganze Ne<c rendition="#langesS">s</c>ter und <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00044"/>Ketten<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr gei<c rendition="#langesS">s</c>treich nachgewie<c rendition="#langesS">s</c>en hat, jenes<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>cheinbar völlig <anchor xml:id="K_L01978_1" type="commentary"/>unbewu<c rendition="#langesS">s</c>ste fallen la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en eines Bildes<note xml:id="K_L01978_1h" type="commentary">vgl. das 8. Kapitel (»<rs ref="#pmb36415" type="work" subtype="implied">Das Vergreifen</rs>«) von <rs ref="#pmb36415" type="work">Zur Psychopathologie des Alltagslebens</rs> (<date>1904</date>)</note>, weil man gegen die Per<c rendition="#langesS">s</c>on, die das Bild dar<c rendition="#langesS">s</c>tellt, etwas verborgenes Bö<c rendition="#langesS">s</c>es auf dem Herzen hat, – kurz eine Tat, die vor keinerlei Forum gezogen werden kann, kaum vor das des allerzarte<c rendition="#langesS">s</c>ten eigenen Gewi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ens,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr verbirgt<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie<space unit="chars" quantity="1"/><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00044"/><c rendition="#langesS">s</c>ich ins Dunkel des Unbewu<c rendition="#langesS">s</c>sten – und wenn ich das heute aus<c rendition="#langesS">s</c>preche,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o nehme ich jenen intim erregten Zu<c rendition="#langesS">s</c>tand gegen das <rs type="work" subtype="implied" ref="#pmb29923">Buch</rs> eben heute hi<c rendition="#langesS">s</c>tori<c rendition="#langesS">s</c>ch, fühle mich frei davon und darf darum gerade aus Ihrer Hand mit allem, auch dem zarte<c rendition="#langesS">s</c>ten Recht, ein neues <rs type="work" subtype="implied" ref="#pmb29923">Exemplar</rs> erbitten.<space unit="chars" quantity="3"/>Da<c rendition="#langesS">s</c>s ich ein <rs type="work" subtype="implied" ref="#pmb29923">Exemplar</rs><space unit="chars" quantity="1"/><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00041"/>mit einer Zueignung <hi n="1" rend="underline">im bürgerlichen Sinn</hi> eben<c rendition="#langesS">s</c>o wenig in der Ei<c rendition="#langesS">s</c>enbahn liegen la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en <hi rend="underline" n="1">wollte</hi> als meinen Regen<c rendition="#langesS">s</c>chirm oder Spazier<c rendition="#langesS">s</c>tock, das lieber Arthur, bitte ich Sie, zu glauben.</p><p><hi n="1" rend="underline">So</hi>. Ich habe dies ausge<c rendition="#langesS">s</c>prochen, weil ich finde, da<c rendition="#langesS">s</c>s man in<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o zarten Dingen, wie Freund<c rendition="#langesS">s</c>chaft und Liebe, auch das auf<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich nehmen mu<c rendition="#langesS">s</c>s, was man hätte begehen können. Und <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00045"/>da<c rendition="#langesS">s</c>s ich ein<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olches<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ymboli<c rendition="#langesS">s</c>ches Liegenla<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en des <rs type="work" subtype="implied" ref="#pmb29923">Buches</rs> damals hätte vollbringen können, glaube ich darum, weil ich mir eben eingebildet hatte, ich hätte es wirklich in der Ei<c rendition="#langesS">s</c>enbahn verloren.<space unit="chars" quantity="3"/>Nun weiß ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eit ge<c rendition="#langesS">s</c>tern, da<c rendition="#langesS">s</c>s gar nicht ich das <rs type="work" subtype="implied" ref="#pmb29923">Buch</rs> verloren habe,<space unit="chars" quantity="1"/><pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00046"/><c rendition="#langesS">s</c>ondern <rs ref="#pmb2292" type="person">Gerty</rs>, die darüber natürlich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr unglücklich war, eben der Widmung wegen, vergeblich bei Conducteuren und Stationschefs<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich bemühte es wiederzubeko<c rendition="#gemination-m"/>en und es aber nicht wiedererlangen konnte.</p><p>Es war al<c rendition="#langesS">s</c>o eine Gedächtnis-täu<c rendition="#langesS">s</c>chung <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00046"/>meiner<c rendition="#langesS">s</c>eits, und die unglücklichen Worte jener Nach<c rendition="#langesS">s</c>chrift aus <rs ref="#pmb860" type="place">Graetz</rs> haben<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich auf ein Doppelt-nichtge<c rendition="#langesS">s</c>chehenes bezogen, auf den Schatten eines Schattens oder noch weniger.</p><p>Al<c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eien Sie mir wieder gut, mein lieber Arthur, und glauben Sie weiter, was Sie <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00046"/>zu glauben, denke ich, nicht aufgehört haben, da<c rendition="#langesS">s</c>s es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr wenige Men<c rendition="#langesS">s</c>chen auf der Welt geben wird, die das Ganze Ihres men<c rendition="#langesS">s</c>chlichen und kün<c rendition="#langesS">s</c>tleri<c rendition="#langesS">s</c>chen Da<c rendition="#langesS">s</c>eins mit<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o großer Freude und Liebe, und<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o viel Dankbarkeit für das unbegreifliche Phänomen der »Gleichzeitigkeit« erfa<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en, als Ihr</p><closer><signed>Hugo.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11370">
-                  <tei:persName>
-                     <tei:surname>Freud</tei:surname>
-                     <tei:forename>Sigmund</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1856-05-06">6. 5. 1856</tei:date>
-                     <tei:placeName ref="#pmb46778">Pribor</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-09-23">23. 9. 1939</tei:date>
-                     <tei:placeName ref="#pmb224">London</tei:placeName>
-                  </tei:death>
-                  <occupation code="232">Psychoanalytiker</occupation>
-               </tei:person><tei:person xml:id="pmb2292">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Gertrude von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1880-03-16">16. 3. 1880</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1959-11-09">9. 11. 1959</tei:date>
-                     <tei:placeName ref="#pmb46885">Paddington</tei:placeName>
-                  </tei:death>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb29937">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der junge Medardus. Dramatische Historie in einem Vorspiel und fünf Aufzügen</tei:title>
-                  <tei:date from="1910-10-26" from-custom="1910-10-26">26. 10. 1910</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb36415">
-                  <tei:author ref="pmb11370" role="author">
-                     <tei:surname>Freud</tei:surname>
-                     <tei:forename>Sigmund</tei:forename>
-                  </tei:author>
-                  <tei:title>Zur Psychopathologie des Alltagslebens</tei:title>
-                  <tei:date from="1904-01-01" from-custom="1904">1904</tei:date>
-                  <tei:gloss type="w1089">Studie</tei:gloss>
-                  <tei:note>3516</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb29923">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Weg ins Freie. Roman</tei:title>
-                  <tei:date from="1908-01-01" from-custom="1.1.1908" to="1908-06-01" to-custom="1.6.1908">1. 1. 1908–1. 6. 1908</tei:date>
-                  <tei:gloss type="w1060">Roman</tei:gloss>
-                  <tei:note>2849</tei:note>
-                  <tei:note>8047</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb860">
-                  <tei:placeName>Graz</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.06667 15.43333</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change>
+         <change who="GHS" when="2020-05-02">Durchsicht</change>
+         <change who="MAM" when="2020-07-16">Index check</change>
+         <change who="MAM" when="2020-07-17">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00041"/>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00042"/>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00043"/>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00044"/>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00045"/>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00003-000-00046"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00041"/>
+                  <date>Montag</date>
+                  <space unit="chars" quantity="1"/>
+                  <time>früh</time>.</dateline>
+               <salute>mein guter lieber Arthur </salute>
+            </opener>
+            <p>es tut mir ſo tief ſchmerzlich leid Ihnen weh getan und Sie geärgert zu haben – und
+               wenn ſich das Ganze auch (wie Sie ſehen werden) gar nicht in der Wirklichkeit
+               abgeſpielt hat – ſo haben Sie darum nicht minder eine unangenehme Stunde durch mich
+               erfahren, haben ſich, <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00042"/>müde und
+               enerviert nach einer langen <rs type="work" ref="#29937">Probe</rs>, hinſetzen und
+               mir dieſen begreiflichen und berechtigten Brief ſchreiben müſſen – dies alles tut mir
+               ſo furchtbar leid, geſtern und heute nacht, gegen Morgen, jedesmal zur gleichen
+               Stunde, wache ich auf und denke an Sie und Ihre Verſtimmung gegen mich mit einem ſo
+                  <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00042"/>gräſslichen Gefühl – geſtern
+               nachmittag wollte ich zu Ihnen, hatte aber wirklich zu ſehr Angſt, daſs wir uns, wenn
+               auch nur für einen Augenblick, verdüſtert gegenüberſtehen ſollten – ſo ſchreibe ich
+               lieber und bitte Sie vor allem herzlich, mir dieſe unglückliche Sache zu verzeihen
+                  und<space unit="chars" quantity="1"/>
+               <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00041"/>
+               <subst>
+                  <del rend="overwritten">S</del>
+                  <add place="inline">ſ</add>
+               </subst>ie ſoweit als möglich aus Ihrem Gedächtnis zu verbannen.</p>
+            <p>Meine unglückliche <del rend="strikethrough">St</del> Feder hat etwas ſehr
+               Ungeſchicktes hingemalt aber die häſsliche Härte und Rohheit, die Sie herausgeleſen
+               haben, war es nicht –: <hi rend="underline" n="1">das</hi> hatte ich weder gethan
+               noch vermeinte ich, Ihnen auch extra noch nach <pb
+                  facs="MS-SCHNITZLER-B-00043-B-00003-000-00043"/>Jahren mitzuteilen, daſs ich es
+               getan hätte. Nein! ſondern: wenn ich ſchrieb »halb abſichtlich, halb unabſichtlich«
+               ſo meinte ich einen jener Schwebezuſtände des Willens, zwiſchen Bewuſst und
+               Unbewuſst, aber doch ziemlich tief im Unbewuſsten, dem <rs ref="#11370" type="person"
+                  >Freud</rs> in der <rs ref="#36415" type="work">Pſychopathologie des <hi
+                     rend="underline" n="1">Alltagslebens</hi>
+               </rs> ganze Neſter und <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00044"/>Ketten
+               ſehr geiſtreich nachgewieſen hat, jenes ſcheinbar völlig <anchor xml:id="K_L01978_1"
+                  type="commentary"/>unbewuſste fallen laſſen eines Bildes<note xml:id="K_L01978_1h"
+                  type="commentary">vgl. das 8. Kapitel (»<rs ref="#36415" type="work"
+                     subtype="implied">Das Vergreifen</rs>«) von <rs ref="#36415" type="work">Zur
+                     Psychopathologie des Alltagslebens</rs> (<date>1904</date>)</note>, weil man
+               gegen die Perſon, die das Bild darſtellt, etwas verborgenes Böſes auf dem Herzen
+               hat, – kurz eine Tat, die vor keinerlei Forum gezogen werden kann, kaum vor das des
+               allerzarteſten eigenen Gewiſſens, ſo ſehr verbirgt ſie<space unit="chars"
+                  quantity="1"/>
+               <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00044"/>ſich ins Dunkel des Unbewuſsten –
+               und wenn ich das heute ausſpreche, ſo nehme ich jenen intim erregten Zuſtand gegen
+               das <rs type="work" subtype="implied" ref="#29923">Buch</rs> eben heute hiſtoriſch,
+               fühle mich frei davon und darf darum gerade aus Ihrer Hand mit allem, auch dem
+               zarteſten Recht, ein neues <rs type="work" subtype="implied" ref="#29923"
+                  >Exemplar</rs> erbitten.<space unit="chars" quantity="3"/>Daſs ich ein <rs
+                  type="work" subtype="implied" ref="#29923">Exemplar</rs>
+               <space unit="chars" quantity="1"/>
+               <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00041"/>mit einer Zueignung <hi n="1"
+                  rend="underline">im bürgerlichen Sinn</hi> ebenſo wenig in der Eiſenbahn liegen
+               laſſen <hi rend="underline" n="1">wollte</hi> als meinen Regenſchirm oder
+               Spazierſtock, das lieber Arthur, bitte ich Sie, zu glauben.</p>
+            <p>
+               <hi n="1" rend="underline">So</hi>. Ich habe dies ausgeſprochen, weil ich finde, daſs
+               man in ſo zarten Dingen, wie Freundſchaft und Liebe, auch das auf ſich nehmen muſs,
+               was man hätte begehen können. Und <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00045"
+               />daſs ich ein ſolches ſymboliſches Liegenlaſſen des <rs type="work"
+                  subtype="implied" ref="#29923">Buches</rs> damals hätte vollbringen können, glaube
+               ich darum, weil ich mir eben eingebildet hatte, ich hätte es wirklich in der
+               Eiſenbahn verloren.<space unit="chars" quantity="3"/>Nun weiß ich ſeit geſtern, daſs
+               gar nicht ich das <rs type="work" subtype="implied" ref="#29923">Buch</rs> verloren
+                  habe,<space unit="chars" quantity="1"/>
+               <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00046"/>ſondern <rs ref="#2292"
+                  type="person">Gerty</rs>, die darüber natürlich ſehr unglücklich war, eben der
+               Widmung wegen, vergeblich bei Conducteuren und Stationschefs ſich bemühte es
+                  wiederzubeko<c rendition="#gemination-m"/>en und es aber nicht wiedererlangen
+               konnte.</p>
+            <p>Es war alſo eine Gedächtnis-täuſchung <pb
+                  facs="MS-SCHNITZLER-B-00043-B-00003-000-00046"/>meinerſeits, und die unglücklichen
+               Worte jener Nachſchrift aus <rs ref="#860" type="place">Graetz</rs> haben ſich auf
+               ein Doppelt-nichtgeſchehenes bezogen, auf den Schatten eines Schattens oder noch
+               weniger.</p>
+            <p>Alſo ſeien Sie mir wieder gut, mein lieber Arthur, und glauben Sie weiter, was Sie
+                  <pb facs="MS-SCHNITZLER-B-00043-B-00003-000-00046"/>zu glauben, denke ich, nicht
+               aufgehört haben, daſs es ſehr wenige Menſchen auf der Welt geben wird, die das Ganze
+               Ihres menſchlichen und künſtleriſchen Daſeins mit ſo großer Freude und Liebe, und ſo
+               viel Dankbarkeit für das unbegreifliche Phänomen der »Gleichzeitigkeit« erfaſſen, als
+               Ihr</p>
+            <closer>
+               <signed>Hugo.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

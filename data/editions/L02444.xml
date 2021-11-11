@@ -1,369 +1,310 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02444" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Georg Brandes, 7. 7. 1925</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02444</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02444"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Georg Brandes, 7. 7. 1925</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L02444</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>Dk</country><settlement>Kopenhagen</settlement><repository>Det Kongelige Bibliotek</repository><idno>Georg Brandes Arkiv, box 125</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="6" type="_blaetter"/><desc n="6" type="_seiten">Von Schnitzler paginiert: »<quote>II</quote>«
-                              bis »<quote>VI</quote>«</desc></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>52.</quote>« und die weiteren Blätter datiert: »<quote><date>7/7 25</date></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASGB"><monogr><author ref="#pmb10992">Brandes, Georg</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Ein Briefwechsel</title><editor>Hg. Kurt Bergel</editor><imprint><pubPlace>Bern</pubPlace><publisher>Francke</publisher><date when="1956">1956</date></imprint><biblScope unit="pp">147–149</biblScope></monogr></biblStruct><biblStruct corresp="ASB2"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefe 1913–1931</title><editor>Braunwarth, Peter Michael</editor><editor>Miklin, Richard</editor><editor>Pertlik, Susanne</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1984">1984</date></imprint><biblScope unit="pp">411–414</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1925-07-07" n="01">7. 7. 1925</date></correspAction><correspAction type="received"><persName ref="#pmb10992">Brandes, Georg</persName><placeName ref="#pmb36300">Kopenhagen</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10992">Brandes, Georg</ref><ref subtype="previous_letter" type="withinCollection" target="L02443">Brandes an
-                  Schnitzler, 21. 6. 1925</ref><ref subtype="next_letter" type="withinCollection" target="L02445">Brandes an
-                  Schnitzler, 12. 7. 1925</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02443">Brandes an
-                  Schnitzler, 21. 6. 1925</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02445">Brandes an
-                  Schnitzler, 12. 7. 1925</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Dk</country>
+                        <settlement>Kopenhagen</settlement>
+                        <repository>Det Kongelige Bibliotek</repository>
+                        <idno>Georg Brandes Arkiv, box 125</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="brief"/>
+                           <desc n="6" type="_blaetter"/>
+                           <desc n="6" type="_seiten">Von Schnitzler paginiert: »<quote>II</quote>«
+                              bis »<quote>VI</quote>«</desc>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>52.</quote>« und die weiteren Blätter datiert: »<quote>
+                                    <date>7/7 25</date>
+                                 </quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASGB">
+                  <monogr>
+                     <author ref="#10992">Brandes, Georg</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Ein Briefwechsel</title>
+                     <editor>Hg. Kurt Bergel</editor>
+                     <imprint>
+                        <pubPlace>Bern</pubPlace>
+                        <publisher>Francke</publisher>
+                        <date when="1956">1956</date>
+                     </imprint>
+                     <biblScope unit="pp">147–149</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct corresp="ASB2">
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefe 1913–1931</title>
+                     <editor>Braunwarth, Peter Michael</editor>
+                     <editor>Miklin, Richard</editor>
+                     <editor>Pertlik, Susanne</editor>
+                     <editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1984">1984</date>
+                     </imprint>
+                     <biblScope unit="pp">411–414</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1925-07-07" n="01">7. 7. 1925</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#10992">Brandes, Georg</persName>
+               <placeName ref="#36300">Kopenhagen</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10992">Brandes, Georg</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L02443">Brandes an
+                  Schnitzler, 21. 6. 1925</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L02445">Brandes an
+                  Schnitzler, 12. 7. 1925</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L02443">Brandes an
+                  Schnitzler, 21. 6. 1925</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L02445">Brandes an
+                  Schnitzler, 12. 7. 1925</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-07-01">Angelegt</change><change who="MAM" when="2018-08-02">Durchsicht</change><change who="MAM" when="2018-10-01">Index check</change><change who="MAM" when="2020-04-09">Durchsicht</change></revisionDesc></teiHeader><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="Georg_Brandes_arkiv_224"/><rs ref="#pmb50" type="place">Wien</rs>, <date>7. Juli 1925</date></dateline></opener><p><salute>mein lieber und verehrter Freund, </salute>Sie haben mich während Ihres diesmaligen Aufenthalts in <rs ref="#pmb50" type="place">Wien</rs> »nicht heiter« gefunden, – und so muß ich fast befürchten, daß Sie nicht ganz bemerkt haben, wie glücklich mich Ihre Anwesenheit gemacht hat und wie froh ich war, daß Sie mir Ihre Sympathie – eines der Geschenke, für die ich dem Schicksal besonders dankbar bin – all die Jahre hindurch, die wir einander schon kennen, ungehindert erhalten haben. Darf ich Ihnen heute in diesen Zeilen zum Ausdruck bringen, was von Angesicht zu Angesicht auszusprechen, was in meinem Betragen zu verdeutlichen ich, mehr meinem ganzen Wesen nach, als aus vorübergehenden Sti<c rendition="#gemination-m"/>ungen heraus, nicht so recht im Stande war und bin? Es ist richtig, (und es bewegt mich sehr, da<c rendition="#langesS">s</c>s Sie es empfunden haben, we<c rendition="#gemination-n"/> es mir auch ein bischen leid thut), da<c rendition="#langesS">s</c>s ich <pb facs="Georg_Brandes_arkiv_225"/>zuweilen ein wenig melancholisch bin, oder doch bedrückt. Hauptanlaß wohl mein Ohrenleiden, an dem nicht nur die langsam aber sicher zunehmende Schwerhörigkeit, sondern, mehr noch, die ununterbrochenen subjectiven Geräusche, ein Klingen, ein Sausen, und ein <del rend="strikethrough"><unclear>nicht</unclear></del> stetes Vogelzwitschern (das sich bis zu einem mäßigen Papageiengekreisch verstärken kann) recht quälend sind. Und, sonderbar genug, es gibt doch Stunden, ja Tage, an denen mir diese Geräusche, – so continuirlich sie i<c rendition="#gemination-m"/>er (seit bald dreißig Jahren!) kaum zu Bewußtsein ko<c rendition="#gemination-m"/>en. Im ganzen verläuft ja die Sache etwas langsamer, als ich zu Beginn der Erkrankung gefürchtet habe – man gewöhnts auch allmälig <anchor xml:id="T_L02444_1" type="textConst"/>(<note xml:id="T_L02444_1h" type="textConst">öffnende Klammer am Zeilenende gestrichen und in der neuen Zeile erneut ausgeführt</note>zu mindesten manchmal) aber es ist doch schli<c rendition="#gemination-m"/>, da<c rendition="#langesS">s</c>s mir insbesondere der Theaterbesuch schon ziemlich vergällt ist und auch bei musikalischen Genüssen viel, sehr viel entgeht. Und schli<c rendition="#gemination-m"/>, <pb facs="Georg_Brandes_arkiv_226"/>daß es eine eigentliche »Stille« für mich längst nicht mehr gibt. Glücklicherweise werd ich im Schlafen nicht gestört, – wenn auch diese Geräusche auf mancherlei, oft ganz phantastische Art sich in meine Träume drängen.</p><p>Auch meine persönliche Existenz ist ja nicht ganz einfach, wie Sie wissen; aber es würde zu weit führen, da in Einzelheiten einzugehen; – an Conflicten seelischer Art mangelt es ja in diesen Grenzjahren (es ist vielleicht kühn, mit 63 noch von Grenzjahren zu reden, aber gerade Sie werden mich verstehen) nie.</p><p>Dabei fühl ich doch, da<c rendition="#langesS">s</c>s ich im Grunde nicht klagen dürfte (ich thu’s auch selten), – besonders darum weil meine beiden <rs type="person" ref="#pmb12692 #pmb2238" subtype="implied">Kinder</rs> sehr wohl gerathen sind (auch steh ich jetzt mit meiner früheren <rs type="person" ref="#pmb2173" subtype="implied">Gattin</rs>, die in <rs ref="#pmb228" type="place">Baden-Baden</rs> lebt, in sehr freundschaftlichen, natürlich nicht immer unge<pb facs="Georg_Brandes_arkiv_227"/>trübten Beziehungen), und ferner weil ich mich in meiner Schaffenslust eher noch wachsen als abnehmen fühle. Auch an äußeren Erfolgen fehlt es nicht; und nach einer Periode, die sich ein wenig bedenklich anließ, glaub ich auch materiell – ach nicht durch das Vorhandensein eines Vermögens – wer besitzt de<c rendition="#gemination-n"/> jetzt etwas!, – aber durch das Ansteigen meiner Einnahmen, – mit Ruhe in die Zukunft blicken zu dürfen. Und blasirt bin ich ja nicht – mir macht eigentlich alles mehr Freude als es mir in meiner Jugend gemacht hat, – jede Blume, jeder Spaziergang, jedes schöne Buch und Herzlichkeit mancher Art, die mir entgegengebracht wird. »So wollen wirs de<c rendition="#gemination-n"/> noch eine Weile weiter treiben« wie ein sehr Großer gesagt haben kö<c rendition="#gemination-n"/>te und wahrscheinlich irgendwo gesagt hat – und Sie sollen wissen, liebster Freund, da<c rendition="#langesS">s</c>s ich, we<c rendition="#gemination-n"/> auch gelegentlich ein wenig verdüstert, <pb facs="Georg_Brandes_arkiv_228"/>mich gar nicht übel befinde; – und hoffentlich mach ich auch Ihnen einen vergnügtem Eindruck, we<c rendition="#gemination-n"/> wir uns wiedersehen.</p><p>Wie gut begreife ich, da<c rendition="#langesS">s</c>s Sie nicht nach »<rs ref="#pmb433" type="place">Leningrad</rs>« gehen wollen – auch ich, (selbst we<c rendition="#gemination-n"/> ich dort nicht reden müßte,) hätte nicht die geringste Lust dazu. Kennen Sie das <add place="above">(kleine)</add><space unit="chars" quantity="1"/><rs type="work" ref="#pmb33410 #pmb33412" subtype="implied">Buch</rs> von <rs ref="#pmb5564" type="person">Bucharin</rs> über den Bolschewismus? Wenn die deutsche Übersetzung nicht <anchor xml:id="T_L02444_2" type="textConst"/>etwa<note xml:id="T_L02444_2h" type="textConst">unsicher zu lesen; wohl zur Verdeutlichung gestrichen und über der Zeile wiederholt</note> zu dem Zwecke gefälscht ist, um die Idee – (die Idee!!) des Bolschewismus zu compromittieren, da<c rendition="#gemination-n"/> hat es <rs ref="#pmb5564" type="person">Bucharin</rs> selbst in unübertrefflicher Weise gethan. –</p><p>Ihren Brief hab ich in <rs ref="#pmb40260" type="place">Bozen</rs> erhalten, (<rs ref="#pmb40260" type="place">Bolzano</rs>) von wo ich erst vor ein paar Tagen nach <rs ref="#pmb50" type="place">Wien</rs> zurückgekehrt bin. Ich bleibe nur den <date>Juli</date> über hier, und fahre im <date>August</date> wahrscheinlich wieder in die <geogName type="mountains">Dolomiten</geogName>. Für den Herbst steht mir allerlei bevor: in <pb facs="Georg_Brandes_arkiv_229"/><anchor xml:id="K_L02444_1" type="commentary"/><rs ref="#pmb168" type="place">Berlin</rs><note xml:id="K_L02444_1h" type="commentary">Die geplante Inszenierung von <rs ref="#pmb10833" type="person">Victor Barnowsky</rs> wird nicht realisiert (<bibl>Vgl. <title level="m">Briefe</title> II, 468</bibl>).</note> die Aufführung der <rs ref="#pmb30205" type="work">Komödie der Verführung</rs>, – in <anchor xml:id="K_L02444_2" type="commentary"/><rs ref="#pmb50" type="place">Wien</rs> Reprisen<note xml:id="K_L02444_2h" type="commentary"><rs ref="#pmb30207" type="work">Das weite Land</rs> wurde ab <date>4. 9. 1925</date> am <rs ref="#pmb20" type="place">Deutschen Volkstheater</rs> gegeben, wo auch <rs ref="#pmb29985" type="work">Der einsame Weg</rs> am <date>14. 11. 1925</date> im Zuge eines Gastspiels von <rs ref="#pmb10844" type="person">Albert Bassermann</rs> aufgeführt wurde.</note> von »<rs ref="#pmb30207" type="work">Das weite Land</rs>« und »<rs ref="#pmb29985" type="work">der einsame Weg</rs>«, vielleicht auch ein neues <rs type="work" ref="#pmb30775" subtype="implied">Stück</rs> (in Versen). Ein paar <rs type="work" ref="#pmb30751 #pmb30851" subtype="implied">Novellen</rs> sind auch fertig. In <anchor xml:id="K_L02444_3" type="commentary"/><rs ref="#pmb182" type="place">Paris</rs><note xml:id="K_L02444_3h" type="commentary">Nicht realisiert, das Stück wurde erst <date>1931</date> gegeben.</note> wird vielleicht »<rs ref="#pmb30207" type="work">das weite Land</rs>« gespielt werden; und nach <rs ref="#pmb175" type="place">Amerika</rs> bin ich zur Premiere des »<rs ref="#pmb29985" type="work">einsamen Wegs</rs>« im <anchor xml:id="K_L02444_4" type="commentary"/><rs ref="#pmb44005" type="org">Guild Theater</rs><note xml:id="K_L02444_4h" type="commentary">Das <rs type="work" ref="#pmb29985" subtype="implied">Stück</rs> wurde erst <date>1931</date> auf den Spielplan genommen.</note> u. des »<rs ref="#pmb29905" type="work">Ruf des Lebens</rs>« am <anchor xml:id="K_L02444_5" type="commentary"/><rs ref="#pmb44003" type="org">Astor Theater</rs><note xml:id="K_L02444_5h" type="commentary">Produziert vom <rs ref="#pmb44003" type="org">Astor Theater</rs> wurde <rs ref="#pmb29905" type="work">The Call of Life</rs> im <rs ref="#pmb1141" type="place">Comedy Theatre</rs> am <date>9. 10. 1925</date> zum ersten Mal und in Folge 19 Mal gegeben. Die Bearbeitung stammte von <rs ref="#pmb5588" type="person">Dorothy Donnelli</rs>.</note> eingeladen (Ich werde aber kaum hinreisen.) –</p><p>– Ich lese immer noch, aufs stärkste angeregt, Ihren wunderbaren <rs ref="#pmb33376" type="work">Julius Caesar</rs>. Und erwarte Ihr »<rs ref="#pmb33392" type="work">Hellas</rs>«. –</p><p>Bleiben Sie mir weiter, und lange noch der Freund, der Sie mir immer waren; es ist schön zu wissen, daß Sie auf der Welt sind! Ich grüße Sie von Herzen!</p><closer>Ihr<lb/><signed>Arthur Schnitzler</signed></closer></div></body><back><listPerson><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb10992">
-                  <tei:persName>
-                     <tei:surname>Brandes</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
-                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
-                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
-                  </tei:death>
-                  <occupation code="278">Literarhistoriker*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb12692">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Heinrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1902-08-09">9. 8. 1902</tei:date>
-                     <tei:placeName ref="#pmb75">Hinterbrühl</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1982-07-12">12. 7. 1982</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="104">Regisseur*in</occupation>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2238">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Lili</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1909-09-13">13. 9. 1909</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1928-07-26">26. 7. 1928</tei:date>
-                     <tei:placeName ref="#pmb462">Venedig</tei:placeName>
-                  </tei:death>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2173">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Olga</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
-                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
-                  </tei:death>
-                  <occupation code="107">Sänger*in</occupation>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb5564">
-                  <tei:persName>
-                     <tei:surname>Bucharin</tei:surname>
-                     <tei:forename>Nikolaj Ivanovič</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1888-09-27">27. 9. 1888</tei:date>
-                     <tei:placeName ref="#pmb869">Moskau</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1938-03-15">15. 3. 1938</tei:date>
-                     <tei:placeName ref="#pmb869">Moskau</tei:placeName>
-                  </tei:death>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb10833">
-                  <tei:persName>
-                     <tei:surname>Barnowsky</tei:surname>
-                     <tei:forename>Victor</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1875-09-10">10. 9. 1875</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1952-08-09">9. 8. 1952</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="103">Theaterleiter*in</occupation>
-                  <occupation code="104">Regisseur*in</occupation>
-                  <occupation code="105">Schauspieler*in</occupation>
-                  <occupation code="346">Filmproduzent</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb10844">
-                  <tei:persName>
-                     <tei:surname>Bassermann</tei:surname>
-                     <tei:forename>Albert</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1867-09-07">7. 9. 1867</tei:date>
-                     <tei:placeName ref="#pmb881">Mannheim</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1952-05-15">15. 5. 1952</tei:date>
-                     <tei:placeName ref="#pmb10846">[Flugreise New York–Zürich]</tei:placeName>
-                  </tei:death>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb5588">
-                  <tei:persName>
-                     <tei:surname>Donnelly</tei:surname>
-                     <tei:forename>Dorothy</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1880-01-28">28. 1. 1880</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1928-01-03">3. 1. 1928</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb33410">
-                  <tei:author ref="pmb5564" role="author">
-                     <tei:surname>Bucharin</tei:surname>
-                     <tei:forename>Nikolaj Ivanovič</tei:forename>
-                  </tei:author>
-                  <tei:title>Das ABC des Kommunismus</tei:title>
-                  <tei:date from="1920-01-01" from-custom="1920">1920</tei:date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb33412">
-                  <tei:author ref="pmb5567" role="author">
-                     <tei:surname>Preobraženskij</tei:surname>
-                     <tei:forename>Evgenij A.</tei:forename>
-                  </tei:author>
-                  <tei:title>Das ABC des Kommunismus</tei:title>
-                  <tei:date from="1920-01-01" from-custom="1920">1920</tei:date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb30205">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Komödie der Verführung. In drei Akten</tei:title>
-                  <tei:date from="1924-01-01" from-custom="1924">1924</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>9218</tei:note>
-                  <tei:note>9219</tei:note>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb30207">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Das weite Land. Tragikomödie in fünf Akten</tei:title>
-                  <tei:date from="1911-01-01" from-custom="1911">1911</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb29985">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der einsame Weg. Schauspiel in fünf Akten</tei:title>
-                  <tei:date from="1904-01-01" from-custom="1904">1904</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>7001</tei:note>
-                  <tei:note>7002</tei:note>
-                  <tei:note>9863</tei:note>
-                  <tei:note>9864</tei:note>
-                  <tei:note>9865</tei:note>
-                  <tei:note>9866</tei:note>
-                  <tei:note>9867</tei:note>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb30775">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Gang zum Weiher. Dramatische Dichtung</tei:title>
-                  <tei:date from="1926-01-01" from-custom="1926">1926</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>5737</tei:note>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb30751">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Die Frau des Richters. Novelle</tei:title>
-                  <tei:date from="1925-08-07" from-custom="7.8.1925" to="1925-08-15" to-custom="15.8.1925">7. 8. 1925–15. 8. 1925</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-                  <tei:note>2952</tei:note>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb30851">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Traumnovelle</tei:title>
-                  <tei:date from="1925-12-01" from-custom="1.12.1925" to="1926-03-01" to-custom="1.3.1926">1. 12. 1925–1. 3. 1926</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-                  <tei:note>2958</tei:note>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb29905">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Ruf des Lebens. Schauspiel in drei Akten</tei:title>
-                  <tei:date from="1906-02-20" from-custom="1906-02-20">20. 2. 1906</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>5322</tei:note>
-                  <tei:note>8989</tei:note>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb33376">
-                  <tei:author ref="pmb10992" role="author">
-                     <tei:surname>Brandes</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:author>
-                  <tei:title>Gaius Julius Cæsar</tei:title>
-                  <tei:date from="1918-01-01" from-custom="1918">1918</tei:date>
-                  <tei:gloss type="w1156">Biografie</tei:gloss>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb33392">
-                  <tei:author ref="pmb10992" role="author">
-                     <tei:surname>Brandes</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:author>
-                  <tei:title>Hellas</tei:title>
-                  <tei:date from="1925-01-01" from-custom="1925">1925</tei:date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb36300">
-                  <tei:placeName>Kopenhagen</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb228">
-                  <tei:placeName>Baden-Baden</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.7606 8.23975</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb433">
-                  <tei:placeName>Sankt Petersburg</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">59.93863 30.31413</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb40260">
-                  <tei:placeName>Bozen</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1134">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">46.49067 11.33982</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb168">
-                  <tei:placeName>Berlin</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb20">
-                  <tei:placeName>Deutsches Volkstheater</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i4">Theater</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.205142 16.3566</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb182">
-                  <tei:placeName>Paris</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.85341 2.3488</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb175">
-                  <tei:placeName>Amerika</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i38">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">32.530833 -117.02</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb1141">
-                  <tei:placeName>Comedy Theatre</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i4">Theater</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">40.754372 -73.98532</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb44005">
-                  <tei:orgName>Guild Theatre</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1925-01-01" from-custom="1925">1925</tei:date>
-                     <tei:gloss ana="i1012">Theater</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb44053">
-                     <tei:placeName>New York City</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">40.71427 -74.00597</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb609">
-                     <tei:placeName>Guild Theatre</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">40.763308 -73.984214</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org><tei:org xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb44003">
-                  <tei:orgName>Astor Theatre</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1906-09-21" from-custom="21.9.1906" to="1925-01-01" to-custom="1925">21. 9. 1906–1925</tei:date>
-                     <tei:gloss ana="i1012">Theater</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb44053">
-                     <tei:placeName>New York City</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">40.71427 -74.00597</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2018-07-01">Angelegt</change>
+         <change who="MAM" when="2018-08-02">Durchsicht</change>
+         <change who="MAM" when="2018-10-01">Index check</change>
+         <change who="MAM" when="2020-04-09">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="Georg_Brandes_arkiv_224"/>
+                  <rs ref="#50" type="place">Wien</rs>, <date>7. Juli 1925</date>
+               </dateline>
+            </opener>
+            <p>
+               <salute>mein lieber und verehrter Freund, </salute>Sie haben mich während Ihres
+               diesmaligen Aufenthalts in <rs ref="#50" type="place">Wien</rs> »nicht heiter«
+               gefunden, – und so muß ich fast befürchten, daß Sie nicht ganz bemerkt haben, wie
+               glücklich mich Ihre Anwesenheit gemacht hat und wie froh ich war, daß Sie mir Ihre
+               Sympathie – eines der Geschenke, für die ich dem Schicksal besonders dankbar bin –
+               all die Jahre hindurch, die wir einander schon kennen, ungehindert erhalten haben.
+               Darf ich Ihnen heute in diesen Zeilen zum Ausdruck bringen, was von Angesicht zu
+               Angesicht auszusprechen, was in meinem Betragen zu verdeutlichen ich, mehr meinem
+               ganzen Wesen nach, als aus vorübergehenden Sti<c rendition="#gemination-m"/>ungen
+               heraus, nicht so recht im Stande war und bin? Es ist richtig, (und es bewegt mich
+               sehr, daſs Sie es empfunden haben, we<c rendition="#gemination-n"/> es mir auch ein
+               bischen leid thut), daſs ich <pb facs="Georg_Brandes_arkiv_225"/>zuweilen ein wenig
+               melancholisch bin, oder doch bedrückt. Hauptanlaß wohl mein Ohrenleiden, an dem nicht
+               nur die langsam aber sicher zunehmende Schwerhörigkeit, sondern, mehr noch, die
+               ununterbrochenen subjectiven Geräusche, ein Klingen, ein Sausen, und ein <del
+                  rend="strikethrough">
+                  <unclear>nicht</unclear>
+               </del> stetes Vogelzwitschern (das sich bis zu einem mäßigen Papageiengekreisch
+               verstärken kann) recht quälend sind. Und, sonderbar genug, es gibt doch Stunden, ja
+               Tage, an denen mir diese Geräusche, – so continuirlich sie i<c
+                  rendition="#gemination-m"/>er (seit bald dreißig Jahren!) kaum zu Bewußtsein ko<c
+                  rendition="#gemination-m"/>en. Im ganzen verläuft ja die Sache etwas langsamer,
+               als ich zu Beginn der Erkrankung gefürchtet habe – man gewöhnts auch allmälig <anchor
+                  xml:id="T_L02444_1" type="textConst"/>(<note xml:id="T_L02444_1h" type="textConst"
+                  >öffnende Klammer am Zeilenende gestrichen und in der neuen Zeile erneut
+                  ausgeführt</note>zu mindesten manchmal) aber es ist doch schli<c
+                  rendition="#gemination-m"/>, daſs mir insbesondere der Theaterbesuch schon
+               ziemlich vergällt ist und auch bei musikalischen Genüssen viel, sehr viel entgeht.
+               Und schli<c rendition="#gemination-m"/>, <pb facs="Georg_Brandes_arkiv_226"/>daß es
+               eine eigentliche »Stille« für mich längst nicht mehr gibt. Glücklicherweise werd ich
+               im Schlafen nicht gestört, – wenn auch diese Geräusche auf mancherlei, oft ganz
+               phantastische Art sich in meine Träume drängen.</p>
+            <p>Auch meine persönliche Existenz ist ja nicht ganz einfach, wie Sie wissen; aber es
+               würde zu weit führen, da in Einzelheiten einzugehen; – an Conflicten seelischer Art
+               mangelt es ja in diesen Grenzjahren (es ist vielleicht kühn, mit 63 noch von
+               Grenzjahren zu reden, aber gerade Sie werden mich verstehen) nie.</p>
+            <p>Dabei fühl ich doch, daſs ich im Grunde nicht klagen dürfte (ich thu’s auch
+               selten), – besonders darum weil meine beiden <rs type="person" ref="#12692 #2238"
+                  subtype="implied">Kinder</rs> sehr wohl gerathen sind (auch steh ich jetzt mit
+               meiner früheren <rs type="person" ref="#2173" subtype="implied">Gattin</rs>, die in
+                  <rs ref="#228" type="place">Baden-Baden</rs> lebt, in sehr freundschaftlichen,
+               natürlich nicht immer unge<pb facs="Georg_Brandes_arkiv_227"/>trübten Beziehungen),
+               und ferner weil ich mich in meiner Schaffenslust eher noch wachsen als abnehmen
+               fühle. Auch an äußeren Erfolgen fehlt es nicht; und nach einer Periode, die sich ein
+               wenig bedenklich anließ, glaub ich auch materiell – ach nicht durch das Vorhandensein
+               eines Vermögens – wer besitzt de<c rendition="#gemination-n"/> jetzt etwas!, – aber
+               durch das Ansteigen meiner Einnahmen, – mit Ruhe in die Zukunft blicken zu dürfen.
+               Und blasirt bin ich ja nicht – mir macht eigentlich alles mehr Freude als es mir in
+               meiner Jugend gemacht hat, – jede Blume, jeder Spaziergang, jedes schöne Buch und
+               Herzlichkeit mancher Art, die mir entgegengebracht wird. »So wollen wirs de<c
+                  rendition="#gemination-n"/> noch eine Weile weiter treiben« wie ein sehr Großer
+               gesagt haben kö<c rendition="#gemination-n"/>te und wahrscheinlich irgendwo gesagt
+               hat – und Sie sollen wissen, liebster Freund, daſs ich, we<c
+                  rendition="#gemination-n"/> auch gelegentlich ein wenig verdüstert, <pb
+                  facs="Georg_Brandes_arkiv_228"/>mich gar nicht übel befinde; – und hoffentlich
+               mach ich auch Ihnen einen vergnügtem Eindruck, we<c rendition="#gemination-n"/> wir
+               uns wiedersehen.</p>
+            <p>Wie gut begreife ich, daſs Sie nicht nach »<rs ref="#433" type="place"
+               >Leningrad</rs>« gehen wollen – auch ich, (selbst we<c rendition="#gemination-n"/>
+               ich dort nicht reden müßte,) hätte nicht die geringste Lust dazu. Kennen Sie das <add
+                  place="above">(kleine)</add>
+               <space unit="chars" quantity="1"/>
+               <rs type="work" ref="#33410 #33412" subtype="implied">Buch</rs> von <rs ref="#5564"
+                  type="person">Bucharin</rs> über den Bolschewismus? Wenn die deutsche Übersetzung
+               nicht <anchor xml:id="T_L02444_2" type="textConst"/>etwa<note xml:id="T_L02444_2h"
+                  type="textConst">unsicher zu lesen; wohl zur Verdeutlichung gestrichen und über
+                  der Zeile wiederholt</note> zu dem Zwecke gefälscht ist, um die Idee – (die
+               Idee!!) des Bolschewismus zu compromittieren, da<c rendition="#gemination-n"/> hat es
+                  <rs ref="#5564" type="person">Bucharin</rs> selbst in unübertrefflicher Weise
+               gethan. –</p>
+            <p>Ihren Brief hab ich in <rs ref="#40260" type="place">Bozen</rs> erhalten, (<rs
+                  ref="#40260" type="place">Bolzano</rs>) von wo ich erst vor ein paar Tagen nach
+                  <rs ref="#50" type="place">Wien</rs> zurückgekehrt bin. Ich bleibe nur den
+                  <date>Juli</date> über hier, und fahre im <date>August</date> wahrscheinlich
+               wieder in die <geogName type="mountains">Dolomiten</geogName>. Für den Herbst steht
+               mir allerlei bevor: in <pb facs="Georg_Brandes_arkiv_229"/>
+               <anchor xml:id="K_L02444_1" type="commentary"/>
+               <rs ref="#168" type="place">Berlin</rs>
+               <note xml:id="K_L02444_1h" type="commentary">Die geplante Inszenierung von <rs
+                     ref="#10833" type="person">Victor Barnowsky</rs> wird nicht realisiert
+                     (<bibl>Vgl. <title level="m">Briefe</title> II, 468</bibl>).</note> die
+               Aufführung der <rs ref="#30205" type="work">Komödie der Verführung</rs>, – in <anchor
+                  xml:id="K_L02444_2" type="commentary"/>
+               <rs ref="#50" type="place">Wien</rs> Reprisen<note xml:id="K_L02444_2h"
+                  type="commentary">
+                  <rs ref="#30207" type="work">Das weite Land</rs> wurde ab <date>4. 9. 1925</date>
+                  am <rs ref="#20" type="place">Deutschen Volkstheater</rs> gegeben, wo auch <rs
+                     ref="#29985" type="work">Der einsame Weg</rs> am <date>14. 11. 1925</date> im
+                  Zuge eines Gastspiels von <rs ref="#10844" type="person">Albert Bassermann</rs>
+                  aufgeführt wurde.</note> von »<rs ref="#30207" type="work">Das weite Land</rs>«
+               und »<rs ref="#29985" type="work">der einsame Weg</rs>«, vielleicht auch ein neues
+                  <rs type="work" ref="#30775" subtype="implied">Stück</rs> (in Versen). Ein paar
+                  <rs type="work" ref="#30751 #30851" subtype="implied">Novellen</rs> sind auch
+               fertig. In <anchor xml:id="K_L02444_3" type="commentary"/>
+               <rs ref="#182" type="place">Paris</rs>
+               <note xml:id="K_L02444_3h" type="commentary">Nicht realisiert, das Stück wurde erst
+                     <date>1931</date> gegeben.</note> wird vielleicht »<rs ref="#30207" type="work"
+                  >das weite Land</rs>« gespielt werden; und nach <rs ref="#175" type="place"
+                  >Amerika</rs> bin ich zur Premiere des »<rs ref="#29985" type="work">einsamen
+                  Wegs</rs>« im <anchor xml:id="K_L02444_4" type="commentary"/>
+               <rs ref="#44005" type="org">Guild Theater</rs>
+               <note xml:id="K_L02444_4h" type="commentary">Das <rs type="work" ref="#29985"
+                     subtype="implied">Stück</rs> wurde erst <date>1931</date> auf den Spielplan
+                  genommen.</note> u. des »<rs ref="#29905" type="work">Ruf des Lebens</rs>« am
+                  <anchor xml:id="K_L02444_5" type="commentary"/>
+               <rs ref="#44003" type="org">Astor Theater</rs>
+               <note xml:id="K_L02444_5h" type="commentary">Produziert vom <rs ref="#44003"
+                     type="org">Astor Theater</rs> wurde <rs ref="#29905" type="work">The Call of
+                     Life</rs> im <rs ref="#1141" type="place">Comedy Theatre</rs> am
+                     <date>9. 10. 1925</date> zum ersten Mal und in Folge 19 Mal gegeben. Die
+                  Bearbeitung stammte von <rs ref="#5588" type="person">Dorothy
+                  Donnelli</rs>.</note> eingeladen (Ich werde aber kaum hinreisen.) –</p>
+            <p>– Ich lese immer noch, aufs stärkste angeregt, Ihren wunderbaren <rs ref="#33376"
+                  type="work">Julius Caesar</rs>. Und erwarte Ihr »<rs ref="#33392" type="work"
+                  >Hellas</rs>«. –</p>
+            <p>Bleiben Sie mir weiter, und lange noch der Freund, der Sie mir immer waren; es ist
+               schön zu wissen, daß Sie auf der Welt sind! Ich grüße Sie von Herzen!</p>
+            <closer>Ihr<lb/>
+               <signed>Arthur Schnitzler</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

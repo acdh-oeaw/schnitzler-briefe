@@ -1,307 +1,201 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00499" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Friedrich M. Fels an Arthur Schnitzler, 4. 10. 1895</title><author ref="#pmb2450">Fels, Friedrich M.</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00499</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00499"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Friedrich M. Fels an Arthur Schnitzler, 4. 10. 1895</title>
+            <author ref="#2450">Fels, Friedrich M.</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00499</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, HS.NZ85.1.2956</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift nummeriert: »<quote>26</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2450">Fels, Friedrich M.</persName><placeName ref="#pmb484">Zürich</placeName><date when="1895-10-04" n="03">4. 10. 1895</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb2450">Fels, Friedrich M.</ref><ref subtype="previous_letter" type="withinCollection" target="L00498">Bahr an Schnitzler, [4. 10. 1895]</ref><ref subtype="next_letter" type="withinCollection" target="L00500">David an Schnitzler, [5. 10. 1895]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00495">Fels an Schnitzler, 28. 9. 1895</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00506">Fels, Nordegg an Schnitzler, 15. 10. 1895</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>D</country>
+                        <settlement>Marbach am Neckar</settlement>
+                        <repository>Deutsches Literaturarchiv</repository>
+                        <idno>A:Schnitzler, HS.NZ85.1.2956</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="brief"/>
+                           <desc n="1" type="_blaetter"/>
+                           <desc n="3" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift nummeriert: »<quote>26</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2450">Fels, Friedrich M.</persName>
+               <placeName ref="#484">Zürich</placeName>
+               <date when="1895-10-04" n="03">4. 10. 1895</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#2450">Fels, Friedrich M.</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00498">Bahr an Schnitzler, [4. 10. 1895]</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00500">David an Schnitzler, [5. 10. 1895]</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00495">Fels an Schnitzler, 28. 9. 1895</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00506">Fels, Nordegg an Schnitzler, 15. 10. 1895</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-10-22">Angelegt</change><change who="MAM" when="2019-12-27">Index check</change><change who="GHS" when="2019-12-24">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.2956_0039"/><graphic url="HS.NZ85.1.2956_0040"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="HS.NZ85.1.2956_0039"/><rs ref="#pmb42505" type="place">Zürich I, Schifflände 30</rs>, III. Stock<lb/>am <date>4. Oktober 1895</date></dateline><salute rend="center">Lieber Doktor Schnitzler!</salute></opener><p>Wie Sie aus der Datierung ersehen, bin ich, dank Ihrer und <rs ref="#pmb10863" type="person">Beer-Hofma<c rendition="#gemination-n"/></rs>s Hilfe, wieder im Besitze einer eigenen Wohnung. Ich danke Ihnen herzlich. Ich wohne jetzt bei einer beka<c rendition="#gemination-n"/>ten <rs type="person" subtype="implied" ref="#pmb43168 #pmb43169">Familie</rs>, zusa<c rendition="#gemination-m"/>en mit einem <rs type="person" ref="#pmb42528" subtype="implied">Freunde</rs>, einem alten Herrn, <rs ref="#pmb50" type="place">Wien</rs>er, Schwager von <rs ref="#pmb42521" type="person">Dreher</rs> in <rs ref="#pmb42535" type="place">Schwechat</rs>, der früher lange Jahre in <rs ref="#pmb175" type="place">Amerika</rs> und <rs ref="#pmb151" type="place">Deutschland</rs> ein gro<c rendition="#langesS">s</c>ser Fabrikant war, da<c rendition="#gemination-n"/> fallierte und nun in seinen alten Tagen als Reisender eines Papiergeschäfts mühsam sein Leben fristet. Wir haben zusa<c rendition="#gemination-m"/>en ein gro<c rendition="#langesS">s</c>ses Wohnzi<c rendition="#gemination-m"/>er, ein Kabinet und einen Alkoven, wofür wir 50 francs zahlen – gewi<c rendition="#langesS">s</c>s billig. Na, der Teufel wird schon weiterhelfen.</p><p>Ich hätte noch eine Bitte. Wären Sie so freundlich, bei <rs ref="#pmb10863" type="person">Beer-Hofma<c rendition="#gemination-n"/></rs> nachzufragen, ob er vielleicht wieder einen <pb facs="HS.NZ85.1.2956_0040"/>alten Anzug hat; das Porto ka<c rendition="#gemination-n"/> ja nicht viel kosten. Und ich bin absolut au<c rendition="#langesS">s</c>serstande, mir selbst einen beizubringen. Seien Sie nicht böse, und besten Dank im vorhinein.</p><p>Ich schreibe wirklich einen <rs type="work" ref="#pmb42538" subtype="implied">Aufsatz</rs> für <rs ref="#pmb13088" type="person">Wengraf</rs> und <rs ref="#pmb2509" type="person">Osten</rs> und werde da<c rendition="#gemination-n"/><space unit="chars" quantity="1"/><anchor xml:id="K_L00499_1" type="commentary"/>einen<note xml:id="K_L00499_1h" type="commentary">nicht nachgewiesen</note> für die <rs ref="#pmb41189" type="work">Pre<c rendition="#langesS">s</c>se</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>chreiben. Apropos <rs ref="#pmb29270" type="org">Pre<c rendition="#langesS">s</c>se</rs>: Dr. <rs ref="#pmb11707" type="person">Hirschfeld</rs> mu<c rendition="#langesS">s</c>s ja jetzt wieder in <rs ref="#pmb50" type="place">Wien</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>ein, und Sie kö<c rendition="#gemination-n"/>ten vielleicht bei Gelegenheit mit ihm sprechen, ob es sich nicht machen lie<c rendition="#langesS">s</c>se, da<c rendition="#langesS">s</c>s ich für das Blatt die <rs ref="#pmb43435" type="place">Schweiz</rs>er Korrespondenz, auch über Politik und Volkswirtschaft, übernähme. Ich haben bego<c rendition="#gemination-n"/>en, mich in die Verhältni<c rendition="#langesS">s</c>se einzuleben, und glaube, da<c rendition="#langesS">s</c>s ich genügen würde.</p><p>Da<c rendition="#langesS">s</c>s <rs ref="#pmb12152" type="person">Mackay</rs> Ihnen gefallen hat, freut mich. Auch ich habe ihn gern. Er hat, bei viel Schlauheit und einiger Reserviertheit, viele liebenswürdige Seiten, vor allem eine sehr angenehme Naivetät. Naiv ist zwar auch <rs ref="#pmb7784" type="person">Henckell</rs>, dabei aber entsetzlich langweilig und geistlos. Sie haben mich einen Antisemiten gena<c rendition="#gemination-n"/>t, aber – mit Ariern verkehrt es sich wirklich zu schwer.</p><p><pb facs="HS.NZ85.1.2956_0040"/>Nehmen Sie mir meine neue Bitte nicht übel, grüßen Sie <rs ref="#pmb10863" type="person">Beer-Hofma<c rendition="#gemination-n"/></rs>, <rs ref="#pmb11740" type="person">Loris</rs>, <rs ref="#pmb11707" type="person">Hirschfeld</rs> etc von mir und seien Sie selbst herzlichst gegrüßt</p><closer>von<lb/>Ihrem<lb/><signed>Fels</signed></closer><postscript><p>Was sagen Sie zu <rs ref="#pmb12152" type="person">Mackay</rs>s neuestem <rs type="work" subtype="implied" ref="#pmb43133">Buch</rs>? Erscheint bald wieder etwas von Ihnen? Wie stehts mit der <rs type="work" ref="#pmb29917" subtype="implied">Aufführung</rs>? <rs type="work" subtype="implied" ref="#pmb31905"><rs type="person" ref="#pmb2416">David</rs></rs> ko<c rendition="#gemination-m"/>t also am <date>12.</date> daran; ich bin begierig.</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb2450">
-                  <tei:persName>
-                     <tei:surname>Fels</tei:surname>
-                     <tei:forename>Friedrich M.</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1864-07-01">1864</tei:date>
-                     <tei:placeName ref="#pmb41882">Bad Dürkheim</tei:placeName>
-                  </tei:birth>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb43168">
-                  <tei:persName>
-                     <tei:surname>Ott</tei:surname>
-                     <tei:forename>Julius</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1850-07-02">1850</tei:date>
-                     <tei:placeName ref="#pmb43174">Pfäffikon</tei:placeName>
-                  </tei:birth>
-                  <occupation code="691">Bankangestellte/r</occupation>
-               </tei:person><tei:person xml:id="pmb43169">
-                  <tei:persName>
-                     <tei:surname>Ott</tei:surname>
-                     <tei:forename>Anna Elisabetha</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1861-07-02">1861</tei:date>
-                     <tei:placeName ref="#pmb34339">Fällanden</tei:placeName>
-                  </tei:birth>
-               </tei:person><tei:person xml:id="pmb42528">
-                  <tei:persName>
-                     <tei:surname>Meichl</tei:surname>
-                     <tei:forename/>
-                  </tei:persName>
-                  <occupation code="152">Industrielle/r</occupation>
-                  <occupation code="1391">Handlungsreisende*r</occupation>
-               </tei:person><tei:person xml:id="pmb42521">
-                  <tei:persName>
-                     <tei:surname>Dreher</tei:surname>
-                     <tei:forename>Carl Anton</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1849-03-21">21. 3. 1849</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1921-08-07">7. 8. 1921</tei:date>
-                     <tei:placeName ref="#pmb42535">Schwechat</tei:placeName>
-                  </tei:death>
-                  <occupation code="1390">Bierbrauer*in</occupation>
-               </tei:person><tei:person xml:id="pmb13088">
-                  <tei:persName>
-                     <tei:surname>Wengraf</tei:surname>
-                     <tei:forename>Edmund</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1860-01-09">9. 1. 1860</tei:date>
-                     <tei:placeName ref="#pmb40412">Mikulov</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1933-12-08">8. 12. 1933</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb2509">
-                  <tei:persName>
-                     <tei:surname>Osten</tei:surname>
-                     <tei:forename>Heinrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1855-08-16">16. 8. 1855</tei:date>
-                     <tei:placeName ref="#pmb53820">Brody</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-08-01">1. 8. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb11707">
-                  <tei:persName>
-                     <tei:surname>Hirschfeld</tei:surname>
-                     <tei:forename>Robert</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1857-09-17">17. 9. 1857</tei:date>
-                     <tei:placeName ref="#pmb39803">Žďár nad Sázavou</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1914-04-02">2. 4. 1914</tei:date>
-                     <tei:placeName ref="#pmb30">Salzburg</tei:placeName>
-                  </tei:death>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="201">Musikkritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb12152">
-                  <tei:persName>
-                     <tei:surname>Mackay</tei:surname>
-                     <tei:forename>John Henry</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1864-02-06">6. 2. 1864</tei:date>
-                     <tei:placeName ref="#pmb12153">Greenock</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1933-05-21">21. 5. 1933</tei:date>
-                     <tei:placeName ref="#pmb9925">Charlottenburg</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb7784">
-                  <tei:persName>
-                     <tei:surname>Henckell</tei:surname>
-                     <tei:forename>Karl Friedrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1864-04-17">17. 4. 1864</tei:date>
-                     <tei:placeName ref="#pmb890">Hannover</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-30">30. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb986">Lindau</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2416">
-                  <tei:persName>
-                     <tei:surname>David</tei:surname>
-                     <tei:forename>Jakob Julius</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1859-02-06">6. 2. 1859</tei:date>
-                     <tei:placeName ref="#pmb41886">Hranice</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1906-11-20">20. 11. 1906</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb42538">
-                  <tei:author ref="pmb2450" role="author">
-                     <tei:surname>Fels</tei:surname>
-                     <tei:forename>Friedrich M.</tei:forename>
-                  </tei:author>
-                  <tei:title>Die Volkslieder der Bulgaren</tei:title>
-                  <tei:date when="1895-12-11" when-custom="11.12.1895">11. 12. 1895</tei:date>
-                  <tei:gloss type="w1154">Aufsatz</tei:gloss>
-                  <tei:note>6038</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb41189">
-                  <tei:title>Die Presse</tei:title>
-                  <tei:date from="1848-07-03" from-custom="3.7.1848">3. 7. 1848</tei:date>
-                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
-                  <tei:note>5682</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb43133">
-                  <tei:author ref="pmb12152" role="author">
-                     <tei:surname>Mackay</tei:surname>
-                     <tei:forename>John Henry</tei:forename>
-                  </tei:author>
-                  <tei:title>Albert Schnell’s Untergang. Eine Geschichte ohne Handlung</tei:title>
-                  <tei:date when="1895-07-02" when-custom="1895">1895</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29917">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Liebelei. Schauspiel in drei Akten</tei:title>
-                  <tei:date from="1895-10-09" from-custom="9.10.1895">9. 10. 1895</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb31905">
-                  <tei:author ref="pmb2416" role="author">
-                     <tei:surname>David</tei:surname>
-                     <tei:forename>Jakob Julius</tei:forename>
-                  </tei:author>
-                  <tei:title>Ein Regentag</tei:title>
-                  <tei:date when="1895-10-12" when-custom="12.10.1895">12. 10. 1895</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb484">
-                  <tei:placeName>Zürich</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.37174 8.54226</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb42505">
-                  <tei:placeName>Schifflände</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.36834 8.5449</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb42535">
-                  <tei:placeName>Schwechat</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1128">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.13333 16.46667</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb175">
-                  <tei:placeName>Amerika</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i38">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">32.530833 -117.02</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb151">
-                  <tei:placeName>Deutschland</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i38">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">51.5 10.5</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb43435">
-                  <tei:placeName>Schweiz</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1411">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.00016 8.01427</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29270">
-                  <tei:orgName>Die Presse</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-10-22">Angelegt</change>
+         <change who="MAM" when="2019-12-27">Index check</change>
+         <change who="GHS" when="2019-12-24">finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="HS.NZ85.1.2956_0039"/>
+      <graphic url="HS.NZ85.1.2956_0040"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="HS.NZ85.1.2956_0039"/>
+                  <rs ref="#42505" type="place">Zürich I, Schifflände 30</rs>,
+                        III. Stock<lb/>am <date>4. Oktober 1895</date>
+               </dateline>
+               <salute rend="center">Lieber Doktor Schnitzler!</salute>
+            </opener>
+            <p>Wie Sie aus der Datierung ersehen, bin ich, dank Ihrer und <rs ref="#10863" type="person">Beer-Hofma<c rendition="#gemination-n"/>
+               </rs>s Hilfe, wieder im Besitze einer eigenen Wohnung. Ich danke Ihnen herzlich.
+                    Ich wohne jetzt bei einer beka<c rendition="#gemination-n"/>ten <rs type="person" subtype="implied" ref="#43168 #43169">Familie</rs>, zusa<c rendition="#gemination-m"/>en mit einem <rs type="person" ref="#42528" subtype="implied">Freunde</rs>, einem alten Herrn, <rs ref="#50" type="place">Wien</rs>er, Schwager von <rs ref="#42521" type="person">Dreher</rs> in <rs ref="#42535" type="place">Schwechat</rs>, der früher
+                    lange Jahre in <rs ref="#175" type="place">Amerika</rs> und <rs ref="#151" type="place">Deutschland</rs> ein groſser Fabrikant war, da<c rendition="#gemination-n"/> fallierte und nun in seinen alten Tagen als
+                    Reisender eines Papiergeschäfts mühsam sein Leben fristet. Wir haben zusa<c rendition="#gemination-m"/>en ein groſses Wohnzi<c rendition="#gemination-m"/>er, ein Kabinet und einen Alkoven, wofür wir 50 francs zahlen – gewiſs billig.
+                    Na, der Teufel wird schon weiterhelfen.</p>
+            <p>Ich hätte noch eine Bitte. Wären Sie so freundlich, bei <rs ref="#10863" type="person">Beer-Hofma<c rendition="#gemination-n"/>
+               </rs> nachzufragen, ob er vielleicht wieder einen <pb facs="HS.NZ85.1.2956_0040"/>alten Anzug hat; das Porto ka<c rendition="#gemination-n"/> ja nicht viel kosten. Und ich bin absolut
+                    auſserstande, mir selbst einen beizubringen. Seien Sie nicht böse, und besten
+                    Dank im vorhinein.</p>
+            <p>Ich schreibe wirklich einen <rs type="work" ref="#42538" subtype="implied">Aufsatz</rs> für <rs ref="#13088" type="person">Wengraf</rs> und <rs ref="#2509" type="person">Osten</rs> und werde da<c rendition="#gemination-n"/>
+               <space unit="chars" quantity="1"/>
+               <anchor xml:id="K_L00499_1" type="commentary"/>einen<note xml:id="K_L00499_1h" type="commentary">nicht nachgewiesen</note> für die <rs ref="#41189" type="work">Preſse</rs>
+               <space unit="chars" quantity="1"/>ſchreiben. Apropos <rs ref="#29270" type="org">Preſse</rs>: Dr. <rs ref="#11707" type="person">Hirschfeld</rs> muſs ja
+                    jetzt wieder in <rs ref="#50" type="place">Wien</rs>
+               <space unit="chars" quantity="1"/>ſein, und Sie kö<c rendition="#gemination-n"/>ten vielleicht bei Gelegenheit mit ihm sprechen, ob es sich nicht machen
+                    lieſse, daſs ich für das Blatt die <rs ref="#43435" type="place">Schweiz</rs>er
+                    Korrespondenz, auch über Politik und Volkswirtschaft, übernähme. Ich haben
+                        bego<c rendition="#gemination-n"/>en, mich in die Verhältniſse einzuleben,
+                    und glaube, daſs ich genügen würde.</p>
+            <p>Daſs <rs ref="#12152" type="person">Mackay</rs> Ihnen gefallen hat, freut mich.
+                    Auch ich habe ihn gern. Er hat, bei viel Schlauheit und einiger Reserviertheit,
+                    viele liebenswürdige Seiten, vor allem eine sehr angenehme Naivetät. Naiv ist
+                    zwar auch <rs ref="#7784" type="person">Henckell</rs>, dabei aber entsetzlich
+                    langweilig und geistlos. Sie haben mich einen Antisemiten gena<c rendition="#gemination-n"/>t, aber – mit Ariern verkehrt es sich wirklich zu
+                    schwer.</p>
+            <p>
+               <pb facs="HS.NZ85.1.2956_0040"/>Nehmen Sie mir meine neue Bitte nicht
+                    übel, grüßen Sie <rs ref="#10863" type="person">Beer-Hofma<c rendition="#gemination-n"/>
+               </rs>, <rs ref="#11740" type="person">Loris</rs>, <rs ref="#11707" type="person">Hirschfeld</rs> etc von mir und seien Sie selbst herzlichst gegrüßt</p>
+            <closer>von<lb/>Ihrem<lb/>
+               <signed>Fels</signed>
+            </closer>
+            <postscript>
+               <p>Was sagen Sie zu <rs ref="#12152" type="person">Mackay</rs>s neuestem <rs type="work" subtype="implied" ref="#43133">Buch</rs>? Erscheint bald
+                        wieder etwas von Ihnen? Wie stehts mit der <rs type="work" ref="#29917" subtype="implied">Aufführung</rs>? <rs type="work" subtype="implied" ref="#31905">
+                     <rs type="person" ref="#2416">David</rs>
+                  </rs> ko<c rendition="#gemination-m"/>t also am <date>12.</date> daran; ich
+                        bin begierig.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,139 +1,216 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L01502" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 26. 2. 1905</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01502</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="L01502"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 26. 2. 1905</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L01502</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="kartenbrief"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb50">Wien 68</placeName><date>26. 2. 05</date><time>5–6N</time></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb173">Rodaun</placeName><date>27. 2. <unclear>05</unclear></date><time>7–9V</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1905-02-26" n="01">26. 2. 1905</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb173">Rodaun</placeName><date when="1905-02-27">27. 2. 1905</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01501">Hofmannsthal an Schnitzler, 16. 2. 1905</ref><ref subtype="next_letter" type="withinCollection" target="L01503">Bahr an Schnitzler, [1.?] 3. 1905</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01500">Beer-Hofmann an Schnitzler, 10. 2. 1905</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01504">Schnitzler an Beer-Hofmann, 4. 3. 1905</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>U.S.A.</country>
+                        <settlement>Yale</settlement>
+                        <repository>Beinecke Rare Book and Manuscript Library</repository>
+                        <idno>Yale Collection of German Literature, MSS 31</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="kartenbrief"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="1">
+                                    <placeName ref="#50">Wien 68</placeName>
+                                    <date>26. 2. 05</date>
+                                    <time>5–6N</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="2">
+                                    <placeName ref="#173">Rodaun</placeName>
+                                    <date>27. 2. <unclear>05</unclear>
+                                    </date>
+                                    <time>7–9V</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1905-02-26" n="01">26. 2. 1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#10863">Beer-Hofmann, Richard</persName>
+               <placeName ref="#173">Rodaun</placeName>
+               <date when="1905-02-27">27. 2. 1905</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01501">Hofmannsthal an Schnitzler, 16. 2. 1905</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01503">Bahr an Schnitzler, [1.?] 3. 1905</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L01500">Beer-Hofmann an Schnitzler, 10. 2. 1905</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01504">Schnitzler an Beer-Hofmann, 4. 3. 1905</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2021-01-12">Angelegt</change><change who="MAM" when="2021-02-11">Index check</change><change who="MAM" when="2021-03-17">Durchsicht</change><change who="GHS" when="2021-04-29">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="1905_AS_RBH_1_00008"/><graphic url="1905_AS_RBH_1_00009"/></facsimile><text type="letter-card"><body><div type="address"><address><addrLine><pb facs="1905_AS_RBH_1_00008"/>Herrn <hi rend="latintype">Dr. Richard Beer-Hofmann</hi></addrLine><addrLine><hi rend="latintype"><rs type="place" ref="#pmb173">Rodaun</rs></hi></addrLine><addrLine><rs ref="#pmb40101" type="place"><hi rend="latintype">Liesinger Straße 2</hi></rs>. </addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="1905_AS_RBH_1_00009"/><date>So<c rendition="#gemination-n"/>tag 26. 2. 905</date>.</dateline></opener><p><salute>lieber Richard, </salute>ich rei<c rendition="#langesS">s</c>e am <anchor xml:id="K_L01502_1" type="commentary"/><date>Freitag 3.</date><space unit="chars" quantity="1"/><note xml:id="K_L01502_1h" type="commentary"><ref target="1905-03-03" subtype="see" type="schnitzlerDiary"/></note> <rs type="place" ref="#pmb994">Genua</rs> zu <rs type="place" ref="#pmb41016">Mittelmeer</rs>zwecken; und, unter gün<c rendition="#langesS">s</c>tigen Um<c rendition="#langesS">s</c>tänden bin ich er<c rendition="#langesS">s</c>t <anchor xml:id="K_L01502_2" type="commentary"/>gegen den <date>20.</date><note xml:id="K_L01502_2h" type="commentary"><ref target="1905-03-18" subtype="cf" type="schnitzlerDiary"/></note> wieder hier<subst><del rend="strikethrough">?</del><add place="inline">.</add></subst></p><p>Könnte man<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich nicht vorher doch einmal<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehen? Den <rs type="person" ref="#pmb2292 #pmb11740">Hugo’s</rs> hab ich für <anchor xml:id="K_L01502_3" type="commentary"/><date>Mittwoch</date><note xml:id="K_L01502_3h" type="commentary">Das Treffen fand, ohne das Ehepaar <rs type="person" ref="#pmb2292 #pmb11740">Hofmannsthal</rs>, am Donnerstag statt; <ref target="1905-03-02" subtype="see" type="schnitzlerDiary"/></note><space unit="chars" quantity="1"/><time>Abend</time>, <rs type="place" ref="#pmb304">Hietzing</rs> ge<c rendition="#langesS">s</c>chrieben; kommen Sie etwa auch mit <rs type="person" ref="#pmb10860">Paula</rs>? Oder wollen Sie nicht endlich einmal bei uns e<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en?</p><p>La<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en Sie jedenfalls ein Wort hören.</p><closer>Herzlich<c rendition="#langesS">s</c>t Ihr<lb/><signed>A.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2292">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Gertrude von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1880-03-16">16. 3. 1880</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1959-11-09">9. 11. 1959</tei:date>
-                     <tei:placeName ref="#pmb46885">Paddington</tei:placeName>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb10860">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Paula</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1879-02-25">25. 2. 1879</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-10-30">30. 10. 1939</tei:date>
-                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
-                  </tei:death>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb173">
-                  <tei:placeName>Rodaun</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb40101">
-                  <tei:placeName>Liesingerstraße</tei:placeName>
-                  <tei:desc>
-                     <tei:date to="1957-07-02" to-custom="1957-07-02">2. 7. 1957</tei:date>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.1332 16.25864</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb994">
-                  <tei:placeName>Genua</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">44.40478 8.94439</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb41016">
-                  <tei:placeName>Mittelmeer</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i65">Meer</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">35.0 18.0</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb304">
-                  <tei:placeName>Ottakringer Bräu</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i7">Bierhaus</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.18636 16.30202</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2021-01-12">Angelegt</change>
+         <change who="MAM" when="2021-02-11">Index check</change>
+         <change who="MAM" when="2021-03-17">Durchsicht</change>
+         <change who="GHS" when="2021-04-29">Finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="1905_AS_RBH_1_00008"/>
+      <graphic url="1905_AS_RBH_1_00009"/>
+   </facsimile>
+   <text type="letter-card">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="1905_AS_RBH_1_00008"/>Herrn <hi rend="latintype">Dr. Richard
+                     Beer-Hofmann</hi>
+               </addrLine>
+               <addrLine>
+                  <hi rend="latintype">
+                     <rs type="place" ref="#173">Rodaun</rs>
+                  </hi>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#40101" type="place">
+                     <hi rend="latintype">Liesinger Straße 2</hi>
+                  </rs>. </addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="1905_AS_RBH_1_00009"/>
+                  <date>So<c rendition="#gemination-n"/>tag 26. 2. 905</date>.</dateline>
+            </opener>
+            <p>
+               <salute>lieber Richard, </salute>ich reiſe am <anchor xml:id="K_L01502_1" type="commentary"/>
+               <date>Freitag 3.</date>
+               <space unit="chars" quantity="1"/>
+               <note xml:id="K_L01502_1h" type="commentary">
+                  <ref target="1905-03-03" subtype="see" type="schnitzlerDiary"/>
+               </note> <rs type="place" ref="#994">Genua</rs> zu <rs type="place" ref="#41016">Mittelmeer</rs>zwecken; und, unter günſtigen Umſtänden bin ich erſt <anchor xml:id="K_L01502_2" type="commentary"/>gegen den <date>20.</date>
+               <note xml:id="K_L01502_2h" type="commentary">
+                  <ref target="1905-03-18" subtype="cf" type="schnitzlerDiary"/>
+               </note> wieder hier<subst>
+                  <del rend="strikethrough">?</del>
+                  <add place="inline">.</add>
+               </subst>
+            </p>
+            <p>Könnte man ſich nicht vorher doch einmal ſehen? Den <rs type="person" ref="#2292 #11740">Hugo’s</rs> hab ich für <anchor xml:id="K_L01502_3" type="commentary"/>
+               <date>Mittwoch</date>
+               <note xml:id="K_L01502_3h" type="commentary">Das Treffen fand, ohne das Ehepaar <rs type="person" ref="#2292 #11740">Hofmannsthal</rs>, am Donnerstag statt; <ref target="1905-03-02" subtype="see" type="schnitzlerDiary"/>
+               </note>
+               <space unit="chars" quantity="1"/>
+               <time>Abend</time>, <rs type="place" ref="#304">Hietzing</rs> geſchrieben; kommen Sie
+               etwa auch mit <rs type="person" ref="#10860">Paula</rs>? Oder wollen Sie nicht
+               endlich einmal bei uns eſſen?</p>
+            <p>Laſſen Sie jedenfalls ein Wort hören.</p>
+            <closer>Herzlichſt Ihr<lb/>
+               <signed>A.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

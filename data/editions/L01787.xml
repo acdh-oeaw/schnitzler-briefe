@@ -1,100 +1,192 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01787" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Thomas Mann an Arthur Schnitzler, 7. 8. 1908</title><author ref="#pmb12176">Mann, Thomas</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01787</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L01787"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Thomas Mann an Arthur Schnitzler, 7. 8. 1908</title>
+            <author ref="#12176">Mann, Thomas</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L01787</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 67</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><hi rend="latintype">Mann</hi></quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct><analytic><title level="a">Arthur Schnitzler – Thomas Mann: Briefe</title><author>Krotkoff, Hertha</author></analytic><monogr><title level="j">Modern Austrian Literature</title><biblScope unit="jg">7</biblScope><biblScope unit="nr">1/2</biblScope><imprint><date when="1974">1974</date></imprint><biblScope unit="pp">13–14</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb12176">Mann, Thomas</persName><placeName ref="#pmb424">Bad Tölz</placeName><date when="1908-08-07" n="01">7. 8. 1908</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb12176">Mann, Thomas</ref><ref subtype="previous_letter" type="withinCollection" target="L01786">Schnitzler an Hofmannsthal, 6. 8. 1908</ref><ref subtype="next_letter" type="withinCollection" target="L01788">Beer-Hofmann an Schnitzler, [zwischen 1. und
-                  12. 9.? 1908]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01374">Mann an Schnitzler, 15. 2. 1904</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01986">Mann an Schnitzler, 22. 11. 1910</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 67</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="briefkarte"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift beschriftet: »<quote>
+                                    <hi rend="latintype">Mann</hi>
+                                 </quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct>
+                  <analytic>
+                     <title level="a">Arthur Schnitzler – Thomas Mann: Briefe</title>
+                     <author>Krotkoff, Hertha</author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Modern Austrian Literature</title>
+                     <biblScope unit="jg">7</biblScope>
+                     <biblScope unit="nr">1/2</biblScope>
+                     <imprint>
+                        <date when="1974">1974</date>
+                     </imprint>
+                     <biblScope unit="pp">13–14</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#12176">Mann, Thomas</persName>
+               <placeName ref="#424">Bad Tölz</placeName>
+               <date when="1908-08-07" n="01">7. 8. 1908</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#12176">Mann, Thomas</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01786">Schnitzler an Hofmannsthal, 6. 8. 1908</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01788">Beer-Hofmann an Schnitzler, [zwischen 1. und
+                  12. 9.? 1908]</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L01374">Mann an Schnitzler, 15. 2. 1904</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01986">Mann an Schnitzler, 22. 11. 1910</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-11-11">Angelegt</change><change who="MAM" when="2018-12-10">Durchsicht</change><change who="MAM" when="2018-12-11">Index check</change><change who="GHS" when="2020-02-02">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00067-000-00025"/><graphic url="MS-SCHNITZLER-B-00067-000-00026"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><dateline><pb facs="MS-SCHNITZLER-B-00067-000-00025"/><rs ref="#pmb424" type="place">Tölz</rs> den <date>7. August 1908</date></dateline><salute>Verehrter Herr Doctor:</salute></opener><p>Ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chreibe Ihnen nochmals unter Ihrer <rs ref="#pmb50" type="place">Wien</rs>er Adre<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e, weil es mir vollkommen unmöglich i<c rendition="#langesS">s</c>t, die ländliche zu entziffern, – woran wohl noch mehr als Ihre Hand<c rendition="#langesS">s</c>chrift meine mangelhaften geographi<c rendition="#langesS">s</c>chen Kenntnisse<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chuld<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind.</p><p>Ich habe nichts dagegen, daß Sie <pb facs="MS-SCHNITZLER-B-00067-000-00026"/>»<rs ref="#pmb33584" type="work">Wäl<c rendition="#langesS">s</c>ungenblut</rs>« <rs ref="#pmb13055" type="person">Wa<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ermann</rs> zu le<c rendition="#langesS">s</c>en geben, ge<c rendition="#langesS">s</c>etzt, daß er noch bei Ihnen i<c rendition="#langesS">s</c>t. Sagen Sie ihm aber, bitte, daß ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie Ihnen der Sache wegen und im Hinblick auf den »<rs ref="#pmb29923" type="work">Weg ins Freie</rs>« ge<c rendition="#langesS">s</c>chickt habe. Er könnte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>on<c rendition="#langesS">s</c>t gekränkt fühlen. Daß die <rs type="work" ref="#pmb33584" subtype="implied">Novelle</rs> weiter kur<c rendition="#langesS">s</c>iert, möchte ich Sie bitten zu verhindern.</p><p>Mit den verbindlich<c rendition="#langesS">s</c>ten Grüßen bin ich, verehrter Herr Doctor, Ihr ergebener</p><closer><signed>Thomas Mann.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb12176">
-                  <tei:persName>
-                     <tei:surname>Mann</tei:surname>
-                     <tei:forename>Thomas</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1875-06-06">6. 6. 1875</tei:date>
-                     <tei:placeName ref="#pmb884">Lübeck</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1955-08-12">12. 8. 1955</tei:date>
-                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb13055">
-                  <tei:persName>
-                     <tei:surname>Wassermann</tei:surname>
-                     <tei:forename>Jakob</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1873-03-10">10. 3. 1873</tei:date>
-                     <tei:placeName ref="#pmb40508">Fürth</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-01">1. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb34401">Altaussee</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb33584">
-                  <tei:author ref="pmb12176" role="author">
-                     <tei:surname>Mann</tei:surname>
-                     <tei:forename>Thomas</tei:forename>
-                  </tei:author>
-                  <tei:title>Wälsungenblut</tei:title>
-                  <tei:date from="1921-01-01" from-custom="1921">1921</tei:date>
-                  <tei:gloss type="w1340">Novelle</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29923">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Weg ins Freie. Roman</tei:title>
-                  <tei:date from="1908-01-01" from-custom="1.1.1908" to="1908-06-01" to-custom="1.6.1908">1. 1. 1908–1. 6. 1908</tei:date>
-                  <tei:gloss type="w1060">Roman</tei:gloss>
-                  <tei:note>2849</tei:note>
-                  <tei:note>8047</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb424">
-                  <tei:placeName>Bad Tölz</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.76111 11.5589</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2018-11-11">Angelegt</change>
+         <change who="MAM" when="2018-12-10">Durchsicht</change>
+         <change who="MAM" when="2018-12-11">Index check</change>
+         <change who="GHS" when="2020-02-02">finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00067-000-00025"/>
+      <graphic url="MS-SCHNITZLER-B-00067-000-00026"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline>
+                  <pb facs="MS-SCHNITZLER-B-00067-000-00025"/>
+                  <rs ref="#424" type="place">Tölz</rs> den <date>7. August 1908</date>
+               </dateline>
+               <salute>Verehrter Herr Doctor:</salute>
+            </opener>
+            <p>Ich ſchreibe Ihnen nochmals unter Ihrer <rs ref="#50" type="place">Wien</rs>er
+                    Adreſſe, weil es mir vollkommen unmöglich iſt, die ländliche zu entziffern, –
+                    woran wohl noch mehr als Ihre Handſchrift meine mangelhaften geographiſchen
+                    Kenntnisse ſchuld ſind.</p>
+            <p>Ich habe nichts dagegen, daß Sie <pb facs="MS-SCHNITZLER-B-00067-000-00026"/>»<rs ref="#33584" type="work">Wälſungenblut</rs>« <rs ref="#13055" type="person">Waſſermann</rs> zu leſen geben, geſetzt, daß er noch bei Ihnen iſt. Sagen
+                    Sie ihm aber, bitte, daß ich ſie Ihnen der Sache wegen und im Hinblick auf den
+                        »<rs ref="#29923" type="work">Weg ins Freie</rs>« geſchickt habe. Er könnte
+                    ſich ſonſt gekränkt fühlen. Daß die <rs type="work" ref="#33584" subtype="implied">Novelle</rs> weiter kurſiert, möchte ich Sie bitten zu
+                    verhindern.</p>
+            <p>Mit den verbindlichſten Grüßen bin ich, verehrter Herr Doctor, Ihr ergebener</p>
+            <closer>
+               <signed>Thomas Mann.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

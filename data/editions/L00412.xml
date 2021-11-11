@@ -1,92 +1,178 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00412" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hugo August von Hofmannsthal an Arthur Schnitzler, [30. 12. 1894?]</title><author ref="#pmb11737">Hofmannsthal, Hugo August von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00412</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00412"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Hugo August von Hofmannsthal an Arthur Schnitzler, [30. 12. 1894?]</title>
+            <author ref="#11737">Hofmannsthal, Hugo August von</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00412</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Marbach am Neckar</settlement><repository>Deutsches Literaturarchiv</repository><idno>A:Schnitzler, HS.NZ85.1.3483</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11737">Hofmannsthal, Hugo August von</persName><placeName ref="#pmb50">Wien</placeName><date when="1894-12-30" n="01">[30. 12. 1894?]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L00411">David an Schnitzler, 23. 12. 1894</ref><ref subtype="next_letter" type="withinCollection" target="L00413">Schnitzler an Beer-Hofmann, 31. 12. 1894</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00406">Hofmannsthal an Schnitzler, 26. 11. 1894</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00426">Schnitzler an Hofmannsthal, 27. 3. 1895</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>D</country>
+                        <settlement>Marbach am Neckar</settlement>
+                        <repository>Deutsches Literaturarchiv</repository>
+                        <idno>A:Schnitzler, HS.NZ85.1.3483</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="briefkarte"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#11737">Hofmannsthal, Hugo August von</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1894-12-30" n="01">[30. 12. 1894?]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal Hugo von</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00411">David an Schnitzler, 23. 12. 1894</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00413">Schnitzler an Beer-Hofmann, 31. 12. 1894</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00406">Hofmannsthal an Schnitzler, 26. 11. 1894</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00426">Schnitzler an Hofmannsthal, 27. 3. 1895</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2020-10-29">Angelegt</change><change who="MAM" when="2020-10-29">Index check</change><change who="GHS" when="2020-10-30">Durchsicht</change><change who="MAM" when="2020-11-03">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="HS.NZ85.1.3483_0012"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><p><anchor xml:id="T_L00412_1" type="textConst"/><pb facs="HS.NZ85.1.3483_0012"/><hi rend="pre-print"><rs ref="#pmb29244" type="org">Oesterreichische Central-Boden-Credit-Bank Wien</rs>.</hi><note xml:id="T_L00412_1h" type="textConst">quer am linken Rand</note></p><salute>Lieber Freund!</salute></opener><p><rs type="person" ref="#pmb11740">Hugo</rs> der ziemlich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tark erkältet i<c rendition="#langesS">s</c>t möchte von 8 Uhr ab den Abend mit Ihnen verbringen wenn es Ihnen paßt oder ev.<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>päter ins Kafféhaus ko<c rendition="#gemination-m"/>en u bittet Sie um Nachricht <rs type="place" ref="#pmb76"><hi rend="latintype">Salesianergaße</hi></rs>. Freund<c rendition="#langesS">s</c>chaftlich<c rendition="#langesS">s</c>t</p><closer>Ihr<lb/><signed>D<hi rend="superscript">r</hi> Hofmannsthal</signed></closer><postscript><dateline><date><anchor xml:id="K_L00412_1" type="commentary"/>Sonntag<note xml:id="K_L00412_1h" type="commentary">Das Korrespondenzstück ist undatiert. Als ein möglicher Abend, den <rs type="person" ref="#pmb2121">Schnitzler</rs> und <rs type="person" ref="#pmb11740">Hugo von Hofmannsthal</rs> gemeinsam an einem Sonntag im Kaffeehaus verbringen, bietet sich der <ref target="1894-12-30" subtype="date-only" type="schnitzlerDiary"/> an, wenngleich auch andere Daten in größerer Runde denkbar sind.</note></date>.</dateline></postscript></div></body><back><listPerson><tei:person xml:id="pmb11737">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo August von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1841-12-21">21. 12. 1841</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1915-12-08">8. 12. 1915</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="465">Bankdirektor*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb76">
-                  <tei:placeName>Salesianergasse</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.199226239476 16.380633449365</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb29244">
-                  <tei:orgName>Allgemeine Bodencreditanstalt</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i986">Bankhaus</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb51">
-                     <tei:placeName>I., Innere Stadt</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2020-10-29">Angelegt</change>
+         <change who="MAM" when="2020-10-29">Index check</change>
+         <change who="GHS" when="2020-10-30">Durchsicht</change>
+         <change who="MAM" when="2020-11-03">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="HS.NZ85.1.3483_0012"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <p>
+                  <anchor xml:id="T_L00412_1" type="textConst"/>
+                  <pb facs="HS.NZ85.1.3483_0012"/>
+                  <hi rend="pre-print">
+                     <rs ref="#29244" type="org">Oesterreichische Central-Boden-Credit-Bank
+                                Wien</rs>.</hi>
+                  <note xml:id="T_L00412_1h" type="textConst">quer
+                            am linken Rand</note>
+               </p>
+               <salute>Lieber Freund!</salute>
+            </opener>
+            <p>
+               <rs type="person" ref="#11740">Hugo</rs> der ziemlich ſtark erkältet iſt möchte
+                    von 8 Uhr ab den Abend mit Ihnen verbringen wenn es Ihnen paßt oder ev.
+                    ſpäter ins Kafféhaus ko<c rendition="#gemination-m"/>en u bittet Sie um
+                    Nachricht <rs type="place" ref="#76">
+                  <hi rend="latintype">Salesianergaße</hi>
+               </rs>. Freundſchaftlichſt</p>
+            <closer>Ihr<lb/>
+               <signed>D<hi rend="superscript">r</hi> Hofmannsthal</signed>
+            </closer>
+            <postscript>
+               <dateline>
+                  <date>
+                     <anchor xml:id="K_L00412_1" type="commentary"/>Sonntag<note xml:id="K_L00412_1h" type="commentary">Das Korrespondenzstück
+                                ist undatiert. Als ein möglicher Abend, den <rs type="person" ref="#2121">Schnitzler</rs> und <rs type="person" ref="#11740">Hugo von Hofmannsthal</rs> gemeinsam an einem Sonntag im
+                                Kaffeehaus verbringen, bietet sich der <ref target="1894-12-30" subtype="date-only" type="schnitzlerDiary"/> an, wenngleich auch
+                                andere Daten in größerer Runde denkbar
+                        sind.</note>
+                  </date>.</dateline>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

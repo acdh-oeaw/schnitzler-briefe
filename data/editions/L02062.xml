@@ -1,298 +1,290 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02062" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Peter Altenberg an Arthur Schnitzler, [10.? 5. 1912]</title><author ref="#pmb2147">Altenberg, Peter</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02062</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L02062"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Peter Altenberg an Arthur Schnitzler, [10.? 5. 1912]</title>
+            <author ref="#2147">Altenberg, Peter</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L02062</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                             vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                             verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                            kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                            kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                            an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                             einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                             wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                             werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                             unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                             Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                             Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                            die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                            die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                             des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                             durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                             keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                             verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                             jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                             Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                            Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 2</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc type="_blaetter" n="1"/><desc type="_seiten" n="2"/></objectDesc><handDesc><handNote medium="blaue_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit rotem Buntstift beschrieben: »<quote>(an Tisch <date>Mai
-                  1912</date></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand neben den Wunsch nach einem
-                                            Exemplar Vermerk: »<quote>erledigt</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2147">Altenberg, Peter</persName><placeName ref="#pmb189">Semmering</placeName><date when="1912-05-10" n="01">[10.? 5. 1912]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb189">Semmering</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb2147">Altenberg, Peter</ref><ref subtype="previous_letter" type="withinCollection" target="L02060">Bahr an Schnitzler, 27. 4. 1912</ref><ref subtype="next_letter" type="withinCollection" target="L02063">Schnitzler an Beer-Hofmann, 13. 5. 1912</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02061">Altenberg an Schnitzler, [zwischen April und
-                        Oktober 1912]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02094">Altenberg an Schnitzler, [7. 11. 1912]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                            Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 2</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="brief"/>
+                           <desc type="_blaetter" n="1"/>
+                           <desc type="_seiten" n="2"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="blaue_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit rotem Buntstift beschrieben: »<quote>(an Tisch <date>Mai
+                  1912</date>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand neben den Wunsch nach einem
+                                            Exemplar Vermerk: »<quote>erledigt</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2147">Altenberg, Peter</persName>
+               <placeName ref="#189">Semmering</placeName>
+               <date when="1912-05-10" n="01">[10.? 5. 1912]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#189">Semmering</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#2147">Altenberg, Peter</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L02060">Bahr an Schnitzler, 27. 4. 1912</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L02063">Schnitzler an Beer-Hofmann, 13. 5. 1912</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L02061">Altenberg an Schnitzler, [zwischen April und
+                        Oktober 1912]</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L02094">Altenberg an Schnitzler, [7. 11. 1912]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-09-01">Angelegt</change><change who="MAM" when="2018-10-01">Durchsicht</change><change who="MAM" when="2018-10-01">Index check</change><change who="GHS" when="2019-07-19">facs aktualisiert, korrigiert, finalisiert</change><change who="MAM" when="2021-03-19">Wieder geöffnet. Der Briefkopf ergänzt</change><change who="MAM" when="2021-04-14">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00002-000-00019"/><graphic url="MS-SCHNITZLER-B-00002-000-00020"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p rend="right"><pb facs="MS-SCHNITZLER-B-00002-000-00019"/><hi rend="pre-print">Motto: <hi rend="italics">Schneeglöcklein, läutest den Frühling ein,</hi></hi></p><p rend="right"><hi rend="pre-print"><hi rend="italics">Für mich begräbst du den herrlichen Winter.</hi></hi></p><p rend="center"><hi rend="pre-print"><hi rend="capitals"><rs type="place" ref="#pmb204">Hotel Panhans am Semmering</rs></hi></hi></p><p rend="center"><hi rend="pre-print">mit dazugehörigem <rs type="place" ref="#pmb634">Hotel Erzherzog Johann</rs>.</hi></p><p><seg rend="left"><hi rend="pre-print">1025 m Seehöhe.</hi></seg><seg rend="right"><hi rend="pre-print">1025 m Seehöhe.</hi></seg></p><p rend="center"><hi rend="pre-print">400 Zimmer und Salons, meist mit Balkons, Gesellschaftsloggien und gemeinsame Terrassen für Freiluft- und Liegekuren in jedem Stockwerke.</hi></p><p rend="center"><hi rend="pre-print">Komplette Appartements mit Bad, Dusche und Toilette. Überall elektrisches Licht und Warmwasserheizung, welche in jedem Zimmer genau regulierbar (auch Wohnungen mit Öfen). Hausarzt, Apotheke, Lift. Photographische Dunkelkammer, Automobil-Remise.</hi></p><p rend="center"><hi rend="pre-print">Großes Kaffeehaus, luxuriöse Halle, Konversations-, Spiel-, Lese-, Musik- und Damensalons. Feinstes Orchester vom 20. Juni bis 20. September und vom 20. Dezember bis 20. März.</hi></p><p rend="center"><hi rend="pre-print">Neben dem Hotel befindet sich das schmucke <rs type="place" ref="#pmb53381">Semmering-Kirchlein</rs> (jeden Tag heilige Messe).</hi></p><p rend="center"><hi rend="pre-print">Wintersportplatz und Höhenkurort allerersten Ranges.</hi></p><p rend="center"><hi rend="pre-print">Mittelpunkt des hiesigen Wintersports.</hi></p><p rend="center"><hi rend="pre-print">Sitz des <rs type="org" ref="#pmb53383">Österreichischen Wintersport-Klubs</rs> im <rs type="place" ref="#pmb634">Hotel Erzherzog Johann</rs>.</hi></p><p rend="center"><hi rend="pre-print">Eigene Hochwildjagd, Forellenfischerei, Reitpferde. Fahrräder und Wintersportrequisiten.</hi></p><p rend="center"><hi rend="pre-print">Tennis-, Croquet-, Eislauf-, Ski- und Rodelplätze.</hi></p><p rend="center"><hi rend="pre-print">Elektrischer Aufzug für Personen und Sportgeräte bei der 4 km langen Rodel- und Bobbahn.</hi></p><p rend="center"><hi rend="pre-print">Bade- und Wasserkur unter Leitung bewährter Ärzte. Kohlensäure-, elektrische Dampfbäder, Inhalationen System Dr. <rs type="person" ref="#pmb53386">Bulling</rs>. Hochquellenleitung.</hi></p><p rend="center"><hi rend="pre-print">Bester Nachkurort nach <rs type="place" ref="#pmb842">Karlsbad</rs>, <rs type="place" ref="#pmb772">Marienbad</rs>, <rs type="place" ref="#pmb390">Franzensbad</rs>, <rs type="place" ref="#pmb955">Teplitz</rs>, <rs type="place" ref="#pmb38096">Abbazia</rs>, <rs type="place" ref="#pmb38096">Meran</rs>, <rs type="place" ref="#pmb53379">Grado</rs>, <rs type="place" ref="#pmb521">Gastein</rs>, <rs type="place" ref="#pmb50166">Pestyan</rs>, <rs type="place" ref="#pmb892">Davos</rs> usw. Winterkuren.</hi></p><p rend="center"><hi rend="pre-print">Kammerlieferant der Kaiserl. Hoheiten Erzh. <rs type="person" ref="#pmb3287">Franz Ferdinand</rs>, Erzh. <rs type="person" ref="#pmb19126">Karl</rs> und Erzh. <rs type="person" ref="#pmb19131">Stephan</rs>.</hi></p><p rend="center"><hi rend="pre-print">Sieben zum Hotel gehörige Villen mit Küchen und Herrschaftsstallungen.</hi></p><p rend="center"><hi rend="pre-print">Vom Allerhöchsten Hofe und der hohen Aristokratie seit vielen Jahren sehr bevorzugt.</hi></p><p rend="center"><hi rend="pre-print">Acht Jahre Sommeraufenthalt des Reichskanzlers Fürsten <rs type="person" ref="#pmb6560">Bülow</rs>.</hi></p><p rend="right"><hi rend="pre-print"><hi rend="bold"><rs type="person" ref="#pmb53388">Franz Panhans</rs></hi>, Besitzer und persönlicher Leiter.</hi></p><p rend="right"><hi rend="pre-print">Semmering, am <c rendition="#dots" n="10"/></hi></p><p>Ich bitte<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr, es dem Herrn <hi n="1" rend="underline"><hi rend="latintype">D<hi rend="superscript">r</hi></hi> Arthur Schnitzler</hi> mitzuteilen, da<c rendition="#langesS">s</c>s ich noch nie eine<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o feine Novelle gele<c rendition="#langesS">s</c>en habe wie: »<rs ref="#pmb33758" type="work"><hi rend="latintype">Der Tod <pb facs="MS-SCHNITZLER-B-00002-000-00020"/>des Junggesellen</hi></rs>« in<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>einem <anchor xml:id="K_L02062_1" type="commentary"/>neuen Buche<note xml:id="K_L02062_1h" type="commentary"><rs ref="#pmb2121" type="person">Schnitzler</rs> hatte am <date>6. 5. 1912</date> sein erstes Exemplar in der Hand. Nachdem er im <date>Mai</date> keinen Aufenthalt am <rs ref="#pmb189" type="place">Semmering</rs> im <rs ref="#pmb33243" type="work">Tagebuch</rs> erwähnt, bietet sich nur die Reise <date>10.</date>–<ref type="schnitzlerDiary" target="1912-05-11" subtype="date-only"/> nach <rs ref="#pmb873" type="place">Triest</rs> an, auf der er den <rs ref="#pmb189" type="place">Semmering</rs> passiert und möglicherweise Zwischenstation einlegte.</note>: »<rs ref="#pmb32816" type="work"><hi n="1" rend="underline"><hi rend="latintype">Masken und Wunder</hi></hi></rs>«!</p><p>Auch bitte ich um ein Exemplar die<c rendition="#langesS">s</c>es <rs type="work" ref="#pmb32816" subtype="implied">Buches</rs> gratis.</p><closer>Ihr<lb/><signed>Peter Altenberg</signed></closer><postscript><p><rs ref="#pmb204" type="place">Semmering, Hotel Panhans</rs></p></postscript></div></body><back><listPerson><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2147">
-                  <tei:persName>
-                     <tei:surname>Altenberg</tei:surname>
-                     <tei:forename>Peter</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1859-03-09">9. 3. 1859</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1919-01-08">8. 1. 1919</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb53386">
-                  <tei:persName>
-                     <tei:surname>Bulling</tei:surname>
-                     <tei:forename>Anton</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1853-01-01">1853/1854</tei:date>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1918-05-12">12. 5. 1918</tei:date>
-                     <tei:placeName ref="#pmb1181">Bad Reichenhall</tei:placeName>
-                  </tei:death>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb3287">
-                  <tei:persName>
-                     <tei:surname>Franz Ferdinand von Österreich-Este</tei:surname>
-                     <tei:forename/>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-12-18">18. 12. 1863</tei:date>
-                     <tei:placeName ref="#pmb860">Graz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1914-06-28">28. 6. 1914</tei:date>
-                     <tei:placeName ref="#pmb49139">Sarajevo</tei:placeName>
-                  </tei:death>
-                  <occupation code="168">Erzherzog</occupation>
-                  <occupation code="616">Thronfolger</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb19126">
-                  <tei:persName>
-                     <tei:surname>Karl I. von Österreich-Ungarn</tei:surname>
-                     <tei:forename/>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1887-08-17">17. 8. 1887</tei:date>
-                     <tei:placeName ref="#pmb44713">Persenbeug</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1922-04-01">1. 4. 1922</tei:date>
-                     <tei:placeName ref="#pmb48004">Funchal</tei:placeName>
-                  </tei:death>
-                  <occupation code="167">Kaiser*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb19131">
-                  <tei:persName>
-                     <tei:surname>Karl Stephan von Österreich</tei:surname>
-                     <tei:forename/>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1860-09-05">5. 9. 1860</tei:date>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1933-04-07">7. 4. 1933</tei:date>
-                  </tei:death>
-                  <occupation code="168">Erzherzog</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb6560">
-                  <tei:persName>
-                     <tei:surname>Bülow</tei:surname>
-                     <tei:forename>Bernhard von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1849-05-03">3. 5. 1849</tei:date>
-                     <tei:placeName ref="#pmb6561">Klein Flottbek</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-10-28">28. 10. 1929</tei:date>
-                     <tei:placeName ref="#pmb445">Rom</tei:placeName>
-                  </tei:death>
-                  <occupation code="95">Politiker*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb53388">
-                  <tei:persName>
-                     <tei:surname>Panhans</tei:surname>
-                     <tei:forename>Franz</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1869-03-04">4. 3. 1869</tei:date>
-                     <tei:placeName ref="#pmb53389">Vysoké</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1913-09-20">20. 9. 1913</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="208">Hotelbesitzer</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb33758">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Tod des Junggesellen</tei:title>
-                  <tei:date from="1908-04-01" from-custom="1.4.1908">1. 4. 1908</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-                  <tei:note>2615</tei:note>
-                  <tei:note>2616</tei:note>
-                  <tei:note>5810</tei:note>
-                  <tei:note>5811</tei:note>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb33243">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Tagebuch</tei:title>
-                  <tei:date from="1981-01-01" from-custom="1981" to="2000-01-01" to-custom="2000">1981–2000</tei:date>
-                  <tei:gloss type="w1356">Tagebuch</tei:gloss>
-                  <tei:note>6297</tei:note>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb32816">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Masken und Wunder. Novellen</tei:title>
-                  <tei:date from="1912-05-06" from-custom="1912-05-06">6. 5. 1912</tei:date>
-                  <tei:gloss type="w1342">Erzählsammlung</tei:gloss>
-                  <tei:note>8988</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb189">
-                  <tei:placeName>Semmering</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.64224 15.8241</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb204">
-                  <tei:placeName>Hotel Panhans</tei:placeName>
-                  <tei:desc>
-                     <tei:date from="1888-07-01" from-custom="1888-07-01">1. 7. 1888</tei:date>
-                     <tei:gloss ana="i12">Hotel</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.637222 15.825278</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb634">
-                  <tei:placeName>Hotel Erzherzog Johann</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i12">Hotel</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.63255 15.82889</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb53381">
-                  <tei:placeName>Kirche zur heiligen Familie</tei:placeName>
-                  <tei:desc>
-                     <tei:date from="1895-07-02" from-custom="1895-07-02">2. 7. 1895</tei:date>
-                     <tei:gloss ana="i33">Kirche</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.638938131 15.82551</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb842">
-                  <tei:placeName>Karlsbad</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">50.23271 12.87117</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb772">
-                  <tei:placeName>Marienbad</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">49.96115 12.72872</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb390">
-                  <tei:placeName>Franzensbad</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">50.12033 12.35174</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb955">
-                  <tei:placeName>Teplitz</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">50.6404 13.82451</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb38096">
-                  <tei:placeName>Opatija</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1134">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.33771 14.30515</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb53379">
-                  <tei:placeName>Grado</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1410">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.67774 13.40323</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb521">
-                  <tei:placeName>Bad Gastein</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.11547 13.13467</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb50166">
-                  <tei:placeName>Piešťany</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1419">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.59479 17.82591</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb892">
-                  <tei:placeName>Davos</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">46.80429 9.83723</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb873">
-                  <tei:placeName>Triest</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.66667 13.76667</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb53383">
-                  <tei:orgName>Österreichischer Wintersport-Klub</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1904-01-01" from-custom="1904">1904</tei:date>
-                     <tei:gloss ana="i974">Verein</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb204">
-                     <tei:placeName>Hotel Panhans</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">47.637222 15.825278</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb189">
-                     <tei:placeName>Semmering</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">47.64224 15.8241</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2018-09-01">Angelegt</change>
+         <change who="MAM" when="2018-10-01">Durchsicht</change>
+         <change who="MAM" when="2018-10-01">Index check</change>
+         <change who="GHS" when="2019-07-19">facs aktualisiert, korrigiert, finalisiert</change>
+         <change who="MAM" when="2021-03-19">Wieder geöffnet. Der Briefkopf ergänzt</change>
+         <change who="MAM" when="2021-04-14">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00002-000-00019"/>
+      <graphic url="MS-SCHNITZLER-B-00002-000-00020"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <p rend="right">
+               <pb facs="MS-SCHNITZLER-B-00002-000-00019"/>
+               <hi rend="pre-print">Motto: <hi rend="italics">Schneeglöcklein, läutest den
+                            Frühling ein,</hi>
+               </hi>
+            </p>
+            <p rend="right">
+               <hi rend="pre-print">
+                  <hi rend="italics">Für mich begräbst du den herrlichen Winter.</hi>
+               </hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">
+                  <hi rend="capitals">
+                     <rs type="place" ref="#204">Hotel Panhans am Semmering</rs>
+                  </hi>
+               </hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">mit dazugehörigem <rs type="place" ref="#634">Hotel
+                            Erzherzog Johann</rs>.</hi>
+            </p>
+            <p>
+               <seg rend="left">
+                  <hi rend="pre-print">1025 m Seehöhe.</hi>
+               </seg>
+               <seg rend="right">
+                  <hi rend="pre-print">1025 m Seehöhe.</hi>
+               </seg>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">400 Zimmer und Salons, meist mit Balkons,
+                        Gesellschaftsloggien und gemeinsame Terrassen für Freiluft- und Liegekuren
+                        in jedem Stockwerke.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Komplette Appartements mit Bad, Dusche und Toilette.
+                        Überall elektrisches Licht und Warmwasserheizung, welche in jedem Zimmer
+                        genau regulierbar (auch Wohnungen mit Öfen). Hausarzt, Apotheke, Lift.
+                        Photographische Dunkelkammer, Automobil-Remise.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Großes Kaffeehaus, luxuriöse Halle, Konversations-, Spiel-,
+                        Lese-, Musik- und Damensalons. Feinstes Orchester vom 20. Juni bis
+                        20. September und vom 20. Dezember bis 20. März.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Neben dem Hotel befindet sich das schmucke <rs type="place" ref="#53381">Semmering-Kirchlein</rs> (jeden Tag heilige Messe).</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Wintersportplatz und Höhenkurort allerersten Ranges.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Mittelpunkt des hiesigen Wintersports.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Sitz des <rs type="org" ref="#53383">Österreichischen
+                            Wintersport-Klubs</rs> im <rs type="place" ref="#634">Hotel Erzherzog
+                            Johann</rs>.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Eigene Hochwildjagd, Forellenfischerei, Reitpferde.
+                        Fahrräder und Wintersportrequisiten.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Tennis-, Croquet-, Eislauf-, Ski- und Rodelplätze.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Elektrischer Aufzug für Personen und Sportgeräte bei der
+                        4 km langen Rodel- und Bobbahn.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Bade- und Wasserkur unter Leitung bewährter Ärzte.
+                        Kohlensäure-, elektrische Dampfbäder, Inhalationen System Dr. <rs type="person" ref="#53386">Bulling</rs>. Hochquellenleitung.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Bester Nachkurort nach <rs type="place" ref="#842">Karlsbad</rs>, <rs type="place" ref="#772">Marienbad</rs>, <rs type="place" ref="#390">Franzensbad</rs>, <rs type="place" ref="#955">Teplitz</rs>, <rs type="place" ref="#38096">Abbazia</rs>, <rs type="place" ref="#38096">Meran</rs>, <rs type="place" ref="#53379">Grado</rs>, <rs type="place" ref="#521">Gastein</rs>, <rs type="place" ref="#50166">Pestyan</rs>, <rs type="place" ref="#892">Davos</rs> usw.
+                        Winterkuren.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Kammerlieferant der Kaiserl. Hoheiten Erzh. <rs type="person" ref="#3287">Franz Ferdinand</rs>, Erzh. <rs type="person" ref="#19126">Karl</rs> und Erzh. <rs type="person" ref="#19131">Stephan</rs>.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Sieben zum Hotel gehörige Villen mit Küchen und
+                        Herrschaftsstallungen.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Vom Allerhöchsten Hofe und der hohen Aristokratie seit
+                        vielen Jahren sehr bevorzugt.</hi>
+            </p>
+            <p rend="center">
+               <hi rend="pre-print">Acht Jahre Sommeraufenthalt des Reichskanzlers Fürsten <rs type="person" ref="#6560">Bülow</rs>.</hi>
+            </p>
+            <p rend="right">
+               <hi rend="pre-print">
+                  <hi rend="bold">
+                     <rs type="person" ref="#53388">Franz Panhans</rs>
+                  </hi>, Besitzer und persönlicher Leiter.</hi>
+            </p>
+            <p rend="right">
+               <hi rend="pre-print">Semmering, am <c rendition="#dots" n="10"/>
+               </hi>
+            </p>
+            <p>Ich bitte ſehr, es dem Herrn <hi n="1" rend="underline">
+                  <hi rend="latintype">D<hi rend="superscript">r</hi>
+                  </hi> Arthur Schnitzler</hi> mitzuteilen, daſs ich noch nie eine ſo feine
+                    Novelle geleſen habe wie: »<rs ref="#33758" type="work">
+                  <hi rend="latintype">Der Tod <pb facs="MS-SCHNITZLER-B-00002-000-00020"/>des
+                            Junggesellen</hi>
+               </rs>« in ſeinem <anchor xml:id="K_L02062_1" type="commentary"/>neuen Buche<note xml:id="K_L02062_1h" type="commentary">
+                  <rs ref="#2121" type="person">Schnitzler</rs> hatte am
+                            <date>6. 5. 1912</date> sein erstes Exemplar in der Hand. Nachdem er im
+                            <date>Mai</date> keinen Aufenthalt am <rs ref="#189" type="place">Semmering</rs> im <rs ref="#33243" type="work">Tagebuch</rs> erwähnt,
+                        bietet sich nur die Reise <date>10.</date>–<ref type="schnitzlerDiary" target="1912-05-11" subtype="date-only"/> nach <rs ref="#873" type="place">Triest</rs> an, auf der er den <rs ref="#189" type="place">Semmering</rs> passiert und möglicherweise Zwischenstation
+                        einlegte.</note>: »<rs ref="#32816" type="work">
+                  <hi n="1" rend="underline">
+                     <hi rend="latintype">Masken und Wunder</hi>
+                  </hi>
+               </rs>«!</p>
+            <p>Auch bitte ich um ein Exemplar dieſes <rs type="work" ref="#32816" subtype="implied">Buches</rs> gratis.</p>
+            <closer>Ihr<lb/>
+               <signed>Peter Altenberg</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <rs ref="#204" type="place">Semmering, Hotel Panhans</rs>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,137 +1,233 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L02419" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hugo Hofmannsthal,
-               [5?.] 11. 1924</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02419</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="L02419"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Hugo Hofmannsthal,
+               [5?.] 11. 1924</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L02419</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Frankfurt am Main</settlement><repository>Freies Deutsches Hochstift</repository><idno>Hs-30885,151</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="postkarte"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb68"><unclear>18/1</unclear> Wien</placeName><date><unclear>5</unclear> XI 24</date><time>6</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">300</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1924-11-05" n="01">[5?.] 11. 1924</date></correspAction><correspAction type="received"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb415">Bad Aussee</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L02418">Hofmannsthal an Schnitzler, 31. 10. 1924</ref><ref subtype="next_letter" type="withinCollection" target="L02420">Schnitzler an Mann, 6. 11. 1924</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02418">Hofmannsthal an Schnitzler, 31. 10. 1924</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02424">Schnitzler an Hofmannsthal, 23. 12. 1924</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>D</country>
+                        <settlement>Frankfurt am Main</settlement>
+                        <repository>Freies Deutsches Hochstift</repository>
+                        <idno>Hs-30885,151</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="postkarte"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="1">
+                                    <placeName ref="#68">
+                                       <unclear>18/1</unclear> Wien</placeName>
+                                    <date>
+                                       <unclear>5</unclear> XI 24</date>
+                                    <time>6</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HvHAS">
+                  <monogr>
+                     <author ref="#11740">Hofmannsthal, Hugo von</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel</title>
+                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1964">1964</date>
+                     </imprint>
+                     <biblScope unit="pp">300</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1924-11-05" n="01">[5?.] 11. 1924</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
+               <placeName ref="#415">Bad Aussee</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L02418">Hofmannsthal an Schnitzler, 31. 10. 1924</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L02420">Schnitzler an Mann, 6. 11. 1924</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L02418">Hofmannsthal an Schnitzler, 31. 10. 1924</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L02424">Schnitzler an Hofmannsthal, 23. 12. 1924</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-05-22">Durchsicht</change><change who="MAM" when="2020-09-09">Index check</change><change who="MAM" when="2020-09-09">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="Hs-30885,151_001"/><graphic url="Hs-30885,151_002"/></facsimile><text type="card"><body><div type="address"><address><addrLine><pb facs="Hs-30885,151_002"/><anchor type="textConst" xml:id="T_L02419-1"/><hi rend="pre-print">A. S.</hi><note type="textConst" xml:id="T_L02419-1h">ovaler Absenderkleber</note></addrLine><addrLine><rs ref="#pmb68" type="place"><hi rend="pre-print"><hi rend="capitals">Wien, XVIII.</hi></hi></rs></addrLine><addrLine><rs ref="#pmb150" type="place"><hi rend="pre-print"><hi rend="capitals">Sternwartestr. 71</hi></hi></rs></addrLine></address><address><addrLine>an Hr Hugo v Hofma<c rendition="#gemination-n"/>sthal</addrLine><addrLine><rs ref="#pmb415" type="place">Bad Aussee</rs></addrLine><addrLine><rs type="place" ref="#pmb17">Steiermark</rs>.</addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="Hs-30885,151_001"/><rs ref="#pmb50" type="place">Wien</rs>, <date>6. 11. 24</date></dateline></opener><p><salute>mein lieber Hugo</salute> – schönen Dank für Ihren Gru<c rendition="#langesS">s</c>s aus <rs ref="#pmb415" type="place">Aussee</rs>. Über das <rs ref="#pmb29941" type="work">Frl. Else</rs> hör ich und les ich von allen Seiten so viel gutes, d<c rendition="#langesS">s</c>s ich sie im ganzen beinah überschätzt finden mu<c rendition="#langesS">s</c>s – ebenso wie die <rs ref="#pmb30205" type="work">K. d. V.</rs> – we<c rendition="#gemination-n"/> auch vielfach gewürdigt, – doch noch in höherm Ma<c rendition="#langesS">s</c>s (und nicht immer reinen Herzens) misverstanden. Nun es ist das alte Lied – wir müssen es alle singen. Ich freue mich, d<c rendition="#langesS">s</c>s Ihr Stück vollendet ist. Wohl »<rs ref="#pmb33722" type="work">Der Thurm</rs>«? Und die neue Arbeit –? Wa<c rendition="#gemination-n"/> werden Sie vorlesen? Wa<c rendition="#gemination-n"/> kommen Sie nach <rs ref="#pmb50" type="place">Wien</rs>? Was haben Sie für Winterpläne? – Ich bleibe wohl vorläufig hier; im <date>Jänner</date><space unit="chars" quantity="1"/>soll <pb facs="Hs-30885,151_002"/>ich in der <rs ref="#pmb43435" type="place">Schweiz</rs> lesen, – was ich hauptsächlich thun will, um mir eine <rs ref="#pmb1061" type="place">Engadin</rs>er Schnee- u Sonnenwoche <del rend="strikethrough"><unclear>ver</unclear></del> »mit gutem Gewissen« vergönnen zu dürfen. – Ich dictire novellistisch und arbeite vorwiegend aphoristisch-fragmentistisch. Schreiben Sie bald wieder, und wärs nur ein Wort! Es ist so schön, von Ihnen was direct zu wissen! </p><p>Alles Herzliche. Ihr <signed>A.</signed></p></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb29941">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Fräulein Else</tei:title>
-                  <tei:date from="1924-10-01" from-custom="01.10.1924">1. 10. 1924</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-                  <tei:note>2852</tei:note>
-                  <tei:note>7704</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30205">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Komödie der Verführung. In drei Akten</tei:title>
-                  <tei:date from="1924-01-01" from-custom="1924">1924</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>9218</tei:note>
-                  <tei:note>9219</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb33722">
-                  <tei:author ref="pmb11740" role="author">
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Turm. Ein Trauerspiel</tei:title>
-                  <tei:date from="1925-01-01" from-custom="1925">1925</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>5732</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb68">
-                  <tei:placeName>XVIII., Währing</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.23333 16.31667</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb415">
-                  <tei:placeName>Bad Aussee</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb150">
-                  <tei:placeName>Sternwartestraße</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.23099349198 16.340117830625</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb17">
-                  <tei:placeName>Steiermark</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i13">Teil eines Landes</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.38 15.7925</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb43435">
-                  <tei:placeName>Schweiz</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1411">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.00016 8.01427</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb1061">
-                  <tei:placeName>Engadin</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i13">Teil eines Landes</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">46.601337 9.965973</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change>
+         <change who="GHS" when="2020-05-22">Durchsicht</change>
+         <change who="MAM" when="2020-09-09">Index check</change>
+         <change who="MAM" when="2020-09-09">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="Hs-30885,151_001"/>
+      <graphic url="Hs-30885,151_002"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="Hs-30885,151_002"/>
+                  <anchor type="textConst" xml:id="T_L02419-1"/>
+                  <hi rend="pre-print">A. S.</hi>
+                  <note type="textConst" xml:id="T_L02419-1h">ovaler Absenderkleber</note>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#68" type="place">
+                     <hi rend="pre-print">
+                        <hi rend="capitals">Wien, XVIII.</hi>
+                     </hi>
+                  </rs>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#150" type="place">
+                     <hi rend="pre-print">
+                        <hi rend="capitals">Sternwartestr. 71</hi>
+                     </hi>
+                  </rs>
+               </addrLine>
+            </address>
+            <address>
+               <addrLine>an Hr Hugo v Hofma<c rendition="#gemination-n"/>sthal</addrLine>
+               <addrLine>
+                  <rs ref="#415" type="place">Bad Aussee</rs>
+               </addrLine>
+               <addrLine>
+                  <rs type="place" ref="#17">Steiermark</rs>.</addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="Hs-30885,151_001"/>
+                  <rs ref="#50" type="place">Wien</rs>, <date>6. 11. 24</date>
+               </dateline>
+            </opener>
+            <p>
+               <salute>mein lieber Hugo</salute> – schönen Dank für Ihren Gruſs aus <rs ref="#415" type="place">Aussee</rs>. Über das <rs ref="#29941" type="work">Frl. Else</rs> hör
+               ich und les ich von allen Seiten so viel gutes, dſs ich sie im ganzen beinah
+               überschätzt finden muſs – ebenso wie die <rs ref="#30205" type="work">K. d. V.</rs> –
+                  we<c rendition="#gemination-n"/> auch vielfach gewürdigt, – doch noch in höherm
+               Maſs (und nicht immer reinen Herzens) misverstanden. Nun es ist das alte Lied – wir
+               müssen es alle singen. Ich freue mich, dſs Ihr Stück vollendet ist. Wohl »<rs ref="#33722" type="work">Der Thurm</rs>«? Und die neue Arbeit –? Wa<c rendition="#gemination-n"/> werden Sie vorlesen? Wa<c rendition="#gemination-n"/>
+               kommen Sie nach <rs ref="#50" type="place">Wien</rs>? Was haben Sie für Winterpläne?
+               – Ich bleibe wohl vorläufig hier; im <date>Jänner</date>
+               <space unit="chars" quantity="1"/>soll <pb facs="Hs-30885,151_002"/>ich in der <rs ref="#43435" type="place">Schweiz</rs> lesen, – was ich hauptsächlich thun will,
+               um mir eine <rs ref="#1061" type="place">Engadin</rs>er Schnee- u Sonnenwoche <del rend="strikethrough">
+                  <unclear>ver</unclear>
+               </del> »mit gutem Gewissen« vergönnen
+               zu dürfen. – Ich dictire novellistisch und arbeite vorwiegend
+               aphoristisch-fragmentistisch. Schreiben Sie bald wieder, und wärs nur ein Wort! Es
+               ist so schön, von Ihnen was direct zu wissen! </p>
+            <p>Alles Herzliche. Ihr <signed>A.</signed>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

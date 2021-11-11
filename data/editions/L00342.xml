@@ -1,253 +1,226 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00342" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Richard Beer-Hofmann an Arthur Schnitzler,
-                    30. 6. 1894</title><author ref="#pmb10863">Beer-Hofmann, Richard</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Martin Anton Müller</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00342</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00342"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Richard Beer-Hofmann an Arthur Schnitzler,
+                    30. 6. 1894</title>
+            <author ref="#10863">Beer-Hofmann, Richard</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Martin Anton Müller</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00342</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc n="2" type="_blaetter"/><desc type="brief"/><desc n="7" type="_seiten"/></objectDesc><handDesc><handNote medium="blauer_buntstift" style="lateinische-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift datiert: »<quote><date>30/6 94</date></quote>« und nummeriert: »<quote>33</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">55–56</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><date when="1894-06-30" n="01">30. 6. 1894</date><placeName ref="#pmb213">Bad Ischl</placeName></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00341">Schnitzler an Beer-Hofmann, [zwischen
-                  26.–29. 6. 1894?]</ref><ref subtype="next_letter" type="withinCollection" target="L00343">Schnitzler an Beer-Hofmann, 2. 7. 1894</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00341">Schnitzler an Beer-Hofmann, [zwischen
-                  26.–29. 6. 1894?]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00343">Schnitzler an Beer-Hofmann, 2. 7. 1894</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 8</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="2" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="7" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="blauer_buntstift" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift datiert: »<quote>
+                                    <date>30/6 94</date>
+                                 </quote>« und nummeriert: »<quote>33</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASBH">
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <author ref="#10863">Beer-Hofmann, Richard</author>
+                     <title level="m">Briefwechsel 1891–1931</title>
+                     <editor>Hg. Konstanze Fliedl</editor>
+                     <imprint>
+                        <pubPlace>Wien, Zürich</pubPlace>
+                        <publisher>Europaverlag</publisher>
+                        <date when="1992">1992</date>
+                     </imprint>
+                     <biblScope unit="pp">55–56</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10863">Beer-Hofmann, Richard</persName>
+               <date when="1894-06-30" n="01">30. 6. 1894</date>
+               <placeName ref="#213">Bad Ischl</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00341">Schnitzler an Beer-Hofmann, [zwischen
+                  26.–29. 6. 1894?]</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00343">Schnitzler an Beer-Hofmann, 2. 7. 1894</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00341">Schnitzler an Beer-Hofmann, [zwischen
+                  26.–29. 6. 1894?]</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00343">Schnitzler an Beer-Hofmann, 2. 7. 1894</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2016-04-05">Angelegt aus Buchausgabe</change><change who="GHS" when="2019-10-06">überprüft am Faksimile</change><change who="MAM" when="2019-12-06">Durchsicht</change><change who="MAM" when="2019-12-06">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00073"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00074"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00075"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00076"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00073"/>Lieber Arthur!</salute></opener><p>An <rs ref="#pmb2450" type="person">F.</rs> hatte ich natürlich vergessen, ordnete aber die Sache sofort nach Erhalt Ihres Briefes. –</p><p>Unter welcher Adresse <anchor xml:id="K_L00342_1" type="commentary"/>gratulirt<note xml:id="K_L00342_1h" type="commentary">Dessen Hochzeit stand unmittelbar bevor: Am <date>8. 7. 1894</date> heirateten <rs ref="#pmb12698" type="person">Julius Schnitzler</rs> und <rs ref="#pmb24423" type="person">Helene Altmann</rs>.</note> man Ihrem <rs type="person" ref="#pmb12698" subtype="implied">Bruder</rs>?</p><p>Bitte Sie um Folgendes: Ich brauche ein <anchor xml:id="K_L00342_2" type="commentary"/>Cachenez<note xml:id="K_L00342_2h" type="commentary">ein Schal</note> welches so groß ist, daß <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00074"/>man es falten und als Schärpe binden kann. Es soll ganz <hi rend="underline" n="1">schwarz</hi> sein und zwar <hi rend="underline" n="1">schwerer</hi><space unit="chars" quantity="1"/><hi rend="underline" n="1">weicher</hi><space unit="chars" quantity="1"/><hi rend="underline" n="1">matter</hi> seidenstoff – nicht Atlas – womöglich schwarz in schwarz gemustert, vielleicht brokatartig. Wenn Sie es bei <rs ref="#pmb39535" type="org">Stoll + Uhlig</rs><space unit="chars" quantity="1"/><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00074"/>beko<c rendition="#gemination-m"/>en, dann lassen Sie es mir direkt zusenden ohne zu bezahlen, beko<c rendition="#gemination-m"/>en Sie es dort nicht, oder sehen Sie irgendwo etwas Passendes, so lassen Sie es mir zusenden und bezahlen unterdessen. Es kann übrigens auch <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00073"/><hi rend="underline" n="1">wenn es das giebt</hi> (?) schwarze glatte <hi rend="underline" n="1">Roh</hi>seide sein.</p><p><rs ref="#pmb10815" type="person">Bahr</rs> war vorgestern zwei Stunden in <rs ref="#pmb213" type="place">Ischl</rs>.</p><p><rs ref="#pmb19106 #pmb19096" type="person">Kappers</rs> sind hier, ich predige <rs type="person" ref="#pmb19106" subtype="implied">ihm</rs> Unmoral und beweise ihm wie bescheiden <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00075"/>er sein müsste. <rs ref="#pmb24566" type="person">Paul Schulz</rs> sprach ich; was hat der wieder gegen Sie? Oder vielmehr gegen das »<rs ref="#pmb30005" type="work">Abschiedssouper</rs>«? Übrigens liebt er auch den Styl <rs ref="#pmb9152" type="person">J. Opp<c rendition="#dots" n="3"/></rs> und mag den <rs ref="#pmb11673" type="person">Th. Herzl</rs> nicht.</p><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00076"/>Ko<c rendition="#gemination-m"/>en Sie bald nach der Hochzeit Ihres <rs type="person" ref="#pmb12698" subtype="implied">Bruders</rs>? <rs ref="#pmb414" type="place">Leopold</rs>?</p><p>Grüßen Sie <rs ref="#pmb11740" type="person">Hugo</rs>, zeigen Sie ihm aber nicht den Brief, er macht mir sonst Vorwürfe daß zuviel »Tatsächliches« <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00076"/>drinnen steht. <rs ref="#pmb2167" type="person">Salten</rs> auch.</p><closer>Herzlichst<lb/>Ihr <signed>Richard</signed></closer><postscript><dateline><rs ref="#pmb213" type="place">Ischl</rs><space unit="chars" quantity="1"/><date>30/VI 94</date></dateline><p>Ich freu mich aufs Siegeln</p></postscript></div></body><back><listPerson><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb2450">
-                  <tei:persName>
-                     <tei:surname>Fels</tei:surname>
-                     <tei:forename>Friedrich M.</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1864-07-01">1864</tei:date>
-                     <tei:placeName ref="#pmb41882">Bad Dürkheim</tei:placeName>
-                  </tei:birth>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb12698">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Julius</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1865-07-13">13. 7. 1865</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-06-29">29. 6. 1939</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="364">Chirurg*in</occupation>
-               </tei:person><tei:person xml:id="pmb24423">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Helene</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1871-07-16">16. 7. 1871</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1941-09-01">September 1941</tei:date>
-                     <tei:placeName ref="#pmb12376">Atlantischer Ozean</tei:placeName>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb10815">
-                  <tei:persName>
-                     <tei:surname>Bahr</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb19106">
-                  <tei:persName>
-                     <tei:surname>Kapper</tei:surname>
-                     <tei:forename>Friedrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1861-04-21">21. 4. 1861</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-07-22">22. 7. 1939</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="288">Arzt/Ärztin</occupation>
-               </tei:person><tei:person xml:id="pmb19096">
-                  <tei:persName>
-                     <tei:surname>Kapper</tei:surname>
-                     <tei:forename>Adele</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1870-01-25">25. 1. 1870</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1941-01-01">1941</tei:date>
-                     <tei:placeName ref="#pmb4549">Vernichtungslager Maly Trostinez</tei:placeName>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb24566">
-                  <tei:persName>
-                     <tei:surname>Schulz</tei:surname>
-                     <tei:forename>Paul</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1860-07-01">1. 7. 1860</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1919-01-31">31. 1. 1919</tei:date>
-                     <tei:placeName ref="#pmb39531">Kreuzlingen</tei:placeName>
-                  </tei:death>
-                  <occupation code="113">Ministerialbeamter/in</occupation>
-               </tei:person><tei:person xml:id="pmb9152">
-                  <tei:persName>
-                     <tei:surname>Oppenheim</tei:surname>
-                     <tei:forename>Josef</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1839-12-17">17. 12. 1839</tei:date>
-                     <tei:placeName ref="#pmb9153">Arheiligen</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1900-07-12">12. 7. 1900</tei:date>
-                     <tei:placeName ref="#pmb662">Baden bei Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb11673">
-                  <tei:persName>
-                     <tei:surname>Herzl</tei:surname>
-                     <tei:forename>Theodor</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1860-05-02">2. 5. 1860</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1904-07-03">3. 7. 1904</tei:date>
-                     <tei:placeName ref="#pmb470">Edlach</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2167">
-                  <tei:persName>
-                     <tei:surname>Salten</tei:surname>
-                     <tei:forename>Felix</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1869-09-06">6. 9. 1869</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-10-08">8. 10. 1945</tei:date>
-                     <tei:placeName ref="#pmb484">Zürich</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30005">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb2242" role="translator">
-                     <tei:surname>Levi</tei:surname>
-                     <tei:forename>Cesare</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:title>Abschiedssouper</tei:title>
-                  <tei:date from="1892-01-01" from-custom="1892">1892</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb213">
-                  <tei:placeName>Bad Ischl</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb414">
-                  <tei:placeName>Hotel und Pension Rudolfshöhe (Leopold Petter)</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i12">Hotel</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.706537 13.609575</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb39535">
-                  <tei:orgName>Stoll &amp; Uhlig</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i1332">Schneiderei</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb51">
-                     <tei:placeName>I., Innere Stadt</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2016-04-05">Angelegt aus Buchausgabe</change>
+         <change who="GHS" when="2019-10-06">überprüft am Faksimile</change>
+         <change who="MAM" when="2019-12-06">Durchsicht</change>
+         <change who="MAM" when="2019-12-06">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00073"/>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00074"/>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00075"/>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00076"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <salute>
+                  <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00073"/>Lieber
+                        Arthur!</salute>
+            </opener>
+            <p>An <rs ref="#2450" type="person">F.</rs> hatte ich natürlich vergessen, ordnete
+                    aber die Sache sofort nach Erhalt Ihres Briefes. –</p>
+            <p>Unter welcher Adresse <anchor xml:id="K_L00342_1" type="commentary"/>gratulirt<note xml:id="K_L00342_1h" type="commentary">Dessen Hochzeit
+                        stand unmittelbar bevor: Am <date>8. 7. 1894</date> heirateten <rs ref="#12698" type="person">Julius Schnitzler</rs> und <rs ref="#24423" type="person">Helene Altmann</rs>.</note> man Ihrem <rs type="person" ref="#12698" subtype="implied">Bruder</rs>?</p>
+            <p>Bitte Sie um Folgendes: Ich brauche ein <anchor xml:id="K_L00342_2" type="commentary"/>Cachenez<note xml:id="K_L00342_2h" type="commentary">ein Schal</note> welches so groß ist, daß <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00074"/>man es falten und als
+                    Schärpe binden kann. Es soll ganz <hi rend="underline" n="1">schwarz</hi>
+                sein
+                    und zwar <hi rend="underline" n="1">schwerer</hi>
+               <space unit="chars" quantity="1"/>
+               <hi rend="underline" n="1">weicher</hi>
+               <space unit="chars" quantity="1"/>
+               <hi rend="underline" n="1">matter</hi>
+                seidenstoff – nicht
+                    Atlas – womöglich schwarz in schwarz gemustert, vielleicht brokatartig. Wenn Sie
+                    es bei <rs ref="#39535" type="org">Stoll + Uhlig</rs>
+               <space unit="chars" quantity="1"/>
+               <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00074"/>beko<c rendition="#gemination-m"/>en, dann lassen Sie es mir direkt zusenden ohne
+                    zu bezahlen, beko<c rendition="#gemination-m"/>en Sie es dort nicht, oder sehen
+                    Sie irgendwo etwas Passendes, so lassen Sie es mir zusenden und bezahlen
+                    unterdessen. Es kann übrigens auch <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00073"/>
+               <hi rend="underline" n="1">wenn es das giebt</hi> (?) schwarze glatte <hi rend="underline" n="1">Roh</hi>seide sein.</p>
+            <p>
+               <rs ref="#10815" type="person">Bahr</rs> war vorgestern zwei Stunden in <rs ref="#213" type="place">Ischl</rs>.</p>
+            <p>
+               <rs ref="#19106 #19096" type="person">Kappers</rs>
+                sind hier, ich predige <rs type="person" ref="#19106" subtype="implied">ihm</rs> Unmoral und beweise
+                    ihm wie bescheiden <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00075"/>er
+                    sein müsste. <rs ref="#24566" type="person">Paul Schulz</rs>
+                sprach ich; was hat
+                    der wieder gegen Sie? Oder vielmehr gegen das »<rs ref="#30005" type="work">Abschiedssouper</rs>«? Übrigens liebt er auch den Styl <rs ref="#9152" type="person">J. Opp<c rendition="#dots" n="3"/>
+               </rs> und mag den <rs ref="#11673" type="person">Th. Herzl</rs> nicht.</p>
+            <p>
+               <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00076"/>Ko<c rendition="#gemination-m"/>en Sie bald nach der Hochzeit Ihres <rs type="person" ref="#12698" subtype="implied">Bruders</rs>? <rs ref="#414" type="place">Leopold</rs>?</p>
+            <p>Grüßen Sie <rs ref="#11740" type="person">Hugo</rs>, zeigen Sie ihm aber nicht
+                    den Brief, er macht mir sonst Vorwürfe daß zuviel »Tatsächliches« <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00076"/>drinnen steht. <rs ref="#2167" type="person">Salten</rs> auch.</p>
+            <closer>Herzlichst<lb/>Ihr <signed>Richard</signed>
+            </closer>
+            <postscript>
+               <dateline>
+                  <rs ref="#213" type="place">Ischl</rs>
+                  <space unit="chars" quantity="1"/>
+                  <date>30/VI 94</date>
+               </dateline>
+               <p>Ich freu mich aufs Siegeln</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

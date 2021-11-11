@@ -1,150 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01634" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hermann Bahr, 18. 10. 1906 </title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Kurt Ifkovits</name><name>Martin Anton Müller</name></respStmt><idno type="asbw">L01634</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L01634"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Hermann Bahr, 18. 10. 1906 </title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Kurt Ifkovits</name>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+            <idno type="asbw">L01634</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Theatermuseum</repository><idno>HS AM 23383 Ba</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="archival"><desc>Lochung</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="DASB"><analytic><title level="a">18. 10. 1906</title></analytic><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title><editor>Edited, annotated, and with an introduction, by Donald G.
-                        Daviau</editor><imprint><pubPlace>Chapel Hill</pubPlace><publisher>The University of North Carolina Press</publisher><date when="1978">1978</date></imprint><biblScope unit="pp">95–96</biblScope></monogr><series><title level="s">University of North Carolina studies in the Germanic languages
-                        and literatures</title><biblScope unit="nr">89</biblScope></series></biblStruct><biblStruct corresp="HBAS"><monogr><author ref="#pmb10815">Bahr, Hermann</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title><editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor><imprint><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher><date when="2018">2018</date></imprint><biblScope unit="pp">383–384</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1906-10-18" n="01">18. 10. 1906</date></correspAction><correspAction type="received"><persName ref="#pmb10815">Bahr, Hermann</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10815">Bahr, Hermann</ref><ref subtype="previous_letter" type="withinCollection" target="L01633">Bahr an Schnitzler, 16. 10. 1906</ref><ref subtype="next_letter" type="withinCollection" target="L01635">Schnitzler an Mell, 26. 10. 1906</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01633">Bahr an Schnitzler, 16. 10. 1906</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01649">Schnitzler an Bahr, 10. 1. 1907</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Theatermuseum</repository>
+                        <idno>HS AM 23383 Ba</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="2" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="archival">
+                              <desc>Lochung</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="DASB">
+                  <analytic>
+                     <title level="a">18. 10. 1906</title>
+                  </analytic>
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">The Letters of Arthur Schnitzler to Hermann Bahr</title>
+                     <editor>Edited, annotated, and with an introduction, by Donald G.
+                        Daviau</editor>
+                     <imprint>
+                        <pubPlace>Chapel Hill</pubPlace>
+                        <publisher>The University of North Carolina Press</publisher>
+                        <date when="1978">1978</date>
+                     </imprint>
+                     <biblScope unit="pp">95–96</biblScope>
+                  </monogr>
+                  <series>
+                     <title level="s">University of North Carolina studies in the Germanic languages
+                        and literatures</title>
+                     <biblScope unit="nr">89</biblScope>
+                  </series>
+               </biblStruct>
+               <biblStruct corresp="HBAS">
+                  <monogr>
+                     <author ref="#10815">Bahr, Hermann</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</title>
+                     <editor>Hg. Kurt Ifkovits und Martin Anton Müller</editor>
+                     <imprint>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Wallstein</publisher>
+                        <date when="2018">2018</date>
+                     </imprint>
+                     <biblScope unit="pp">383–384</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1906-10-18" n="01">18. 10. 1906</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#10815">Bahr, Hermann</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10815">Bahr, Hermann</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01633">Bahr an Schnitzler, 16. 10. 1906</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01635">Schnitzler an Mell, 26. 10. 1906</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L01633">Bahr an Schnitzler, 16. 10. 1906</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01649">Schnitzler an Bahr, 10. 1. 1907</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="KI MAM" when="2015-10-01">Kollationiert</change><change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change><change who="MAM" when="2019-01-20">Index check</change><change who="GHS" when="2020-09-02">finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="HS_AM23383Ba"/><graphic url="HS_AM23383Ba_R"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="https://www.theatermuseum.at/de/object/185cbc6a81/"/><rs ref="#pmb50" type="place">Wien</rs>, <date>18. X. 906</date></dateline><salute>lieber Hermann, </salute></opener><p>eine Aehnlichkeit zwi<c rendition="#langesS">s</c>chen <rs type="work" ref="#pmb30007" subtype="implied">deinem Akt</rs> und dem <rs ref="#pmb30005" type="work">Ab<c rendition="#langesS">s</c>chied<c rendition="#langesS">s</c>ouper</rs> wäre höch<c rendition="#langesS">s</c>tens irgendwo im äußerlich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>tofflichen zu finden, im innerlich stofflichen<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon nicht mehr, und gewi<c rendition="#langesS">s</c>s nicht im <del rend="strikethrough">eigentlich</del> »<c rendition="#langesS">s</c>eeli<c rendition="#langesS">s</c>ch ge<c rendition="#langesS">s</c>taltlichen« – <add place="inline">(</add>um zu i<c rendition="#gemination-m"/>er grauenhafteren Worten auf- oder niederzu<c rendition="#langesS">s</c>teigen). Dein Problem ist viel verzwickter, der Fortgang der Handlung gedrehter,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>piraliger, jüdi<c rendition="#langesS">s</c>cher gegenüber der naiv <rs ref="#pmb166" type="place"><hi rend="latintype">gauloisen</hi></rs> Fabel des braven alten <rs type="work" ref="#pmb29935" subtype="implied">Anatol<c rendition="#langesS">s</c>tückls</rs>, außerdem wird bei mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>oupirt und bei dir doch eigentlich nur <anchor xml:id="K_L01634_1" type="commentary"/>gejau<c rendition="#langesS">s</c>net<note xml:id="K_L01634_1h" type="commentary">österreichisch Jause: Zwischenmahlzeit</note>. Die Atmosphäre deines Stücks ist dünner,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chärfer; das ganze brutaler (für <pb facs="https://www.theatermuseum.at/de/object/185cbc6a81/"/>meinen Ge<c rendition="#langesS">s</c>chmack im Beginn be<c rendition="#langesS">s</c>onders bis zum Ab<c rendition="#langesS">s</c>toßenden brutal) angepackt. Wenn du mir, oder dem guten <rs type="work" ref="#pmb29935" subtype="implied">Anatol</rs>, die<c rendition="#langesS">s</c>en <rs type="work" ref="#pmb30007" subtype="implied">intere<c rendition="#langesS">s</c><c rendition="#langesS">s</c>anten Einakter</rs> widmen will<c rendition="#langesS">s</c>t,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o nehm ich s natürlich mit Dank u Rührung an, nur mußt du mir erlauben, deine Erinnerung nicht als Anregungsqui<damage agent="hole"><supplied>tt</supplied></damage>irung und Ausdruck einer Gewi<c rendition="#langesS">s</c><c rendition="#langesS">s</c>ens<c rendition="#langesS">s</c>chuld<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ondern als ein neues und daher mir willko<c rendition="#gemination-m"/>enes Zeichen un<c rendition="#langesS">s</c>erer guten Zu<c rendition="#langesS">s</c>a<c rendition="#gemination-m"/>engehörigkeit zu empfinden u zu empfangen.</p><p>Hoffentlich fügt es<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich, d<c rendition="#langesS">s</c>s wir einander vor deiner Abrei<c rendition="#langesS">s</c>e noch einmal<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehen. (Gern möcht ich auch etwas, <anchor xml:id="K_L01634_2" type="commentary"/><rs ref="#pmb12504" type="person"><hi rend="latintype">Reinhardt</hi></rs> betreffendes<note xml:id="K_L01634_2h" type="commentary">eine Aufführung von <rs ref="#pmb29857" type="work">Der Schleier der Beatrice</rs>, <ref target="1906-10-29" subtype="cf" type="schnitzlerDiary"/> und <bibl>vgl. den Brief von <rs type="person" ref="#pmb2121">Schnitzler</rs> an <rs type="person" ref="#pmb12504">Max Reinhardt</rs>, <date>24. 12. 1909</date> in A. S. <title level="m">Briefe</title> I,613–621</bibl>.</note>, aber haupt<c rendition="#langesS">s</c>ächlich in <damage agent="hole"><supplied>mei</supplied></damage>nem Intere<c rendition="#langesS">s</c><c rendition="#langesS">s</c>e liegendes<del rend="strikethrough">)</del> mit dir be<c rendition="#langesS">s</c>prechen.)</p><closer>Herzlich<c rendition="#langesS">s</c>t, mit Grüßen von<lb/>meiner <rs type="person" ref="#pmb2173" subtype="implied">Frau</rs> u mir<lb/>dein<lb/><signed>Arthur</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10815">
-                  <tei:persName>
-                     <tei:surname>Bahr</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-19">19. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb332">Linz</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1934-01-15">15. 1. 1934</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="100">Kritiker*in</occupation>
-               </tei:person><tei:person xml:id="pmb12504">
-                  <tei:persName>
-                     <tei:surname>Reinhardt</tei:surname>
-                     <tei:forename>Max</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1873-09-09">9. 9. 1873</tei:date>
-                     <tei:placeName ref="#pmb662">Baden bei Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1943-10-30">30. 10. 1943</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="103">Theaterleiter*in</occupation>
-                  <occupation code="104">Regisseur*in</occupation>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb2173">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Olga</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
-                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
-                  </tei:death>
-                  <occupation code="107">Sänger*in</occupation>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb30007">
-                  <tei:author ref="pmb10815" role="author">
-                     <tei:surname>Bahr</tei:surname>
-                     <tei:forename>Hermann</tei:forename>
-                  </tei:author>
-                  <tei:title>Die tiefe Natur. Ein Akt</tei:title>
-                  <tei:date from="1906-12-01" from-custom="01.12.1906">1. 12. 1906</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-                  <tei:note>2864</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30005">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb2242" role="translator">
-                     <tei:surname>Levi</tei:surname>
-                     <tei:forename>Cesare</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:title>Abschiedssouper</tei:title>
-                  <tei:date from="1892-01-01" from-custom="1892">1892</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29935">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb28645" role="illustrator">
-                     <tei:surname>Coschell</tei:surname>
-                     <tei:forename>Moritz</tei:forename>
-                     <tei:term>[Illustrationen]</tei:term>
-                  </tei:author>
-                  <tei:author ref="pmb5369" role="translator">
-                     <tei:surname>Granville-Barker</tei:surname>
-                     <tei:forename>Harley</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:title>Anatol</tei:title>
-                  <tei:date when="1892-10-29" when-custom="1892-10-29">29. 10. 1892</tei:date>
-                  <tei:gloss type="w1058">Einakterzyklus</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29857">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Schleier der Beatrice. Schauspiel in fünf Akten</tei:title>
-                  <tei:date when="1900-12-01" when-custom="1900-12-01">1. 12. 1900</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>6201</tei:note>
-                  <tei:note>8990</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb166">
-                  <tei:placeName>Frankreich</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i38">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">46.0 2.0</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="KI MAM" when="2015-10-01">Kollationiert</change>
+         <change who="MAM" when="2018-07-15">Überführt aus Bahr–Schnitzler-Daten</change>
+         <change who="MAM" when="2019-01-20">Index check</change>
+         <change who="GHS" when="2020-09-02">finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="HS_AM23383Ba"/>
+      <graphic url="HS_AM23383Ba_R"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="https://www.theatermuseum.at/de/object/185cbc6a81/"/>
+                  <rs ref="#50" type="place">Wien</rs>, <date>18. X. 906</date>
+               </dateline>
+               <salute>lieber Hermann, </salute>
+            </opener>
+            <p>eine Aehnlichkeit zwiſchen <rs type="work" ref="#30007" subtype="implied">deinem
+                  Akt</rs> und dem <rs ref="#30005" type="work">Abſchiedſouper</rs> wäre höchſtens
+               irgendwo im äußerlich ſtofflichen zu finden, im innerlich stofflichen ſchon nicht
+               mehr, und gewiſs nicht im <del rend="strikethrough">eigentlich</del> »ſeeliſch
+               geſtaltlichen« – <add place="inline">(</add>um zu i<c rendition="#gemination-m"/>er
+               grauenhafteren Worten auf- oder niederzuſteigen). Dein Problem ist viel verzwickter,
+               der Fortgang der Handlung gedrehter, ſpiraliger, jüdiſcher gegenüber der naiv <rs ref="#166" type="place">
+                  <hi rend="latintype">gauloisen</hi>
+               </rs> Fabel des braven alten <rs type="work" ref="#29935" subtype="implied">Anatolſtückls</rs>, außerdem wird bei mir ſoupirt und bei dir doch eigentlich nur
+                  <anchor xml:id="K_L01634_1" type="commentary"/>gejauſnet<note xml:id="K_L01634_1h" type="commentary">österreichisch Jause: Zwischenmahlzeit</note>. Die Atmosphäre
+               deines Stücks ist dünner, ſchärfer; das ganze brutaler (für <pb facs="https://www.theatermuseum.at/de/object/185cbc6a81/"/>meinen Geſchmack im
+               Beginn beſonders bis zum Abſtoßenden brutal) angepackt. Wenn du mir, oder dem guten
+                  <rs type="work" ref="#29935" subtype="implied">Anatol</rs>, dieſen <rs type="work" ref="#30007" subtype="implied">intereſſanten Einakter</rs> widmen willſt, ſo nehm
+               ich s natürlich mit Dank u Rührung an, nur mußt du mir erlauben, deine Erinnerung
+               nicht als Anregungsqui<damage agent="hole">
+                  <supplied>tt</supplied>
+               </damage>irung und Ausdruck einer Gewiſſensſchuld ſondern als ein neues und daher mir
+                  willko<c rendition="#gemination-m"/>enes Zeichen unſerer guten Zuſa<c rendition="#gemination-m"/>engehörigkeit zu empfinden u zu empfangen.</p>
+            <p>Hoffentlich fügt es ſich, dſs wir einander vor deiner Abreiſe noch einmal ſehen.
+               (Gern möcht ich auch etwas, <anchor xml:id="K_L01634_2" type="commentary"/>
+               <rs ref="#12504" type="person">
+                  <hi rend="latintype">Reinhardt</hi>
+               </rs> betreffendes<note xml:id="K_L01634_2h" type="commentary">eine Aufführung von
+                     <rs ref="#29857" type="work">Der Schleier der Beatrice</rs>, <ref target="1906-10-29" subtype="cf" type="schnitzlerDiary"/> und <bibl>vgl. den
+                     Brief von <rs type="person" ref="#2121">Schnitzler</rs> an <rs type="person" ref="#12504">Max Reinhardt</rs>, <date>24. 12. 1909</date> in A. S. <title level="m">Briefe</title> I,613–621</bibl>.</note>, aber hauptſächlich in
+                  <damage agent="hole">
+                  <supplied>mei</supplied>
+               </damage>nem Intereſſe liegendes<del rend="strikethrough">)</del> mit dir
+               beſprechen.)</p>
+            <closer>Herzlichſt, mit Grüßen von<lb/>meiner <rs type="person" ref="#2173" subtype="implied">Frau</rs> u mir<lb/>dein<lb/>
+               <signed>Arthur</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

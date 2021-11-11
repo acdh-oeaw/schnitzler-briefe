@@ -1,196 +1,192 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00460" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 9. 7. 1895</title><author ref="#pmb10863">Beer-Hofmann, Richard</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00460</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L00460"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Richard Beer-Hofmann an Arthur Schnitzler, 9. 7. 1895</title>
+            <author ref="#10863">Beer-Hofmann, Richard</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00460</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 8</idno></msIdentifier><physDesc><objectDesc><desc type="karte" subtype="briefkarte"/></objectDesc><handDesc><handNote medium="bleistift" style="lateinische-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift nummeriert: »<quote>63</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">78</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb213">Bad Ischl</placeName><date when="1895-07-09" n="01">9. 7. 1895</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb772">Marienbad</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L00459">Schnitzler an Beer-Hofmann, 24. 6. 1895</ref><ref subtype="next_letter" type="withinCollection" target="L00461">Schnitzler an Beer-Hofmann, [10. 7. 1895?]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00459">Schnitzler an Beer-Hofmann, 24. 6. 1895</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00461">Schnitzler an Beer-Hofmann, [10. 7. 1895?]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 8</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="karte" subtype="briefkarte"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="bleistift" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift nummeriert: »<quote>63</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASBH">
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <author ref="#10863">Beer-Hofmann, Richard</author>
+                     <title level="m">Briefwechsel 1891–1931</title>
+                     <editor>Hg. Konstanze Fliedl</editor>
+                     <imprint>
+                        <pubPlace>Wien, Zürich</pubPlace>
+                        <publisher>Europaverlag</publisher>
+                        <date when="1992">1992</date>
+                     </imprint>
+                     <biblScope unit="pp">78</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#10863">Beer-Hofmann, Richard</persName>
+               <placeName ref="#213">Bad Ischl</placeName>
+               <date when="1895-07-09" n="01">9. 7. 1895</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#772">Marienbad</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00459">Schnitzler an Beer-Hofmann, 24. 6. 1895</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00461">Schnitzler an Beer-Hofmann, [10. 7. 1895?]</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L00459">Schnitzler an Beer-Hofmann, 24. 6. 1895</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00461">Schnitzler an Beer-Hofmann, [10. 7. 1895?]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2019-10-15">überprüft am Faksimile</change><change who="MAM" when="2019-12-27">Index check</change><change who="MAM" when="2020-01-16">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00137"/><graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00138"/></facsimile><text type="card"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00137"/><rs ref="#pmb213" type="place">Ischl</rs><space unit="chars" quantity="1"/><date when="1895-07-09">9/VII 95</date></dateline></opener><p><salute>Lieber Arthur! </salute>Natürlich hab ich Ihnen nicht geschrieben, und ebenso natürlich hab ich Gewissensbisse. <rs ref="#pmb14328" type="person">Blumenthal</rs> ist hier – in eigener <rs type="place" ref="#pmb35644" subtype="implied">Villa</rs>–. <rs ref="#pmb2601" type="person">Jarno</rs> hat heute die Première <hi rend="underline" n="1">seines</hi> stückes »<rs ref="#pmb41396" type="work">der Rabenvater</rs>« (noch irgend ein <rs type="person" ref="#pmb16275" subtype="implied">Compagnon</rs> ist dabei). Es lebe der neue <rs ref="#pmb11845" type="person">Kadelburg</rs>!</p><p><pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00138"/>Er hatte die ungeheuerliche Idee »<rs ref="#pmb29917" type="work">Liebelei</rs>« hier aufführen zu wollen. In <rs ref="#pmb168" type="place">Berlin</rs> soll er darin mitspielen. <rs ref="#pmb12355" type="person">Nhil</rs> war, – ist möglicherweise noch hier. Der kleine <rs ref="#pmb11988" type="person">Kraus</rs> hat bereits 3 mal mit tiefer Herzlichkeit mir die Hand geschüttelt. Es waren i<c rendition="#gemination-m"/>er andere dabei. Er ist köstlich verlegen, nur ich schweige was ihn sehr beunruhigt. Sie ko<c rendition="#gemination-m"/>en bald?</p><closer>Herzlichst Ihr <signed>R.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb14328">
-                  <tei:persName>
-                     <tei:surname>Blumenthal</tei:surname>
-                     <tei:forename>Oskar</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1852-03-13">13. 3. 1852</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1917-04-24">24. 4. 1917</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="103">Theaterleiter*in</occupation>
-               </tei:person><tei:person xml:id="pmb2601">
-                  <tei:persName>
-                     <tei:surname>Jarno</tei:surname>
-                     <tei:forename>Josef</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1865-08-24">24. 8. 1865</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1932-01-11">11. 1. 1932</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="103">Theaterleiter*in</occupation>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb16275">
-                  <tei:persName>
-                     <tei:surname>Fischer</tei:surname>
-                     <tei:forename>Hanns Friedrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1865-07-26">26. 7. 1865</tei:date>
-                     <tei:placeName ref="#pmb866">Dresden</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1952-08-21">21. 8. 1952</tei:date>
-                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="103">Theaterleiter*in</occupation>
-                  <occupation code="104">Regisseur*in</occupation>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb11845">
-                  <tei:persName>
-                     <tei:surname>Kadelburg</tei:surname>
-                     <tei:forename>Gustav</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1851-07-26">26. 7. 1851</tei:date>
-                     <tei:placeName ref="#pmb43471">Budapest</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1925-09-11">11. 9. 1925</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb12355">
-                  <tei:persName>
-                     <tei:surname>Nhil</tei:surname>
-                     <tei:forename>Robert</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1858-07-18">18. 7. 1858</tei:date>
-                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1938-10-31">31. 10. 1938</tei:date>
-                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
-                  </tei:death>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb11988">
-                  <tei:persName>
-                     <tei:surname>Kraus</tei:surname>
-                     <tei:forename>Karl</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-04-28">28. 4. 1874</tei:date>
-                     <tei:placeName ref="#pmb41660">Jičín</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1936-06-12">12. 6. 1936</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="237">Publizist*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb41396">
-                  <tei:author ref="pmb2601" role="author">
-                     <tei:surname>Jarno</tei:surname>
-                     <tei:forename>Josef</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb16275" role="author">
-                     <tei:surname>Fischer</tei:surname>
-                     <tei:forename>Hanns Friedrich</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Rabenvater. Schwank in drei Akten</tei:title>
-                  <tei:date when="1895-07-09" when-custom="9.7.1895">9. 7. 1895</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29917">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Liebelei. Schauspiel in drei Akten</tei:title>
-                  <tei:date from="1895-10-09" from-custom="9.10.1895">9. 10. 1895</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb213">
-                  <tei:placeName>Bad Ischl</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.71109 13.61893</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb772">
-                  <tei:placeName>Marienbad</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">49.96115 12.72872</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb35644">
-                  <tei:placeName>Villa Blumenthal</tei:placeName>
-                  <tei:desc>
-                     <tei:date from="1894-01-01" from-custom="1894-01-01">1. 1. 1894</tei:date>
-                     <tei:gloss ana="i24">Gebäude</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.6825 13.618889</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
-                  <tei:placeName>Berlin</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change>
+         <change who="GHS" when="2019-10-15">überprüft am Faksimile</change>
+         <change who="MAM" when="2019-12-27">Index check</change>
+         <change who="MAM" when="2020-01-16">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00137"/>
+      <graphic url="MS-SCHNITZLER-B-0008-B-00001-000-00138"/>
+   </facsimile>
+   <text type="card">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00137"/>
+                  <rs ref="#213" type="place">Ischl</rs>
+                  <space unit="chars" quantity="1"/>
+                  <date when="1895-07-09">9/VII 95</date>
+               </dateline>
+            </opener>
+            <p>
+               <salute>Lieber Arthur! </salute>Natürlich hab ich Ihnen nicht geschrieben, und ebenso
+               natürlich hab ich Gewissensbisse. <rs ref="#14328" type="person">Blumenthal</rs> ist
+               hier – in eigener <rs type="place" ref="#35644" subtype="implied">Villa</rs>–. <rs ref="#2601" type="person">Jarno</rs> hat heute die
+               Première <hi rend="underline" n="1">seines</hi>
+                stückes »<rs ref="#41396" type="work">der Rabenvater</rs>« (noch irgend ein <rs type="person" ref="#16275" subtype="implied">Compagnon</rs> ist dabei). Es lebe der neue <rs ref="#11845" type="person">Kadelburg</rs>!</p>
+            <p>
+               <pb facs="MS-SCHNITZLER-B-0008-B-00001-000-00138"/>Er hatte die ungeheuerliche Idee »<rs ref="#29917" type="work">Liebelei</rs>« hier
+               aufführen zu wollen. In <rs ref="#168" type="place">Berlin</rs>
+                soll er darin
+               mitspielen. <rs ref="#12355" type="person">Nhil</rs> war, – ist möglicherweise
+               noch hier. Der kleine <rs ref="#11988" type="person">Kraus</rs> hat bereits
+               3 mal mit tiefer Herzlichkeit mir die Hand geschüttelt. Es waren i<c rendition="#gemination-m"/>er andere
+               dabei. Er ist köstlich verlegen, nur ich schweige was ihn sehr beunruhigt. Sie ko<c rendition="#gemination-m"/>en bald?</p>
+            <closer>Herzlichst Ihr <signed>R.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

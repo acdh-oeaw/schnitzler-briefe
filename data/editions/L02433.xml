@@ -1,152 +1,226 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02433" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Gertrud Rung an Arthur Schnitzler, 17. 2. 1925</title><author ref="#pmb5558">Rung, Gertrud</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02433</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02433"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Gertrud Rung an Arthur Schnitzler, 17. 2. 1925</title>
+            <author ref="#5558">Rung, Gertrud</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L02433</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 17</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="lateinische-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift beschriftet: »<quote><p>(<hi rend="latintype">Brandes</hi></p><p><hi rend="latintype">Rung</hi>)</p></quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift vereinzelte Unterstreichungen</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>56</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASGB"><monogr><author ref="#pmb10992">Brandes, Georg</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Ein Briefwechsel</title><editor>Hg. Kurt Bergel</editor><imprint><pubPlace>Bern</pubPlace><publisher>Francke</publisher><date when="1956">1956</date></imprint><biblScope unit="pp">144</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb5558">Rung, Gertrud</persName><placeName ref="#pmb36300">Kopenhagen</placeName><date when="1925-02-17" n="01">17. 2. 1925</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10992">Brandes Georg</ref><ref subtype="previous_letter" type="withinCollection" target="L02432">Schnitzler an
-                  Brandes, 11. 2. 1925</ref><ref subtype="next_letter" type="withinCollection" target="L02434">Schnitzler an
-                  Brandes, 22. 2. 1925</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02432">Schnitzler
-                  an Brandes, 11. 2. 1925</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02434">Schnitzler an
-                  Brandes, 22. 2. 1925</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 17</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="brief"/>
+                           <desc n="1" type="_blaetter"/>
+                           <desc n="2" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="lateinische-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift beschriftet: »<quote>
+                                    <p>(<hi rend="latintype">Brandes</hi>
+                                    </p>
+                                    <p>
+                                       <hi rend="latintype">Rung</hi>)</p>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="receiver">
+                              <desc>mit rotem Buntstift vereinzelte Unterstreichungen</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>56</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASGB">
+                  <monogr>
+                     <author ref="#10992">Brandes, Georg</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Ein Briefwechsel</title>
+                     <editor>Hg. Kurt Bergel</editor>
+                     <imprint>
+                        <pubPlace>Bern</pubPlace>
+                        <publisher>Francke</publisher>
+                        <date when="1956">1956</date>
+                     </imprint>
+                     <biblScope unit="pp">144</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#5558">Rung, Gertrud</persName>
+               <placeName ref="#36300">Kopenhagen</placeName>
+               <date when="1925-02-17" n="01">17. 2. 1925</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10992">Brandes Georg</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L02432">Schnitzler an
+                  Brandes, 11. 2. 1925</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L02434">Schnitzler an
+                  Brandes, 22. 2. 1925</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L02432">Schnitzler
+                  an Brandes, 11. 2. 1925</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L02434">Schnitzler an
+                  Brandes, 22. 2. 1925</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="20180801">Angelegt</change><change who="MAM" when="20180814">Durchsicht</change><change who="MAM" when="2018-10-01">Index check</change><change who="GHS" when="2019-08-11">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00105"/><graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00106"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00105"/><rs ref="#pmb36300" type="place">Kopenhagen</rs><space unit="chars" quantity="1"/><date>17-2-25</date></dateline><salute>Hochverehrter Herr.</salute></opener><p>Dr <rs ref="#pmb10992" type="person">Georg Brandes</rs> bittet Sie dringend ihm nicht zu verübeln, daß er Ihnen diesmal nicht persönlich schreibt. Die bevorstehende Vortragsreise nimmt die Zeit des Doktors derartig in Anspruch, daß er zu müde ist sein Correspondenz selber zu führen.</p><p>Dr <rs ref="#pmb10992" type="person">Brandes</rs> beauftragt mich deshalb, Ihnen, hochverehrter Herr, zu sagen, daß es ihm eine ganz besondere Freude sein wird sich mit Ihnen irgendwo zusammen zu treffen.<space unit="chars" quantity="3"/>Der erste <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00106"/><anchor xml:id="K_L02433_1" type="commentary"/>Vortrag<note xml:id="K_L02433_1h" type="commentary"><rs ref="#pmb10992" type="person">Brandes</rs> hielt in <rs ref="#pmb168" type="place">Berlin</rs> nur einen Vortrag: am <date>31. 3. 1925</date> im <rs ref="#pmb37725" type="place">Blüthner-Saal</rs> zum Thema: <rs ref="#pmb37723" type="work">Das heutige Europa</rs>. <rs ref="#pmb10992" type="person">Brandes</rs>’ Aufenthalt und sein Vortrag fanden in der <rs ref="#pmb168" type="place">Berlin</rs>er Presse große Resonanz (<bibl>vgl. <rs ref="#pmb37739" type="person">A. F. Cohn</rs>: <rs ref="#pmb37740" type="work">Georg Brandes in Berlin</rs>. In: <rs ref="#pmb41531" type="work">Berliner Tageblatt</rs>, Jg. 54, Nr. 153, <date>31. 3. 1925</date>, Abend-Ausgabe, S. 4</bibl>. Anschließend fuhr <rs ref="#pmb10992" type="person">Brandes</rs> nach <rs ref="#pmb50" type="place">Wien</rs>, um dort am <date>8. 4. 1931</date> den Vortrag zu wiederholen.</note> soll in <rs ref="#pmb168" type="place">Berlin</rs> am <date>25 März</date> stattfinden, der zweite folgt innerhalb einer Woche. Dr <rs ref="#pmb10992" type="person">Brandes</rs> weißt noch nicht in welchem Hotel er wohnen wird, weil sein <rs type="person" ref="#pmb29137" subtype="implied">Impresario</rs> dies für ihn arrangieren wird.<space unit="chars" quantity="3"/>Dr <rs ref="#pmb10992" type="person">Brandes bittet</rs> Sie deshalb die Güte haben zu wollen bei diesem Herrn, <rs ref="#pmb29137" type="person">J. Span</rs>, <rs ref="#pmb1156" type="place">Berlinerstraße 149 Charlottenburg</rs>, Ihre Adresse abzugeben, so daß er sich gleich nach seiner Ankunft in Verbindung mit Ihnen setzen kann.</p><p>Dr <rs ref="#pmb10992" type="person">Brandes</rs> bittet Sie um seine Ergebenheit und warme Freundschaft versichert zu sein und grüßt Sie auf das herzlichste.</p><closer>Mit vorzüglicher Hochachtung<lb/>für Dr. <rs ref="#pmb10992" type="person">Georg Brandes</rs><lb/><signed>G. Rung / Sekretär.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb5558">
-                  <tei:persName>
-                     <tei:surname>Rung</tei:surname>
-                     <tei:forename>Gertrud</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1882-03-26">26. 3. 1882</tei:date>
-                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1959-04-25">25. 4. 1959</tei:date>
-                     <tei:placeName ref="#pmb42916">Gentofte Municipality</tei:placeName>
-                  </tei:death>
-                  <occupation code="367">Sekretärin</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10992">
-                  <tei:persName>
-                     <tei:surname>Brandes</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1842-02-04">4. 2. 1842</tei:date>
-                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1927-02-19">19. 2. 1927</tei:date>
-                     <tei:placeName ref="#pmb36300">Kopenhagen</tei:placeName>
-                  </tei:death>
-                  <occupation code="278">Literarhistoriker*in</occupation>
-               </tei:person><tei:person xml:id="pmb37739">
-                  <tei:persName>
-                     <tei:surname>Cohn</tei:surname>
-                     <tei:forename>Alfons Fedor</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1878-04-12">12. 4. 1878</tei:date>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1933-01-24">24. 1. 1933</tei:date>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="101">Beamter/in</occupation>
-               </tei:person><tei:person xml:id="pmb29137">
-                  <tei:persName>
-                     <tei:surname>Span</tei:surname>
-                     <tei:forename>J. </tei:forename>
-                  </tei:persName>
-                  <occupation code="111">Veranstalter</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb37723">
-                  <tei:author ref="pmb10992" role="author">
-                     <tei:surname>Brandes</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:author>
-                  <tei:title>Das heutige Europa</tei:title>
-                  <tei:date when="1925-01-01" when-custom="1925">1925</tei:date>
-                  <tei:gloss type="w1250">Vortrag</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb37740">
-                  <tei:author ref="pmb37739" role="author">
-                     <tei:surname>Cohn</tei:surname>
-                     <tei:forename>Alfons Fedor</tei:forename>
-                  </tei:author>
-                  <tei:title>Georg Brandes in Berlin</tei:title>
-                  <tei:date when="1925-03-31" when-custom="31.3.1925">31. 3. 1925</tei:date>
-                  <tei:gloss type="w1131">Rezension</tei:gloss>
-                  <tei:note>4017</tei:note>
-                  <tei:note>4018</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb41531">
-                  <tei:title>Berliner Tageblatt</tei:title>
-                  <tei:date from="1872-01-01" from-custom="1872" to="1939-01-01" to-custom="1939">1872–1939</tei:date>
-                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
-                  <tei:note>5791</tei:note>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb36300">
-                  <tei:placeName>Kopenhagen</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
-                  <tei:placeName>Berlin</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb37725">
-                  <tei:placeName>Blüthner-Saal</tei:placeName>
-                  <tei:desc>
-                     <tei:date from="1908-01-01" from-custom="1908-01-01" to="1939-01-01" to-custom="1939-01-01">1908–1939</tei:date>
-                     <tei:gloss ana="i5">Veranstaltungsgebäude</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.504815 13.360062</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb1156">
-                  <tei:placeName>Straße des 17. Juni</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.51241 13.32384</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="20180801">Angelegt</change>
+         <change who="MAM" when="20180814">Durchsicht</change>
+         <change who="MAM" when="2018-10-01">Index check</change>
+         <change who="GHS" when="2019-08-11">facs aktualisiert, korrigiert, finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00105"/>
+      <graphic url="MS-SCHNITZLER-B-00017-A-00001-000-00106"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00105"/>
+                  <rs ref="#36300" type="place">Kopenhagen</rs>
+                  <space unit="chars" quantity="1"/>
+                  <date>17-2-25</date>
+               </dateline>
+               <salute>Hochverehrter Herr.</salute>
+            </opener>
+            <p>Dr <rs ref="#10992" type="person">Georg Brandes</rs> bittet Sie dringend ihm nicht zu
+               verübeln, daß er Ihnen diesmal nicht persönlich schreibt. Die bevorstehende
+               Vortragsreise nimmt die Zeit des Doktors derartig in Anspruch, daß er zu müde ist
+               sein Correspondenz selber zu führen.</p>
+            <p>Dr <rs ref="#10992" type="person">Brandes</rs> beauftragt mich deshalb, Ihnen,
+               hochverehrter Herr, zu sagen, daß es ihm eine ganz besondere Freude sein wird sich
+               mit Ihnen irgendwo zusammen zu treffen.<space unit="chars" quantity="3"/>Der erste
+                  <pb facs="MS-SCHNITZLER-B-00017-A-00001-000-00106"/>
+               <anchor xml:id="K_L02433_1" type="commentary"/>Vortrag<note xml:id="K_L02433_1h"
+                  type="commentary">
+                  <rs ref="#10992" type="person">Brandes</rs> hielt in <rs ref="#168" type="place"
+                     >Berlin</rs> nur einen Vortrag: am <date>31. 3. 1925</date> im <rs ref="#37725"
+                     type="place">Blüthner-Saal</rs> zum Thema: <rs ref="#37723" type="work">Das
+                     heutige Europa</rs>. <rs ref="#10992" type="person">Brandes</rs>’ Aufenthalt
+                  und sein Vortrag fanden in der <rs ref="#168" type="place">Berlin</rs>er Presse
+                  große Resonanz (<bibl>vgl. <rs ref="#37739" type="person">A. F. Cohn</rs>:
+                        <rs ref="#37740" type="work">Georg Brandes in Berlin</rs>. In: <rs
+                           ref="#41531" type="work">Berliner Tageblatt</rs>, Jg. 54, Nr. 153,
+                        <date>31. 3. 1925</date>, Abend-Ausgabe, S. 4</bibl>. Anschließend fuhr <rs
+                     ref="#10992" type="person">Brandes</rs> nach <rs ref="#50" type="place"
+                     >Wien</rs>, um dort am <date>8. 4. 1931</date> den Vortrag zu
+                  wiederholen.</note> soll in <rs ref="#168" type="place">Berlin</rs> am <date>25
+                  März</date> stattfinden, der zweite folgt innerhalb einer Woche. Dr <rs
+                  ref="#10992" type="person">Brandes</rs> weißt noch nicht in welchem Hotel er
+               wohnen wird, weil sein <rs type="person" ref="#29137" subtype="implied"
+                  >Impresario</rs> dies für ihn arrangieren wird.<space unit="chars" quantity="3"
+               />Dr <rs ref="#10992" type="person">Brandes bittet</rs> Sie deshalb die Güte haben zu
+               wollen bei diesem Herrn, <rs ref="#29137" type="person">J. Span</rs>, <rs ref="#1156"
+                  type="place">Berlinerstraße 149 Charlottenburg</rs>, Ihre Adresse abzugeben, so
+               daß er sich gleich nach seiner Ankunft in Verbindung mit Ihnen setzen kann.</p>
+            <p>Dr <rs ref="#10992" type="person">Brandes</rs> bittet Sie um seine Ergebenheit und
+               warme Freundschaft versichert zu sein und grüßt Sie auf das herzlichste.</p>
+            <closer>Mit vorzüglicher Hochachtung<lb/>für Dr. <rs ref="#10992" type="person">Georg
+                  Brandes</rs>
+               <lb/>
+               <signed>G. Rung / Sekretär.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

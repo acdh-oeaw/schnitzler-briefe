@@ -1,235 +1,273 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01464" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 2. 11. 1904</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01464</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L01464"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 2. 11. 1904</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L01464</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="3" type="_seiten"/><desc type="umschlag"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb50">Wien</placeName><date>2. XI. 04</date><time>7</time></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb173">Rodau<unclear>n</unclear></placeName><date>3 <unclear>11 04</unclear></date></stamp></desc></incident><incident type="receiver"><desc>mit Tinte den Zeitpunkt der Beantwortung notiert: »<quote><date>4/XI.</date> b.</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">167</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1904-11-02" n="01">2. 11. 1904</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb173">Rodaun</placeName><date when="1904-11-03">3. 11. 1904</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01463">Schnitzler an Beer-Hofmann, 31. 10. 1904</ref><ref subtype="next_letter" type="withinCollection" target="L01465">Bahr an Schnitzler, 3. 11. 1904</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01463">Schnitzler an Beer-Hofmann, 31. 10. 1904</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01466">Beer-Hofmann an Schnitzler, 4. 11. 1904</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>U.S.A.</country>
+                        <settlement>Yale</settlement>
+                        <repository>Beinecke Rare Book and Manuscript Library</repository>
+                        <idno>Yale Collection of German Literature, MSS 31</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="brief"/>
+                           <desc n="1" type="_blaetter"/>
+                           <desc n="3" type="_seiten"/>
+                           <desc type="umschlag"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="bleistift" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="1">
+                                    <placeName ref="#50">Wien</placeName>
+                                    <date>2. XI. 04</date>
+                                    <time>7</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="2">
+                                    <placeName ref="#173">Rodau<unclear>n</unclear>
+                                    </placeName>
+                                    <date>3 <unclear>11 04</unclear>
+                                    </date>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="receiver">
+                              <desc>mit Tinte den Zeitpunkt der Beantwortung notiert: »<quote>
+                                    <date>4/XI.</date> b.</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASBH">
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <author ref="#10863">Beer-Hofmann, Richard</author>
+                     <title level="m">Briefwechsel 1891–1931</title>
+                     <editor>Hg. Konstanze Fliedl</editor>
+                     <imprint>
+                        <pubPlace>Wien, Zürich</pubPlace>
+                        <publisher>Europaverlag</publisher>
+                        <date when="1992">1992</date>
+                     </imprint>
+                     <biblScope unit="pp">167</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1904-11-02" n="01">2. 11. 1904</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#10863">Beer-Hofmann, Richard</persName>
+               <placeName ref="#173">Rodaun</placeName>
+               <date when="1904-11-03">3. 11. 1904</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01463">Schnitzler an Beer-Hofmann, 31. 10. 1904</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01465">Bahr an Schnitzler, 3. 11. 1904</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L01463">Schnitzler an Beer-Hofmann, 31. 10. 1904</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01466">Beer-Hofmann an Schnitzler, 4. 11. 1904</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="GHS" when="2020-07-15">Durchsicht</change><change who="MAM" when="2020-12-03">Index check</change><change who="MAM" when="2020-12-03">Durchsicht</change></revisionDesc></teiHeader><facsimile><graphic url="1904_AS_RBH_2_00012"/><graphic url="1904_AS_RBH_2_00013"/><graphic url="1904_AS_RBH_2_00014"/><graphic url="1904_AS_RBH_2_00015"/></facsimile><text type="letter"><body><div type="address"><address><addrLine><pb facs="1904_AS_RBH_2_00013"/><rs type="place" ref="#pmb50">Wien</rs></addrLine><addrLine><hi rend="latintype">Arthur Schnitzler XIII <rs ref="#pmb133" type="place">Spoettelg</rs></hi></addrLine></address><address><addrLine><pb facs="1904_AS_RBH_2_00012"/><hi rend="latintype">Herrn Dr Rich. Beer-Hofmann</hi></addrLine><addrLine><hi rend="latintype"><rs ref="#pmb173" type="place">Rodaun</rs></hi></addrLine><addrLine>L</addrLine><addrLine><rs type="place" ref="#pmb40101"><hi rend="latintype">Liesingerstraße 2</hi></rs>.</addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="1904_AS_RBH_2_00014"/><date when="1904-11-02">2. 11. 904</date></dateline></opener><p><salute>lieber Richard, </salute>ich bekomme heute beiliegendes <anchor xml:id="K_L01464_1" type="commentary"/>Telegra<c rendition="#gemination-m"/><note xml:id="K_L01464_1h" type="commentary">Im Telegramm vom <date>1. 11. 1904</date> schreibt <rs type="person" ref="#pmb12504">Max Reinhardt</rs>, dass sich die Inszenierung von <rs type="work" ref="#pmb29843">Der grüne Kakadu</rs>, <rs type="work" ref="#pmb30217">Der tapfere Cassian</rs> und <rs type="work" ref="#pmb31547">Das Haus Delorme</rs> wegen Erkrankung von <rs type="person" ref="#pmb2299">Agnes Sorma</rs> weiter verzögere. (<bibl><title level="m">Der Briefwechsel Arthur Schnitzlers mit Max Reinhardt und dessen Mitarbeitern</title>. Hg. Renate Wagner. Salzburg: <publisher>Otto Müller Verlag</publisher><space unit="chars" quantity="1"/><date>1971</date>, S. 44</bibl>.)</note>. Mir<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr ärgerlich, weil auf mein Er<c rendition="#langesS">s</c>uchen im <rs type="org" ref="#pmb36430">Volkstheater</rs><space unit="chars" quantity="1"/><anchor xml:id="K_L01464_2" type="commentary"/><rs type="work" ref="#pmb29899"><hi rend="latintype">Freiwild</hi><space unit="chars" quantity="1"/><hi rend="latintype">Premiere</hi></rs><note xml:id="K_L01464_2h" type="commentary">Diese fand letztlich am <date>28. 1. 1905</date> statt.</note> wegen meiner <rs type="place" ref="#pmb168">Berlin</rs>er <anchor xml:id="K_L01464_3" type="commentary"/><rs type="work" ref="#pmb29843 #pmb30217" subtype="implied"><hi rend="latintype">Premiere</hi></rs><note xml:id="K_L01464_3h" type="commentary">Die Uraufführung von <rs type="work" ref="#pmb29843">Der tapfere Cassian</rs> zusammen mit einer Neueinstudierung von <rs type="work" ref="#pmb30217">Der grüne Kakadu</rs> ging letztlich am <ref target="1904-11-22" subtype="date-only" type="schnitzlerDiary"/> vonstatten.</note> hinausge<c rendition="#langesS">s</c>choben wurde u es jetzt er<c rendition="#langesS">s</c>t recht zu einer Colli<c rendition="#langesS">s</c>ion kommen dürfte. Ich <pb facs="1904_AS_RBH_2_00012"/>nehme an, da<c rendition="#langesS">s</c>s nun der <rs type="work" ref="#pmb30233">Graf v <hi rend="latintype">Charolais</hi></rs> gleich (<anchor xml:id="K_L01464_4" type="commentary"/>vor <rs type="person" ref="#pmb9603"><rs type="work" ref="#pmb41582" subtype="implied"><hi rend="latintype">Ruederer</hi></rs></rs><note xml:id="K_L01464_4h" type="commentary"><rs type="work" ref="#pmb41582">Vor Morgenröthe</rs> erlebte am <date>15. 11. 1904</date> die Uraufführung.</note>) <anchor xml:id="K_L01464_5" type="commentary"/>drankommt<note xml:id="K_L01464_5h" type="commentary"><rs type="work" ref="#pmb30233">Der Graf von Charolais</rs> hatte am <date>23. 12. 1904</date> Uraufführung.</note> (wobei ich allerdings noch immer nicht ver<c rendition="#langesS">s</c>tehe, weshalb <rs type="person" subtype="implied" ref="#pmb10986">er</rs> plötzlich meine Sachen nicht be<c rendition="#langesS">s</c>etzen kann) – jedenfalls bitte ich Sie mir ein Wort zu<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chrei<pb facs="1904_AS_RBH_2_00015"/>ben<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>obald Sie aus <rs ref="#pmb168" type="place">Berlin</rs> eine Nachricht haben u mir auch die<c rendition="#langesS">s</c>es Telegr. zurückzu<c rendition="#langesS">s</c>chicken.</p><closer>Herzlich<c rendition="#langesS">s</c>t Ihr<lb/><signed>A.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb12504">
-                  <tei:persName>
-                     <tei:surname>Reinhardt</tei:surname>
-                     <tei:forename>Max</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1873-09-09">9. 9. 1873</tei:date>
-                     <tei:placeName ref="#pmb662">Baden bei Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1943-10-30">30. 10. 1943</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="103">Theaterleiter*in</occupation>
-                  <occupation code="104">Regisseur*in</occupation>
-                  <occupation code="105">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb2299">
-                  <tei:persName>
-                     <tei:surname>Sorma</tei:surname>
-                     <tei:forename>Agnes</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-17">17. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb677">Breslau</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1927-02-10">10. 2. 1927</tei:date>
-                     <tei:placeName ref="#pmb36613">Crown King</tei:placeName>
-                  </tei:death>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb9603">
-                  <tei:persName>
-                     <tei:surname>Ruederer</tei:surname>
-                     <tei:forename>Josef</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1861-10-15">15. 10. 1861</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1915-10-20">20. 10. 1915</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb10986">
-                  <tei:persName>
-                     <tei:surname>Brahm</tei:surname>
-                     <tei:forename>Otto</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1856-02-05">5. 2. 1856</tei:date>
-                     <tei:placeName ref="#pmb506">Hamburg</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1912-11-28">28. 11. 1912</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:death>
-                  <occupation code="103">Theaterleiter*in</occupation>
-                  <occupation code="104">Regisseur*in</occupation>
-                  <occupation code="278">Literarhistoriker*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb29843">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:author ref="pmb29105" role="translator">
-                     <tei:surname>Soutif</tei:surname>
-                     <tei:forename>Émile</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:author ref="pmb2206" role="translator">
-                     <tei:surname>Lutz</tei:surname>
-                     <tei:forename>Émile</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:author ref="pmb2199" role="translator">
-                     <tei:surname>Epstein</tei:surname>
-                     <tei:forename>Stephan</tei:forename>
-                     <tei:term>[Übersetzung]</tei:term>
-                  </tei:author>
-                  <tei:title>Der grüne Kakadu. Groteske in einem Akt</tei:title>
-                  <tei:date when="1899-03-01" when-custom="1.3.1899">1. 3. 1899</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-                  <tei:note>2840</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30217">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der tapfere Cassian. Puppenspiel in einem Akt</tei:title>
-                  <tei:date from="1904-02-01" from-custom="01.02.1904">1. 2. 1904</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-                  <tei:note>2906</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb31547">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Das Haus Delorme. Eine Familienszene</tei:title>
-                  <tei:date from="1977-01-01" from-custom="1977">1977</tei:date>
-                  <tei:gloss type="w1057">Einakter</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb29899">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Freiwild. Schauspiel in 3 Akten</tei:title>
-                  <tei:date from="1896-01-01" from-custom="1896">1896</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb30233">
-                  <tei:author ref="pmb10863" role="author">
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Graf von Charolais. Ein Trauerspiel</tei:title>
-                  <tei:date when="1904-12-23" when-custom="1904-12-23">23. 12. 1904</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>6195</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb41582">
-                  <tei:author ref="pmb9603" role="author">
-                     <tei:surname>Ruederer</tei:surname>
-                     <tei:forename>Josef</tei:forename>
-                  </tei:author>
-                  <tei:title>Die Morgenröthe. Komödie aus dem Jahre 1848</tei:title>
-                  <tei:date from="1904-11-15" from-custom="15.11.1904">15. 11. 1904</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb173">
-                  <tei:placeName>Rodaun</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb133">
-                  <tei:placeName>Edmund-Weiß-Gasse</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.219883621255 16.25565018043</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb40101">
-                  <tei:placeName>Liesingerstraße</tei:placeName>
-                  <tei:desc>
-                     <tei:date to="1957-07-02" to-custom="1957-07-02">2. 7. 1957</tei:date>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.1332 16.25864</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
-                  <tei:placeName>Berlin</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xml:id="pmb36430">
-                  <tei:orgName>Deutsches Volkstheater</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1889-01-01" from-custom="1889" to="1944-01-01" to-custom="1944">1889–1944</tei:date>
-                     <tei:gloss ana="i1012">Theater</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb20">
-                     <tei:placeName>Deutsches Volkstheater</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.205142 16.3566</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change>
+         <change who="GHS" when="2020-07-15">Durchsicht</change>
+         <change who="MAM" when="2020-12-03">Index check</change>
+         <change who="MAM" when="2020-12-03">Durchsicht</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="1904_AS_RBH_2_00012"/>
+      <graphic url="1904_AS_RBH_2_00013"/>
+      <graphic url="1904_AS_RBH_2_00014"/>
+      <graphic url="1904_AS_RBH_2_00015"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="1904_AS_RBH_2_00013"/>
+                  <rs type="place" ref="#50">Wien</rs>
+               </addrLine>
+               <addrLine>
+                  <hi rend="latintype">Arthur Schnitzler XIII <rs ref="#133" type="place">Spoettelg</rs>
+                  </hi>
+               </addrLine>
+            </address>
+            <address>
+               <addrLine>
+                  <pb facs="1904_AS_RBH_2_00012"/>
+                  <hi rend="latintype">Herrn Dr Rich. Beer-Hofmann</hi>
+               </addrLine>
+               <addrLine>
+                  <hi rend="latintype">
+                     <rs ref="#173" type="place">Rodaun</rs>
+                  </hi>
+               </addrLine>
+               <addrLine>L</addrLine>
+               <addrLine>
+                  <rs type="place" ref="#40101">
+                     <hi rend="latintype">Liesingerstraße 2</hi>
+                  </rs>.</addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="1904_AS_RBH_2_00014"/>
+                  <date when="1904-11-02">2. 11. 904</date>
+               </dateline>
+            </opener>
+            <p>
+               <salute>lieber Richard, </salute>ich bekomme heute beiliegendes <anchor xml:id="K_L01464_1" type="commentary"/>Telegra<c rendition="#gemination-m"/>
+               <note xml:id="K_L01464_1h" type="commentary">Im Telegramm vom
+                     <date>1. 11. 1904</date> schreibt <rs type="person" ref="#12504">Max
+                     Reinhardt</rs>, dass sich die Inszenierung von <rs type="work" ref="#29843">Der
+                     grüne Kakadu</rs>, <rs type="work" ref="#30217">Der tapfere Cassian</rs> und
+                     <rs type="work" ref="#31547">Das Haus Delorme</rs> wegen Erkrankung von <rs type="person" ref="#2299">Agnes Sorma</rs> weiter verzögere. (<bibl>
+                     <title level="m">Der Briefwechsel Arthur Schnitzlers mit Max Reinhardt und
+                        dessen Mitarbeitern</title>. Hg. Renate Wagner. Salzburg: <publisher>Otto
+                        Müller Verlag</publisher>
+                     <space unit="chars" quantity="1"/>
+                     <date>1971</date>, S. 44</bibl>.)</note>. Mir ſehr ärgerlich, weil auf mein
+               Erſuchen im <rs type="org" ref="#36430">Volkstheater</rs>
+               <space unit="chars" quantity="1"/>
+               <anchor xml:id="K_L01464_2" type="commentary"/>
+               <rs type="work" ref="#29899">
+                  <hi rend="latintype">Freiwild</hi>
+                  <space unit="chars" quantity="1"/>
+                  <hi rend="latintype">Premiere</hi>
+               </rs>
+               <note xml:id="K_L01464_2h" type="commentary">Diese fand letztlich am
+                     <date>28. 1. 1905</date> statt.</note> wegen meiner <rs type="place" ref="#168">Berlin</rs>er <anchor xml:id="K_L01464_3" type="commentary"/>
+               <rs type="work" ref="#29843 #30217" subtype="implied">
+                  <hi rend="latintype">Premiere</hi>
+               </rs>
+               <note xml:id="K_L01464_3h" type="commentary">Die Uraufführung von <rs type="work" ref="#29843">Der tapfere Cassian</rs> zusammen mit einer Neueinstudierung von
+                     <rs type="work" ref="#30217">Der grüne Kakadu</rs> ging letztlich am
+                     <ref target="1904-11-22" subtype="date-only" type="schnitzlerDiary"/> vonstatten.</note> hinausgeſchoben wurde u es jetzt
+               erſt recht zu einer Colliſion kommen dürfte. Ich <pb facs="1904_AS_RBH_2_00012"/>nehme an, daſs nun der <rs type="work" ref="#30233">Graf v <hi rend="latintype">Charolais</hi>
+               </rs> gleich (<anchor xml:id="K_L01464_4" type="commentary"/>vor <rs type="person" ref="#9603">
+                  <rs type="work" ref="#41582" subtype="implied">
+                     <hi rend="latintype">Ruederer</hi>
+                  </rs>
+               </rs>
+               <note xml:id="K_L01464_4h" type="commentary">
+                  <rs type="work" ref="#41582">Vor Morgenröthe</rs> erlebte am
+                     <date>15. 11. 1904</date> die Uraufführung.</note>) <anchor xml:id="K_L01464_5" type="commentary"/>drankommt<note xml:id="K_L01464_5h" type="commentary">
+                  <rs type="work" ref="#30233">Der Graf von Charolais</rs> hatte am
+                     <date>23. 12. 1904</date> Uraufführung.</note> (wobei ich allerdings noch immer
+               nicht verſtehe, weshalb <rs type="person" subtype="implied" ref="#10986">er</rs>
+               plötzlich meine Sachen nicht beſetzen kann) – jedenfalls bitte ich Sie mir ein Wort
+               zu ſchrei<pb facs="1904_AS_RBH_2_00015"/>ben ſobald Sie aus <rs ref="#168" type="place">Berlin</rs> eine Nachricht haben u mir auch dieſes Telegr.
+               zurückzuſchicken.</p>
+            <closer>Herzlichſt Ihr<lb/>
+               <signed>A.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

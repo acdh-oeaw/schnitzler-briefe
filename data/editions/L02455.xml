@@ -1,158 +1,209 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L02455" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Hugo Hofmannsthal, 16. 11. 1925</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L02455</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L02455"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Hugo Hofmannsthal, 16. 11. 1925</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L02455</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                 vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                 verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
-                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich
+                an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
                 einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen
                 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
                 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
                 unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren
                 Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische
                 Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was
-                die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
+                die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile
                 des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen
                 durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden
                 keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
                 verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
                 jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
                 Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre
-                Nutzung des Materials entsprechend beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>D</country><settlement>Frankfurt am Main</settlement><repository>Freies Deutsches Hochstift</repository><idno>Hs-30885,154</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="2" type="_seiten"/></objectDesc><handDesc><handNote medium="bleistift" style="lateinische-kurrent"/></handDesc></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">303</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1925-11-16" n="01">16. 11. 1925</date></correspAction><correspAction type="received"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><placeName ref="#pmb415">Bad Aussee</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L02454">Hofmannsthal an Schnitzler, 14. 11. 1925</ref><ref subtype="next_letter" type="withinCollection" target="L02456">Großmann an Schnitzler, 23. 11. 1925</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L02454">Hofmannsthal an Schnitzler, 14. 11. 1925</ref><ref subtype="next_letter" type="withinCorrespondence" target="L02457">Hofmannsthal an Schnitzler, 10. 12. 1925</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>D</country>
+                        <settlement>Frankfurt am Main</settlement>
+                        <repository>Freies Deutsches Hochstift</repository>
+                        <idno>Hs-30885,154</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="2" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="bleistift" style="lateinische-kurrent"/>
+                        </handDesc>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HvHAS">
+                  <monogr>
+                     <author ref="#11740">Hofmannsthal, Hugo von</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel</title>
+                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1964">1964</date>
+                     </imprint>
+                     <biblScope unit="pp">303</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1925-11-16" n="01">16. 11. 1925</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
+               <placeName ref="#415">Bad Aussee</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L02454">Hofmannsthal an Schnitzler, 14. 11. 1925</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L02456">Großmann an Schnitzler, 23. 11. 1925</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L02454">Hofmannsthal an Schnitzler, 14. 11. 1925</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L02457">Hofmannsthal an Schnitzler, 10. 12. 1925</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2019-01-08">Angelegt</change><change who="MAM" when="2019-02-26">Durchsicht</change><change who="GHS" when="2020-05-23">Durchsicht</change><change who="MAM" when="2020-09-10">Durchsicht</change><change who="MAM" when="2020-09-10">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="Hs-30885,154_001"/><graphic url="Hs-30885,154_002"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="Hs-30885,154_001"/><rs ref="#pmb50" type="place">Wien</rs><space unit="chars" quantity="1"/><date>16. 11. 925</date></dateline></opener><p><salute>mein lieber Hugo, </salute>Ihr schönes <rs ref="#pmb33722" type="work">Stück</rs> hab ich noch in <rs ref="#pmb168" type="place">Berlin</rs> erhalten und es ist recht unhöflich, da<c rendition="#langesS">s</c>s ich Ihnen nicht gleich gedankt habe. Mit ein Grund ist gewesen, da<c rendition="#langesS">s</c>s ich erst in den letzten Tagen <add place="above">dazu kam</add> den <rs type="work" ref="#pmb33720" subtype="implied"><rs ref="#pmb11068" type="person">Calderon</rs></rs>, der Ihnen dazu eine Anregung gab, zu lesen, und es war mir im höchsten Grad interessant, wie völlig neu und selbständig <supplied>Sie</supplied> Ihr <rs type="work" ref="#pmb33722" subtype="implied">Drama</rs> geschrieben haben. Nur einige äußere Momente sind erhalten; – nicht nur die Gestalten sind neu geschaffen; – auch das Problem, das innere Licht ist etwas ganz neues geworden, und völlig Ihr Eigentum. An manchen Stellen wünscht ich mir geringere Weitläufigkeit, und der Humor des Dieners ist nicht durchaus nach meinem Sinn, we<c rendition="#gemination-n"/> ich auch fühle, sehr im Stil des ganzen.</p><p>Ich freue mich, d<c rendition="#langesS">s</c>s Sie in der Arbeit sind; auch ich bringe allerlei weiter. Eine neue Novelle (»<rs ref="#pmb30851" type="work">Traumnovelle</rs>«) erscheint bald; mein Versstück »<rs ref="#pmb30775" type="work">Der Gang zum Weiher</rs>« ist fertig; nun dictir ich eine weitere <pb facs="Hs-30885,154_002"/><rs type="work" ref="#pmb32131" subtype="implied">Novelle</rs>, deren Schlu<c rendition="#langesS">s</c>s noch unsicher ist; arbeite an einem <rs type="work" ref="#pmb30817" subtype="implied">Roman</rs> (der richtiger eine Chronik zu nennen sein wird); und bringe verschiedentliches <rs type="work" ref="#pmb30051 #pmb30053" subtype="implied">aphoristische</rs> und <rs type="work" ref="#pmb30051" subtype="implied">fragmentarisches</rs> in Ordnung so gut es geht, ja einzelnes gewissermaßen in <rs type="work" ref="#pmb30053" subtype="implied">Systeme</rs>. Theatralisch liegt allerlei angefangnes vor, – was ich zuerst fertig machen werde, weiß ich noch nicht.</p><p>Um Ihre <rs ref="#pmb415" type="place">Aussee</rs>r Abgeschiedenheit beneid ich Sie manchmal – weiß aber nicht, ob ich <del rend="strikethrough">von</del> trotz zeitweiliger Sehnsucht nach etwas der Art lange aushalten würde. Es ist mancherlei Unruhe in meinem Leben; im ganzen fühl ich mich wohl, bei gelegentlichen, am häufigsten durch das Gehörleiden verursachten und geförderten Depressionen.</p><p>Ich hoffe Sie bald wiederzusehen.</p><closer>Seien Sie von Herzen gegrüßt und bedankt!<lb/>Ihr<lb/><signed>Arthur.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb11068">
-                  <tei:persName>
-                     <tei:surname>Calderón de la Barca</tei:surname>
-                     <tei:forename>Pedro</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1600-01-17">17. 1. 1600</tei:date>
-                     <tei:placeName ref="#pmb914">Madrid</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1681-05-25">25. 5. 1681</tei:date>
-                     <tei:placeName ref="#pmb914">Madrid</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb33722">
-                  <tei:author ref="pmb11740" role="author">
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Turm. Ein Trauerspiel</tei:title>
-                  <tei:date from="1925-01-01" from-custom="1925">1925</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>5732</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb33720">
-                  <tei:author ref="pmb11068" role="author">
-                     <tei:surname>Calderón de la Barca</tei:surname>
-                     <tei:forename>Pedro</tei:forename>
-                  </tei:author>
-                  <tei:title>Das Leben ein Traum</tei:title>
-                  <tei:date from="1635-01-01" from-custom="1635">1635</tei:date>
-                  <tei:gloss type="w1097">Drama</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb30851">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Traumnovelle</tei:title>
-                  <tei:date from="1925-12-01" from-custom="1.12.1925" to="1926-03-01" to-custom="1.3.1926">1. 12. 1925–1. 3. 1926</tei:date>
-                  <tei:gloss type="w1054">Erzählung</tei:gloss>
-                  <tei:note>2958</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30775">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Gang zum Weiher. Dramatische Dichtung</tei:title>
-                  <tei:date from="1926-01-01" from-custom="1926">1926</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-                  <tei:note>5737</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb32131">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Spiel im Morgengrauen. Novelle</tei:title>
-                  <tei:date from="1926-12-05" from-custom="5.12.1926" to="1927-01-09" to-custom="9.1.1927">5. 12. 1926–9. 1. 1927</tei:date>
-                  <tei:gloss type="w1340">Novelle</tei:gloss>
-                  <tei:note>3113</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30817">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Therese. Chronik eines Frauenlebens</tei:title>
-                  <tei:date from="1928-01-01" from-custom="1928">1928</tei:date>
-                  <tei:gloss type="w1060">Roman</tei:gloss>
-                  <tei:note>5718</tei:note>
-               </tei:bibl><tei:bibl xml:id="pmb30051">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Geist im Wort und der Geist in der Tat</tei:title>
-                  <tei:date from="1927-01-01" from-custom="1927">1927</tei:date>
-                  <tei:gloss type="w1064">Typologische Studie</tei:gloss>
-               </tei:bibl><tei:bibl xml:id="pmb30053">
-                  <tei:author ref="pmb2121" role="author">
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:author>
-                  <tei:title>Buch der Sprüche und Bedenken</tei:title>
-                  <tei:date from="1927-01-01" from-custom="1927">1927</tei:date>
-                  <tei:gloss type="w1065">Aphorismensammlung</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb415">
-                  <tei:placeName>Bad Aussee</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">47.60998 13.78243</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb168">
-                  <tei:placeName>Berlin</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2019-01-08">Angelegt</change>
+         <change who="MAM" when="2019-02-26">Durchsicht</change>
+         <change who="GHS" when="2020-05-23">Durchsicht</change>
+         <change who="MAM" when="2020-09-10">Durchsicht</change>
+         <change who="MAM" when="2020-09-10">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="Hs-30885,154_001"/>
+      <graphic url="Hs-30885,154_002"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="Hs-30885,154_001"/>
+                  <rs ref="#50" type="place">Wien</rs>
+                  <space unit="chars" quantity="1"/>
+                  <date>16. 11. 925</date>
+               </dateline>
+            </opener>
+            <p>
+               <salute>mein lieber Hugo, </salute>Ihr schönes <rs ref="#33722" type="work">Stück</rs> hab ich noch in <rs ref="#168" type="place">Berlin</rs> erhalten
+                    und es ist recht unhöflich, daſs ich Ihnen nicht gleich gedankt habe. Mit ein
+                    Grund ist gewesen, daſs ich erst in den letzten Tagen <add place="above">dazu
+                        kam</add> den <rs type="work" ref="#33720" subtype="implied">
+                  <rs ref="#11068" type="person">Calderon</rs>
+               </rs>, der Ihnen dazu eine Anregung gab, zu lesen, und es war mir im höchsten
+                    Grad interessant, wie völlig neu und selbständig <supplied>Sie</supplied> Ihr
+                        <rs type="work" ref="#33722" subtype="implied">Drama</rs> geschrieben haben.
+                    Nur einige äußere Momente sind erhalten; – nicht nur die Gestalten sind neu
+                    geschaffen; – auch das Problem, das innere Licht ist etwas ganz neues geworden,
+                    und völlig Ihr Eigentum. An manchen Stellen wünscht ich mir geringere
+                    Weitläufigkeit, und der Humor des Dieners ist nicht durchaus nach meinem Sinn,
+                        we<c rendition="#gemination-n"/> ich auch fühle, sehr im Stil des
+                    ganzen.</p>
+            <p>Ich freue mich, dſs Sie in der Arbeit sind; auch ich bringe allerlei weiter. Eine
+                    neue Novelle (»<rs ref="#30851" type="work">Traumnovelle</rs>«) erscheint bald;
+                    mein Versstück »<rs ref="#30775" type="work">Der Gang zum Weiher</rs>« ist
+                    fertig; nun dictir ich eine weitere <pb facs="Hs-30885,154_002"/>
+               <rs type="work" ref="#32131" subtype="implied">Novelle</rs>, deren Schluſs noch
+                    unsicher ist; arbeite an einem <rs type="work" ref="#30817" subtype="implied">Roman</rs> (der richtiger eine Chronik zu nennen sein wird); und bringe
+                    verschiedentliches <rs type="work" ref="#30051 #30053" subtype="implied">aphoristische</rs> und <rs type="work" ref="#30051" subtype="implied">fragmentarisches</rs> in Ordnung so gut es geht, ja einzelnes gewissermaßen
+                    in <rs type="work" ref="#30053" subtype="implied">Systeme</rs>. Theatralisch
+                    liegt allerlei angefangnes vor, – was ich zuerst fertig machen werde, weiß ich
+                    noch nicht.</p>
+            <p>Um Ihre <rs ref="#415" type="place">Aussee</rs>r Abgeschiedenheit beneid ich Sie
+                    manchmal – weiß aber nicht, ob ich <del rend="strikethrough">von</del> trotz
+                    zeitweiliger Sehnsucht nach etwas der Art lange aushalten würde. Es ist
+                    mancherlei Unruhe in meinem Leben; im ganzen fühl ich mich wohl, bei
+                    gelegentlichen, am häufigsten durch das Gehörleiden verursachten und geförderten
+                    Depressionen.</p>
+            <p>Ich hoffe Sie bald wiederzusehen.</p>
+            <closer>Seien Sie von Herzen gegrüßt und bedankt!<lb/>Ihr<lb/>
+               <signed>Arthur.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

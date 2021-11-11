@@ -1,235 +1,283 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00612" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Peter Altenberg an Arthur Schnitzler, [30.? 10. 1896]</title><author ref="#pmb2147">Altenberg, Peter</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L00612</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L00612"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Peter Altenberg an Arthur Schnitzler, [30.? 10. 1896]</title>
+            <author ref="#2147">Altenberg, Peter</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L00612</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 2</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="3" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift auf das falsche Jahr datiert: »<quote><date>Nov 97</date></quote>«</desc></incident><incident type="receiver"><desc>mit rotem Buntstift eine Unterstreichung</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                 »<quote>6</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct><analytic><author>Bergel, Kurt</author><title level="a">Arthur Schnitzlers unveröffentlichte Tragikomödie Das
-                        Wort</title></analytic><monogr><title level="m">Studies in Arthur Schnitzler. Centennial Commemorative
-                        Volume</title><editor>Reichert, Herbert W.</editor><editor>Salinger, Herman</editor><imprint><date when="1963">1963</date><pubPlace>Chapel Hill</pubPlace><publisher>University of North Carolina Press</publisher></imprint><biblScope unit="pp">20</biblScope></monogr><series><title level="s">UNC Studies in the Germanic Languages and Literatures</title><biblScope unit="vol">42</biblScope></series></biblStruct><biblStruct><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Das Wort. Tragikomödie in fünf Akten. Fragment</title><editor>Aus dem Nachlaß hg. und eingel. von Kurt Bergel</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1966">1966</date></imprint><biblScope unit="pp">8–9</biblScope></monogr></biblStruct><biblStruct><monogr><author ref="#pmb2147">Altenberg, Peter</author><title level="m">Die Selbsterfindung eines Dichters. Briefe und Dokumente
-                        1892–1896</title><editor>Hg. und mit einem Nachwort von Leo A. Lensing</editor><imprint><date when="2009">2009</date><pubPlace>Göttingen</pubPlace><publisher>Wallstein</publisher></imprint><biblScope unit="pp">77</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2147">Altenberg, Peter</persName><date when="1896-10-30" n="01">[30.? 10. 1896]</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb168">Berlin</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb2147">Altenberg, Peter</ref><ref subtype="previous_letter" type="withinCollection" target="L00611">Schnitzler an
-                  Altenberg, 29. 10. 1896</ref><ref subtype="next_letter" type="withinCollection" target="L00613">Beer-Hofmann an
-                  Schnitzler, 30. [10. 1896]</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00611">Schnitzler
-                  an Altenberg, 29. 10. 1896</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00661">Altenberg an
-                  Schnitzler, [24. 3. 1897]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 2</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="3" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift auf das falsche Jahr datiert: »<quote>
+                                    <date>Nov 97</date>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="receiver">
+                              <desc>mit rotem Buntstift eine Unterstreichung</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                 »<quote>6</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct>
+                  <analytic>
+                     <author>Bergel, Kurt</author>
+                     <title level="a">Arthur Schnitzlers unveröffentlichte Tragikomödie Das
+                        Wort</title>
+                  </analytic>
+                  <monogr>
+                     <title level="m">Studies in Arthur Schnitzler. Centennial Commemorative
+                        Volume</title>
+                     <editor>Reichert, Herbert W.</editor>
+                     <editor>Salinger, Herman</editor>
+                     <imprint>
+                        <date when="1963">1963</date>
+                        <pubPlace>Chapel Hill</pubPlace>
+                        <publisher>University of North Carolina Press</publisher>
+                     </imprint>
+                     <biblScope unit="pp">20</biblScope>
+                  </monogr>
+                  <series>
+                     <title level="s">UNC Studies in the Germanic Languages and Literatures</title>
+                     <biblScope unit="vol">42</biblScope>
+                  </series>
+               </biblStruct>
+               <biblStruct>
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Das Wort. Tragikomödie in fünf Akten. Fragment</title>
+                     <editor>Aus dem Nachlaß hg. und eingel. von Kurt Bergel</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1966">1966</date>
+                     </imprint>
+                     <biblScope unit="pp">8–9</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct>
+                  <monogr>
+                     <author ref="#2147">Altenberg, Peter</author>
+                     <title level="m">Die Selbsterfindung eines Dichters. Briefe und Dokumente
+                        1892–1896</title>
+                     <editor>Hg. und mit einem Nachwort von Leo A. Lensing</editor>
+                     <imprint>
+                        <date when="2009">2009</date>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Wallstein</publisher>
+                     </imprint>
+                     <biblScope unit="pp">77</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2147">Altenberg, Peter</persName>
+               <date when="1896-10-30" n="01">[30.? 10. 1896]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#168">Berlin</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#2147">Altenberg, Peter</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L00611">Schnitzler an
+                  Altenberg, 29. 10. 1896</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L00613">Beer-Hofmann an
+                  Schnitzler, 30. [10. 1896]</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L00611">Schnitzler
+                  an Altenberg, 29. 10. 1896</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L00661">Altenberg an
+                  Schnitzler, [24. 3. 1897]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="GHS" when="2018-09-01">Angelegt</change><change who="MAM" when="2018-10-08">Indiziert</change><change who="MAM" when="2018-10-17">Index check</change><change who="GHS" when="2018-11-16">2. Durchsicht</change><change who="GHS" when="2019-07-14">facs aktualisiert, korrigiert, finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00002-000-00013"/><graphic url="MS-SCHNITZLER-B-00002-000-00014"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><opener><salute><pb facs="MS-SCHNITZLER-B-00002-000-00013"/>Lieber <hi rend="latintype">D<hi rend="superscript">r.</hi></hi> Arthur Schnitzler:</salute></opener><p>Sie können<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich gar nicht vor<c rendition="#langesS">s</c>tellen, wie tief mich ihre wunderbare Aufmerk<c rendition="#langesS">s</c>amkeit ergriffen hat.</p><p>Sie haben einem Bankrottirer des Lebens zu<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>einen<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>par<c rendition="#langesS">s</c>amen Augenblicken des Glückes einen heiligen Augenblick hinzugefügt.</p><p>Mögen Sie, edler Sieger im Leben, nicht<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich wundern, wenn Einer, der durch körperliche,<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>eeli<c rendition="#langesS">s</c>che und ökonomi<c rendition="#langesS">s</c>che Leiden be<c rendition="#langesS">s</c>iegt und zerdrückt <add place="above">i<c rendition="#langesS">s</c>t</add>, manchesmal mit Verwunderung auf Jene blickt, <pb facs="MS-SCHNITZLER-B-00002-000-00014"/>welchen das Schick<c rendition="#langesS">s</c>al freundlicher lächelt. Mögen Sie mir es verzeihen, der ich die »<hi n="1" rend="underline">ewige Bewegung</hi>«, das »<hi n="1" rend="underline">innere Stürmen</hi>« für das Schön<c rendition="#langesS">s</c>te halte, wenn ich mit Verwunderung auf ihren innigeren Freundeskreis blicke, in welchem uralte Grei<c rendition="#langesS">s</c>e wie <rs ref="#pmb2157" type="person">Leo Ebermann</rs> und <rs ref="#pmb12740" type="person">Gustav Schwarzkopf</rs><space unit="chars" quantity="1"/>Stamm<c rendition="#langesS">s</c>itze haben.</p><p>Merkwürdig, Sie waren der Er<c rendition="#langesS">s</c>te, der mir über meine Manu<c rendition="#langesS">s</c>kripte erlö<c rendition="#langesS">s</c>ende Worte<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agte. Nun bringen Sie mir ein wundervolles Urtheil<space unit="chars" quantity="1"/><pb facs="MS-SCHNITZLER-B-00002-000-00013"/>von <rs ref="#pmb11617" type="person">G. Hauptmann</rs>.</p><p>Sie haben<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich i<c rendition="#gemination-m"/>er fein und zart gegen mich benommen.</p><p>Möge in kommender Zeit ein freund<c rendition="#langesS">s</c>chaftliche<del rend="strikethrough">s</del>res Zu<c rendition="#langesS">s</c>ammenleben mir Gelegenheit geben, meine keimenden Neigungen auswach<c rendition="#langesS">s</c>sen zu la<c rendition="#langesS">s</c><c rendition="#langesS">s</c>en. Das wün<c rendition="#langesS">s</c>che ich mir!</p><p>Schreiben Sie mir aus <rs ref="#pmb168" type="place">Berlin</rs>. Sie erleben dort gewi<c rendition="#langesS">s</c>s<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehr viel. Ich<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>elb<c rendition="#langesS">s</c>t lebe in Sehn<c rendition="#langesS">s</c>ucht nach meiner<tei:space xmlns:tei="http://www.tei-c.org/ns/1.0" unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chwarzen Freundin <anchor xml:id="K_L00612_1" type="commentary"/><rs ref="#pmb29138" type="person"><hi n="1" rend="underline"><hi rend="latintype">Nahbadûh</hi></hi></rs><note xml:id="K_L00612_1h" type="commentary">Dabei handelt es sich um eine der Schaustellerinnen des in <rs ref="#pmb50" type="place">Wien</rs> errichteten <rs type="place" subtype="implied" ref="#pmb21799">Afrika-Dorfes</rs>, das <rs ref="#pmb2147" type="person">Altenberg</rs> frequentierte. Seine Liebe zu derselben kommt im Buch <rs ref="#pmb31539" type="work">Ashantee</rs> (<bibl>Berlin: <rs ref="#pmb29639" type="org">S. Fischer</rs><date>1897</date></bibl>) mehrfach zum Ausdruck. Es handelt sich dabei aber nicht um eine literarische Figur, sondern um die Literarisierung einer Leidenschaft, wie <rs ref="#pmb11701" type="person">Georg Hirschfeld</rs> andeutet (<bibl><rs ref="#pmb11701" type="person">Georg Hirschfeld</rs>: <rs ref="#pmb33420" type="work">Wiener Erinnerungen</rs>. In: <rs ref="#pmb36374" type="work">Neue Freie Presse</rs>, Nr. 24163, <date>20. 12. 1931</date>, S. 31</bibl>).</note>, die<c rendition="#langesS">s</c>em »<anchor xml:id="K_L00612_2" type="commentary"/>letzten Wahn<c rendition="#langesS">s</c>inne meiner Seele<note xml:id="K_L00612_2h" type="commentary">Sofern es als Zitat gemeint ist, könnte es auf <rs ref="#pmb11057" type="person">Lord Byron</rs> (<rs ref="#pmb33424" type="work">The Giaour</rs>: »<rs type="work" ref="#pmb33424" subtype="implied">The cherish’d madness of my heart</rs>«, deutsch »<quote>Geliebter Wahnsinn meiner Seele</quote>«, <bibl><rs ref="#pmb33422" type="work"><rs ref="#pmb11057" type="person">Lord Byron</rs>’s sämmtliche Werke</rs>. Nach den Anforderungen unserer Zeit neu übersetzt von Mehreren. Siebenter Band. Stuttgart: <publisher>Hoffmann’sche Verlags-Buchhandlung</publisher><space unit="chars" quantity="1"/><date>1839</date>, S. 96</bibl>) oder <rs ref="#pmb5591" type="person">Friedrich Halm</rs> (»<rs type="work" ref="#pmb33424" subtype="implied">O Wahnsinn meiner Seele, / Der Wirklichkeit in leerem Traum vermengt!</rs>«, <bibl><rs ref="#pmb33424" type="work">Griseldis</rs>. Dramatisches Gedicht von <rs ref="#pmb5591" type="person">Friedrich Halm</rs>. Wien: <publisher>Carl Gerold</publisher><space unit="chars" quantity="1"/><date>1837</date>, S. 109</bibl>) zurückgehen.</note>«!</p><closer>Ihr <signed>Peter Altenberg</signed></closer></div></body><back><listPerson><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2147">
-                  <tei:persName>
-                     <tei:surname>Altenberg</tei:surname>
-                     <tei:forename>Peter</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1859-03-09">9. 3. 1859</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1919-01-08">8. 1. 1919</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb2157">
-                  <tei:persName>
-                     <tei:surname>Ebermann</tei:surname>
-                     <tei:forename>Leo</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1863-07-16">16. 7. 1863</tei:date>
-                     <tei:placeName ref="#pmb53790">Draganovka</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1914-10-09">9. 10. 1914</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="99">Journalist*in</occupation>
-                  <occupation code="102">Rechtswissenschaftler*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb12740">
-                  <tei:persName>
-                     <tei:surname>Schwarzkopf</tei:surname>
-                     <tei:forename>Gustav</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1853-11-07">7. 11. 1853</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-11-13">13. 11. 1939</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb11617">
-                  <tei:persName>
-                     <tei:surname>Hauptmann</tei:surname>
-                     <tei:forename>Gerhart</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-11-15">15. 11. 1862</tei:date>
-                     <tei:placeName ref="#pmb34542">Szczawno-Zdrój</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1946-06-06">6. 6. 1946</tei:date>
-                     <tei:placeName ref="#pmb735">Agnetendorf</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb29138">
-                  <tei:persName>
-                     <tei:surname>Nah-Badû</tei:surname>
-                     <tei:forename/>
-                  </tei:persName>
-                  <occupation code="961">Schausteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb11701">
-                  <tei:persName>
-                     <tei:surname>Hirschfeld</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1873-02-11">11. 2. 1873</tei:date>
-                     <tei:placeName ref="#pmb168">Berlin</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1942-01-17">17. 1. 1942</tei:date>
-                     <tei:placeName ref="#pmb45258">München</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb11057">
-                  <tei:persName>
-                     <tei:surname>Byron</tei:surname>
-                     <tei:forename>George Gordon Noël Lord</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1788-01-22">22. 1. 1788</tei:date>
-                     <tei:placeName ref="#pmb224">London</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1824-04-19">19. 4. 1824</tei:date>
-                     <tei:placeName ref="#pmb11059">Mesolongi</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb5591">
-                  <tei:persName>
-                     <tei:surname>Halm</tei:surname>
-                     <tei:forename>Friedrich</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1806-04-02">2. 4. 1806</tei:date>
-                     <tei:placeName ref="#pmb737">Krakau</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1871-05-22">22. 5. 1871</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb31539">
-                  <tei:author ref="pmb2147" role="author">
-                     <tei:surname>Altenberg</tei:surname>
-                     <tei:forename>Peter</tei:forename>
-                  </tei:author>
-                  <tei:title>Ashantee</tei:title>
-                  <tei:date from="1897-01-01" from-custom="1897">1897</tei:date>
-                  <tei:gloss type="w1098">Novellensammlung</tei:gloss>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb33420">
-                  <tei:author ref="pmb11701" role="author">
-                     <tei:surname>Hirschfeld</tei:surname>
-                     <tei:forename>Georg</tei:forename>
-                  </tei:author>
-                  <tei:title>Wiener Erinnerungen</tei:title>
-                  <tei:date from="1931-12-20" from-custom="20.12.1931">20. 12. 1931</tei:date>
-                  <tei:gloss type="w1407">Feuilleton</tei:gloss>
-                  <tei:note>3370</tei:note>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb36374">
-                  <tei:title>Neue Freie Presse</tei:title>
-                  <tei:date from="1864-01-01" from-custom="1864" to="1939-01-01" to-custom="1939">1864–1939</tei:date>
-                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
-                  <tei:note>3479</tei:note>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb33424">
-                  <tei:author ref="pmb11057" role="author">
-                     <tei:surname>Byron</tei:surname>
-                     <tei:forename>George Gordon Noël Lord</tei:forename>
-                  </tei:author>
-                  <tei:title>Der Giaur</tei:title>
-                  <tei:date from="1813-01-01" from-custom="1813">1813</tei:date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
-               </tei:bibl><tei:bibl xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb33422">
-                  <tei:author ref="pmb11057" role="author">
-                     <tei:surname>Byron</tei:surname>
-                     <tei:forename>George Gordon Noël Lord</tei:forename>
-                  </tei:author>
-                  <tei:title>Sämmtliche Werke</tei:title>
-                  <tei:date from="1839-01-01" from-custom="1839">1839</tei:date>
-                  <tei:gloss type="w1157">Werkausgabe</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb168">
-                  <tei:placeName>Berlin</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb21799">
-                  <tei:placeName>Schloß Schönbrunn</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i41">Schloss</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.18479 16.31227</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg><tei:org xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pmb29639">
-                  <tei:orgName>S. Fischer Verlag</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1886-01-01" from-custom="1886">1886</tei:date>
-                     <tei:gloss ana="i975">Verlag</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb146">
-                     <tei:placeName>Frankfurt am Main</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb168">
-                     <tei:placeName>Berlin</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                     </tei:location>
-                  </tei:place>
-                  <tei:place corresp="pmb659">
-                     <tei:placeName>Bülowstraße</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">52.49737 13.36385</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </tei:org></listOrg></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="GHS" when="2018-09-01">Angelegt</change>
+         <change who="MAM" when="2018-10-08">Indiziert</change>
+         <change who="MAM" when="2018-10-17">Index check</change>
+         <change who="GHS" when="2018-11-16">2. Durchsicht</change>
+         <change who="GHS" when="2019-07-14">facs aktualisiert, korrigiert, finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00002-000-00013"/>
+      <graphic url="MS-SCHNITZLER-B-00002-000-00014"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <opener>
+               <salute>
+                  <pb facs="MS-SCHNITZLER-B-00002-000-00013"/>Lieber <hi rend="latintype">D<hi
+                        rend="superscript">r.</hi>
+                  </hi> Arthur Schnitzler:</salute>
+            </opener>
+            <p>Sie können ſich gar nicht vorſtellen, wie tief mich ihre wunderbare Aufmerkſamkeit
+               ergriffen hat.</p>
+            <p>Sie haben einem Bankrottirer des Lebens zu ſeinen ſparſamen Augenblicken des Glückes
+               einen heiligen Augenblick hinzugefügt.</p>
+            <p>Mögen Sie, edler Sieger im Leben, nicht ſich wundern, wenn Einer, der durch
+               körperliche, ſeeliſche und ökonomiſche Leiden beſiegt und zerdrückt <add
+                  place="above">iſt</add>, manchesmal mit Verwunderung auf Jene blickt, <pb
+                  facs="MS-SCHNITZLER-B-00002-000-00014"/>welchen das Schickſal freundlicher
+               lächelt. Mögen Sie mir es verzeihen, der ich die »<hi n="1" rend="underline">ewige
+                  Bewegung</hi>«, das »<hi n="1" rend="underline">innere Stürmen</hi>« für das
+               Schönſte halte, wenn ich mit Verwunderung auf ihren innigeren Freundeskreis blicke,
+               in welchem uralte Greiſe wie <rs ref="#2157" type="person">Leo Ebermann</rs> und <rs
+                  ref="#12740" type="person">Gustav Schwarzkopf</rs>
+               <space unit="chars" quantity="1"/>Stammſitze haben.</p>
+            <p>Merkwürdig, Sie waren der Erſte, der mir über meine Manuſkripte erlöſende Worte
+               ſagte. Nun bringen Sie mir ein wundervolles Urtheil<space unit="chars" quantity="1"/>
+               <pb facs="MS-SCHNITZLER-B-00002-000-00013"/>von <rs ref="#11617" type="person"
+                  >G. Hauptmann</rs>.</p>
+            <p>Sie haben ſich i<c rendition="#gemination-m"/>er fein und zart gegen mich
+               benommen.</p>
+            <p>Möge in kommender Zeit ein freundſchaftliche<del rend="strikethrough">s</del>res
+               Zuſammenleben mir Gelegenheit geben, meine keimenden Neigungen auswachſsen zu laſſen.
+               Das wünſche ich mir!</p>
+            <p>Schreiben Sie mir aus <rs ref="#168" type="place">Berlin</rs>. Sie erleben dort
+               gewiſs ſehr viel. Ich ſelbſt lebe in Sehnſucht nach meiner ſchwarzen Freundin <anchor
+                  xml:id="K_L00612_1" type="commentary"/>
+               <rs ref="#29138" type="person">
+                  <hi n="1" rend="underline">
+                     <hi rend="latintype">Nahbadûh</hi>
+                  </hi>
+               </rs>
+               <note xml:id="K_L00612_1h" type="commentary">Dabei handelt es sich um eine der
+                  Schaustellerinnen des in <rs ref="#50" type="place">Wien</rs> errichteten <rs
+                     type="place" subtype="implied" ref="#21799">Afrika-Dorfes</rs>, das <rs
+                     ref="#2147" type="person">Altenberg</rs> frequentierte. Seine Liebe zu
+                  derselben kommt im Buch <rs ref="#31539" type="work">Ashantee</rs> (<bibl>Berlin:
+                        <rs ref="#29639" type="org">S. Fischer</rs>
+                     <date>1897</date>
+                  </bibl>) mehrfach zum Ausdruck. Es handelt sich dabei aber nicht um eine
+                  literarische Figur, sondern um die Literarisierung einer Leidenschaft, wie <rs
+                     ref="#11701" type="person">Georg Hirschfeld</rs> andeutet (<bibl>
+                     <rs ref="#11701" type="person">Georg Hirschfeld</rs>: <rs ref="#33420"
+                        type="work">Wiener Erinnerungen</rs>. In: <rs ref="#36374" type="work">Neue
+                        Freie Presse</rs>, Nr. 24163, <date>20. 12. 1931</date>,
+                  S. 31</bibl>).</note>, dieſem »<anchor xml:id="K_L00612_2" type="commentary"
+               />letzten Wahnſinne meiner Seele<note xml:id="K_L00612_2h" type="commentary">Sofern
+                  es als Zitat gemeint ist, könnte es auf <rs ref="#11057" type="person">Lord
+                     Byron</rs> (<rs ref="#33424" type="work">The Giaour</rs>: »<rs type="work"
+                     ref="#33424" subtype="implied">The cherish’d madness of my heart</rs>«, deutsch
+                     »<quote>Geliebter Wahnsinn meiner Seele</quote>«, <bibl>
+                     <rs ref="#33422" type="work">
+                        <rs ref="#11057" type="person">Lord Byron</rs>’s sämmtliche Werke</rs>. Nach
+                     den Anforderungen unserer Zeit neu übersetzt von Mehreren. Siebenter Band.
+                     Stuttgart: <publisher>Hoffmann’sche Verlags-Buchhandlung</publisher>
+                     <space unit="chars" quantity="1"/>
+                     <date>1839</date>, S. 96</bibl>) oder <rs ref="#5591" type="person">Friedrich
+                     Halm</rs> (»<rs type="work" ref="#33424" subtype="implied">O Wahnsinn meiner
+                     Seele, / Der Wirklichkeit in leerem Traum vermengt!</rs>«, <bibl>
+                     <rs ref="#33424" type="work">Griseldis</rs>. Dramatisches Gedicht von <rs
+                        ref="#5591" type="person">Friedrich Halm</rs>. Wien: <publisher>Carl
+                        Gerold</publisher>
+                     <space unit="chars" quantity="1"/>
+                     <date>1837</date>, S. 109</bibl>) zurückgehen.</note>«!</p>
+            <closer>Ihr <signed>Peter Altenberg</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

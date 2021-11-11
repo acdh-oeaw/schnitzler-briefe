@@ -1,142 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:id="L01280" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader type="text"><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 27. 3. 1903</title><author ref="#pmb2121">Schnitzler, Arthur</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01280</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+     xml:id="L01280"
+     xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Arthur Schnitzler an Richard Beer-Hofmann, 27. 3. 1903</title>
+            <author ref="#2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L01280</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>U.S.A.</country><settlement>Yale</settlement><repository>Beinecke Rare Book and Manuscript Library</repository><idno>Yale Collection of German Literature, MSS 31</idno></msIdentifier><physDesc><objectDesc><desc type="brief"/><desc n="1" type="_blaetter"/><desc n="3" type="_seiten"/><desc type="umschlag"/></objectDesc><handDesc><handNote medium="bleistift" style="deutsche-kurrent"/></handDesc><additions><incident type="postal"><desc><stamp n="1"><placeName ref="#pmb59">9/3 Wien</placeName><date when="1903-03-27">27. 3. <unclear>03</unclear></date><time>11–12V</time></stamp></desc></incident><incident type="postal"><desc><stamp n="2"><placeName ref="#pmb173"><pb facs="1903_AS_RBH_1_00022"/>Rodaun</placeName><date when="1903-03-27">27. 3. 03</date><time>11–12V</time></stamp></desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="ASBH"><monogr><author ref="#pmb2121">Schnitzler, Arthur</author><author ref="#pmb10863">Beer-Hofmann, Richard</author><title level="m">Briefwechsel 1891–1931</title><editor>Hg. Konstanze Fliedl</editor><imprint><pubPlace>Wien, Zürich</pubPlace><publisher>Europaverlag</publisher><date when="1992">1992</date></imprint><biblScope unit="pp">162</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName><date when="1903-03-27" n="01">27. 3. 1903</date></correspAction><correspAction type="received"><persName ref="#pmb10863">Beer-Hofmann, Richard</persName><placeName ref="#pmb173">Rodaun</placeName><date when="1903-03-27">27. 3. 1903</date></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb10863">Beer-Hofmann, Richard</ref><ref subtype="previous_letter" type="withinCollection" target="L01279">Beer-Hofmann an Schnitzler, 26. 3. 1903</ref><ref subtype="next_letter" type="withinCollection" target="L01281">Schnitzler an Bahr, 28. 3. 1903</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01279">Beer-Hofmann an Schnitzler, 26. 3. 1903</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01218">Schnitzler an Beer-Hofmann, [5.?] 5. 1902</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>U.S.A.</country>
+                        <settlement>Yale</settlement>
+                        <repository>Beinecke Rare Book and Manuscript Library</repository>
+                        <idno>Yale Collection of German Literature, MSS 31</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc type="brief"/>
+                           <desc n="1" type="_blaetter"/>
+                           <desc n="3" type="_seiten"/>
+                           <desc type="umschlag"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="bleistift" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="1">
+                                    <placeName ref="#59">9/3 Wien</placeName>
+                                    <date when="1903-03-27">27. 3. <unclear>03</unclear>
+                                    </date>
+                                    <time>11–12V</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                           <incident type="postal">
+                              <desc>
+                                 <stamp n="2">
+                                    <placeName ref="#173">
+                                       <pb facs="1903_AS_RBH_1_00022"/>Rodaun</placeName>
+                                    <date when="1903-03-27">27. 3. 03</date>
+                                    <time>11–12V</time>
+                                 </stamp>
+                              </desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="ASBH">
+                  <monogr>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <author ref="#10863">Beer-Hofmann, Richard</author>
+                     <title level="m">Briefwechsel 1891–1931</title>
+                     <editor>Hg. Konstanze Fliedl</editor>
+                     <imprint>
+                        <pubPlace>Wien, Zürich</pubPlace>
+                        <publisher>Europaverlag</publisher>
+                        <date when="1992">1992</date>
+                     </imprint>
+                     <biblScope unit="pp">162</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+               <date when="1903-03-27" n="01">27. 3. 1903</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#10863">Beer-Hofmann, Richard</persName>
+               <placeName ref="#173">Rodaun</placeName>
+               <date when="1903-03-27">27. 3. 1903</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#10863">Beer-Hofmann, Richard</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01279">Beer-Hofmann an Schnitzler, 26. 3. 1903</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01281">Schnitzler an Bahr, 28. 3. 1903</ref>
+               <ref subtype="previous_letter"
+                    type="withinCorrespondence"
+                    target="L01279">Beer-Hofmann an Schnitzler, 26. 3. 1903</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01218">Schnitzler an Beer-Hofmann, [5.?] 5. 1902</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only, 
             e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is: 
             'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15'
-        </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change><change who="MAM" when="2020-10-20">Index check</change><change who="MAM" when="2020-11-24">Durchsicht</change><change who="GHS" when="2021-05-03">Finalisiert</change></revisionDesc></teiHeader><facsimile><graphic url="1903_AS_RBH_1_00021"/><graphic url="1903_AS_RBH_1_00022"/><graphic url="1903_AS_RBH_1_00023"/><graphic url="1903_AS_RBH_1_00024"/></facsimile><text type="letter"><body><div type="address"><address><addrLine><pb facs="1903_AS_RBH_1_00021"/>Herrn</addrLine><addrLine><hi rend="latintype">Dr. Richard Beer-Hofmann</hi></addrLine><addrLine><rs ref="#pmb173" type="place">Rodaun</rs></addrLine><addrLine>bei <rs type="place" ref="#pmb73">Lie<c rendition="#langesS">s</c>ing</rs></addrLine><addrLine><rs ref="#pmb40101" type="place">Lie<c rendition="#langesS">s</c>inger Straße 2</rs>. </addrLine></address></div><div type="writingSession" n="1"><opener><dateline rend="right"><pb facs="1903_AS_RBH_1_00023"/><date when="1903-03-27">27./3 903</date>.</dateline><salute>mein lieber Richard,</salute></opener><p><rs ref="#pmb31623" type="work">Lear</rs> hab ich <anchor xml:id="K_L01280_1" type="commentary"/>heuer<note xml:id="K_L01280_1h" type="commentary">Gemeint ist die Theatersaison. <ref target="1902-09-28" subtype="Cf" type="schnitzlerDiary"/></note><tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon einmal ge<c rendition="#langesS">s</c>ehen; übrigens<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind fünf in einer Loge zu viel, un<unclear>d</unclear> man hätte weder was von <rs ref="#pmb2412" type="person"><hi rend="latintype">Shakespeare</hi></rs> noch von einander</p><p>Man könnte<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ich<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chon viel öfter<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ehen, we<c rendition="#gemination-n"/> man nicht<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>chwerfällig wäre, was nicht <pb facs="1903_AS_RBH_1_00024"/>nur auf Sie,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ondern eigentlich viel mehr auf mich geht. Übrigens hab ich von Tag zu Tag irgend was telephonisches von Ihnen erwartet. Auch denk ich im Laufe der näch<c rendition="#langesS">s</c>ten Woche einmal, <time>Vormittags</time>, vielleicht mit <rs ref="#pmb2173" type="person">Olga</rs>, in <rs ref="#pmb173" type="place">Rodaun</rs> aufzutauchen.</p><p>Grüß Sie Gott und ver<c rendition="#langesS">s</c>ichern <pb facs="1903_AS_RBH_1_00024"/>Sie <rs ref="#pmb11740" type="person">Hugo</rs>, dem begabten <anchor xml:id="K_L01280_2" type="commentary"/>Adre<c rendition="#langesS">s</c><c rendition="#langesS">s</c>enschreiber<note xml:id="K_L01280_2h" type="commentary">Die Adressierung des Briefes vom <ref target="L01279.xml" type="toLetter" subtype="date-only"><title>Richard Beer-Hofmann an Arthur Schnitzler, 26. 3.  1903</title><date when="1903-03-26">26. 3. 1903</date></ref> stammte von <rs ref="#pmb11740" type="person">Hofmannsthal</rs>.</note>, das gleiche.</p><closer>Der Ihrige,<lb/><signed>A.</signed></closer></div></body><back><listPerson><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb10863">
-                  <tei:persName>
-                     <tei:surname>Beer-Hofmann</tei:surname>
-                     <tei:forename>Richard</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1866-07-11">11. 7. 1866</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1945-09-26">26. 9. 1945</tei:date>
-                     <tei:placeName ref="#pmb44053">New York City</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2412">
-                  <tei:persName>
-                     <tei:surname>Shakespeare</tei:surname>
-                     <tei:forename>William</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1564-04-23">23.4.1564?</tei:date>
-                     <tei:placeName ref="#pmb49870">Stratford-upon-Avon</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1616-05-03">3. 5. 1616</tei:date>
-                     <tei:placeName ref="#pmb49870">Stratford-upon-Avon</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2173">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Olga</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1882-01-17">17. 1. 1882</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1970-01-13">13. 1. 1970</tei:date>
-                     <tei:placeName ref="#pmb885">Lugano</tei:placeName>
-                  </tei:death>
-                  <occupation code="107">Sänger*in</occupation>
-                  <occupation code="108">Schauspieler*in</occupation>
-               </tei:person><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person></listPerson><listBibl><tei:bibl xml:id="pmb31623">
-                  <tei:author ref="pmb2412" role="author">
-                     <tei:surname>Shakespeare</tei:surname>
-                     <tei:forename>William</tei:forename>
-                  </tei:author>
-                  <tei:title>König Lear</tei:title>
-                  <tei:date from="1606-01-01" from-custom="1606">1606</tei:date>
-                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
-               </tei:bibl></listBibl><listPlace><tei:place xml:id="pmb59">
-                  <tei:placeName>IX., Alsergrund</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb173">
-                  <tei:placeName>Rodaun</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i18">Teil eines besiedelten Ortes</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.132793312328 16.256152195922</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb73">
-                  <tei:placeName>XXIII., Liesing</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.13333 16.3</tei:geo>
-                  </tei:location>
-               </tei:place><tei:place xml:id="pmb40101">
-                  <tei:placeName>Liesingerstraße</tei:placeName>
-                  <tei:desc>
-                     <tei:date to="1957-07-02" to-custom="1957-07-02">2. 7. 1957</tei:date>
-                     <tei:gloss ana="i26">Straße</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.1332 16.25864</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+        </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-06-12">Automatisch angelegt aus Buchausgabe</change>
+         <change who="MAM" when="2020-10-20">Index check</change>
+         <change who="MAM" when="2020-11-24">Durchsicht</change>
+         <change who="GHS" when="2021-05-03">Finalisiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="1903_AS_RBH_1_00021"/>
+      <graphic url="1903_AS_RBH_1_00022"/>
+      <graphic url="1903_AS_RBH_1_00023"/>
+      <graphic url="1903_AS_RBH_1_00024"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="address">
+            <address>
+               <addrLine>
+                  <pb facs="1903_AS_RBH_1_00021"/>Herrn</addrLine>
+               <addrLine>
+                  <hi rend="latintype">Dr. Richard Beer-Hofmann</hi>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#173" type="place">Rodaun</rs>
+               </addrLine>
+               <addrLine>bei <rs type="place" ref="#73">Lieſing</rs>
+               </addrLine>
+               <addrLine>
+                  <rs ref="#40101" type="place">Lieſinger Straße 2</rs>. </addrLine>
+            </address>
+         </div>
+         <div type="writingSession" n="1">
+            <opener>
+               <dateline rend="right">
+                  <pb facs="1903_AS_RBH_1_00023"/>
+                  <date when="1903-03-27">27./3 903</date>.</dateline>
+               <salute>mein lieber Richard,</salute>
+            </opener>
+            <p>
+               <rs ref="#31623" type="work">Lear</rs> hab ich <anchor xml:id="K_L01280_1" type="commentary"/>heuer<note xml:id="K_L01280_1h" type="commentary">Gemeint ist
+                  die Theatersaison. <ref target="1902-09-28" subtype="Cf" type="schnitzlerDiary"/>
+               </note> ſchon einmal geſehen; übrigens ſind fünf in einer Loge zu viel,
+                  un<unclear>d</unclear> man hätte weder was von <rs ref="#2412" type="person">
+                  <hi rend="latintype">Shakespeare</hi>
+               </rs> noch von einander</p>
+            <p>Man könnte ſich ſchon viel öfter ſehen, we<c rendition="#gemination-n"/> man nicht ſo
+               ſchwerfällig wäre, was nicht <pb facs="1903_AS_RBH_1_00024"/>nur auf Sie, ſondern
+               eigentlich viel mehr auf mich geht. Übrigens hab ich von Tag zu Tag irgend was
+               telephonisches von Ihnen erwartet. Auch denk ich im Laufe der nächſten Woche einmal,
+                  <time>Vormittags</time>, vielleicht mit <rs ref="#2173" type="person">Olga</rs>,
+               in <rs ref="#173" type="place">Rodaun</rs> aufzutauchen.</p>
+            <p>Grüß Sie Gott und verſichern <pb facs="1903_AS_RBH_1_00024"/>Sie <rs ref="#11740" type="person">Hugo</rs>, dem begabten <anchor xml:id="K_L01280_2" type="commentary"/>Adreſſenschreiber<note xml:id="K_L01280_2h" type="commentary">Die Adressierung des Briefes vom <ref type="toLetter" subtype="date-only" target="L01279"/> stammte von <rs ref="#11740" type="person">Hofmannsthal</rs>.</note>, das gleiche.</p>
+            <closer>Der Ihrige,<lb/>
+               <signed>A.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

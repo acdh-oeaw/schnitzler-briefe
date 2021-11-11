@@ -1,131 +1,214 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L01384" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd" xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/"><teiHeader><fileDesc><titleStmt><title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title><title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, [15. 3. 1904]</title><author ref="#pmb11740">Hofmannsthal, Hugo von</author><editor><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>ASBW</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Susen, Gerd-Hermann</name></respStmt><idno type="asbw">L01384</idno></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2021">2021</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="L01384"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../XML/META/asbwschema.xsd"
+   xml:base="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und Autoren</title>
+            <title level="a">Hugo von Hofmannsthal an Arthur Schnitzler, [15. 3. 1904]</title>
+            <author ref="#11740">Hofmannsthal, Hugo von</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASBW</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Susen, Gerd-Hermann</name>
+            </respStmt>
+            <idno type="asbw">L01384</idno>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
                      vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
                      verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
-                     kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
-                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
                      Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
                      Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
                      nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
                      oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
                      zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
-                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
                      Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
                      Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
                      Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
                      möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
                      brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
                      Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
-                     beschränken.</p></licence></availability></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>GB</country><settlement>Cambridge</settlement><repository>University Library</repository><idno>Schnitzler, B 43</idno></msIdentifier><physDesc><objectDesc><desc n="1" type="_blaetter"/><desc type="brief"/><desc n="4" type="_seiten"/></objectDesc><handDesc><handNote medium="schwarze_tinte" style="deutsche-kurrent"/></handDesc><additions><incident type="receiver"><desc>mit Bleistift datiert: »<quote><date>15/3 904</date>.</quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert: »<quote><del rend="strikethrough">241</del></quote>«</desc></incident><incident type="archival"><desc>mit Bleistift von unbekannter Hand nummeriert:
-                                    »<quote>217</quote>«</desc></incident></additions></physDesc></msDesc></witness></listWit><listBibl><biblStruct corresp="HvHAS"><monogr><author ref="#pmb11740">Hofmannsthal, Hugo von</author><author ref="#pmb2121">Schnitzler, Arthur</author><title level="m">Briefwechsel</title><editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor><imprint><pubPlace>Frankfurt am Main</pubPlace><publisher>S. Fischer</publisher><date when="1964">1964</date></imprint><biblScope unit="pp">184</biblScope></monogr></biblStruct></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage><correspDesc><correspAction type="sent"><persName ref="#pmb11740">Hofmannsthal, Hugo von</persName><date when="1904-03-15" n="02">15. 3. 1904</date></correspAction><correspAction type="received"><persName ref="#pmb2121">Schnitzler, Arthur</persName><placeName ref="#pmb50">Wien</placeName></correspAction><correspContext><ref type="belongsToCorrespondence" target="#pmb11740">Hofmannsthal, Hugo von</ref><ref subtype="previous_letter" type="withinCollection" target="L01383">Hofmannsthal
-                  an Schnitzler, [zwischen 15. und 20. 3.? 1904]</ref><ref subtype="next_letter" type="withinCollection" target="L01385">Bahr an
-                  Schnitzler, 16. 3. 1904</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01383">Hofmannsthal an Schnitzler, [zwischen 15. und 20. 3.? 1904]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01386">Hofmannsthal
-                  an Schnitzler, [18. 3. 1904]</ref></correspContext></correspDesc></profileDesc><encodingDesc><refsDecl><ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>GB</country>
+                        <settlement>Cambridge</settlement>
+                        <repository>University Library</repository>
+                        <idno>Schnitzler, B 43</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <desc n="1" type="_blaetter"/>
+                           <desc type="brief"/>
+                           <desc n="4" type="_seiten"/>
+                        </objectDesc>
+                        <handDesc>
+                           <handNote medium="schwarze_tinte" style="deutsche-kurrent"/>
+                        </handDesc>
+                        <additions>
+                           <incident type="receiver">
+                              <desc>mit Bleistift datiert: »<quote>
+                                    <date>15/3 904</date>.</quote>«</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert: »<quote>
+                                    <del rend="strikethrough">241</del>
+                                 </quote>«</desc>
+                           </incident>
+                           <incident type="archival">
+                              <desc>mit Bleistift von unbekannter Hand nummeriert:
+                                    »<quote>217</quote>«</desc>
+                           </incident>
+                        </additions>
+                     </physDesc>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listBibl>
+               <biblStruct corresp="HvHAS">
+                  <monogr>
+                     <author ref="#11740">Hofmannsthal, Hugo von</author>
+                     <author ref="#2121">Schnitzler, Arthur</author>
+                     <title level="m">Briefwechsel</title>
+                     <editor>Nickl, Therese</editor><editor>Schnitzler, Heinrich</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                        <publisher>S. Fischer</publisher>
+                        <date when="1964">1964</date>
+                     </imprint>
+                     <biblScope unit="pp">184</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#11740">Hofmannsthal, Hugo von</persName>
+               <date when="1904-03-15" n="02">15. 3. 1904</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#2121">Schnitzler, Arthur</persName>
+               <placeName ref="#50">Wien</placeName>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#11740">Hofmannsthal, Hugo von</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="L01383">Hofmannsthal
+                  an Schnitzler, [zwischen 15. und 20. 3.? 1904]</ref>
+               <ref subtype="next_letter" type="withinCollection" target="L01385">Bahr an
+                  Schnitzler, 16. 3. 1904</ref>
+               <ref subtype="previous_letter" type="withinCorrespondence" target="L01383"
+                  >Hofmannsthal an Schnitzler, [zwischen 15. und 20. 3.? 1904]</ref>
+               <ref subtype="next_letter" type="withinCorrespondence" target="L01386">Hofmannsthal
+                  an Schnitzler, [18. 3. 1904]</ref>
+            </correspContext>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <ab>References to Arthur Schnitzler’s diary online consist of the relevant dates only,
                e.g. @type="schnitzlerDiary" @target="1891-05-15". The complete URI is:
-               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab></refsDecl></encodingDesc><revisionDesc status="approved"><change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change><change who="GHS" when="2020-04-08">Durchsicht</change><change who="MAM" when="2020-05-19">Durchsicht</change><change who="MAM" when="2020-05-19">Index check</change></revisionDesc></teiHeader><facsimile><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00129"/><graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00130"/></facsimile><text type="letter"><body><div type="writingSession" n="1"><p><pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00129"/><salute>Mein lieber Arthur,</salute><space unit="chars" quantity="3"/>meiner <rs type="person" ref="#pmb18404" subtype="implied">Mama</rs> Zu<c rendition="#langesS">s</c>tand i<c rendition="#langesS">s</c>t – wie ja nicht anders zu erwarten, – genau<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o elend wie vor ein paar Tagen. Geprüft durch jahrelangen Anblick eines<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olchen complicierten <anchor xml:id="K_L01384_1" type="commentary"/>p<c rendition="#langesS">s</c>ycha<c rendition="#langesS">s</c>theni<c rendition="#langesS">s</c>chen<note xml:id="K_L01384_1h" type="commentary"><date>1903</date> von <rs type="person" ref="#pmb44958">Pierre Janet</rs> eingeführter Ausdruck für jemanden, der aufgrund einer neurotischen Störung eine nur geringe körperliche und psychische Belastbarkeit aufweist.</note> Leidens<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind wir ja auch nicht ungeduldig.<space unit="chars" quantity="3"/>Nicht wahr aber, Sie<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ind nicht bös, da<c rendition="#langesS">s</c>s das Leben es mit <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00130"/><c rendition="#langesS">s</c>ich gebracht hat, da<c rendition="#langesS">s</c>s zwei<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o ver<c rendition="#langesS">s</c>chiedene Dinge, wie Ihre zufällige Arzt-eigen<c rendition="#langesS">s</c>chaft und un<c rendition="#langesS">s</c>ere Freund<c rendition="#langesS">s</c>chaft mich jetzt ermuthigen, Sie um Hilfe anzubetteln. Es er<c rendition="#langesS">s</c>cheint halt alles ringsum, alles was man ver<c rendition="#langesS">s</c>uchen kann, alles was man herbeirufen kann,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o er<c rendition="#langesS">s</c>chöpft.</p><p>Das i<c rendition="#langesS">s</c>t der Gegen<c rendition="#langesS">s</c>tand von meiner und meines <rs type="person" ref="#pmb11737" subtype="implied">Vaters</rs> haupt<c rendition="#langesS">s</c>ächlicher Bitte: da<c rendition="#langesS">s</c>s Sie <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00130"/>Ihr Ver<c rendition="#langesS">s</c>tändnis der <hi n="1" rend="underline">Ge<c rendition="#langesS">s</c>amter<c rendition="#langesS">s</c>cheinung</hi> die<c rendition="#langesS">s</c>er kranken <rs type="person" ref="#pmb18404" subtype="implied">Frau</rs> in einem Ge<c rendition="#langesS">s</c>präch Ihrem <rs type="person" ref="#pmb12698" subtype="implied">Bruder</rs> nahebringen,<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o da<c rendition="#langesS">s</c>s er von<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>einem näch<c rendition="#langesS">s</c>ten Be<c rendition="#langesS">s</c>uch an – und bei öfteren Be<c rendition="#langesS">s</c>uchen, die man erbitten wird – neben dem <rs type="person" ref="#pmb40212" subtype="implied" cert="medium">Hausarzt</rs> oder über dem <rs type="person" ref="#pmb40212" subtype="implied" cert="medium">Hausarzt</rs> der leitende Arzt im Ganzen wird, derjenige gute Arzt der die Einwirkungen <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00129"/>auf einen Theil (hier die Narbungen im Darm)<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>o weit als möglich dem Einblick in das Ganze unterordnet.</p><p>Wir bilden uns nicht ein, da<c rendition="#langesS">s</c>s ein<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olcher Patient zu <hi rend="underline" n="1">curieren</hi> i<c rendition="#langesS">s</c>t. Aber von einer<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>olchen Krise des Elends wieder in das relativ normale zurückzuführen i<c rendition="#langesS">s</c>t<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>ie doch vielleicht<unclear>?</unclear> Sie werden mir <date>Freitag</date> vielleicht<tei:space unit="chars" quantity="1">  </tei:space><c rendition="#langesS">s</c>agen, wann Sie mit Ihrem <rs type="person" ref="#pmb12698" subtype="implied">Bruder</rs><space unit="chars" quantity="1"/><c rendition="#langesS">s</c>prechen können, nachher ruft man ihn dann wieder. Ihr <signed>Hugo</signed></p></div></body><back><listPerson><tei:person xml:id="pmb11740">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1874-02-01">1. 2. 1874</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1929-07-15">15. 7. 1929</tei:date>
-                     <tei:placeName ref="#pmb173">Rodaun</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-               </tei:person><tei:person xml:id="pmb2121">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Arthur</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1862-05-15">15. 5. 1862</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1931-10-21">21. 10. 1931</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="90">Schriftsteller*in</occupation>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person><tei:person xml:id="pmb18404">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Anna von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1849-01-27">27. 1. 1849</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1904-03-22">22. 3. 1904</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-               </tei:person><tei:person xml:id="pmb44958">
-                  <tei:persName>
-                     <tei:surname>Janet</tei:surname>
-                     <tei:forename>Pierre</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1859-05-30">30. 5. 1859</tei:date>
-                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1947-02-24">24. 2. 1947</tei:date>
-                     <tei:placeName ref="#pmb182">Paris</tei:placeName>
-                  </tei:death>
-                  <occupation code="386">Psychiater</occupation>
-                  <occupation code="398">Psychologe/in</occupation>
-               </tei:person><tei:person xml:id="pmb11737">
-                  <tei:persName>
-                     <tei:surname>Hofmannsthal</tei:surname>
-                     <tei:forename>Hugo August von</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1841-12-21">21. 12. 1841</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1915-12-08">8. 12. 1915</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="465">Bankdirektor*in</occupation>
-               </tei:person><tei:person xml:id="pmb12698">
-                  <tei:persName>
-                     <tei:surname>Schnitzler</tei:surname>
-                     <tei:forename>Julius</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1865-07-13">13. 7. 1865</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1939-06-29">29. 6. 1939</tei:date>
-                     <tei:placeName ref="#pmb50">Wien</tei:placeName>
-                  </tei:death>
-                  <occupation code="364">Chirurg*in</occupation>
-               </tei:person><tei:person xml:id="pmb40212">
-                  <tei:persName>
-                     <tei:surname>Schandlbauer</tei:surname>
-                     <tei:forename>Hans</tei:forename>
-                  </tei:persName>
-                  <tei:birth>
-                     <tei:date when="1844-01-12">12. 1. 1844</tei:date>
-                     <tei:placeName ref="#pmb40215">Krumbach</tei:placeName>
-                  </tei:birth>
-                  <tei:death>
-                     <tei:date when="1910-05-25">25. 5. 1910</tei:date>
-                     <tei:placeName ref="#pmb40215">Krumbach</tei:placeName>
-                  </tei:death>
-                  <occupation code="97">Mediziner*in</occupation>
-               </tei:person></listPerson><listBibl/><listPlace><tei:place xml:id="pmb50">
-                  <tei:placeName>Wien</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                  </tei:location>
-               </tei:place></listPlace><listOrg/></back></text></TEI>
+               'https://schnitzler-tagebuch.acdh.oeaw.ac.at/v/editions/entry__1891-05-15' </ab>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc status="approved">
+         <change who="MAM" when="2019-07-31">Angelegt aus Buchausgabe</change>
+         <change who="GHS" when="2020-04-08">Durchsicht</change>
+         <change who="MAM" when="2020-05-19">Durchsicht</change>
+         <change who="MAM" when="2020-05-19">Index check</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00129"/>
+      <graphic url="MS-SCHNITZLER-B-00043-B-00002-000-00130"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <p>
+               <pb facs="MS-SCHNITZLER-B-00043-B-00002-000-00129"/>
+               <salute>Mein lieber Arthur,</salute>
+               <space unit="chars" quantity="3"/>meiner <rs type="person" ref="#18404"
+                  subtype="implied">Mama</rs> Zuſtand iſt – wie ja nicht anders zu erwarten, – genau
+               ſo elend wie vor ein paar Tagen. Geprüft durch jahrelangen Anblick eines ſolchen
+               complicierten <anchor xml:id="K_L01384_1" type="commentary"/>pſychaſtheniſchen<note
+                  xml:id="K_L01384_1h" type="commentary">
+                  <date>1903</date> von <rs type="person" ref="#44958">Pierre Janet</rs>
+                  eingeführter Ausdruck für jemanden, der aufgrund einer neurotischen Störung eine
+                  nur geringe körperliche und psychische Belastbarkeit aufweist.</note> Leidens ſind
+               wir ja auch nicht ungeduldig.<space unit="chars" quantity="3"/>Nicht wahr aber, Sie
+               ſind nicht bös, daſs das Leben es mit <pb
+                  facs="MS-SCHNITZLER-B-00043-B-00002-000-00130"/>ſich gebracht hat, daſs zwei ſo
+               verſchiedene Dinge, wie Ihre zufällige Arzt-eigenſchaft und unſere Freundſchaft mich
+               jetzt ermuthigen, Sie um Hilfe anzubetteln. Es erſcheint halt alles ringsum, alles
+               was man verſuchen kann, alles was man herbeirufen kann, ſo erſchöpft.</p>
+            <p>Das iſt der Gegenſtand von meiner und meines <rs type="person" ref="#11737"
+                  subtype="implied">Vaters</rs> hauptſächlicher Bitte: daſs Sie <pb
+                  facs="MS-SCHNITZLER-B-00043-B-00002-000-00130"/>Ihr Verſtändnis der <hi n="1"
+                  rend="underline">Geſamterſcheinung</hi> dieſer kranken <rs type="person"
+                  ref="#18404" subtype="implied">Frau</rs> in einem Geſpräch Ihrem <rs type="person"
+                  ref="#12698" subtype="implied">Bruder</rs> nahebringen, ſo daſs er von ſeinem
+               nächſten Beſuch an – und bei öfteren Beſuchen, die man erbitten wird – neben dem <rs
+                  type="person" ref="#40212" subtype="implied" cert="medium">Hausarzt</rs> oder über
+               dem <rs type="person" ref="#40212" subtype="implied" cert="medium">Hausarzt</rs> der
+               leitende Arzt im Ganzen wird, derjenige gute Arzt der die Einwirkungen <pb
+                  facs="MS-SCHNITZLER-B-00043-B-00002-000-00129"/>auf einen Theil (hier die
+               Narbungen im Darm) ſo weit als möglich dem Einblick in das Ganze unterordnet.</p>
+            <p>Wir bilden uns nicht ein, daſs ein ſolcher Patient zu <hi rend="underline" n="1"
+                  >curieren</hi> iſt. Aber von einer ſolchen Krise des Elends wieder in das relativ
+               normale zurückzuführen iſt ſie doch vielleicht<unclear>?</unclear> Sie werden mir
+                  <date>Freitag</date> vielleicht ſagen, wann Sie mit Ihrem <rs type="person"
+                  ref="#12698" subtype="implied">Bruder</rs>
+               <space unit="chars" quantity="1"/>ſprechen können, nachher ruft man ihn dann wieder.
+               Ihr <signed>Hugo</signed>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
