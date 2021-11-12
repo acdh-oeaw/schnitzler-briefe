@@ -5,6 +5,7 @@
     <!-- definition of agents mentioned in the Metadata as e.g. PI, Curator, ... but not yet in ARCHE -->
     <acdh:MetaAgents>
         <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta/asbwschema.xsd">
+            <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-7534-4</acdh:hasPid>
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta"/>
             <acdh:hasTitle xml:lang="de">XSD-Schema der XML/TEI kodierten Briefe</acdh:hasTitle>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
@@ -18,6 +19,7 @@
             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/other"/>
         </acdh:Resource>
         <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta/editionsrichtlinien.xml">
+            <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-7535-3</acdh:hasPid>
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta"/>
             <acdh:hasTitle xml:lang="de">Zur Edition</acdh:hasTitle>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
@@ -32,6 +34,7 @@
         </acdh:Resource>
         <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta/elemente.xml">
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta"/>
+            <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-7536-2</acdh:hasPid>
             <acdh:hasTitle xml:lang="de">Verwendete TEI-Elemente</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">Hier sind die wichtigsten in den TEI-Dateien verwendeten Elemente ausgewiesen, einschließlich etwaiger Normalisierungen und idiosynkratischer Verwendungen und Adaptierungen. Adressiert ist die Aufstellung dabei nicht nur an Forscherinnen und Forscher, die mit den Daten weiterarbeiten möchten, sondern zugleich an uns selbst in der Funktion eines Style-Sheets.</acdh:hasDescription>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
@@ -45,6 +48,7 @@
             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
         </acdh:Resource>
         <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta/danksagung.xml">
+            <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-7537-1</acdh:hasPid>
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta"/>
             <acdh:hasTitle xml:lang="de">Danksagung</acdh:hasTitle>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
@@ -265,6 +269,7 @@
     </acdh:MetaAgents>
     <acdh:CollStruct>
         <acdh:TopColl url="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe">
+            <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-7538-0</acdh:hasPid>
             <acdh:hasTitle xml:lang="de">Arthur Schnitzler – Briefwechsel mit Autorinnen und Autoren</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">38 vollständige Korrespondenzen mit über 2.500 Briefen von und an Arthur Schnitzler (1862–1931). Viele davon werden erstmals veröffentlicht. Alle sind nach den Originalen in Archiven in Europa und Amerika durchgesehen und korrigiert.</acdh:hasDescription>
             <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118609807"/> <!-- Schnitzler -->
@@ -314,16 +319,18 @@
         </acdh:TopColl>
         <acdh:DataColl name="editions">
             <acdh:hasTitle xml:lang="de">Editionen</acdh:hasTitle>
+            <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-753A-E</acdh:hasPid>
             <acdh:hasDescription xml:lang="de">XML/TEI Dokumente </acdh:hasDescription>
         </acdh:DataColl>
         <acdh:DataColl name="meta">
             <acdh:hasTitle xml:lang="de">Ergänzende Materialen</acdh:hasTitle>
+            <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-753C-C</acdh:hasPid>
             <acdh:hasDescription xml:lang="de">Ergänzende Materialen zur Edition</acdh:hasDescription>
         </acdh:DataColl>
         <acdh:DataColl name="indices">
             <acdh:hasTitle xml:lang="de">Register</acdh:hasTitle>
-            <acdh:hasDescription xml:lang="de">XML/TEI kodiertes Orts-, Werk-, Institutions- und
-                Personenregister</acdh:hasDescription>
+            <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-753B-D</acdh:hasPid>
+            <acdh:hasDescription xml:lang="de">XML/TEI kodiertes Orts-, Werk-, Institutions- und Personenregister</acdh:hasDescription>
         </acdh:DataColl>
     </acdh:CollStruct>
     
