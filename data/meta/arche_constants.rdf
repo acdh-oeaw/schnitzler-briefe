@@ -394,24 +394,28 @@
     <acdh:PersonLookUps source="indices/listperson.xml">
         <acdh:hasIdentifier type="resource_many">archeutils:get_entity_id($item)</acdh:hasIdentifier>
         <acdh:hasTitle type="literal" lang="und">normalize-space($item/tei:persName[1]/tei:forename/text()||' '||$item/tei:persName[1]/tei:surname/text())</acdh:hasTitle>
+        <acdh:hasPid type="literal_no_lang">$item//tei:idno[@type="handle"]/text()</acdh:hasPid>
     </acdh:PersonLookUps>
     
     <!-- mapping  tei:place to arche:Place -->
     <acdh:PlaceLookUps source="indices/listplace.xml">
         <acdh:hasIdentifier type="resource_many">archeutils:get_entity_id($item)</acdh:hasIdentifier>
         <acdh:hasTitle type="literal" lang="und">normalize-space($item/tei:placeName[1]/text())</acdh:hasTitle>
+        <acdh:hasPid type="literal_no_lang">$item//tei:idno[@type="handle"]/text()</acdh:hasPid>
     </acdh:PlaceLookUps>
     
     <!-- mapping  tei:org to arche:Organisation -->
     <acdh:OrgLookUps source="indices/listorg.xml">
         <acdh:hasIdentifier type="resource_many">archeutils:get_entity_id($item)</acdh:hasIdentifier>
         <acdh:hasTitle type="literal" lang="und">normalize-space($item/tei:orgName[1]/text())</acdh:hasTitle>
+        <acdh:hasPid type="literal_no_lang">$item//tei:idno[@type="handle"]/text()</acdh:hasPid>
     </acdh:OrgLookUps>
     
     <!-- mapping  tei:org to arche:Publication -->
     <acdh:PubLookUps source="indices/listwork.xml">
         <acdh:hasIdentifier type="resource_many">archeutils:get_entity_id($item)</acdh:hasIdentifier>
         <acdh:hasTitle type="literal" lang="und">normalize-space($item/tei:title[1]/text())</acdh:hasTitle>
+        <acdh:hasPid type="literal_no_lang">$item//tei:idno[@type="handle"]/text()</acdh:hasPid>
     </acdh:PubLookUps>
     
 </acdh:ACDH>
