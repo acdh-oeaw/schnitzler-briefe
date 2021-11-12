@@ -89,6 +89,8 @@
                   <xs:enumeration value="next_letter"/>
                   <xs:enumeration value="see"/>
                   <xs:enumeration value="cf"/>
+                  <xs:enumeration value="Cf"/>
+                  <xs:enumeration value="See"/>
                   <xs:enumeration value="date-only"/>
                </xs:restriction>
             </xs:simpleType>
@@ -140,9 +142,9 @@
          <xs:sequence>
             <xs:element ref="tei:publisher"/>
             <xs:element ref="tei:pubPlace" maxOccurs="unbounded" minOccurs="0"/>
-            <xs:element ref="tei:idno" minOccurs="0" maxOccurs="1"/>
             <xs:element ref="tei:date" minOccurs="0" maxOccurs="unbounded"/>
             <xs:element ref="tei:availability"/>
+            <xs:element ref="tei:idno" minOccurs="0" maxOccurs="1"/>
          </xs:sequence>
       </xs:complexType>
    </xs:element>
@@ -360,8 +362,8 @@
          <xs:attribute name="style" use="required">
             <xs:simpleType>
                <xs:restriction base="xs:NCName">
-                  <xs:enumeration value="kurrent"/>
-                  <xs:enumeration value="latintype"/>
+                  <xs:enumeration value="deutsche-kurrent"/>
+                  <xs:enumeration value="lateinische-kurrent"/>
                   <xs:enumeration value="nicht_anzuwenden"/>
                   <xs:enumeration value="gabelsberger"/>
                </xs:restriction>
@@ -399,6 +401,9 @@
             <xs:element ref="tei:rs" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element ref="tei:pb" maxOccurs="unbounded" minOccurs="0"/>
          </xs:all>
+         <xs:assert
+            test="(child::*[1]) or (string-length(normalize-space(.)) &gt; 0)"
+         />
       </xs:complexType>
    </xs:element>
    <xs:element name="listBibl">
@@ -955,10 +960,17 @@
             <xs:element ref="tei:Lemma" maxOccurs="unbounded" minOccurs="0"/>
             <xs:element ref="tei:ref" maxOccurs="unbounded" minOccurs="0"/>
          </xs:choice>
-         <xs:attribute name="type" use="required" type="xs:NCName"/>
+         <xs:attribute name="type" use="required">
+            <xs:simpleType>
+               <xs:restriction base="xs:NCName">
+                  <xs:enumeration value="commentary"/>
+                  <xs:enumeration value="textConst"/>
+               </xs:restriction>
+            </xs:simpleType>
+         </xs:attribute>
          <xs:attribute ref="xml:id" use="required"/>
          <xs:assert
-            test="tei:ref[(@subtype = 'see' or @subtype = 'cf' or @subtype = 'date-only' or not(@subtype)) and (@type = 'schnitzlerDiary' or @type = 'toLetter')] or not(tei:ref)"
+            test="tei:ref[(@subtype = 'see' or @subtype = 'cf' or @subtype = 'See' or @subtype = 'Cf' or @subtype = 'date-only' or not(@subtype)) and (@type = 'schnitzlerDiary' or @type = 'toLetter')] or not(tei:ref)"
          />
       </xs:complexType>
    </xs:element>
@@ -1057,6 +1069,8 @@
          <xs:attribute name="when" type="date-or-gyear-or-gyearmonth"/>
          <xs:attribute name="notBefore" type="date-or-gyear-or-gyearmonth"/>
          <xs:attribute name="notAfter" type="date-or-gyear-or-gyearmonth"/>
+         <xs:attribute name="from" type="date-or-gyear-or-gyearmonth"/>
+         <xs:attribute name="to" type="date-or-gyear-or-gyearmonth"/>
       </xs:complexType>
    </xs:element>
    <xs:element name="add">
@@ -1467,6 +1481,7 @@
             <xs:simpleType>
                <xs:restriction base="xs:string">
                   <xs:enumeration value="asbw"/>
+                  <xs:enumeration value="handle"/>
                </xs:restriction>
             </xs:simpleType>
          </xs:attribute>
@@ -1724,6 +1739,7 @@
             <xs:simpleType>
                <xs:restriction base="xs:string">
                   <xs:enumeration value="#kaufmannsund"/>
+                  <xs:enumeration value="#tilde"/>
                   <xs:enumeration value="#prozent"/>
                   <xs:enumeration value="#gemination-m"/>
                   <xs:enumeration value="#gemination-n"/>
