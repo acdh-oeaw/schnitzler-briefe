@@ -360,7 +360,7 @@
         <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
         <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI encoded texts -->
         <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-        <acdh:hasSchema>https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta/asbwschema.xsd</acdh:hasSchema>
+        <acdh:hasSchema rdf:resource="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta/asbwschema.xsd"/>
     </acdh:SpecResource>
     <acdh:SpecResource collection="indices">
         <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
