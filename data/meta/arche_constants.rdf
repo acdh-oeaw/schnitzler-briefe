@@ -31,6 +31,7 @@
             <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1050382196"/>
             <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1050382196"/>
             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         </acdh:Resource>
         <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta/elemente.xml">
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta"/>
@@ -46,6 +47,7 @@
             <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1050382196"/>
             <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1050382196"/>
             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         </acdh:Resource>
         <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/meta/danksagung.xml">
             <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-7537-1</acdh:hasPid>
@@ -60,6 +62,7 @@
             <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1050382196"/>
             <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1050382196"/>
             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         </acdh:Resource>
         <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-briefe/title-img.jpg">
             <acdh:hasTitle xml:lang="de">Titelbild</acdh:hasTitle>
@@ -316,21 +319,25 @@
             <acdh:hasSubject xml:lang="de">Briefausgabe</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">Korrespondenz</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">Edition</acdh:hasSubject>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         </acdh:TopColl>
         <acdh:DataColl name="editions">
             <acdh:hasTitle xml:lang="de">Editionen</acdh:hasTitle>
             <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-753A-E</acdh:hasPid>
             <acdh:hasDescription xml:lang="de">XML/TEI Dokumente </acdh:hasDescription>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         </acdh:DataColl>
         <acdh:DataColl name="meta">
             <acdh:hasTitle xml:lang="de">Ergänzende Materialen</acdh:hasTitle>
             <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-753C-C</acdh:hasPid>
             <acdh:hasDescription xml:lang="de">Ergänzende Materialen zur Edition</acdh:hasDescription>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         </acdh:DataColl>
         <acdh:DataColl name="indices">
             <acdh:hasTitle xml:lang="de">Register</acdh:hasTitle>
             <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-753B-D</acdh:hasPid>
             <acdh:hasDescription xml:lang="de">XML/TEI kodiertes Orts-, Werk-, Institutions- und Personenregister</acdh:hasDescription>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         </acdh:DataColl>
     </acdh:CollStruct>
     
@@ -417,5 +424,5 @@
         <acdh:hasTitle type="literal" lang="und">normalize-space($item/tei:title[1]/text())</acdh:hasTitle>
         <acdh:hasPid type="literal_no_lang">$item//tei:idno[@type="handle"]/text()</acdh:hasPid>
     </acdh:PubLookUps>
-    
+
 </acdh:ACDH>
