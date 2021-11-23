@@ -316,28 +316,39 @@
             <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118620126"/> <!-- Suttner, Bertha -->
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-01-01</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1931-01-01</acdh:hasCoverageEndDate>
+            <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-01</acdh:hasCreatedStartDate>
+            <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-31</acdh:hasCreatedEndDate>
             <acdh:hasSubject xml:lang="de">Briefausgabe</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">Korrespondenz</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">Edition</acdh:hasSubject>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            
         </acdh:TopColl>
         <acdh:DataColl name="editions">
             <acdh:hasTitle xml:lang="de">Editionen</acdh:hasTitle>
             <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-753A-E</acdh:hasPid>
             <acdh:hasDescription xml:lang="de">XML/TEI Dokumente </acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-01-01</acdh:hasCoverageStartDate>
+            <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1931-01-01</acdh:hasCoverageEndDate>
+            <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-01</acdh:hasCreatedStartDate>
+            <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-31</acdh:hasCreatedEndDate>
         </acdh:DataColl>
         <acdh:DataColl name="meta">
             <acdh:hasTitle xml:lang="de">Ergänzende Materialen</acdh:hasTitle>
             <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-753C-C</acdh:hasPid>
             <acdh:hasDescription xml:lang="de">Ergänzende Materialen zur Edition</acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-01</acdh:hasCreatedStartDate>
+            <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-31</acdh:hasCreatedEndDate>
         </acdh:DataColl>
         <acdh:DataColl name="indices">
             <acdh:hasTitle xml:lang="de">Register</acdh:hasTitle>
             <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-753B-D</acdh:hasPid>
             <acdh:hasDescription xml:lang="de">XML/TEI kodiertes Orts-, Werk-, Institutions- und Personenregister</acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-01</acdh:hasCreatedStartDate>
+            <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-31</acdh:hasCreatedEndDate>
         </acdh:DataColl>
     </acdh:CollStruct>
     
