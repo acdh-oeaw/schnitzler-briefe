@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns:tei="http://www.tei-c.org/ns/1.0"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+     xmlns="http://www.tei-c.org/ns/1.0">
    <tei:teiHeader>
       <tei:fileDesc>
          <tei:titleStmt>
@@ -19,7 +18,8 @@
             </tei:respStmt>
          </tei:titleStmt>
          <tei:publicationStmt>
-            <tei:date>2029-03-20</tei:date>
+            <tei:publisher>ACDH-CH</tei:publisher>
+            <tei:date>28.11.2021</tei:date>
             <tei:idno type="URI">https://id.acdh.oeaw.ac.at/arthur-schnitzler-briefe/v1/indices/listplace.xml</tei:idno>
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-753E-A</idno>
          </tei:publicationStmt>
@@ -45,7 +45,7 @@
                <place xml:id="pmb50785">
                   <tei:placeName>Accademia di Belle Arti (Florenz)</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1563-07-02" from-custom="1563-07-02">2. 7. 1563</tei:date>
+                     <tei:date when="1563-07-02" when-custom="1563">1563</tei:date>
                      <tei:gloss ana="i8">Museum</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -159,7 +159,7 @@
                <place xml:id="pmb1273">
                   <tei:placeName>Akademisches Gymnasium</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1553-07-02" from-custom="1553-07-02">2. 7. 1553</tei:date>
+                     <tei:date when="1553-07-02" when-custom="1553">1553</tei:date>
                      <tei:gloss ana="i35">Schule</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -169,7 +169,7 @@
                <place xml:id="pmb43184">
                   <tei:placeName>Albrecht-Dürer-Haus</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1420-07-01" from-custom="1420-07-01">1. 7. 1420</tei:date>
+                     <tei:date when="1420-07-01" when-custom="1420">1420</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -198,7 +198,7 @@
                <place xml:id="pmb10">
                   <tei:placeName>Alexandrinski-Theater</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1832-08-31" from-custom="1832-08-31">31. 8. 1832</tei:date>
+                     <tei:date when="1832-08-31" when-custom="31.8.1832">31.8.1832</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -314,7 +314,7 @@
                <place xml:id="pmb44816">
                   <tei:placeName>Alte Post</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1556-07-01" from-custom="1556-07-01">1. 7. 1556</tei:date>
+                     <tei:date when="1556-07-01" when-custom="1556">1556</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -325,9 +325,9 @@
                   <tei:placeName>Alter Jüdischer Friedhof</tei:placeName>
                   <tei:desc>
                      <tei:date from="1478-07-02"
-                               from-custom="1478-07-02"
-                               to="1890-07-02"
-                               to-custom="1890-07-02">1478–1890</tei:date>
+                               from-custom="1478"
+                               when="1890-07-02"
+                               when-custom="1890">1478–1890</tei:date>
                      <tei:gloss ana="i51">Friedhof</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -512,9 +512,9 @@
                   <tei:placeName>Apollo-Theater</tei:placeName>
                   <tei:desc>
                      <tei:date from="1904-07-01"
-                               from-custom="1904-07-01"
-                               to="1928-07-01"
-                               to-custom="1928-07-01">1904–1928</tei:date>
+                               from-custom="1904"
+                               when="1928-07-01"
+                               when-custom="1928">1904–1928</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -671,7 +671,7 @@
                <place xml:id="pmb42636">
                   <tei:placeName>Auerbachs Keller</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1438-07-02" from-custom="1438-07-02">2. 7. 1438</tei:date>
+                     <tei:date when="1438-07-02" when-custom="1438">1438</tei:date>
                      <tei:gloss ana="i22">Lokal</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -798,7 +798,7 @@
                <place xml:id="pmb45036">
                   <tei:placeName>Bade-Hotel Elisabeth</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1868-07-01" from-custom="1868-07-01">1. 7. 1868</tei:date>
+                     <tei:date when="1868-07-01" when-custom="1868">1868</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -859,7 +859,7 @@
                <place xml:id="pmb47139">
                   <tei:placeName>Badisches Staatstheater</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1853-07-02" from-custom="1853-07-02">2. 7. 1853</tei:date>
+                     <tei:date when="1853-07-02" when-custom="1853">1853</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -987,7 +987,7 @@
                <place xml:id="pmb44567">
                   <tei:placeName>Bahnhof Marseille</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1848-07-01" from-custom="1848-07-01">1. 7. 1848</tei:date>
+                     <tei:date when="1848-07-01" when-custom="1848">1848</tei:date>
                      <tei:gloss ana="i32">Bahnhofsgebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1007,9 +1007,9 @@
                   <tei:placeName>Bahnhof St. Anton am Arlberg</tei:placeName>
                   <tei:desc>
                      <tei:date from="1884-07-01"
-                               from-custom="1884-07-01"
-                               to="2001-07-02"
-                               to-custom="2001-07-02">1884–2001</tei:date>
+                               from-custom="1884"
+                               when="2001-07-02"
+                               when-custom="2001">1884–2001</tei:date>
                      <tei:gloss ana="i32">Bahnhofsgebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1068,7 +1068,7 @@
                <place xml:id="pmb50790">
                   <tei:placeName>Basilica di San Francesco</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1251-07-02" from-custom="1251-07-02">2. 7. 1251</tei:date>
+                     <tei:date when="1251-07-02" when-custom="1251">1251</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1078,7 +1078,7 @@
                <place xml:id="pmb52179">
                   <tei:placeName>Basilika Mariä Geburt</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1200-07-01" from-custom="1200-07-01">1. 7. 1200</tei:date>
+                     <tei:date when="1200-07-01" when-custom="1200">1200</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1138,7 +1138,7 @@
                <place xml:id="pmb47712">
                   <tei:placeName>Beamtenkurhaus zum Goldenden Kreuz</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1907-07-02" from-custom="1907-07-02">2. 7. 1907</tei:date>
+                     <tei:date when="1907-07-02" when-custom="1907">1907</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1148,6 +1148,7 @@
                <place xml:id="pmb43984">
                   <tei:placeName>Beau-Rivage Palace</tei:placeName>
                   <tei:desc>
+                     <tei:date when="1861-01-01" when-custom="1861">1861</tei:date>
                      <tei:gloss ana="i85">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1284,7 +1285,7 @@
                <place xml:id="pmb51994">
                   <tei:placeName>Berghaus Hochschneeberg</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1898-07-02" from-custom="1898-07-02">2. 7. 1898</tei:date>
+                     <tei:date when="1898-07-02" when-custom="1898">1898</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1324,7 +1325,7 @@
                <place xml:id="pmb51520">
                   <tei:placeName>Berliner Dom</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1894-07-02" from-custom="1894-07-02">2. 7. 1894</tei:date>
+                     <tei:date when="1894-07-02" when-custom="1894">1894</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1335,9 +1336,9 @@
                   <tei:placeName>Berliner Theater</tei:placeName>
                   <tei:desc>
                      <tei:date from="1888-07-01"
-                               from-custom="1888-07-01"
-                               to="1933-07-02"
-                               to-custom="1933-07-02">1888–1933</tei:date>
+                               from-custom="1888"
+                               when="1933-07-02"
+                               when-custom="1933">1888–1933</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1478,9 +1479,9 @@
                   <tei:placeName>Blüthner-Saal</tei:placeName>
                   <tei:desc>
                      <tei:date from="1908-01-01"
-                               from-custom="1908-01-01"
-                               to="1939-01-01"
-                               to-custom="1939-01-01">1908–1939</tei:date>
+                               from-custom="1908"
+                               when="1939-01-01"
+                               when-custom="1939">1908–1939</tei:date>
                      <tei:gloss ana="i5">Veranstaltungsgebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1562,7 +1563,7 @@
                <place xml:id="pmb51522">
                   <tei:placeName>Börse</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1685-07-02" from-custom="1685-07-02">2. 7. 1685</tei:date>
+                     <tei:date when="1685-07-02" when-custom="1685">1685</tei:date>
                      <tei:gloss ana="i58">Bank</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1573,9 +1574,9 @@
                   <tei:placeName>Bösendorfer-Saal</tei:placeName>
                   <tei:desc>
                      <tei:date from="1872-07-01"
-                               from-custom="1872-07-01"
-                               to="1913-07-02"
-                               to-custom="1913-07-02">1872–1913</tei:date>
+                               from-custom="1872"
+                               when="1913-07-02"
+                               when-custom="1913">1872–1913</tei:date>
                      <tei:gloss ana="i5">Veranstaltungsgebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -1983,7 +1984,7 @@
                <place xml:id="pmb43">
                   <tei:placeName>Café Imperial</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1873-07-02" from-custom="1873-07-02">2. 7. 1873</tei:date>
+                     <tei:date when="1873-07-02" when-custom="1873">1873</tei:date>
                      <tei:gloss ana="i20">Kaffeehaus</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2029,7 +2030,7 @@
                <place xml:id="pmb43437">
                   <tei:placeName>Café Metropol</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1894-07-02" from-custom="1894-07-02">2. 7. 1894</tei:date>
+                     <tei:date when="1894-07-02" when-custom="1894">1894</tei:date>
                      <tei:gloss ana="i20">Kaffeehaus</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2075,7 +2076,7 @@
                <place xml:id="pmb41187">
                   <tei:placeName>Café Tomaselli</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1852-01-01" from-custom="1852-01-01">1. 1. 1852</tei:date>
+                     <tei:date when="1852-01-01" when-custom="1852">1852</tei:date>
                      <tei:gloss ana="i20">Kaffeehaus</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2193,9 +2194,9 @@
                   <tei:placeName>Carl-Theater</tei:placeName>
                   <tei:desc>
                      <tei:date from="1847-12-10"
-                               from-custom="1847-12-10"
-                               to="1929-05-29"
-                               to-custom="1929-05-29">10. 12. 1847–29. 5. 1929</tei:date>
+                               from-custom="10.12.1847"
+                               when="1929-05-29"
+                               when-custom="29.5.1929">10.12.1847–29.5.1929</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2207,9 +2208,9 @@
                   <tei:placeName>Carlton Hotel</tei:placeName>
                   <tei:desc>
                      <tei:date from="1903-01-01"
-                               from-custom="1903-01-01"
-                               to="1918-01-01"
-                               to-custom="1918-01-01">1903–1918</tei:date>
+                               from-custom="1903"
+                               when="1918-01-01"
+                               when-custom="1918">1903–1918</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2257,7 +2258,7 @@
                <place xml:id="pmb43262">
                   <tei:placeName>Castellaccio di Monreale</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1174-07-02" from-custom="1174-07-02">2. 7. 1174</tei:date>
+                     <tei:date when="1174-07-02" when-custom="1174">1174</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2337,7 +2338,7 @@
                <place xml:id="pmb554">
                   <tei:placeName>Comédie française</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1680-07-01" from-custom="1680-07-01">1. 7. 1680</tei:date>
+                     <tei:date when="1680-07-01" when-custom="1680">1680</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2357,7 +2358,7 @@
                <place xml:id="pmb45134">
                   <tei:placeName>Concordia-Tempel</tei:placeName>
                   <tei:desc>
-                     <tei:date from="0001-01-01" from-custom="0001-01-01">1. 1. 1</tei:date>
+                     <tei:date when="0001-01-01" when-custom="436 v. Chr.">436 v. Chr.</tei:date>
                      <tei:gloss ana="i55">Monument</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2436,9 +2437,9 @@
                   <tei:placeName>Dagmar Teatret</tei:placeName>
                   <tei:desc>
                      <tei:date from="1883-07-02"
-                               from-custom="1883-07-02"
-                               to="1937-07-02"
-                               to-custom="1937-07-02">1883–1937</tei:date>
+                               from-custom="1883"
+                               when="1937-07-02"
+                               when-custom="1937">1883–1937</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2532,9 +2533,9 @@
                   <tei:placeName>De Keysers Royal Hotel</tei:placeName>
                   <tei:desc>
                      <tei:date from="1845-07-02"
-                               from-custom="1845-07-02"
-                               to="1916-07-01"
-                               to-custom="1916-07-01">1845–1916</tei:date>
+                               from-custom="1845"
+                               when="1916-07-01"
+                               when-custom="1916">1845–1916</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2574,8 +2575,8 @@
                   <tei:desc>
                      <tei:date from="1891-05-17"
                                from-custom="1891-05-17"
-                               to="1945-07-02"
-                               to-custom="1945-07-02">17. 5. 1891–1945</tei:date>
+                               when="1945-07-02"
+                               when-custom="1945">1891-05-17–1945</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2694,7 +2695,7 @@
                <place xml:id="pmb136">
                   <tei:placeName>Dom</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1297-07-02" from-custom="1297-07-02">2. 7. 1297</tei:date>
+                     <tei:date when="1297-07-02" when-custom="1297">1297</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -2930,9 +2931,9 @@
                   <tei:placeName>Elisabethbrücke</tei:placeName>
                   <tei:desc>
                      <tei:date from="1854-01-01"
-                               from-custom="1854-01-01"
-                               to="1897-01-01"
-                               to-custom="1897-01-01">1854–1897</tei:date>
+                               from-custom="1854"
+                               when="1897-01-01"
+                               when-custom="1897">1854–1897</tei:date>
                      <tei:gloss ana="i37">Brücke</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3018,7 +3019,7 @@
                <place xml:id="pmb43052">
                   <tei:placeName>Eppaner Hof</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1899-07-02" from-custom="1899-07-02">2. 7. 1899</tei:date>
+                     <tei:date when="1899-07-02" when-custom="1899">1899</tei:date>
                      <tei:gloss ana="i17">Gastgewerbegebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3029,9 +3030,9 @@
                   <tei:placeName>Erbprinz</tei:placeName>
                   <tei:desc>
                      <tei:date from="1757-01-01"
-                               from-custom="1757-01-01"
-                               to="1935-01-01"
-                               to-custom="1935-01-01">1757–1935</tei:date>
+                               from-custom="1757"
+                               when="1935-01-01"
+                               when-custom="1935">1757–1935</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3094,7 +3095,7 @@
                <place xml:id="pmb40118">
                   <tei:placeName>Etablissement Ernst Wahliss</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1892-01-01" from-custom="1892-01-01">1. 1. 1892</tei:date>
+                     <tei:date when="1892-01-01" when-custom="1892">1892</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3104,7 +3105,7 @@
                <place xml:id="pmb19">
                   <tei:placeName>Etablissement Ronacher</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1871-07-02" from-custom="1871-07-02">2. 7. 1871</tei:date>
+                     <tei:date when="1871-07-02" when-custom="1871">1871</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3245,7 +3246,7 @@
                <place xml:id="pmb43118">
                   <tei:placeName>Fleischbrücke</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1598-07-02" from-custom="1598-07-02">2. 7. 1598</tei:date>
+                     <tei:date when="1598-07-02" when-custom="1598">1598</tei:date>
                      <tei:gloss ana="i37">Brücke</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3424,7 +3425,7 @@
                <place xml:id="pmb43090">
                   <tei:placeName>Frauenkirche</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1468-07-01" from-custom="1468-07-01">1. 7. 1468</tei:date>
+                     <tei:date when="1468-07-01" when-custom="1468">1468</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3453,7 +3454,7 @@
                <place xml:id="pmb51521">
                   <tei:placeName>Friedrichsbrücke</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1703-07-02" from-custom="1703-07-02">2. 7. 1703</tei:date>
+                     <tei:date when="1703-07-02" when-custom="1703">1703</tei:date>
                      <tei:gloss ana="i37">Brücke</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3611,7 +3612,7 @@
                <place xml:id="pmb39850">
                   <tei:placeName>Gärtnergasse</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1882-01-01" from-custom="1882-01-01">1. 1. 1882</tei:date>
+                     <tei:date when="1882-01-01" when-custom="1882">1882</tei:date>
                      <tei:gloss ana="i26">Straße</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3630,7 +3631,7 @@
                <place xml:id="pmb40464">
                   <tei:placeName>Gasthaus Breitlahner</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1896-01-01" from-custom="1896-01-01">1. 1. 1896</tei:date>
+                     <tei:date when="1896-01-01" when-custom="1896">1896</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3887,9 +3888,9 @@
                   <tei:placeName>Glaspalast</tei:placeName>
                   <tei:desc>
                      <tei:date from="1854-07-02"
-                               from-custom="1854-07-02"
-                               to="1931-07-02"
-                               to-custom="1931-07-02">1854–1931</tei:date>
+                               from-custom="1854"
+                               when="1931-07-02"
+                               when-custom="1931">1854–1931</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -3920,7 +3921,7 @@
                <place xml:id="pmb1163">
                   <tei:placeName>Goldener Brunnen</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1545-07-02" from-custom="1545-07-02">2. 7. 1545</tei:date>
+                     <tei:date when="1545-07-02" when-custom="1545">1545</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4056,7 +4057,7 @@
                <place xml:id="pmb310">
                   <tei:placeName>Grand Hotel Bauer-Grünwald</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1880-07-01" from-custom="1880-07-01">1. 7. 1880</tei:date>
+                     <tei:date when="1880-07-01" when-custom="1880">1880</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4094,9 +4095,9 @@
                   <tei:placeName>Grand Hotel des Bains</tei:placeName>
                   <tei:desc>
                      <tei:date from="1900-01-01"
-                               from-custom="1900-01-01"
-                               to="2010-01-01"
-                               to-custom="2010-01-01">1900–2010</tei:date>
+                               from-custom="1900"
+                               when="2010-01-01"
+                               when-custom="2010">1900–2010</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4106,7 +4107,7 @@
                <place xml:id="pmb46831">
                   <tei:placeName>Grand Hotel Excelsior</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1907-07-02" from-custom="1907-07-02">2. 7. 1907</tei:date>
+                     <tei:date when="1907-07-02" when-custom="1907">1907</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4116,7 +4117,7 @@
                <place xml:id="pmb52716">
                   <tei:placeName>Grand Hotel Forte dei Marmi</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1921-07-02" from-custom="1921-07-02">2. 7. 1921</tei:date>
+                     <tei:date when="1921-07-02" when-custom="1921">1921</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4189,7 +4190,7 @@
                <place xml:id="pmb40705">
                   <tei:placeName>Grand Hotel Stockholm</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1874-07-02" from-custom="1874-07-02">2. 7. 1874</tei:date>
+                     <tei:date when="1874-07-02" when-custom="1874">1874</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4217,7 +4218,7 @@
                <place xml:id="pmb255">
                   <tei:placeName>Grand Hotel Wien</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1870-07-02" from-custom="1870-07-02">2. 7. 1870</tei:date>
+                     <tei:date when="1870-07-02" when-custom="1870">1870</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4269,7 +4270,7 @@
                <place xml:id="pmb1149">
                   <tei:placeName>Griechisches Parlament</tei:placeName>
                   <tei:desc>
-                     <tei:date to="1929-07-02" to-custom="1929-07-02">2. 7. 1929</tei:date>
+                     <tei:date when="1929-07-02" when-custom="1929">bis 1929</tei:date>
                      <tei:gloss ana="i59">Verwaltungsgebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4297,7 +4298,7 @@
                <place xml:id="pmb40120">
                   <tei:placeName>Große Dolomitenstraße</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1909-07-02" from-custom="1909-07-02">2. 7. 1909</tei:date>
+                     <tei:date when="1909-07-02" when-custom="1909">1909</tei:date>
                      <tei:gloss ana="i26">Straße</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4328,7 +4329,7 @@
                <place xml:id="pmb53850">
                   <tei:placeName>Grüner Baum</tei:placeName>
                   <tei:desc>
-                     <tei:date to="1962-07-02" to-custom="1962-07-02">2. 7. 1962</tei:date>
+                     <tei:date when="1962-07-02" when-custom="1962">bis 1962</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4472,16 +4473,6 @@
                   <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1055/</idno>
                   <idno type="gnd">https://d-nb.info/gnd/4023118-5/</idno>
                </place>
-               <place xml:id="pmb1260">
-                  <tei:placeName>Hamburg-Rahlstedt</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">53.601944 10.156667</tei:geo>
-                  </tei:location>
-                  <idno type="geonames">https://www.geonames.org/2850872/</idno>
-               </place>
                <place xml:id="pmb890">
                   <tei:placeName>Hannover</tei:placeName>
                   <tei:desc>
@@ -4543,7 +4534,7 @@
                <place xml:id="pmb50792">
                   <tei:placeName>Hauptbahnhof Salzburg</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1860-07-01" from-custom="1860-07-01">1. 7. 1860</tei:date>
+                     <tei:date when="1860-07-01" when-custom="1860">1860</tei:date>
                      <tei:gloss ana="i32">Bahnhofsgebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4608,7 +4599,7 @@
                <place xml:id="pmb13">
                   <tei:placeName>Hebbel-Theater</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1908-07-01" from-custom="1908-07-01">1. 7. 1908</tei:date>
+                     <tei:date when="1908-07-01" when-custom="1908">1908</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4797,7 +4788,7 @@
                <place xml:id="pmb466">
                   <tei:placeName>Hofgarten</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1560-07-01" from-custom="1560-07-01">1. 7. 1560</tei:date>
+                     <tei:date when="1560-07-01" when-custom="1560">1560</tei:date>
                      <tei:gloss ana="i19">Park</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4843,7 +4834,7 @@
                <place xml:id="pmb52058">
                   <tei:placeName>Hofstallkaserne</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1695-07-02" from-custom="1695-07-02">2. 7. 1695</tei:date>
+                     <tei:date when="1695-07-02" when-custom="1695">1695</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4966,7 +4957,7 @@
                <place xml:id="pmb1090">
                   <tei:placeName>Hotel Adlon</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1907-07-02" from-custom="1907-07-02">2. 7. 1907</tei:date>
+                     <tei:date when="1907-07-02" when-custom="1907">1907</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -4994,7 +4985,7 @@
                <place xml:id="pmb774">
                   <tei:placeName>Hotel Atlantic</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1909-07-02" from-custom="1909-07-02">2. 7. 1909</tei:date>
+                     <tei:date when="1909-07-02" when-custom="1909">1909</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5005,9 +4996,9 @@
                   <tei:placeName>Hotel Axenstein</tei:placeName>
                   <tei:desc>
                      <tei:date from="1869-07-02"
-                               from-custom="1869-07-02"
-                               to="1964-07-01"
-                               to-custom="1964-07-01">1869–1964</tei:date>
+                               from-custom="1869"
+                               when="1964-07-01"
+                               when-custom="1964">1869–1964</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5026,7 +5017,7 @@
                <place xml:id="pmb40324">
                   <tei:placeName>Hotel Bauer</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1861-07-02" from-custom="1861-07-02">2. 7. 1861</tei:date>
+                     <tei:date when="1861-07-02" when-custom="1861">1861</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5046,9 +5037,9 @@
                   <tei:placeName>Hotel Bellevue</tei:placeName>
                   <tei:desc>
                      <tei:date from="1853-07-02"
-                               from-custom="1853-07-02"
-                               to="1945-07-02"
-                               to-custom="1945-07-02">1853–1945</tei:date>
+                               from-custom="1853"
+                               when="1945-07-02"
+                               when-custom="1945">1853–1945</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5059,9 +5050,9 @@
                   <tei:placeName>Hotel Bristol</tei:placeName>
                   <tei:desc>
                      <tei:date from="1890-07-02"
-                               from-custom="1890-07-02"
-                               to="1944-07-01"
-                               to-custom="1944-07-01">1890–1944</tei:date>
+                               from-custom="1890"
+                               when="1944-07-01"
+                               when-custom="1944">1890–1944</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5071,7 +5062,7 @@
                <place xml:id="pmb205">
                   <tei:placeName>Hotel Bristol</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1892-07-01" from-custom="1892-07-01">1. 7. 1892</tei:date>
+                     <tei:date when="1892-07-01" when-custom="1892">1892</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5081,7 +5072,7 @@
                <place xml:id="pmb40384">
                   <tei:placeName>Hotel Bristol</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1892-01-01" from-custom="1892-01-01">1. 1. 1892</tei:date>
+                     <tei:date when="1892-01-01" when-custom="1892">1892</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5101,9 +5092,9 @@
                   <tei:placeName>Hotel Continental</tei:placeName>
                   <tei:desc>
                      <tei:date from="1884-07-01"
-                               from-custom="1884-07-01"
-                               to="1944-07-01"
-                               to-custom="1944-07-01">1884–1944</tei:date>
+                               from-custom="1884"
+                               when="1944-07-01"
+                               when-custom="1944">1884–1944</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5114,9 +5105,9 @@
                   <tei:placeName>Hotel Continental</tei:placeName>
                   <tei:desc>
                      <tei:date from="1873-07-02"
-                               from-custom="1873-07-02"
-                               to="1945-07-02"
-                               to-custom="1945-07-02">1873–1945</tei:date>
+                               from-custom="1873"
+                               when="1945-07-02"
+                               when-custom="1945">1873–1945</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5127,9 +5118,9 @@
                   <tei:placeName>Hotel Continental</tei:placeName>
                   <tei:desc>
                      <tei:date from="1892-07-01"
-                               from-custom="1892-07-01"
-                               to="1994-07-02"
-                               to-custom="1994-07-02">1892–1994</tei:date>
+                               from-custom="1892"
+                               when="1994-07-02"
+                               when-custom="1994">1892–1994</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5139,7 +5130,7 @@
                <place xml:id="pmb337">
                   <tei:placeName>Hotel de France</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1872-07-01" from-custom="1872-07-01">1. 7. 1872</tei:date>
+                     <tei:date when="1872-07-01" when-custom="1872">1872</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5176,7 +5167,7 @@
                <place xml:id="pmb53208">
                   <tei:placeName>Hôtel des Alpes-Grand Hôtel</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1855-07-02" from-custom="1855-07-02">2. 7. 1855</tei:date>
+                     <tei:date when="1855-07-02" when-custom="1855">1855</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5205,9 +5196,9 @@
                   <tei:placeName>Hotel du Lac</tei:placeName>
                   <tei:desc>
                      <tei:date from="1875-07-02"
-                               from-custom="1875-07-02"
-                               to="1974-07-02"
-                               to-custom="1974-07-02">1875–1974</tei:date>
+                               from-custom="1875"
+                               when="1974-07-02"
+                               when-custom="1974">1875–1974</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5272,9 +5263,9 @@
                   <tei:placeName>Hotel Esplanade</tei:placeName>
                   <tei:desc>
                      <tei:date from="1907-07-02"
-                               from-custom="1907-07-02"
-                               to="1944-07-01"
-                               to-custom="1944-07-01">1907–1944</tei:date>
+                               from-custom="1907"
+                               when="1944-07-01"
+                               when-custom="1944">1907–1944</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5302,7 +5293,7 @@
                <place xml:id="pmb306">
                   <tei:placeName>Hotel Guarnero</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1884-07-01" from-custom="1884-07-01">1. 7. 1884</tei:date>
+                     <tei:date when="1884-07-01" when-custom="1884">1884</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5330,7 +5321,7 @@
                <place xml:id="pmb126">
                   <tei:placeName>Hotel Imperial</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1873-07-02" from-custom="1873-07-02">2. 7. 1873</tei:date>
+                     <tei:date when="1873-07-02" when-custom="1873">1873</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5377,9 +5368,9 @@
                   <tei:placeName>Hotel Klinger</tei:placeName>
                   <tei:desc>
                      <tei:date from="1888-07-01"
-                               from-custom="1888-07-01"
-                               to="1977-07-02"
-                               to-custom="1977-07-02">1888–1977</tei:date>
+                               from-custom="1888"
+                               when="1977-07-02"
+                               when-custom="1977">1888–1977</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5398,7 +5389,7 @@
                <place xml:id="pmb1120">
                   <tei:placeName>Hotel Krantz</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1897-07-02" from-custom="1897-07-02">2. 7. 1897</tei:date>
+                     <tei:date when="1897-07-02" when-custom="1897">1897</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5453,7 +5444,7 @@
                <place xml:id="pmb401">
                   <tei:placeName>Hotel Marienbad</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1850-07-02" from-custom="1850-07-02">2. 7. 1850</tei:date>
+                     <tei:date when="1850-07-02" when-custom="1850">1850</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5472,7 +5463,7 @@
                <place xml:id="pmb43062">
                   <tei:placeName>Hotel Mosser</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1899-07-02" from-custom="1899-07-02">2. 7. 1899</tei:date>
+                     <tei:date when="1899-07-02" when-custom="1899">1899</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5482,7 +5473,7 @@
                <place xml:id="pmb34028">
                   <tei:placeName>Hotel National</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1870-01-01" from-custom="1870-01-01">1. 1. 1870</tei:date>
+                     <tei:date when="1870-01-01" when-custom="1870">1870</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5501,7 +5492,7 @@
                <place xml:id="pmb204">
                   <tei:placeName>Hotel Panhans</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1888-07-01" from-custom="1888-07-01">1. 7. 1888</tei:date>
+                     <tei:date when="1888-07-01" when-custom="1888">1888</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5530,7 +5521,7 @@
                <place xml:id="pmb40440">
                   <tei:placeName>Hotel Post</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1827-07-02" from-custom="1827-07-02">2. 7. 1827</tei:date>
+                     <tei:date when="1827-07-02" when-custom="1827">1827</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5585,7 +5576,7 @@
                <place xml:id="pmb45924">
                   <tei:placeName>Hotel Reichshof</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1910-07-02" from-custom="1910-07-02">2. 7. 1910</tei:date>
+                     <tei:date when="1910-07-02" when-custom="1910">1910</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5613,7 +5604,7 @@
                <place xml:id="pmb1121">
                   <tei:placeName>Hotel Royal</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1896-07-01" from-custom="1896-07-01">1. 7. 1896</tei:date>
+                     <tei:date when="1896-07-01" when-custom="1896">1896</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5623,7 +5614,7 @@
                <place xml:id="pmb29">
                   <tei:placeName>Hotel Sacher</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1876-01-01" from-custom="1876-01-01">1. 1. 1876</tei:date>
+                     <tei:date when="1876-01-01" when-custom="1876">1876</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5633,7 +5624,7 @@
                <place xml:id="pmb51945">
                   <tei:placeName>Hotel Salegg</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1900-07-02" from-custom="1900-07-02">2. 7. 1900</tei:date>
+                     <tei:date when="1900-07-02" when-custom="1900">1900</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5688,7 +5679,7 @@
                <place xml:id="pmb56099">
                   <tei:placeName>Hotel Seeblick</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1891-07-02" from-custom="1891-07-02">2. 7. 1891</tei:date>
+                     <tei:date when="1891-07-02" when-custom="1891">1891</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5699,9 +5690,9 @@
                   <tei:placeName>Hotel Simson</tei:placeName>
                   <tei:desc>
                      <tei:date from="1875-07-02"
-                               from-custom="1875-07-02"
-                               to="1936-07-01"
-                               to-custom="1936-07-01">1875–1936</tei:date>
+                               from-custom="1875"
+                               when="1936-07-01"
+                               when-custom="1936">1875–1936</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5720,7 +5711,7 @@
                <place xml:id="pmb50817">
                   <tei:placeName>Hotel Stiegl</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1850-07-02" from-custom="1850-07-02">2. 7. 1850</tei:date>
+                     <tei:date when="1850-07-02" when-custom="1850">1850</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5757,7 +5748,7 @@
                <place xml:id="pmb40804">
                   <tei:placeName>Hotel und Pension Nelböck</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1860-01-01" from-custom="1860-01-01">1. 1. 1860</tei:date>
+                     <tei:date when="1860-01-01" when-custom="1860">1860</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5830,7 +5821,7 @@
                <place xml:id="pmb41234">
                   <tei:placeName>Hotel Westminster</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1900-01-01" from-custom="1900-01-01">1. 1. 1900</tei:date>
+                     <tei:date when="1900-01-01" when-custom="1900">1900</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5868,9 +5859,9 @@
                   <tei:placeName>Hoyoshof</tei:placeName>
                   <tei:desc>
                      <tei:date from="1852-07-01"
-                               from-custom="1852-07-01"
-                               to="1910-07-02"
-                               to-custom="1910-07-02">1852–1910</tei:date>
+                               from-custom="1852"
+                               when="1910-07-02"
+                               when-custom="1910">1852–1910</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -5985,9 +5976,9 @@
                   <tei:placeName>Inneres Linzertor</tei:placeName>
                   <tei:desc>
                      <tei:date from="1373-07-02"
-                               from-custom="1373-07-02"
-                               to="1894-07-02"
-                               to-custom="1894-07-02">1373–1894</tei:date>
+                               from-custom="1373"
+                               when="1894-07-02"
+                               when-custom="1894">1373–1894</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6039,9 +6030,9 @@
                   <tei:placeName>Internationalen Kunst-Ausstellung des Vereins bildender Künstler Münchens »Secession«</tei:placeName>
                   <tei:desc>
                      <tei:date from="1895-08-11"
-                               from-custom="1895-08-11"
-                               to="1895-07-02"
-                               to-custom="1895-07-02">11. 8. 1895–1895</tei:date>
+                               from-custom="11.8.1895"
+                               when="1895-07-02"
+                               when-custom="1895">11.8.1895–1895</tei:date>
                      <tei:gloss ana="i6">Gallerie</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6053,9 +6044,9 @@
                   <tei:placeName>Internationales Ausstellungstheater im k.k. Prater</tei:placeName>
                   <tei:desc>
                      <tei:date from="1892-05-07"
-                               from-custom="1892-05-07"
-                               to="1892-10-09"
-                               to-custom="1892-10-09">7. 5. 1892–9. 10. 1892</tei:date>
+                               from-custom="7.5.1892"
+                               when="1892-10-09"
+                               when-custom="9.10.1892">7.5.1892–9.10.1892</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6076,7 +6067,7 @@
                <place xml:id="pmb43440">
                   <tei:placeName>Irrgarten (Irrgänge)</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1894-07-02" from-custom="1894-07-02">2. 7. 1894</tei:date>
+                     <tei:date when="1894-07-02" when-custom="1894">1894</tei:date>
                      <tei:gloss ana="i56">Vergnügungspark</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6198,9 +6189,9 @@
                   <tei:placeName>Jantsch-Theater</tei:placeName>
                   <tei:desc>
                      <tei:date from="1892-07-01"
-                               from-custom="1892-07-01"
-                               to="1905-07-02"
-                               to-custom="1905-07-02">1892–1905</tei:date>
+                               from-custom="1892"
+                               when="1905-07-02"
+                               when-custom="1905">1892–1905</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6279,9 +6270,9 @@
                   <tei:placeName>Joseph G. Wieninger, Weinhandlung</tei:placeName>
                   <tei:desc>
                      <tei:date from="1874-07-02"
-                               from-custom="1874-07-02"
-                               to="1905-07-02"
-                               to-custom="1905-07-02">1874–1905</tei:date>
+                               from-custom="1874"
+                               when="1905-07-02"
+                               when-custom="1905">1874–1905</tei:date>
                      <tei:gloss ana="i17">Gastgewerbegebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6327,7 +6318,7 @@
                <place xml:id="pmb1">
                   <tei:placeName>Jung-Wiener Theater zum Lieben Augustin</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1901-01-01" from-custom="1901-01-01">1. 1. 1901</tei:date>
+                     <tei:date when="1901-01-01" when-custom="1901">1901</tei:date>
                      <tei:gloss ana="i2">Kabarett</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6387,9 +6378,9 @@
                   <tei:placeName>Kaiserin-Elisabeth-Spital</tei:placeName>
                   <tei:desc>
                      <tei:date from="1890-01-01"
-                               from-custom="1890-01-01"
-                               to="2012-01-01"
-                               to-custom="2012-01-01">1890–2012</tei:date>
+                               from-custom="1890"
+                               when="2012-01-01"
+                               when-custom="2012">1890–2012</tei:date>
                      <tei:gloss ana="i23">Krankenhaus</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6404,6 +6395,16 @@
                   <tei:location>
                      <tei:geo decls="LatLng">47.715 13.620278</tei:geo>
                   </tei:location>
+               </place>
+               <place xml:id="pmb42605">
+                  <tei:placeName>Kaliningrad</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1108">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">54.70649 20.51095</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/554234/</idno>
                </place>
                <place xml:id="pmb555">
                   <tei:placeName>Kalksburg</tei:placeName>
@@ -6445,7 +6446,7 @@
                <place xml:id="pmb12">
                   <tei:placeName>Kammerspiele Berlin</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1906-07-02" from-custom="1906-07-02">2. 7. 1906</tei:date>
+                     <tei:date when="1906-07-02" when-custom="1906">1906</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6638,7 +6639,7 @@
                <place xml:id="pmb53381">
                   <tei:placeName>Kirche zur heiligen Familie</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1895-07-02" from-custom="1895-07-02">2. 7. 1895</tei:date>
+                     <tei:date when="1895-07-02" when-custom="1895">1895</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6756,7 +6757,7 @@
                <place xml:id="pmb48407">
                   <tei:placeName>Kollegienkirche (Salzburg)</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1707-07-02" from-custom="1707-07-02">2. 7. 1707</tei:date>
+                     <tei:date when="1707-07-02" when-custom="1707">1707</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6766,7 +6767,7 @@
                <place xml:id="pmb42229">
                   <tei:placeName>Kollegium Kalksburg</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1856-07-01" from-custom="1856-07-01">1. 7. 1856</tei:date>
+                     <tei:date when="1856-07-01" when-custom="1856">1856</tei:date>
                      <tei:gloss ana="i35">Schule</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6797,22 +6798,12 @@
                <place xml:id="pmb1134">
                   <tei:placeName>Kongresshaus Zürich</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1895-07-02" from-custom="1895-07-02">2. 7. 1895</tei:date>
+                     <tei:date when="1895-07-02" when-custom="1895">1895</tei:date>
                      <tei:gloss ana="i45">Konzertsaal</tei:gloss>
                   </tei:desc>
                   <tei:location>
                      <tei:geo decls="LatLng">47.36572 8.53788</tei:geo>
                   </tei:location>
-               </place>
-               <place xml:id="pmb42605">
-                  <tei:placeName>Königsberg</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1108">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">54.70649 20.51095</tei:geo>
-                  </tei:location>
-                  <idno type="geonames">https://www.geonames.org/554234/</idno>
                </place>
                <place xml:id="pmb1210">
                   <tei:placeName>Königseggasse</tei:placeName>
@@ -6854,7 +6845,7 @@
                <place xml:id="pmb2">
                   <tei:placeName>Konservatorium der Gesellschaft der Musikfreunde</tei:placeName>
                   <tei:desc>
-                     <tei:date to="1909-07-02" to-custom="1909-07-02">2. 7. 1909</tei:date>
+                     <tei:date when="1909-07-02" when-custom="1909">bis 1909</tei:date>
                      <tei:gloss ana="i3">Konservatorium</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -6951,7 +6942,7 @@
                <place xml:id="pmb157">
                   <tei:placeName>Krankenhaus der Barmherzigen Brüder</tei:placeName>
                   <tei:desc>
-                     <tei:date to="1922-07-02" to-custom="1922-07-02">2. 7. 1922</tei:date>
+                     <tei:date when="1922-07-02" when-custom="1922">bis 1922</tei:date>
                      <tei:gloss ana="i23">Krankenhaus</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7052,7 +7043,7 @@
                <place xml:id="pmb6">
                   <tei:placeName>Kuffner Bierbrauerei</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1837-07-02" from-custom="1837-07-02">2. 7. 1837</tei:date>
+                     <tei:date when="1837-07-02" when-custom="1837">1837</tei:date>
                      <tei:gloss ana="i7">Bierhaus</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7082,7 +7073,7 @@
                <place xml:id="pmb47660">
                   <tei:placeName>Kunsthistorisches Museum</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1891-07-02" from-custom="1891-07-02">2. 7. 1891</tei:date>
+                     <tei:date when="1891-07-02" when-custom="1891">1891</tei:date>
                      <tei:gloss ana="i8">Museum</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7092,7 +7083,7 @@
                <place xml:id="pmb21">
                   <tei:placeName>Künstlerhaus</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1868-07-01" from-custom="1868-07-01">1. 7. 1868</tei:date>
+                     <tei:date when="1868-07-01" when-custom="1868">1868</tei:date>
                      <tei:gloss ana="i8">Museum</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7131,8 +7122,8 @@
                   <tei:desc>
                      <tei:date from="1866-04-17"
                                from-custom="1866-04-17"
-                               to="1969-07-02"
-                               to-custom="1969-07-02">17. 4. 1866–1969</tei:date>
+                               when="1969-07-02"
+                               when-custom="1969">1866-04-17–1969</tei:date>
                      <tei:gloss ana="i27">Sanatorium</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7142,7 +7133,7 @@
                <place xml:id="pmb442">
                   <tei:placeName>Kurhaus Semmering</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1909-07-02" from-custom="1909-07-02">2. 7. 1909</tei:date>
+                     <tei:date when="1909-07-02" when-custom="1909">1909</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7296,7 +7287,7 @@
                <place xml:id="pmb43375">
                   <tei:placeName>Le due Torri: Garisenda e degli Asinelli</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1109-07-02" from-custom="1109-07-02">2. 7. 1109</tei:date>
+                     <tei:date when="1109-07-02" when-custom="1109">1109</tei:date>
                      <tei:gloss ana="i55">Monument</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7378,7 +7369,7 @@
                <place xml:id="pmb43982">
                   <tei:placeName>Liebfrauenkirche</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1210-07-02" from-custom="1210-07-02">2. 7. 1210</tei:date>
+                     <tei:date when="1210-07-02" when-custom="1210">1210</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7417,7 +7408,7 @@
                <place xml:id="pmb40101">
                   <tei:placeName>Liesingerstraße</tei:placeName>
                   <tei:desc>
-                     <tei:date to="1957-07-02" to-custom="1957-07-02">2. 7. 1957</tei:date>
+                     <tei:date when="1957-07-02" when-custom="1957">bis 1957</tei:date>
                      <tei:gloss ana="i26">Straße</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7605,9 +7596,9 @@
                   <tei:placeName>Lustspieltheater</tei:placeName>
                   <tei:desc>
                      <tei:date from="1905-04-23"
-                               from-custom="1905-04-23"
-                               to="1927-08-31"
-                               to-custom="1927-08-31">23. 4. 1905–31. 8. 1927</tei:date>
+                               from-custom="23.4.1905"
+                               when="1927-08-31"
+                               when-custom="31.8.1927">23.4.1905–31.8.1927</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7649,7 +7640,7 @@
                <place xml:id="pmb1026">
                   <tei:placeName>Lyceum Theatre</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1903-11-02" from-custom="1903-11-02">2. 11. 1903</tei:date>
+                     <tei:date when="1903-11-02" when-custom="1903-11-02">1903-11-02</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7759,7 +7750,7 @@
                <place xml:id="pmb55166">
                   <tei:placeName>Maloja Palace</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1884-07-01" from-custom="1884-07-01">1. 7. 1884</tei:date>
+                     <tei:date when="1884-07-01" when-custom="1884">1884</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7828,7 +7819,7 @@
                <place xml:id="pmb34933">
                   <tei:placeName>Margaretenstraße</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1897-01-01" from-custom="1897-01-01">1. 1. 1897</tei:date>
+                     <tei:date when="1897-01-01" when-custom="1897">1897</tei:date>
                      <tei:gloss ana="i26">Straße</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7856,7 +7847,7 @@
                <place xml:id="pmb44846">
                   <tei:placeName>Maria Santissima Assunta</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1184-07-01" from-custom="1184-07-01">1. 7. 1184</tei:date>
+                     <tei:date when="1184-07-01" when-custom="1184">1184</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7937,7 +7928,7 @@
                <place xml:id="pmb51375">
                   <tei:placeName>Markgräfliches Opernhaus</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1714-07-02" from-custom="1714-07-02">2. 7. 1714</tei:date>
+                     <tei:date when="1714-07-02" when-custom="1714">1714</tei:date>
                      <tei:gloss ana="i10">Oper</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -7947,7 +7938,7 @@
                <place xml:id="pmb37721">
                   <tei:placeName>Marmorbroen</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1745-01-01" from-custom="1745-01-01">1. 1. 1745</tei:date>
+                     <tei:date when="1745-01-01" when-custom="1745">1745</tei:date>
                      <tei:gloss ana="i37">Brücke</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -8039,7 +8030,7 @@
                <place xml:id="pmb33972">
                   <tei:placeName>Mauerstraße</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1873-01-01" from-custom="1873-01-01">1. 1. 1873</tei:date>
+                     <tei:date when="1873-01-01" when-custom="1873">1873</tei:date>
                      <tei:gloss ana="i26">Straße</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -8058,7 +8049,7 @@
                <place xml:id="pmb50094">
                   <tei:placeName>Mayflower Hotel</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1926-07-02" from-custom="1926-07-02">2. 7. 1926</tei:date>
+                     <tei:date when="1926-07-02" when-custom="1926">1926</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -8596,7 +8587,7 @@
                <place xml:id="pmb1147">
                   <tei:placeName>Nationale und Kapodistrias-Universität Athen</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1837-07-02" from-custom="1837-07-02">2. 7. 1837</tei:date>
+                     <tei:date when="1837-07-02" when-custom="1837">1837</tei:date>
                      <tei:gloss ana="i15">Universität</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -8617,7 +8608,7 @@
                <place xml:id="pmb43124">
                   <tei:placeName>Nerobergbahn</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1888-07-01" from-custom="1888-07-01">1. 7. 1888</tei:date>
+                     <tei:date when="1888-07-01" when-custom="1888">1888</tei:date>
                      <tei:gloss ana="i53">Buchhandlung</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -8675,9 +8666,9 @@
                   <tei:placeName>Neues Deutsches Theater</tei:placeName>
                   <tei:desc>
                      <tei:date from="1888-07-01"
-                               from-custom="1888-07-01"
-                               to="1938-07-02"
-                               to-custom="1938-07-02">1888–1938</tei:date>
+                               from-custom="1888"
+                               when="1938-07-02"
+                               when-custom="1938">1888–1938</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -8696,7 +8687,7 @@
                <place xml:id="pmb34399">
                   <tei:placeName>Neue Wiener Bühne</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1908-01-01" from-custom="1908-01-01">1. 1. 1908</tei:date>
+                     <tei:date when="1908-01-01" when-custom="1908">1908</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -8844,7 +8835,7 @@
                <place xml:id="pmb43126">
                   <tei:placeName>Niederwalddenkmal</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1883-07-02" from-custom="1883-07-02">2. 7. 1883</tei:date>
+                     <tei:date when="1883-07-02" when-custom="1883">1883</tei:date>
                      <tei:gloss ana="i55">Monument</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -8943,7 +8934,7 @@
                <place xml:id="pmb44489">
                   <tei:placeName>Nyhavn</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1673-07-02" from-custom="1673-07-02">2. 7. 1673</tei:date>
+                     <tei:date when="1673-07-02" when-custom="1673">1673</tei:date>
                      <tei:gloss ana="i84">K.HFN</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -9028,7 +9019,7 @@
                   <idno type="geonames">https://www.geonames.org/2769653/</idno>
                </place>
                <place xml:id="pmb44176">
-                  <tei:placeName>Olmütz</tei:placeName>
+                  <tei:placeName>Olomouc</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i1415">Land</tei:gloss>
                   </tei:desc>
@@ -9168,7 +9159,7 @@
                <place xml:id="pmb230">
                   <tei:placeName>Österreichischer Hof</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1866-07-02" from-custom="1866-07-02">2. 7. 1866</tei:date>
+                     <tei:date when="1866-07-02" when-custom="1866">1866</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -9178,7 +9169,7 @@
                <place xml:id="pmb83">
                   <tei:placeName>Österreichisches Museum für Kunst und Industrie</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1863-07-02" from-custom="1863-07-02">2. 7. 1863</tei:date>
+                     <tei:date when="1863-07-02" when-custom="1863">1863</tei:date>
                      <tei:gloss ana="i8">Museum</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -9267,7 +9258,7 @@
                <place xml:id="pmb153">
                   <tei:placeName>Otto-Wagner-Spital</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1907-10-08" from-custom="1907-10-08">8. 10. 1907</tei:date>
+                     <tei:date when="1907-10-08" when-custom="1907-10-08">1907-10-08</tei:date>
                      <tei:gloss ana="i23">Krankenhaus</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -9327,9 +9318,9 @@
                   <tei:placeName>Palasthotel Berlin</tei:placeName>
                   <tei:desc>
                      <tei:date from="1893-07-02"
-                               from-custom="1893-07-02"
-                               to="1936-07-01"
-                               to-custom="1936-07-01">1893–1936</tei:date>
+                               from-custom="1893"
+                               when="1936-07-01"
+                               when-custom="1936">1893–1936</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -9415,7 +9406,7 @@
                <place xml:id="pmb50941">
                   <tei:placeName>Palmenhaus Schönbrunn</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1882-07-02" from-custom="1882-07-02">2. 7. 1882</tei:date>
+                     <tei:date when="1882-07-02" when-custom="1882">1882</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -9436,7 +9427,7 @@
                <place xml:id="pmb283">
                   <tei:placeName>Parkhotel Schönbrunn</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1908-07-01" from-custom="1908-07-01">1. 7. 1908</tei:date>
+                     <tei:date when="1908-07-01" when-custom="1908">1908</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -9590,7 +9581,7 @@
                <place xml:id="pmb756">
                   <tei:placeName>Pension Quisisana</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1883-07-02" from-custom="1883-07-02">2. 7. 1883</tei:date>
+                     <tei:date when="1883-07-02" when-custom="1883">1883</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -9657,9 +9648,9 @@
                   <tei:placeName>Pfälzer Hof</tei:placeName>
                   <tei:desc>
                      <tei:date from="1750-07-02"
-                               from-custom="1750-07-02"
-                               to="1929-07-02"
-                               to-custom="1929-07-02">1750–1929</tei:date>
+                               from-custom="1750"
+                               when="1929-07-02"
+                               when-custom="1929">1750–1929</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -9786,9 +9777,9 @@
                   <tei:placeName>Platz’scher Garten</tei:placeName>
                   <tei:desc>
                      <tei:date from="1866-07-02"
-                               from-custom="1866-07-02"
-                               to="1945-07-02"
-                               to-custom="1945-07-02">1866–1945</tei:date>
+                               from-custom="1866"
+                               when="1945-07-02"
+                               when-custom="1945">1866–1945</tei:date>
                      <tei:gloss ana="i22">Lokal</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -9878,7 +9869,7 @@
                <place xml:id="pmb148">
                   <tei:placeName>Ponte di Rialto</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1591-07-02" from-custom="1591-07-02">2. 7. 1591</tei:date>
+                     <tei:date when="1591-07-02" when-custom="1591">1591</tei:date>
                      <tei:gloss ana="i37">Brücke</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10094,7 +10085,7 @@
                <place xml:id="pmb206">
                   <tei:placeName>Preußen</tei:placeName>
                   <tei:desc>
-                     <tei:date to="1947-07-02" to-custom="1947-07-02">2. 7. 1947</tei:date>
+                     <tei:date when="1947-07-02" when-custom="1947">bis 1947</tei:date>
                      <tei:gloss ana="i38">Land</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10115,9 +10106,9 @@
                   <tei:placeName>Provinzial-Heil- und Pflegeanstalt</tei:placeName>
                   <tei:desc>
                      <tei:date from="1868-04-01"
-                               from-custom="1868-04-01"
-                               to="1952-01-01"
-                               to-custom="1952-01-01">1. 4. 1868–1952</tei:date>
+                               from-custom="1.4.1868"
+                               when="1952-01-01"
+                               when-custom="1952">1.4.1868–1952</tei:date>
                      <tei:gloss ana="i23">Krankenhaus</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10218,7 +10209,7 @@
                <place xml:id="pmb77">
                   <tei:placeName>Raimund-Theater</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1893-11-27" from-custom="1893-11-27">27. 11. 1893</tei:date>
+                     <tei:date when="1893-11-27" when-custom="27.11.1893">27.11.1893</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10267,7 +10258,7 @@
                <place xml:id="pmb1219">
                   <tei:placeName>Ramsauer Garni Café</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1826-07-02" from-custom="1826-07-02">2. 7. 1826</tei:date>
+                     <tei:date when="1826-07-02" when-custom="1826">1826</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10366,7 +10357,7 @@
                <place xml:id="pmb47690">
                   <tei:placeName>Rektorenpalast</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1435-07-02" from-custom="1435-07-02">2. 7. 1435</tei:date>
+                     <tei:date when="1435-07-02" when-custom="1435">1435</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10385,7 +10376,7 @@
                <place xml:id="pmb42626">
                   <tei:placeName>Residenztheater Berlin</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1871-07-02" from-custom="1871-07-02">2. 7. 1871</tei:date>
+                     <tei:date when="1871-07-02" when-custom="1871">1871</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10395,7 +10386,7 @@
                <place xml:id="pmb635">
                   <tei:placeName>Residenztheater München</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1753-07-02" from-custom="1753-07-02">2. 7. 1753</tei:date>
+                     <tei:date when="1753-07-02" when-custom="1753">1753</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10461,7 +10452,7 @@
                <place xml:id="pmb51377">
                   <tei:placeName>Richard-Wagner-Festspielhaus</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1872-07-01" from-custom="1872-07-01">1. 7. 1872</tei:date>
+                     <tei:date when="1872-07-01" when-custom="1872">1872</tei:date>
                      <tei:gloss ana="i10">Oper</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10597,7 +10588,7 @@
                <place xml:id="pmb1133">
                   <tei:placeName>Rotes Schloss</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1891-07-02" from-custom="1891-07-02">2. 7. 1891</tei:date>
+                     <tei:date when="1891-07-02" when-custom="1891">1891</tei:date>
                      <tei:gloss ana="i41">Schloss</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10751,7 +10742,7 @@
                <place xml:id="pmb1278">
                   <tei:placeName>S. Gregorio</tei:placeName>
                   <tei:desc>
-                     <tei:date to="1908-07-01" to-custom="1908-07-01">1. 7. 1908</tei:date>
+                     <tei:date when="1908-07-01" when-custom="1908">bis 1908</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10930,7 +10921,7 @@
                <place xml:id="pmb42783">
                   <tei:placeName>Sanatorium Frey-Dengler</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1890-07-02" from-custom="1890-07-02">2. 7. 1890</tei:date>
+                     <tei:date when="1890-07-02" when-custom="1890">1890</tei:date>
                      <tei:gloss ana="i27">Sanatorium</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10941,9 +10932,9 @@
                   <tei:placeName>Sanatorium Fürth</tei:placeName>
                   <tei:desc>
                      <tei:date from="1887-01-01"
-                               from-custom="1887-01-01"
-                               to="1938-01-01"
-                               to-custom="1938-01-01">1887–1938</tei:date>
+                               from-custom="1887"
+                               when="1938-01-01"
+                               when-custom="1938">1887–1938</tei:date>
                      <tei:gloss ana="i27">Sanatorium</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10963,9 +10954,9 @@
                   <tei:placeName>Sanatorium Obersteiner</tei:placeName>
                   <tei:desc>
                      <tei:date from="1819-01-01"
-                               from-custom="1819-01-01"
-                               to="1917-01-01"
-                               to-custom="1917-01-01">1819–1917</tei:date>
+                               from-custom="1819"
+                               when="1917-01-01"
+                               when-custom="1917">1819–1917</tei:date>
                      <tei:gloss ana="i27">Sanatorium</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -10975,7 +10966,7 @@
                <place xml:id="pmb52452">
                   <tei:placeName>Sanatorium Purkersdorf</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1905-07-02" from-custom="1905-07-02">2. 7. 1905</tei:date>
+                     <tei:date when="1905-07-02" when-custom="1905">1905</tei:date>
                      <tei:gloss ana="i27">Sanatorium</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -11004,7 +10995,7 @@
                <place xml:id="pmb51734">
                   <tei:placeName>San Giorgio Maggiore</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1565-07-02" from-custom="1565-07-02">2. 7. 1565</tei:date>
+                     <tei:date when="1565-07-02" when-custom="1565">1565</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -11064,7 +11055,7 @@
                <place xml:id="pmb50766">
                   <tei:placeName>Sankt Paul vor den Mauern</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1823-07-02" from-custom="1823-07-02">2. 7. 1823</tei:date>
+                     <tei:date when="1823-07-02" when-custom="1823">1823</tei:date>
                      <tei:gloss ana="i34">Kloster</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -11192,7 +11183,7 @@
                <place xml:id="pmb128">
                   <tei:placeName>Schall und Rauch</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1901-07-02" from-custom="1901-07-02">2. 7. 1901</tei:date>
+                     <tei:date when="1901-07-02" when-custom="1901">1901</tei:date>
                      <tei:gloss ana="i2">Kabarett</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -11212,7 +11203,7 @@
                <place xml:id="pmb11">
                   <tei:placeName>Schauspielhaus</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1901-07-02" from-custom="1901-07-02">2. 7. 1901</tei:date>
+                     <tei:date when="1901-07-02" when-custom="1901">1901</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -11384,7 +11375,7 @@
                <place xml:id="pmb1284">
                   <tei:placeName>Schloss Kronborg</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1420-07-01" from-custom="1420-07-01">1. 7. 1420</tei:date>
+                     <tei:date when="1420-07-01" when-custom="1420">1420</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -11423,9 +11414,9 @@
                   <tei:placeName>Schlosstheater Schönbrunn</tei:placeName>
                   <tei:desc>
                      <tei:date from="1919-07-02"
-                               from-custom="1919-07-02"
-                               to="1924-07-01"
-                               to-custom="1924-07-01">1919–1924</tei:date>
+                               from-custom="1919"
+                               when="1924-07-01"
+                               when-custom="1924">1919–1924</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -11435,7 +11426,7 @@
                <place xml:id="pmb50844">
                   <tei:placeName>Schloss Thinnfeld</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1761-07-02" from-custom="1761-07-02">2. 7. 1761</tei:date>
+                     <tei:date when="1761-07-02" when-custom="1761">1761</tei:date>
                      <tei:gloss ana="i41">Schloss</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -11465,22 +11456,12 @@
                <place xml:id="pmb1100">
                   <tei:placeName>Schloss Welsperg</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1126-07-02" from-custom="1126-07-02">2. 7. 1126</tei:date>
+                     <tei:date when="1126-07-02" when-custom="1126">1126</tei:date>
                      <tei:gloss ana="i41">Schloss</tei:gloss>
                   </tei:desc>
                   <tei:location>
                      <tei:geo decls="LatLng">46.759759 12.113828</tei:geo>
                   </tei:location>
-               </place>
-               <place xml:id="pmb11793">
-                  <tei:placeName>Schmargendorf</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i25">Bezirk</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">52.477222 13.288056</tei:geo>
-                  </tei:location>
-                  <idno type="gnd">https://d-nb.info/gnd/4666506-7/</idno>
                </place>
                <place xml:id="pmb40923">
                   <tei:placeName>Schmücke</tei:placeName>
@@ -11820,7 +11801,7 @@
                <place xml:id="pmb51277">
                   <tei:placeName>Seufzerbrücke</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1600-07-01" from-custom="1600-07-01">1. 7. 1600</tei:date>
+                     <tei:date when="1600-07-01" when-custom="1600">1600</tei:date>
                      <tei:gloss ana="i37">Brücke</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12181,9 +12162,9 @@
                   <tei:placeName>St. Veit</tei:placeName>
                   <tei:desc>
                      <tei:date from="1850-07-02"
-                               from-custom="1850-07-02"
-                               to="1870-07-02"
-                               to-custom="1870-07-02">1850–1870</tei:date>
+                               from-custom="1850"
+                               when="1870-07-02"
+                               when-custom="1870">1850–1870</tei:date>
                      <tei:gloss ana="i40">eingemeindeter Ort</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12202,7 +12183,7 @@
                <place xml:id="pmb42968">
                   <tei:placeName>Stadttheater</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1882-07-02" from-custom="1882-07-02">2. 7. 1882</tei:date>
+                     <tei:date when="1882-07-02" when-custom="1882">1882</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12259,7 +12240,7 @@
                <place xml:id="pmb42749">
                   <tei:placeName>Stefanskeller</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1896-07-01" from-custom="1896-07-01">1. 7. 1896</tei:date>
+                     <tei:date when="1896-07-01" when-custom="1896">1896</tei:date>
                      <tei:gloss ana="i17">Gastgewerbegebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12318,7 +12299,7 @@
                <place xml:id="pmb567">
                   <tei:placeName>Stephansdom</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1365-07-02" from-custom="1365-07-02">2. 7. 1365</tei:date>
+                     <tei:date when="1365-07-02" when-custom="1365">1365</tei:date>
                      <tei:gloss ana="i33">Kirche</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12491,7 +12472,7 @@
                <place xml:id="pmb34016">
                   <tei:placeName>Strohgasse</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1862-01-01" from-custom="1862-01-01">1. 1. 1862</tei:date>
+                     <tei:date when="1862-01-01" when-custom="1862">1862</tei:date>
                      <tei:gloss ana="i26">Straße</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12542,7 +12523,7 @@
                <place xml:id="pmb413">
                   <tei:placeName>Südbahnhotel</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1882-07-02" from-custom="1882-07-02">2. 7. 1882</tei:date>
+                     <tei:date when="1882-07-02" when-custom="1882">1882</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12553,7 +12534,7 @@
                <place xml:id="pmb36284">
                   <tei:placeName>Südbahnhotel</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1878-07-02" from-custom="1878-07-02">2. 7. 1878</tei:date>
+                     <tei:date when="1878-07-02" when-custom="1878">1878</tei:date>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12783,7 +12764,7 @@
                <place xml:id="pmb692">
                   <tei:placeName>Theater des Westens</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1895-07-02" from-custom="1895-07-02">2. 7. 1895</tei:date>
+                     <tei:date when="1895-07-02" when-custom="1895">1895</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12793,7 +12774,7 @@
                <place xml:id="pmb40">
                   <tei:placeName>Theater in der Josefstadt</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1788-01-01" from-custom="1788-01-01">1. 1. 1788</tei:date>
+                     <tei:date when="1788-01-01" when-custom="1788">1788</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12813,9 +12794,9 @@
                   <tei:placeName>Théâtre Antoine</tei:placeName>
                   <tei:desc>
                      <tei:date from="1897-07-02"
-                               from-custom="1897-07-02"
-                               to="1906-07-02"
-                               to-custom="1906-07-02">1897–1906</tei:date>
+                               from-custom="1897"
+                               when="1906-07-02"
+                               when-custom="1906">1897–1906</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -12863,7 +12844,7 @@
                <place xml:id="pmb39607">
                   <tei:placeName>Tiergarten Schönbrunn</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1752-01-01" from-custom="1752-01-01">1. 1. 1752</tei:date>
+                     <tei:date when="1752-01-01" when-custom="1752">1752</tei:date>
                      <tei:gloss ana="i52">Zoo</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -13139,7 +13120,7 @@
                <place xml:id="pmb830">
                   <tei:placeName>Überbrettl</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1901-07-02" from-custom="1901-07-02">2. 7. 1901</tei:date>
+                     <tei:date when="1901-07-02" when-custom="1901">1901</tei:date>
                      <tei:gloss ana="i2">Kabarett</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -13199,7 +13180,7 @@
                <place xml:id="pmb1218">
                   <tei:placeName>Universitäts-Frauenklinik</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1887-07-02" from-custom="1887-07-02">2. 7. 1887</tei:date>
+                     <tei:date when="1887-07-02" when-custom="1887">1887</tei:date>
                      <tei:gloss ana="i23">Krankenhaus</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -13443,7 +13424,7 @@
                <place xml:id="pmb422">
                   <tei:placeName>Venedig in Wien</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1895-05-18" from-custom="1895-05-18">18. 5. 1895</tei:date>
+                     <tei:date when="1895-05-18" when-custom="18.5.1895">18.5.1895</tei:date>
                      <tei:gloss ana="i56">Vergnügungspark</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -13595,7 +13576,7 @@
                <place xml:id="pmb34314">
                   <tei:placeName>Villa Andrian</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1873-07-02" from-custom="1873-07-02">2. 7. 1873</tei:date>
+                     <tei:date when="1873-07-02" when-custom="1873">1873</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -13629,7 +13610,7 @@
                <place xml:id="pmb35644">
                   <tei:placeName>Villa Blumenthal</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1894-01-01" from-custom="1894-01-01">1. 1. 1894</tei:date>
+                     <tei:date when="1894-01-01" when-custom="1894">1894</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -13648,7 +13629,7 @@
                <place xml:id="pmb44624">
                   <tei:placeName>Villa Ceresio</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1897-07-02" from-custom="1897-07-02">2. 7. 1897</tei:date>
+                     <tei:date when="1897-07-02" when-custom="1897">1897</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                </place>
@@ -13666,9 +13647,9 @@
                   <tei:placeName>Villa Dr. Wassing</tei:placeName>
                   <tei:desc>
                      <tei:date from="1885-07-02"
-                               from-custom="1885-07-02"
-                               to="1938-07-02"
-                               to-custom="1938-07-02">1885–1938</tei:date>
+                               from-custom="1885"
+                               when="1938-07-02"
+                               when-custom="1938">1885–1938</tei:date>
                      <tei:gloss ana="i27">Sanatorium</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -13678,7 +13659,7 @@
                <place xml:id="pmb44762">
                   <tei:placeName>Villa d’Este</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1560-07-01" from-custom="1560-07-01">1. 7. 1560</tei:date>
+                     <tei:date when="1560-07-01" when-custom="1560">1560</tei:date>
                      <tei:gloss ana="i24">Gebäude</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -13848,7 +13829,7 @@
                <place xml:id="pmb28">
                   <tei:placeName>Volksoper</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1898-07-02" from-custom="1898-07-02">2. 7. 1898</tei:date>
+                     <tei:date when="1898-07-02" when-custom="1898">1898</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -13867,7 +13848,7 @@
                <place xml:id="pmb42359">
                   <tei:placeName>Volkstheater</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1894-07-02" from-custom="1894-07-02">2. 7. 1894</tei:date>
+                     <tei:date when="1894-07-02" when-custom="1894">1894</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -14001,7 +13982,7 @@
                <place xml:id="pmb1180">
                   <tei:placeName>Wallnertheater</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1858-07-02" from-custom="1858-07-02">2. 7. 1858</tei:date>
+                     <tei:date when="1858-07-02" when-custom="1858">1858</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -14189,7 +14170,7 @@
                <place xml:id="pmb633">
                   <tei:placeName>Wiener Kammerspiele</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1910-01-01" from-custom="1910-01-01">1. 1. 1910</tei:date>
+                     <tei:date when="1910-01-01" when-custom="1910">1910</tei:date>
                      <tei:gloss ana="i4">Theater</tei:gloss>
                   </tei:desc>
                   <tei:location>
@@ -14219,7 +14200,7 @@
                <place xml:id="pmb41376">
                   <tei:placeName>Wiener Zentralfriedhof</tei:placeName>
                   <tei:desc>
-                     <tei:date from="1874-01-01" from-custom="1874-01-01">1. 1. 1874</tei:date>
+                     <tei:date when="1874-01-01" when-custom="1874">1874</tei:date>
                      <tei:gloss ana="i51">Friedhof</tei:gloss>
                   </tei:desc>
                   <tei:location>
