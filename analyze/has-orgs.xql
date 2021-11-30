@@ -11,44 +11,33 @@ declare function local:get_entity_id($item as node()){
     let $pmb_uri := data($item/@xml:id)
     let $pmb_id := substring-after($pmb_uri, 'pmb')
     let $arche_uri := "https://id.acdh.oeaw.ac.at/pmb/"||$pmb_id
-    let $gnd := $item/tei:idno[@type="geonames"][1]/text()
+    let $gnd := $item/tei:idno[@type="gnd"][1]/text()
     let $result := if ($gnd) then $gnd else $arche_uri
 
     return
         $result
 };
 
-declare function local:latLong($item as node()*){
-    let $coords := tokenize($item//tei:geo)
-    let $result := if (count($coords) eq 2)
-        then (<acdh:hasLatitude>{$coords[1]}</acdh:hasLatitude>, <acdh:hasLongitude>{$coords[2]}</acdh:hasLongitude>) else false()
-        return
-            $result
-            
-};
 
-
-let $sample := collection($app:editions)//tei:TEI[.//tei:place[@xml:id]]
+let $sample := collection($app:editions)//tei:TEI[.//tei:org[@xml:id]]
 let $res :=
     for $item in $sample
         let $doc_id := $item/@xml:base||'/'||$item/@xml:id
-        let $ent_ids := $item//tei:back//tei:listPlace/tei:place[@xml:id]/@xml:id
+        let $ent_ids := $item//tei:back//tei:listOrg/tei:org[@xml:id]/@xml:id
         return 
         <acdh:Resource rdf:about="{$doc_id}">
         {
         for $ent in $ent_ids
             let $ent_node := collection($app:indices)/id($ent)
             let $res_id := if ($ent_node ) then local:get_entity_id($ent_node) else false()
-            let $hasTitle := $ent_node//tei:placeName[1]/text()
-            let $coords := local:latLong($ent_node)
+            let $hasTitle := $ent_node//tei:orgName[1]/text()
             where $res_id
             return
-                <acdh:hasSpatialCoverage>
-                    <acdh:Place rdf:about="{$res_id}">
+                <acdh:hasActor>
+                    <acdh:Organisation rdf:about="{$res_id}">
                         <acdh:hasTitle xml:lang="und">{$hasTitle}</acdh:hasTitle>
-                        {$coords}
-                    </acdh:Place>
-                </acdh:hasSpatialCoverage>
+                    </acdh:Organisation>
+                </acdh:hasActor>
                
         }
         </acdh:Resource>
