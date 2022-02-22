@@ -37,7 +37,7 @@
                 <div class="card-body-meta">
                     <xsl:apply-templates select="//tei:body"/>
                     <p/>
-                    <xsl:if test="descendant::tei:footNotes">
+                    <xsl:if test="descendant::tei:footNote">
                     <div class="card-body-footnotes">
                         <xsl:text>FUSSNOTEN</xsl:text>
                     <xsl:element name="ol">

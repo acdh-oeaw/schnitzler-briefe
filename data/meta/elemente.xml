@@ -356,8 +356,8 @@
                         Leerzeichen benötigen eine Sonderbehandlung und ebenso der Fall, dass
                         zwischen zwei Elementen ein Leerzeichen stehen soll. Wir codieren so, dass
                         wir das Leerzeichen zwischen zwei Elementen ebenfalls als Element setzen.
-                        Dadurch können mehrfache Leerzeichen als eines genommen werden und Leerräume
-                        zwischen zwei Elementen als in der Wiedergabe nicht zu berücksichtigen.</p>
+                        Dadurch wissen wir, dass Zwischenräume zwischen Elementen, die &gt;&lt; oder  &gt;&#160;&lt; 
+                        oder &gt;&#160;&#160;&#160;&#160;&lt; aussehen, ignoriert werden können.</p>
                     <div type="example">
                         <p>Beispiel: </p>
                         <p>
