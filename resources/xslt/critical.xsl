@@ -121,21 +121,21 @@
                             </xsl:variable>
                             <xsl:variable name="url-of-facsimile">
                                 <xsl:for-each select="tokenize($facsimiles, ' ')">
-                                    <xsl:text>"https://iiif.acdh.oeaw.ac.at/schnitzler-briefe/</xsl:text>
+                                    <xsl:text>"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/schnitzler-briefe/</xsl:text>
                                     <xsl:value-of select="."/>
-                                    <xsl:text>/info.json"</xsl:text>
+                                    <xsl:text>.jp2/info.json"</xsl:text>
                                     <xsl:if test="not(position() = last())">
                                         <xsl:text>, </xsl:text>
                                     </xsl:if>
                                 </xsl:for-each>
                             </xsl:variable>
                             <div id="openseadragon-photo" style="height:800px;">
-                                <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/openseadragon.min.js"/>
+                                <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/3.0.0/openseadragon.min.js"/>
                                 <script type="text/javascript">
                             var viewer = OpenSeadragon({
                             id: "openseadragon-photo",
                             protocol: "http://iiif.io/api/image",
-                            prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/images/",
+                            prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/3.0.0/images/",
                             sequenceMode : true,
                             showNavigationControl: true,
                             showReferenceStrip: true,
@@ -257,7 +257,7 @@
                                         </xsl:attribute>
                                         <xsl:attribute name="href">
                                             <xsl:value-of
-                                                select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/pages/show.html?document=entry__', $datum, '.xml')"
+                                                select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', $datum, '.html')"
                                             />
                                         </xsl:attribute><!--<span style="color:#037a33;">-->
                                         <i class="fas fa-external-link-alt"/> TAGEBUCH<!--</span>-->
@@ -1179,7 +1179,7 @@
             <xsl:attribute name="class">reference-black</xsl:attribute>
             <xsl:attribute name="href">
                 <xsl:value-of
-                    select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/pages/show.html?document=entry__', @target, '.xml')"
+                    select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', @target, '.html')"
                 />
             </xsl:attribute>
             <xsl:choose>

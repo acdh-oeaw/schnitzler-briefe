@@ -191,7 +191,7 @@
                                     </xsl:attribute>
                                     <xsl:attribute name="href">
                                         <xsl:value-of
-                                            select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/pages/show.html?document=entry__', $datum, '.xml')"
+                                            select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', $datum, '.html')"
                                         />
                                     </xsl:attribute><!--<span style="color:#037a33;">-->
                                     <i class="fas fa-external-link-alt"/> TAGEBUCH<!--</span>-->
@@ -1029,7 +1029,7 @@
             <xsl:attribute name="class">reference</xsl:attribute>
             <xsl:attribute name="href">
                 <xsl:value-of
-                    select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/pages/show.html?document=entry__', @target, '.xml')"
+                    select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', @target, '.html')"
                 />
             </xsl:attribute>
             <xsl:choose>

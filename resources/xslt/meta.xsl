@@ -195,7 +195,7 @@
         </tr>
     </xsl:template>
    
-        
+
         
     
     <xsl:template match="tei:profileDesc">

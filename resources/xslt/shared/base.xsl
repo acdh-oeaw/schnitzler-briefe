@@ -135,7 +135,9 @@
         <a>
             <xsl:attribute name="class">reference</xsl:attribute>
             <xsl:attribute name="href">
-                <xsl:value-of select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/pages/show.html?document=entry__', @target, '.xml')"/>
+                <xsl:value-of
+                    select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', @target, '.html')"
+                />
             </xsl:attribute>
             <xsl:choose>
                 <xsl:when test="substring(@target, 9, 1) = '0'">
@@ -1053,7 +1055,9 @@
         <xsl:text>A. S.: Tagebuch, </xsl:text>
         <a>
             <xsl:attribute name="href">
-                <xsl:value-of select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/pages/show.html?document=entry__', @target, '.xml')"/>
+                <xsl:value-of
+                    select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', @target, '.html')"
+                />
             </xsl:attribute>
             <xsl:choose>
                 <xsl:when test="substring(@target, 10, 1) = '0'">
