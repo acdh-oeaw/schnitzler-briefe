@@ -24,4 +24,4 @@ jobs:
      steps:
      - name: Rancher Deploy Action
        run: |
-          curl --request POST 'https://rancher.acdh-dev.oeaw.ac.at/v3/project/c-zdbh8:p-h6j6v/workloads/deployment:schnitzlerbriefe:schnitzlerbriefe?action=redeploy' --header 'Accept: application/json' --header 'Authorization: Bearer ${{ secrets.RANCHER_BARER_TOKEN }}'
+          curl --request POST 'https://rancher.acdh-dev.oeaw.ac.at/v3/project/c-m-6hwgqq2g:p-zxrvb/workloads/deployment:schnitzlerbriefe:schnitzlerbriefe?action=redeploy' --header 'Accept: application/json' --header 'Authorization: Bearer ${{ secrets.RANCHER_BARER_TOKEN }}'
