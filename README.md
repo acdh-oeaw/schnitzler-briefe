@@ -1,6 +1,9 @@
 [![Build, Release](https://github.com/acdh-oeaw/schnitzler-briefe/actions/workflows/build.yml/badge.svg)](https://github.com/acdh-oeaw/schnitzler-briefe/actions/workflows/build.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5555918.svg)](https://doi.org/10.5281/zenodo.5555918)
 
+# this is obsolete. the current repositories are https://github.com/arthur-schnitzler/schnitzler-briefe-data and https://github.com/arthur-schnitzler/schnitzler-briefe-static
+
+
 # Arthur Schnitzler – Briefwechsel mit Autorinnen und Autoren
 
 Quellcode der Website:
